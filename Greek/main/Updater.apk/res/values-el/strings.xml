@@ -27,7 +27,7 @@
     <string name="dialog_stop_title">Διακοπή Λήψης</string>
     <string name="dialog_twrp">Ο εσωτερικός σας χώρος αποθήκευσης είναι κρυπτογραφημένος. Μετά την επανεκκίνηση της συσκευής για επαναφορά, εισαγάγετε τον κωδικό πρόσβασης ξεκλειδώματος της συσκευής σας για να συνεχίσετε.</string>
     <string name="download_done">Η λήψη του %1$s ολοκληρώθηκε</string>
-    <string name="download_fail">Σφάλμα κατά την λήψη του %@: %@</string>
+    <string name="download_fail">Σφάλμα κατά τη λήψη!</string>
     <string name="download_fail_desc">Το άθροισμα MD5 δεν ταιριάζει με το…</string>
     <string name="downloading">Λήψη:</string>
     <string name="downloading_desc">Η λήψη βρίσκεται σε εξέλιξη, ελέγξτε την κατάσταση στην περιοχή ειδοποιήσεων.</string>
