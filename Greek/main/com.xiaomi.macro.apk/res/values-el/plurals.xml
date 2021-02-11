@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="gb_game_macro_action_unit_count">
+        <item quantity="other">%d φορές</item>
+        <item quantity="one">%d χρόνος</item>
+    </plurals>
+    <plurals name="gb_game_macro_action_unit_seconds">
+        <item quantity="other">%d δευτερόλεπτα</item>
+        <item quantity="one">%d δευτ</item>
+    </plurals>
+</resources>

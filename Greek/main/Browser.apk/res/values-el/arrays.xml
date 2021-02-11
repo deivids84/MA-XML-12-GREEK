@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_fling_gesture_entries">
+        <item>Σελίδα πίσω εμπρός</item>
+        <item>Εναλλαγή καρτελών</item>
+        <item>Κανένα</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Προεπιλεγμένη αρχική σελίδα</item>
+        <item>Προσαρμογή</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Τηλέφωνο</item>
+        <item>Pad</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Προβολή πλακιδίων</item>
+        <item>Κατακόρυφη προβολή</item>
+        <item>Οριζόντια προβολή</item>
+    </string-array>
+    <string-array name="pref_tab_restore_array">
+        <item>Ερώτηση πάντα</item>
+        <item>Άνοιγμα</item>
+        <item>Κλείσιμο</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Πολύ μικρό</item>
+        <item>Μικρό</item>
+        <item>Κανονικό</item>
+        <item>Μεγάλο</item>
+        <item>Τεράστιο</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Επιφάνεια εργασίας</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="quick_link_tabs">
+        <item>Σελιδοδείκτες</item>
+        <item>Ιστορικό</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Διαγραφή</item>
+        <item>Όχι ευχαριστώ</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>Εντάξει</item>
+        <item>Ακολουθήστε</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Μήνυμα από τον φυλλομετρητή</item>
+        <item>Συντονιστείτε με τους Ολυμπιακούς Αγώνες μέσω Mi</item>
+    </string-array>
+    <string-array name="suggestion_topic_tips">
+        <item>Παρακολούθηση Εστίασης</item>
+        <item>Κεντρικό Θέμα</item>
+    </string-array>
+</resources>

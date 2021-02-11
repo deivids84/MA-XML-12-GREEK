@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">1 ώρα πριν</item>
+        <item quantity="other">1 ώρα πριν</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">1 ώρα πριν</item>
+        <item quantity="other">1 ώρα πριν</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Μισή ώρα πριν</item>
+        <item quantity="other">Μισή ώρα πριν</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Σε 1 ώρα</item>
+        <item quantity="other">Σε 1 ώρα</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Σε μισή ώρα</item>
+        <item quantity="other">Σε μισή ώρα</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Αμέσως</item>
+        <item quantity="other">Αμέσως</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">σε %d λεπτά</item>
+        <item quantity="one">σε 1 λεπτό</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Μόλις τώρα</item>
+        <item quantity="other">Μόλις τώρα</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d λεπτά πριν</item>
+        <item quantity="one">1 λεπτό πριν</item>
+    </plurals>
+    <plurals name="comment_detail_title">
+        <item quantity="other">%d απαντήσεις</item>
+        <item quantity="one">%d απάντηση</item>
+    </plurals>
+    <plurals name="comment_hour_ago">
+        <item quantity="other">%d ώρες πριν</item>
+        <item quantity="one">%d ώρα πριν</item>
+    </plurals>
+    <plurals name="comment_look_all">
+        <item quantity="other">Προβολή %d σχολίων</item>
+        <item quantity="one">Προβολή %d σχολίου</item>
+    </plurals>
+    <plurals name="comment_minute_ago">
+        <item quantity="other">%d λεπτά πριν</item>
+        <item quantity="one">%d λεπτό πριν</item>
+    </plurals>
+    <plurals name="comment_selected">
+        <item quantity="other">Επιλέχθηκαν %d λόγοι</item>
+        <item quantity="one">Επιλέχθηκε %d λόγος</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Μισή ώρα πριν</item>
+        <item quantity="other">Μισή ώρα πριν</item>
+    </plurals>
+    <plurals name="hot_word_hot_count">
+        <item quantity="other">%d προβολές</item>
+        <item quantity="one">%d προβολή</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Σε 1 ώρα</item>
+        <item quantity="other">Σε 1 ώρα</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Σε μισή ώρα</item>
+        <item quantity="other">Σε μισή ώρα</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Αμέσως</item>
+        <item quantity="other">Αμέσως</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">σε %d λεπτά</item>
+        <item quantity="one">σε 1 λεπτό</item>
+    </plurals>
+    <plurals name="info_flow_tips">
+        <item quantity="other">Βρέθηκαν %d νέα αντικείμενα για εσάς</item>
+        <item quantity="one">Βρέθηκε %d νέο αντικείμενο για εσάς</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Μόλις τώρα</item>
+        <item quantity="other">Μόλις τώρα</item>
+    </plurals>
+    <plurals name="mw_last_num_days">
+        <item quantity="one">Τελευταίες %d ημέρες</item>
+        <item quantity="other">Τελευταίες %d ημέρες</item>
+    </plurals>
+    <plurals name="mw_matches_found">
+        <item quantity="other">%1$d από %2$d</item>
+        <item quantity="one">1 αντιστοιχία</item>
+    </plurals>
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">Μετά από %d δευτερόλεπτα θα δημιουργηθεί αυτόματα μια νέα σελίδα</item>
+        <item quantity="one">Μετά από %d δευτερόλεπτο θα δημιουργηθεί αυτόματα μια νέα σελίδα</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d λεπτά πριν</item>
+        <item quantity="one">1 λεπτό πριν</item>
+    </plurals>
+    <plurals name="transfer_prompt">
+        <item quantity="other">Αναπαραγωγή βίντεο σε %1$d δευτερόλεπτα</item>
+        <item quantity="one">Αναπαραγωγή βίντεο σε %1$d δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d επιλέχθηκαν</item>
+        <item quantity="one">%1$d επιλέχθηκαν</item>
+    </plurals>
+    <plurals name="video_download_clear_info">
+        <item quantity="other">Τα %1$d βίντεο αφαιρέθηκαν επιτυχώς.</item>
+        <item quantity="one">Το βίντεο αφαιρέθηκε με επιτυχία %1$d.</item>
+    </plurals>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">Εκκαθάριση %1$d βίντεο?</item>
+        <item quantity="one">Εκκαθάριση %1$d βίντεο?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">%1$d στοιχεία διαγράφηκαν από το ιστορικό.</item>
+        <item quantity="one">%1$d στοιχείο διαγράφηκε από το ιστορικό.</item>
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">Διαγραφή %1$d στοιχείων από το ιστορικό?</item>
+        <item quantity="one">Διαγραφή %1$d στοιχείου από το ιστορικό?</item>
+    </plurals>
+    <plurals name="video_playback_error">
+        <item quantity="other">"Αδυναμία φόρτωσης βίντεο.
+Θα παίξει το επόμενο σε %d δευτερόλεπτα…"</item>
+        <item quantity="one">"Αδυναμία φόρτωσης βίντεο.
+Θα παίξει το επόμενο σε %d δευτερόλεπτο…"</item>
+    </plurals>
+    <plurals name="video_subtitle_last_message">
+        <item quantity="other">απομένουν %d λεπτά</item>
+        <item quantity="one">απομένουν %d λεπτά</item>
+    </plurals>
+    <plurals name="vo_comment">
+        <item quantity="other">%s σχόλια</item>
+        <item quantity="one">%s σχόλιο</item>
+    </plurals>
+    <plurals name="vo_image_mark">
+        <item quantity="other">%d εικόνες</item>
+        <item quantity="one">%d εικόνα</item>
+    </plurals>
+    <plurals name="vo_source_comment">
+        <item quantity="other">%1$s \" %2$s σχόλια\"</item>
+        <item quantity="one">%1$s ( %2$s ) σχόλιο</item>
+    </plurals>
+    <plurals name="vo_vote_num">
+        <item quantity="other">%d άτομα έχουν ήδη ψηφίσει</item>
+        <item quantity="one">%d άτομο έχει ήδη ψηφίσει</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_hour">
+        <item quantity="other">· %s ώρες πριν</item>
+        <item quantity="one">· %s ώρες πριν</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_minute">
+        <item quantity="other">· %s λεπτά πριν</item>
+        <item quantity="one">· %s λεπτά πριν</item>
+    </plurals>
+    <plurals name="vo_zhi_hu_answer">
+        <item quantity="other">%d απαντήσεις στο Zhihu</item>
+        <item quantity="one">%d απάντηση στο Zhihu</item>
+    </plurals>
+</resources>
