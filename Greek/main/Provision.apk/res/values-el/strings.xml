@@ -211,7 +211,7 @@
     <string name="privacy_provision_title">Απόρρητο</string>
     <string name="protect_persoanl_info_statement">Θα προστατεύουμε τις προσωπικές πληροφορίες σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου.</string>
     <string name="provision_back">Πίσω</string>
-    <string name="provision_inputmethod_policy_description">Εμφάνιση Πολιτικής Απορρήτου του επιλεγμένου πληκτρολόγιου.</string>
+    <string name="provision_inputmethod_policy_description"><Data>Δείτε την &lt;a href=%1$s&gt;Πολιτική απορρήτου&lt;/a &gt; του επιλεγμένου πληκτρολογίου.</Data></string>
     <string name="provision_inputmethod_policy_description1">Πολιτική Απορρήτου</string>
     <string name="provision_next">Επόμενο</string>
     <string name="provision_skip_underline">Παράλειψη</string>

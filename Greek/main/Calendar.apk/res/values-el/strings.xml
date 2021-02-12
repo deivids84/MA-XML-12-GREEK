@@ -360,7 +360,7 @@
     <string name="latest_sync_time">Τελευταίος συγχρονισμός: %1$s</string>
     <string name="library_cert4android_libraryDescription">Βιβλιοθήκη για τη διαχείριση προσαρμοσμένων πιστοποιητικών σε ένα κατάστημα κλειδιών εφαρμογών</string>
     <string name="library_ical4android_libraryDescription">Βιβλιοθήκη που συνδυάζει το iCalendar και το Android</string>
-    <string name="load_more_events">Προβολή εκδηλώσεων</string>
+    <string name="load_more_events">Δείτε %d εκδηλώσεις</string>
     <string name="load_more_events_default">Δείτε τις εκδηλώσεις του επόμενου έτους</string>
     <string name="load_more_hint">Φόρτωση συμβάντων από %1$d</string>
     <string name="loading">Περιμένετε μία στιγμή…</string>
@@ -643,8 +643,8 @@
     <string name="select_today_tip">Σήμερα</string>
     <string name="service_rejected_temporarily">Το πιστοποιητικό απορρίφθηκε προσωρινά</string>
     <string name="setting">Ρυθμίσεις</string>
-    <string name="setting_about_calendar_version">Έκδοση ημερολογίου:</string>
-    <string name="setting_about_miui_version">MIUI έκδοση:</string>
+    <string name="setting_about_calendar_version">Έκδοση ημερολογίου: %1$s-%2$s</string>
+    <string name="setting_about_miui_version">Έκδοση MIUI: %1$s-%2$s</string>
     <string name="setting_about_summary">Έκδοση:</string>
     <string name="setting_accounts">Λογαριασμοί ημερολογίου</string>
     <string name="setting_chinese_calendar">Κινεζικό ημερολόγιο</string>

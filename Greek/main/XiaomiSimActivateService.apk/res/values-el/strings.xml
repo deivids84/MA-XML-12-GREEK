@@ -31,8 +31,8 @@
     <string name="activate_phone_failed_notif_title_sim">"Δεν ήταν δυνατή η ενεργοποίηση του %2$s χρησιμοποιώντας SIM %1$d"</string>
     <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">Δημιουργήθηκε λογαριασμός Mi χρησιμοποιώντας το SIM %d επιτυχία</string>
     <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">"Δεν ήταν δυνατή η δημιουργία λογαριασμού Mi χρησιμοποιώντας SIM %d"</string>
-    <string name="activate_phone_server_failed_notif_title">"Αδυναμία ενεργοποίησης"</string>
-    <string name="activate_phone_server_success_notif_title">Κάρτα SIM ενεργοποιήθηκε επιτυχώς</string>
+    <string name="activate_phone_server_failed_notif_title">"Αδυναμία ενεργοποίησης %s"</string>
+    <string name="activate_phone_server_success_notif_title">Ενεργοποιήθηκε με επιτυχία %s</string>
     <string name="activate_phone_success_notif_title">Κάρτα SIM ενεργοποιήθηκε επιτυχώς</string>
     <string name="activate_phone_success_notif_title_msim">Κάρτα SIM %d ενεργοποιήθηκε επιτυχώς</string>
     <string name="activate_phone_success_notif_title_sim">Ενεργοποιήθηκε %2$s χρησιμοποιώντας το SIM %1$d επιτυχία</string>
@@ -96,7 +96,7 @@
     <string name="activate_popup_title_manual">Ενεργοποίηση %s</string>
     <string name="activate_popup_title_new_sim_card">Επανενεργοποίηση %s</string>
     <string name="activate_popup_title_register_account">Δημιουργία Mi λογαριασμού</string>
-    <string name="activate_progress_status_title">Γίνεται ενεργοποίηση…</string>
+    <string name="activate_progress_status_title">Ενεργοποίηση %s…</string>
     <string name="activate_registered_xiaomi_account_failed_notif_title">"Αδυναμία σύνδεσης στο Mi Λογαριασμό"</string>
     <string name="activate_registered_xiaomi_account_success_notif_title">Δημιουργήθηκε ο λογαριασμός Mi με επιτυχία</string>
     <string name="activate_sms_postfix">ΜΙ</string>

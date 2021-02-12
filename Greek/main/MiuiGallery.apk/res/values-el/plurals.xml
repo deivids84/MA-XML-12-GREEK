@@ -149,8 +149,8 @@
         <item quantity="one">%d βίντεο</item>
     </plurals>
     <plurals name="collage_select_image_dynamic_range">
-        <item quantity="other">Τα κολλάζ μπορούν να περιέχουν 1-%d φωτογραφίες</item>
-        <item quantity="one">Τα κολλάζ μπορούν να περιέχουν 1-%d φωτογραφία</item>
+        <item quantity="other">Τα κολάζ μπορούν να περιέχουν %1$d-%2$d φωτογραφίες</item>
+        <item quantity="one">Τα κολάζ μπορούν να περιέχουν %1$d-%2$d φωτογραφία</item>
     </plurals>
     <plurals name="creation_max_image">
         <item quantity="other">Επιλέξτε μέχρι %d φωτογραφίες</item>
@@ -210,7 +210,7 @@
     </plurals>
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">"Παραλήφθηκαν %1$d φωτογραφίες που δεν μπόρεσαν να ανταποκριθούν."</item>
-        <item quantity="one">"Παραλήφθηκε μία φωτογραφία που δεν μπόρεσε να ανταποκριθεί."</item>
+        <item quantity="one">"Παράλειψη %1$d φωτογραφίας που δεν ήταν δυνατή η απόδοση."</item>
     </plurals>
     <plurals name="file_type_detail_count">
         <item quantity="other">%1$d αρχεία</item>
@@ -250,7 +250,7 @@
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d φωτογραφίες</item>
-        <item quantity="one">1 φωτογραφία</item>
+        <item quantity="one">%1$d φωτογραφία</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d φωτογραφίες έτοιμες για συγχρονισμό</item>
@@ -270,7 +270,7 @@
     </plurals>
     <plurals name="number_of_videos_synced">
         <item quantity="other">%1$d βίντεο</item>
-        <item quantity="one">1 βίντεο</item>
+        <item quantity="one">%1$d βίντεο</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
         <item quantity="other">%1$d βίντεο έτοιμα για συγχρονισμό</item>
@@ -309,8 +309,8 @@
         <item quantity="one">"Η επιλεγμένη φωτογραφία(%dMB) δεν είναι στην συσκευή. Λήψη με χρήση δεδομένων κινητής τηλεφωνίας;"</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
-        <item quantity="other">"Ακύρωση λήψης των %d υπόλοιπων φωτογραφιών;"</item>
-        <item quantity="one">"Ακύρωση λήψης της φωτογραφίας που απομένει;"</item>
+        <item quantity="other">"Δεν έχουν ληφθεί ακόμη %d αρχεία. Ακύρωση ούτως ή άλλως;"</item>
+        <item quantity="one">"%d αρχείο δεν έχει ληφθεί ακόμα. Ακύρωση ούτως ή άλλως;"</item>
     </plurals>
     <plurals name="picker_file_will_download">
         <item quantity="other">Λήψη %d εναπομείναντων αρχείων</item>
@@ -318,31 +318,31 @@
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
         <item quantity="other">"Αδυναμία λήψης %1$d φωτογραφιών, συνδεθείτε στο δίκτυο και προσπαθήστε ξανά"</item>
-        <item quantity="one">"Αδυναμία λήψης φωτογραφίας, συνδεθείτε στο δίκτυο και προσπαθήστε ξανά"</item>
+        <item quantity="one">"Δεν ήταν δυνατή η λήψη %1$d φωτογραφίας, συνδεθείτε στο δίκτυο και δοκιμάστε ξανά"</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">"Αδυναμία λήψης %1$d φωτογραφιών (%2$dMB), συνδεθείτε στο δίκτυο και προσπαθήστε ξανά"</item>
-        <item quantity="one">"Αδυναμία λήψης φωτογραφίας (%2$dMB), συνδεθείτε στο δίκτυο και προσπαθήστε ξανά"</item>
+        <item quantity="other">"Δεν ήταν δυνατή η λήψη %1$d αρχείων (%2$d MB). Συνδεθείτε στο δίκτυο και δοκιμάστε ξανά."</item>
+        <item quantity="one">"Δεν ήταν δυνατή η λήψη %1$d αρχείου (%2$d MB). Συνδεθείτε στο δίκτυο και δοκιμάστε ξανά."</item>
     </plurals>
     <plurals name="picker_origin_need_to_download">
         <item quantity="other">"%1$d αρχεία (%2$d MB) δεν έχουν κατεβάσει ακόμα. Λήψη χρησιμοποιώντας δεδομένα κινητής τηλεφωνίας?"</item>
         <item quantity="one">"%1$d αρχείο (%2$d MB) δεν έχει ληφθεί ακόμα. Λήψη χρησιμοποιώντας δεδομένα κινητής τηλεφωνίας?"</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">"Αδυναμία λήψης %1$d φωτογραφιών, προσπάθεια ξανά;"</item>
-        <item quantity="one">"Αδυναμία λήψης φωτογραφίας, προσπάθεια ξανά;"</item>
+        <item quantity="other">"Δεν ήταν δυνατή η λήψη %1$d φωτογραφιών, δοκιμάστε ξανά;"</item>
+        <item quantity="one">"Δεν ήταν δυνατή η λήψη %1$d φωτογραφίας, δοκιμάστε ξανά;"</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">"Αδυναμία λήψης %1$d φωτογραφιών(%2$dMB), προσπάθεια ξανά;"</item>
-        <item quantity="one">"Αδυναμία λήψης φωτογραφίας(%2$dMB), προσπάθεια ξανά;"</item>
+        <item quantity="other">"Δεν ήταν δυνατή η λήψη %1$d φωτογραφιών (%2$d MB), δοκιμάστε ξανά;"</item>
+        <item quantity="one">"Δεν ήταν δυνατή η λήψη %1$d φωτογραφίας (%2$d MB), δοκιμάστε ξανά;"</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
-        <item quantity="other">"Παραλείφθηκαν %d φωτογραφίες που δεν βρέθηκαν στην συσκευή."</item>
-        <item quantity="one">"Παραλείφθηκε μια φωτογραφία που δεν βρέθηκε στην συσκευή."</item>
+        <item quantity="other">"Παραλείφθηκαν %d φωτογραφίες που δεν βρίσκονται στη συσκευή."</item>
+        <item quantity="one">"Παράλειψη %d φωτογραφίας που δεν υπάρχει στη συσκευή."</item>
     </plurals>
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">Βρέθηκαν %1$d νέες φωτογραφίες</item>
-        <item quantity="one">Βρέθηκε μία νέα φωτογραφία</item>
+        <item quantity="one">Βρέθηκε %1$d νέα φωτογραφία</item>
     </plurals>
     <plurals name="remind_face_recommend_confirm_text">
         <item quantity="other">Συνολικά %d φωτογραφίες</item>

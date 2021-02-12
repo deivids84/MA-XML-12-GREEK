@@ -1437,7 +1437,7 @@
     <string name="no_vm_number_msg">Δεν έχει αποθηκευτεί αριθμός για τον αυτόματο τηλεφωνητή στην κάρτα SIM.</string>
     <string name="no_voip">"Οι κλήσεις SIP δεν υποστηρίζονται"</string>
     <string name="no_wifi_available">Για να πραγματοποιήσετε κλήσεις SIP, θα πρέπει να συνδεθείτε σε δίκτυο Wi-Fi (χρησιμοποιήστε τις ρυθμίσεις Ασύρματο &amp; δίκτυο).</string>
-    <string name="not_a_valid_port">Ο αριθμός της θύρας θα πρέπει να είναι μεταξύ 1000 και 65534.</string>
+    <string name="not_a_valid_port">Ο αριθμός θύρας πρέπει να είναι εντός %1$d και %2$d.</string>
     <string name="not_allowed">"Η κάρτα SIM δεν επιτρέπει τη σύνδεση με αυτό το δίκτυο."</string>
     <string name="not_set">Δεν έχει οριστεί</string>
     <string name="not_voice_capable">Η φωνητική κλήση δεν υποστηρίζεται</string>
@@ -2169,7 +2169,7 @@
     <string name="throttle_help_subtext">"Περισσότερες πληροφορίες σχετικά με την πολιτική χρήσης δεδομένων στο δίκτυο της εταιρείας κινητής τηλεφωνίας"</string>
     <string name="throttle_rate">Πολιτική ταχύτητας δεδομένων</string>
     <string name="throttle_rate_subtext">Εάν το όριο χρήσης δεδομένων ξεπεραστεί, τότε η ταχύτητα δεδομένων θα μειωθεί σε %1$d Kb/s</string>
-    <string name="throttle_status_subtext">"%1$s (%2$d%%) με μέγιστη περίοδο %3$s
+    <string name="throttle_status_subtext">"%1$s (%2$d%) με μέγιστη περίοδο %3$s
 Η επόμενη περίοδος ξεκινά σε %4$d ημέρες (%5$s)"</string>
     <string name="throttle_time_frame">Περίοδος χρήσης δεδομένων</string>
     <string name="throttle_time_frame_subtext">"Έχει περάσει το %1$d٪ του κύκλου

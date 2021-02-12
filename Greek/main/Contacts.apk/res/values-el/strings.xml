@@ -93,7 +93,7 @@
     <string name="bh_charge_confirm">Προσθήκη %2$s CNY σε %1$s;</string>
     <string name="bh_charge_continue">Προσθήκη ποσού</string>
     <string name="bh_charge_number">Συμπλήρωση %1$s</string>
-    <string name="bh_charged_phone_number">Τηλεφωνικός αριθμός: %s</string>
+    <string name="bh_charged_phone_number">Αριθμός τηλεφώνου: %1$s</string>
     <string name="bh_close_traffic_package">Κλείστε τις λεπτομέρειες προγράμματος εταιρείας κινητής τηλεφωνίας</string>
     <string name="bh_confirm">ΟΚ</string>
     <string name="bh_contact_number">%1$s από τις επαφές σας</string>
@@ -165,7 +165,7 @@
     <string name="bh_system_recommend_des">Επιτρέψτε μας να αναλύσουμε την επισκεψιμότητά σας και να προτείνουμε ψηφιακά προϊόντα με βάση τα αποτελέσματα</string>
     <string name="bh_tag_phones">Συχνά χρησιμοποιούμενοι αριθμοί τηλεφώνου</string>
     <string name="bh_tags_number_exceed">"Δεν είναι δυνατή η αποθήκευση περισσότερων αριθμών τηλεφώνου"</string>
-    <string name="bh_time_before">Πριν %1$d %2$s</string>
+    <string name="bh_time_before">Πριν %1$s %2$s</string>
     <string name="bh_toast_start_intent_failed">"Δεν ήταν δυνατή η εύρεση μιας εφαρμογής για τον χειρισμό αυτής της ενέργειας"</string>
     <string name="bh_traffic_service">Περισσότερες υπηρεσίες</string>
     <string name="bh_traffic_surplus">Δεδομένα που απομένουν</string>

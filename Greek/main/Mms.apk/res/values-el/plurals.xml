@@ -50,7 +50,7 @@
     </plurals>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Διαγραφή των επιλεγμένων %1$s συνομιλιών;</item>
-        <item quantity="one">Διαγραφή της συνομιλίας;</item>
+        <item quantity="one">Διαγραφή %1$s επιλεγμένης συνομιλίας;</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d επιλεγμένα</item>

@@ -139,7 +139,7 @@
     <string name="block_ads_title">Το περιεχόμενο μπορεί να περιέχει διαφημίσεις</string>
     <string name="book_mark_input_title_hint">Εισαγάγετε ένα όνομα</string>
     <string name="book_mark_input_url_hint">Πληκτρολογήστε τη διεύθυνση URL</string>
-    <string name="book_mark_search_hint">Αναζήτηση για Περιεχόμενο</string>
+    <string name="book_mark_search_hint">Αναζήτηση %1$s περιεχομένου</string>
     <string name="book_mark_spinner_name">Ομαδοποίηση:</string>
     <string name="bookmark">Σελιδοδείκτης</string>
     <string name="bookmark_cannot_save_url">"Η διεύθυνση URL δεν είναι δυνατό να προστεθεί στους σελιδοδείκτες."</string>
@@ -169,7 +169,7 @@
     <string name="browser_default_setting_confirm">ΟΚ</string>
     <string name="browser_default_setting_content">Γρήγορη και ασφαλής περιήγηση στον Ιστό</string>
     <string name="browser_default_setting_title">Ορισμός ως προκαθορισμένο πρόγραμμα περιήγησης</string>
-    <string name="bubble_guide_bottom_message_text">Έχετε %s αδιάβαστα μηνύματα</string>
+    <string name="bubble_guide_bottom_message_text">Έχετε %d μη αναγνωσμένα μηνύματα</string>
     <string name="bubble_guide_logined_text">Συνδεθείτε για τυχερή κλήρωση</string>
     <string name="bubble_guide_portrait_message_text">Κάντε κλικ για προβολή</string>
     <string name="bubble_guide_unlogined_text">Συνδεθείτε για να απολαύσετε τα προνόμια</string>
@@ -349,7 +349,7 @@
     <string name="download_filter_video">Βίντεο</string>
     <string name="download_in_process">Λήψη…</string>
     <string name="download_list_open_xl_ok">ΟΚ</string>
-    <string name="download_memory_info_avai">" διαθέσιμη|"</string>
+    <string name="download_memory_info_avai">" διαθέσιμο %s|"</string>
     <string name="download_memory_info_total">" σύνολο %s"</string>
     <string name="download_no_application_title">"Δεν ήταν δυνατή η εύρεση του αρχείου. Το μετακινήσατε ή το διαγράψατε;"</string>
     <string name="download_no_sdcard_dlg_msg">Απαιτείται κάρτα SD για τη λήψη %s.</string>

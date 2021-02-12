@@ -757,7 +757,7 @@ mm"</string>
     <string name="resource_detail_update_log_title">Ενημερώσεις</string>
     <string name="resource_detail_window_title">%1$s λεπτομέρειες</string>
     <string name="resource_download">Λήψη</string>
-    <string name="resource_download_notification_title_one">Έγινε λήψη θέματος</string>
+    <string name="resource_download_notification_title_one">Έγινε λήψη %1$s με επιτυχία</string>
     <string name="resource_download_trial">Δοκιμάστε δωρεάν</string>
     <string name="resource_downloaded_title">Κατεβασμένες πηγές</string>
     <string name="resource_downloading">Γίνεται λήψη</string>

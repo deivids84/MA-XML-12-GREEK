@@ -462,7 +462,7 @@
     <string name="authorize_button">Αποδοχή</string>
     <string name="baidu_map">Χάρτες Baidu</string>
     <string name="ball_dialog_confirm">Εγκατάσταση</string>
-    <string name="ball_dialog_content">Εγκαταστήστε HuPu Sports για χρήση της λειτουργίας αυτής. Εγκατάσταση τώρα;</string>
+    <string name="ball_dialog_content">Εγκαταστήστε %s για να χρησιμοποιήσετε αυτήν τη δυνατότητα. Εγκατάσταση τώρα;</string>
     <string name="ball_dialog_tip">"Να μην εμφανιστεί ξανά"</string>
     <string name="ball_dialog_title">Εγκατάσταση της εφαμρογής πρώτα.</string>
     <string name="ball_football_recent_ing">Σε εξέλιξη</string>
@@ -1580,7 +1580,7 @@ ID:%s
     <string name="setting_football_fav_null">"Δεν ακολουθείτε καμία ομάδα"</string>
     <string name="setting_football_hupu">Sportskeeda</string>
     <string name="setting_football_loading">Περιμένετε μία στιγμή…</string>
-    <string name="setting_football_select_title">Επιλέξτε ομάδες να ακολουθήστε (%d/%d)</string>
+    <string name="setting_football_select_title">Επιλέξτε ομάδες για παρακολούθηση</string>
     <string name="setting_football_toast_max">Μπορείτε να επιλέξετε μέχρι 4 ομάδες</string>
     <string name="setting_home_label">Προσθήκη διεύθυνσης οικίας</string>
     <string name="setting_launch_all_added">"Αδυναμία προσθήκης περισσότερων αντικειμένων"</string>

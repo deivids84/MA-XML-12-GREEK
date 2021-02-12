@@ -141,7 +141,7 @@
     <string name="delete_file_error">"Αδυναμία διαγραφής αρχείου"</string>
     <string name="delete_files">Διαγραφή %1$d αντικειμένου;</string>
     <string name="delete_folder">Διαγραφή του αρχείου?</string>
-    <string name="delete_folders">Διαγραφή %d φακέλων;</string>
+    <string name="delete_folders">Διαγραφή %1$d φακέλων;</string>
     <string name="dialog_select_type">Επιλογή Τύπου</string>
     <string name="dialog_type_audio">Ήχος</string>
     <string name="dialog_type_image">Εικόνες</string>
@@ -297,7 +297,7 @@
     <string name="midrop_send_files">Επιλέξτε αρχείο για να κοινοποιήσετε</string>
     <string name="mirror_can_not_drag_mask">Σύρετε για να χρησιμοποιήσετε το Mi Share</string>
     <string name="mirror_can_not_drag_mask_new">Σύρετε στοιχεία στο %s</string>
-    <string name="mirror_new_name">Δημιουργία φακέλου</string>
+    <string name="mirror_new_name">Δημιουργία φακέλου (%s)</string>
     <string name="mirror_new_name_first">Δημιουργία φακέλου</string>
     <string name="mirror_no_recommended_app">Δεν υπάρχουν προτεινόμενες εφαρμογές</string>
     <string name="mirror_open_mode_error">"Αδυναμία φόρτωσης στοιχείων"</string>
@@ -524,7 +524,7 @@
     <string name="rename_alert2">Το αρχείο θα κρυφτεί μετά την αλλαγή της επέκτασής του.</string>
     <string name="rename_failed">"Αποτυχία μετονομασίας %1$s"</string>
     <string name="rename_input_null">Πληκτρολογήστε νέο όνομα αρχείου</string>
-    <string name="rename_msg">Υπάρχει ήδη ένα αρχείο με αυτό το όνομα.</string>
+    <string name="rename_msg">Υπάρχει ήδη ένα αρχείο με το όνομα \"%s\".</string>
     <string name="repair_done">Έγινε επαναφορά</string>
     <string name="repair_error">"Αδυναμία επαναφοράς"</string>
     <string name="repair_file">Επαναφορά κρυπτογραφημένων αρχείων</string>

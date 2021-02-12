@@ -936,7 +936,7 @@
     <string name="battery_saver_sticky_description_new">Η Εξοικονόμηση μπαταρίας απενεργοποιείται όταν η στάθμη της μπαταρίας του τηλεφώνου σας είναι στο %1$s</string>
     <string name="battery_saver_sticky_title_new">Απενεργοποίηση όταν είναι φορτισμένη</string>
     <string name="battery_saver_turn_on_automatically_never">Ποτέ</string>
-    <string name="battery_saver_turn_on_automatically_pct">στο %1$d%% μπαταρία</string>
+    <string name="battery_saver_turn_on_automatically_pct">σε %1$s μπαταρία</string>
     <string name="battery_saver_turn_on_automatically_title">Αυτόματη ενεργοποίηση</string>
     <string name="battery_saver_turn_on_summary">Επέκταση διάρκειας ζωής της μπαταρίας</string>
     <string name="battery_screen_usage">Χρήση οθόνης: ^1</string>
@@ -2586,8 +2586,8 @@ Bluetooth"</string>
     <string name="dual_wifi_switching_prompt">Εναλλαγή μεταξύ δικτύων</string>
     <string name="dual_wifi_switching_summary">Η ενίσχυση ταχύτητας του Wi-Fi διπλής ζώνης πρέπει να χρησιμοποιήσει διαφορετικές ζώνες Wi-Fi. Εάν συνδεθείτε στο κύριο δίκτυο, η βοηθητική σύνδεση θα χαθεί.</string>
     <string name="dump_log">Λήψη αρχείων καταγραφής που σχετίζονται με ζητήματα</string>
-    <string name="dump_log_summary">"Αυτή η λειτουργία έχει σχεδιαστεί για τη δημιουργία του αρχείου καταγραφής 284 σε εκδόσεις Beta του MIUI. Χρησιμοποιήστε το με προσοχή.
-Μπορείτε να δείτε καταγεγραμμένα αρχεία καταγραφής στον Διαχειριστή Αρχείων."</string>
+    <string name="dump_log_summary">"Αυτή η δυνατότητα έχει σχεδιαστεί για τη δημιουργία του %s log στην έκδοση Beta του MIUI. Χρησιμοποιήστε το με προσοχή.
+Μπορείτε να δείτε τα δημιουργημένα αρχεία καταγραφής στη Διαχείριση αρχείων."</string>
     <string name="dump_log_title">Σχετικά με αυτή τη λειτουργία</string>
     <string name="easymode_hint">Πατήστε για απενεργοποίηση Απλής λειτουργίας</string>
     <string name="edge_mode_back">Πίσω</string>
@@ -3056,7 +3056,7 @@ Bluetooth"</string>
     <string name="forget_password_dialog_button_text">Πίσω</string>
     <string name="forget_password_dialog_content_four">2. Επιλέξτε [Wipe data] και περιμένετε μέχρι να επανεκκινηθεί η συσκευή σας.</string>
     <string name="forget_password_dialog_content_one">&lt;Data&gt;Εάν ξεχάσετε τον κωδικό σας, δεν θα είστε σε θέση να τον επαναφέρετε. Ωστόσο, μπορείτε να επαναφέρετε τον κωδικό σας αφότου &lt;font color=#ec2700&gt;διαγράψετε όλα τα δεδομένα στη συσκευή σας &lt;/font&gt; (περιλαμβανομένων των φωτογραφιών, των επαφών, κλπ.). Πρώτα δημιουργήστε αντίγραφα ασφαλείας για όλα τα σημαντικά σας δεδομένα.&lt;/Data&gt;</string>
-    <string name="forget_password_dialog_content_three">1. Απενεργοποιήστε τη συσκευή σας. Πατήστε ταυτόχρονα τα κουμπιά [Ενεργοποίηση/Απενεργοποίηση] και [Ένταση+] και κρατήστε τα μέχρι να δείτε το εικονίδιο *.</string>
+    <string name="forget_password_dialog_content_three">1. Απενεργοποιήστε τη συσκευή σας. Πατήστε ταυτόχρονα το κουμπί [Power] και το κουμπί [Ένταση +] και κρατήστε τα μέχρι να δείτε το εικονίδιο *.</string>
     <string name="forget_password_dialog_content_two">Ακολουθήστε αυτά τα βήματα για διαγραφή δεδομένων:</string>
     <string name="forget_password_dialog_title">Εκκαθάριση δεδομένων</string>
     <string name="forget_pattern"><u>Ξεχάσατε το μοτίβο;</u></string>
@@ -5238,8 +5238,8 @@ Xiaomi Cloud
     <string name="power_discharge_by_only_enhanced">Μάλλον θα διαρκέσει μέχρι περίπου %1$s βάση της κατανάλωσης σας</string>
     <string name="power_discharge_by_only_short">Μέχρι %1$s</string>
     <string name="power_discharge_remaining">%1$s απομένουν</string>
-    <string name="power_discharging_duration">Απομένει/ουν περίπου %1$s)</string>
-    <string name="power_discharging_duration_enhanced">Απομένει/ουν περίπου %1$s, βάσει της χρήσης σας)</string>
+    <string name="power_discharging_duration">Περίπου %1$s αριστερά (%2$s)</string>
+    <string name="power_discharging_duration_enhanced">Απομένουν περίπου %1$s με βάση τη χρήση σας (%2$s)</string>
     <string name="power_flashlight">Φακός</string>
     <string name="power_hide_mode_summary">"Διαχείριση ενεργειών εφαρμογών παρασκηνίου για εξοικονόμηση μπαταρίας"</string>
     <string name="power_hide_mode_title">"Διαχείριση χρήσης μπαταρίας εφαρμογών"</string>
@@ -5641,7 +5641,7 @@ Xiaomi Cloud
     <string name="remove_managed_profile_label">Κατάργηση προφίλ εργασίας</string>
     <string name="repeat">Επανάληψη</string>
     <string name="repeat_call">Ειδοποίηση για επαναλαμβανόμενες κλήσεις</string>
-    <string name="repeat_call_info">Αποδοχή ήχου για κλήσεις επαναλαμβανόμενες μεταξύ 15 λεπτών κατά την Αθόρυβη λειτουργία</string>
+    <string name="repeat_call_info">Κουδούνισμα ή δόνηση κατά τη λήψη της δεύτερης κλήσης από τον ίδιο αριθμό τηλεφώνου εντός %d λεπτών</string>
     <string name="repeat_days_in_week">Επανάληψη</string>
     <string name="repeat_never">Ποτέ</string>
     <string name="repeat_title">Επανάληψη</string>
@@ -5830,7 +5830,7 @@ Xiaomi Cloud
     <string name="screen_enhance_engine_ai_pic_summary">"Προσδιορίστε αντικείμενα (π.χ. φυτά, ζώα, κτίρια) και προσαρμόστε δυναμικά τα εφέ οθόνης. "</string>
     <string name="screen_enhance_engine_ai_title">Βελτίωση εικόνας AI</string>
     <string name="screen_enhance_engine_memc_note">"Δεν είναι δυνατή η βελτίωση των βίντεο όταν είναι ενεργοποιημένη η σούπερ ανάλυση. Ενεργοποιώντας τα βελτιωμένα βίντεο, θα απενεργοποιήσετε τη σούπερ ανάλυση."</string>
-    <string name="screen_enhance_engine_memc_note_1">Αυτό το χαρακτηριστικό αυξάνει ελαφρώς την κατανάλωση ενέργειας.</string>
+    <string name="screen_enhance_engine_memc_note_1">%d. Αυτή η δυνατότητα αυξάνει ελαφρώς την κατανάλωση ενέργειας.</string>
     <string name="screen_enhance_engine_memc_note_2">%d. Αυτή η λειτουργία λειτουργεί μόνο όταν η εργαλειοθήκη βίντεο είναι ενεργή.</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
     <string name="screen_enhance_engine_memc_pic_summary">"Προσθέστε επιπλέον καρέ σε βίντεο για να κάνετε το περιεχόμενο να φαίνεται ομαλό και να μεταβαίνει ζωντανά. "</string>

@@ -112,8 +112,8 @@
     <string name="HIPS_Perm_write_clipboard_Desc">Επιτρέψτε στις εφαρμογές να αποθηκεύουν αντικείμενα στο πρόχειρο</string>
     <string name="HIPS_SecurityPrompt_Caption">Προειδοποίηση ασφαλείας</string>
     <string name="HIPS_SecurityPrompt_Reject">Απόρριψη (%d)</string>
-    <string name="HIPS_SecurityPrompt_Reject_Clear_This">Περιορισμός και εκκαθάριση πρόχειρου)</string>
-    <string name="HIPS_SecurityPrompt_Reject_Never">"Απόρριψη και να μην γίνει ερώτηση ξανά"</string>
+    <string name="HIPS_SecurityPrompt_Reject_Clear_This">Περιορισμός και εκκαθάριση πρόχειρου (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject_Never">"Αρνηθείτε και μην ρωτήσετε ξανά (%d)"</string>
     <string name="HIPS_SecurityPrompt_Reject_Once">Απόρριψη μια φορά (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject_This">Περιορισμός μία φορά (%d)</string>
     <string name="HIPS_SecurityPrompt_Title">%1$s προσπαθεί να %2$s</string>
@@ -143,7 +143,7 @@
     <string name="abc_searchview_description_submit">Υποβολή ερωτήματος</string>
     <string name="abc_searchview_description_voice">Φωνητική αναζήτηση</string>
     <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
-    <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με</string>
+    <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
     <string name="actionbar_button_up_description">Πίσω</string>
     <string name="afternoon">Απόγευμα</string>
@@ -162,7 +162,7 @@
     <string name="clipboard_deny_notification_operation">Διαχείριση</string>
     <string name="clipboard_deny_notification_title">%1$s προσπαθεί να αποκτήσει πρόσβαση σε στοιχεία στο πρόχειρο</string>
     <string name="clipboard_may_sensitive">Ενδεχομένως ευαίσθητες πληροφορίες</string>
-    <string name="clipboard_read_ai_deny_once">Περιορισμένη πρόσβαση στο πρόχειρο για</string>
+    <string name="clipboard_read_ai_deny_once">Περιορισμένη πρόσβαση στο πρόχειρο για %1$s</string>
     <string name="clipboard_read_allow_once">%1$s προσπέλασε στοιχεία στο πρόχειρο</string>
     <string name="clipboard_read_deny_dialog_title">Περιορισμένη πρόσβαση στο πρόχειρο για %1$s</string>
     <string name="date_picker_lunar">Παραδοσιακό κινεζικό ημερολόγιο</string>
