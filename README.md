@@ -10,7 +10,7 @@
 
 Κατάσταση μετάφρασης: <img alt="el translation" src="https://img.shields.io/badge/dynamic/json?color=blue&label=el&style=flat&query=%24.progress.1.data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-22663-391213.json" ></crowdin-copy-button>
 
-# Αν θέλετε να συνεργαστείτε με τη μετάφραση, http://bit.ly/385HaRf
+# Αν θέλετε να συνεργαστείτε με τη μετάφραση, http://bit.ly/Xiaomieu-Greek
 
 Translation xml checker (updated every 30min)
 http://translators.xiaomi.eu/XML_MIUI12-Greek-el.html
