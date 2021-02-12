@@ -320,7 +320,7 @@
     <string name="burst_image_download_item_title" formatted="false">Λήψη αρχικού (%s|%s)</string>
     <string name="burst_preview_title">Παρατεταμένη λήψη</string>
     <string name="burst_save_all">Διατήρηση όλων των φωτογραφιών</string>
-    <string name="burst_save_choice_title">Επιλέξατε %1$d από %2$d</string>
+    <string name="burst_save_choice_title">Επιλέξατε %d από %d</string>
     <string name="burst_save_dialog_title">Επιλέξτε ποιες φωτογραφίες θα κρατηθούν</string>
     <string name="burst_save_error_msg">"Αδυναμία αποθήκευσης"</string>
     <string name="burst_save_processing">Γίνεται επεξεργασία…</string>
