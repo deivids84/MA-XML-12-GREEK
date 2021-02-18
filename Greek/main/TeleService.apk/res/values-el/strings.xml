@@ -2169,8 +2169,8 @@
     <string name="throttle_help_subtext">"Περισσότερες πληροφορίες σχετικά με την πολιτική χρήσης δεδομένων στο δίκτυο της εταιρείας κινητής τηλεφωνίας"</string>
     <string name="throttle_rate">Πολιτική ταχύτητας δεδομένων</string>
     <string name="throttle_rate_subtext">Εάν το όριο χρήσης δεδομένων ξεπεραστεί, τότε η ταχύτητα δεδομένων θα μειωθεί σε %1$d Kb/s</string>
-    <string name="throttle_status_subtext">"%1$s (%2$d%) με μέγιστη περίοδο %3$s
-Η επόμενη περίοδος ξεκινά σε %4$d ημέρες (%5$s)"</string>
+    <string name="throttle_status_subtext">"%1$s (%2$d٪) της μέγιστης %3$s περιόδου
+Επόμενη περίοδος αρχίζει σε %4$d ημέρες (%5$s)"</string>
     <string name="throttle_time_frame">Περίοδος χρήσης δεδομένων</string>
     <string name="throttle_time_frame_subtext">"Έχει περάσει το %1$d٪ του κύκλου
 Η επόμενη περίοδος ξεκινά σε %2$d ημέρες (%3$s)"</string>

@@ -34,6 +34,12 @@
     <string name="add_custom_image">Προσαρμοσμένη εικόνα</string>
     <string name="add_from_album">Προσθήκη από Συλλογή</string>
     <string name="afternoon">Απόγευμα</string>
+    <string name="align_center_horizontally">Οριζόντια και κεντρική στοίχιση</string>
+    <string name="align_center_vertically">Στοίβα και στοίχιση στο κέντρο</string>
+    <string name="align_left_horizontally">Οριζόντια και αριστερή στοίχιση</string>
+    <string name="align_left_vertically">Στοίβαξε και αριστερή στοίχιση</string>
+    <string name="align_right_horizontally">Οριζόντια και δεξιά στοίχιση</string>
+    <string name="align_right_vertically">Στοίβα και δεξιά στοίχιση</string>
     <string name="align_type">Ευθυγραμμίστε</string>
     <string name="always_style">Πάντα</string>
     <string name="always_style_symmary">Καταναλώνει περισσότερη ενέργεια</string>

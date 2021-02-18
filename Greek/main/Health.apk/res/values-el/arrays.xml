@@ -16,6 +16,65 @@
         <item>Σχοινί άλματος</item>
         <item>Προπόνηση</item>
     </string-array>
+    <string-array name="alphabet_table">
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
+        <item>Η</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
+        <item>.</item>
+        <item>.</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
+        <item>Η</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
+        <item>-</item>
+        <item>.</item>
+    </string-array>
     <string-array name="arr_prompt_label">
         <item>Λογικά</item>
         <item>Μεγάλη</item>
@@ -111,17 +170,17 @@
         <item>Αυτό το χαρακτηριστικό παρακολουθεί την κίνησή σας και στέλνει υπενθυμίσεις με βάση τα αποτελέσματα.</item>
     </string-array>
     <string-array name="temperature_unit">
-        <item>°C</item>
+        <item>℃</item>
         <item>°F</item>
     </string-array>
     <string-array name="week">
-        <item>Κυριακή</item>
-        <item>Δευτέρα</item>
-        <item>Τρίτη</item>
-        <item>Τετάρτη</item>
-        <item>Πέμπτη</item>
-        <item>Παρασκευή</item>
-        <item>Σάββατο</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
     </string-array>
     <string-array name="week_label">
         <item>Κυρ</item>
@@ -133,13 +192,13 @@
         <item>Σαβ</item>
     </string-array>
     <string-array name="week_short">
-        <item>Κυρ</item>
+        <item>Sun</item>
         <item>Mon</item>
-        <item>Τρί</item>
-        <item>Τετ</item>
+        <item>Tue</item>
+        <item>Wed</item>
         <item>Thu</item>
-        <item>Παρ</item>
-        <item>Σαβ</item>
+        <item>Fri</item>
+        <item>Sat</item>
     </string-array>
     <string-array name="weight_unit">
         <item>" g"</item>

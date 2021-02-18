@@ -310,17 +310,8 @@ ID:%s
     <string name="fmt_date_year">εεεε</string>
     <string name="fmt_time">Τ</string>
     <string name="fmt_time_12hour">hh</string>
-    <string name="fmt_time_12hour_minute">ωω:λλ</string>
-    <string name="fmt_time_12hour_minute_pm">ωω:λλ αα</string>
-    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
     <string name="fmt_time_12hour_pm">hh aa</string>
     <string name="fmt_time_24hour">HH</string>
-    <string name="fmt_time_24hour_minute">ΩΩ:λλ</string>
-    <string name="fmt_time_24hour_minute_second">ΩΩ:λλ:δ</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
     <string name="fmt_time_millis">S</string>
     <string name="fmt_time_minute">μ</string>
     <string name="fmt_time_minute_second">μ:δ</string>

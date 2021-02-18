@@ -190,8 +190,6 @@
     <string name="fmt_time_12hour_minute">ω:λλ</string>
     <string name="fmt_time_12hour_minute_pm">ω:λλ α</string>
     <string name="fmt_time_12hour_minute_second">ω:λ:λ.μ.</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">εκτάρια</string>
     <string name="fmt_time_24hour">"HH 'o''ρολόι'"</string>

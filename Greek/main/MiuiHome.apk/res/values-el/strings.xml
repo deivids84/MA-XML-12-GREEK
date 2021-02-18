@@ -574,6 +574,7 @@
     <string name="starting_preset_app">Γίνεται έναρξη…</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$s από %2$s διαθέσιμα</string>
+    <string name="status_bar_recent_memory_mega">%1$s MB</string>
     <string name="status_downloaded">Έγινε λήψη</string>
     <string name="status_downloading">Γίνεται λήψη</string>
     <string name="status_installing">Γίνεται εγκατάσταση</string>

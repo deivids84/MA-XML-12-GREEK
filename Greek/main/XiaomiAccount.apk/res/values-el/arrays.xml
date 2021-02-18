@@ -4,6 +4,35 @@
         <item>Άντρας</item>
         <item>Γυναίκα</item>
     </string-array>
+    <string-array name="passport_alphabet_table">
+        <item>.</item>
+        <item>ΕΝΑ</item>
+        <item>σι</item>
+        <item>ντο</item>
+        <item>ρε</item>
+        <item>μι</item>
+        <item>φά</item>
+        <item>σολ</item>
+        <item>Η</item>
+        <item>Εγώ</item>
+        <item>Ι</item>
+        <item>κ</item>
+        <item>μεγάλο</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ερ</item>
+        <item>Ρ</item>
+        <item>μικρό</item>
+        <item>Τ</item>
+        <item>Ε</item>
+        <item>Β</item>
+        <item>Δ</item>
+        <item>Χ</item>
+        <item>Γ</item>
+        <item>.</item>
+    </string-array>
     <string-array name="settings_search_account_and_authority_global">
         <item>Λογαριασμοί</item>
         <item>Προσθήκη και διαχείριση λογαριασμών τρίτου</item>

@@ -1,5 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_table">
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
+        <item>Η</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
+        <item>.</item>
+        <item>.</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
+        <item>Η</item>
+        <item>Θ</item>
+        <item>Ι</item>
+        <item>Κ</item>
+        <item>Λ</item>
+        <item>Μ</item>
+        <item>Ν</item>
+        <item>Ξ</item>
+        <item>Ο</item>
+        <item>Π</item>
+        <item>Ρ</item>
+        <item>Σ</item>
+        <item>Τ</item>
+        <item>Υ</item>
+        <item>Φ</item>
+        <item>Χ</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
+        <item>.</item>
+        <item>.</item>
+    </string-array>
     <string-array name="aqi_detail_title">
         <item>Καλός</item>
         <item>Μέτριος</item>
@@ -27,13 +86,13 @@
     </string-array>
     <string-array name="hot_city">
         <item>Beijing</item>
-        <item>Σαγκάη</item>
-        <item>Χονγκ Κονγκ</item>
+        <item>Shanghai</item>
+        <item>Hong Kong</item>
         <item>Ταϊπέι</item>
         <item>Jakarta</item>
         <item>Delhi</item>
-        <item>Βομβάη</item>
-        <item>Μόσχα</item>
+        <item>Mumbai</item>
+        <item>Moscow</item>
         <item>Τσεναί</item>
         <item>Κωνσταντινούπολη</item>
         <item>Ρίο Ντε Τζανέιρο</item>
@@ -114,7 +173,7 @@
         <item>Ένταση%1$s</item>
         <item>%1$skm/h</item>
         <item>%1$sm/s</item>
-        <item>%1$sμ/ω</item>
+        <item>%1$smph</item>
         <item>%1$skn</item>
     </string-array>
 </resources>

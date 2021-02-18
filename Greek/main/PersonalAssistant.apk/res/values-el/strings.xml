@@ -100,6 +100,7 @@
     <string name="alipay_sdk_payed_success">Επιτυχής πληρωμή</string>
     <string name="alipay_sdk_tiemout">Η συνεδρία έληξε. Είσοδος ξανά.</string>
     <string name="all_function_title">Όλες οι συντομεύσεις</string>
+    <string name="alphabet_and_number">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
     <string name="already">Ολοκληρώθηκε:</string>
     <string name="am">ΠΜ</string>
     <string name="announce_for_drag">Σύρετε ένα στοιχείο</string>
@@ -292,6 +293,8 @@
     <string name="app_pa_setting_private_policy">Πολιτική Απορρήτου</string>
     <string name="app_pa_setting_service_commute">Μετακίνηση</string>
     <string name="app_pa_setting_service_commute_summary">Για την κατασκευή διαδρομών πλοήγησης και την παροχή υπηρεσιών συγκράτησης αυτοκινήτων</string>
+    <string name="app_pa_setting_service_covid">Πληροφορίες COVID-19</string>
+    <string name="app_pa_setting_service_covid_summry">Δείτε τις τελευταίες πληροφορίες σχετικά με το COVID-19</string>
     <string name="app_pa_setting_service_forecast">Έξυπνες προτάσεις</string>
     <string name="app_pa_setting_service_forecast_summary">"Λάβετε προτάσεις εφαρμογών και χαρακτηριστικών που πιθανότατα χρησιμοποιείτε"</string>
     <string name="app_pa_setting_service_management">Διαχείριση υπηρεσιών</string>
@@ -467,7 +470,6 @@
     <string name="ball_dialog_title">Εγκατάσταση της εφαμρογής πρώτα.</string>
     <string name="ball_football_recent_ing">Σε εξέλιξη</string>
     <string name="ball_hupu">HuPu</string>
-    <string name="base_hour12_format_en">ωω:λλ</string>
     <string name="base_hour24_format_en">ΩΩ:λλ</string>
     <string name="base_search_empty">"Δεν βρέθηκαν αποτελέσματα"</string>
     <string name="base_time_just_now">Μόλις τώρα</string>
@@ -872,6 +874,7 @@ ID:%s
     <string name="express_send">Πλοίο</string>
     <string name="express_send_history">ιστορικό αποστολών &gt;</string>
     <string name="express_send_mms">Αποστολή</string>
+    <string name="express_send_mms_format">Το πακέτο παραδόθηκε από %1$s | Αριθμός παρακολούθησης: %2$s</string>
     <string name="express_send_notice">Απαγορευμένα αντικείμενα</string>
     <string name="express_sender_info">Πληροφορίες αποστολέα</string>
     <string name="express_sender_name">Όνομα αποστολέα</string>
