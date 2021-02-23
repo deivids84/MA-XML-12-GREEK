@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ελευθερία</string>
+    <string name="app_name">Πλωτά παράθυρα</string>
     <string name="contentDescription">Μετακίνηση του παραθύρου</string>
     <string name="freeform_demo_back">Πίσω</string>
     <string name="freeform_demo_final_over">Ολοκληρώθηκε</string>

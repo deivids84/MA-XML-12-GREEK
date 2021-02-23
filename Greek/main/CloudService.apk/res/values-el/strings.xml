@@ -83,7 +83,7 @@
     <string name="detect_sim_card">Αναζήτηση για κάρτα SIM</string>
     <string name="device_activation_card_cannot_get_yet">"Δεν ήταν δυνατή η λήψη πληροφοριών. Προσπαθήστε ξανά σε 3-5 ημέρες."</string>
     <string name="device_activation_card_description">"Η πρώτη ενεργοποίηση είναι καταχωρημένη όταν μια συσκευή συνδέεται με το δίκτυο (συμπεριλαμβανομένων, ενδεικτικά, των δικτύων Wi-Fi και κινητής τηλεφωνίας) για πρώτη φορά. Συνήθως χρειάζεται λίγος χρόνος για να εγγραφεί η πρώτη ενεργοποίηση, έτσι είναι καλύτερο να περιμένετε για 3-5 ημέρες μετά τη σύνδεση στο δίκτυο πριν από τον έλεγχο κατάστασης ενεργοποίησης.&lt;br&gt;&lt;br&gt;Η ενεργοποίηση της συσκευής είναι ο κύριος παράγοντας για τον καθορισμό της περιόδου ισχύος της εκτεταμένης εγγύησής μας. Ελέγξτε την &lt;a href=%1$s&gt;Πολιτική Επιστροφών, Ανταλλαγών και Επισκευών&lt;/a&gt; για περισσότερες λεπτομέρειες.&lt;br&gt;&lt;br&gt;Μη διστάσετε να καλέσετε την τηλεφωνική γραμμή υποστήριξης πελατών μας αν έχετε οποιεσδήποτε ερωτήσεις: 400-100-5678."</string>
-    <string name="device_activation_card_description_china">"Η πρώτη ενεργοποίηση είναι καταχωρημένη όταν μια συσκευή συνδέεται με το δίκτυο (συμπεριλαμβανομένων, ενδεικτικά, των δικτύων Wi-Fi και κινητής τηλεφωνίας) για πρώτη φορά. Συνήθως χρειάζεται λίγος χρόνος για να εγγραφεί η πρώτη ενεργοποίηση, έτσι είναι καλύτερο να περιμένετε για 3-5 ημέρες μετά τη σύνδεση στο δίκτυο πριν από τον έλεγχο κατάστασης ενεργοποίησης.&lt;br&gt;&lt;br&gt; Ελέγξτε την &lt;a href=%1$s&gt;Πολιτική Επιστροφής, Ανταλλαγής και Επισκευής&lt;/a&gt; για περισσότερες λεπτομέρειες.&lt;br&gt;&lt;br&gt;Μη διστάσετε να καλέσετε την τηλεφωνική γραμμή υποστήριξης πελατών μας αν έχετε οποιεσδήποτε ερωτήσεις: 400-100-5678."</string>
+    <string name="device_activation_card_description_china">"Η πρώτη ενεργοποίηση είναι καταχωρημένη όταν μια συσκευή συνδέεται με το δίκτυο (συμπεριλαμβανομένων, ενδεικτικά, των δικτύων Wi-Fi και κινητής τηλεφωνίας) για πρώτη φορά. Συνήθως χρειάζεται λίγος χρόνος για να εγγραφεί η πρώτη ενεργοποίηση, έτσι είναι καλύτερο να περιμένετε για 3-5 ημέρες μετά τη σύνδεση στο δίκτυο πριν από τον έλεγχο κατάστασης ενεργοποίησης.&lt;br&gt;&lt;br&gt;Η ενεργοποίηση της συσκευής είναι ο κύριος παράγοντας για τον καθορισμό της περιόδου ισχύος της εκτεταμένης εγγύησής μας. Ελέγξτε την &lt;a href=%1$s&gt;Πολιτική Επιστροφών, Ανταλλαγών και Επισκευών&lt;/a&gt; για περισσότερες λεπτομέρειες.&lt;br&gt;&lt;br&gt;Μη διστάσετε να καλέσετε την τηλεφωνική γραμμή υποστήριξης πελατών μας αν έχετε οποιεσδήποτε ερωτήσεις: 400-100-5678."</string>
     <string name="device_activation_card_device_not_support">Δεν υποστηρίζεται σε αυτήν τη συσκευή</string>
     <string name="device_activation_card_local_service_error">"Δεν ήταν δυνατή η λήψη πληροφοριών. Περιμένετε ένα ή δύο λεπτά και προσπαθήστε ξανά."</string>
     <string name="device_activation_card_no_network_error">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά."</string>
@@ -197,7 +197,9 @@
     <string name="member_entrance_title_ultra_low_case_a">Ανανέωση</string>
     <string name="member_entrance_title_ultra_low_case_b">Ανανέωση</string>
     <string name="member_menu_vipname_free">Δωρεάν</string>
+    <string name="member_menu_vipname_mega">Mega</string>
     <string name="member_menu_vipname_premium">Premium</string>
+    <string name="member_menu_vipname_ultra">Ultra</string>
     <string name="menu_add_feedback">Σχόλια</string>
     <string name="menu_add_short_cut">Δημιουργία συντόμευσης Αρχικής οθόνης</string>
     <string name="merge">Συγχώνευση</string>
@@ -383,6 +385,7 @@
     <string name="micloud_request_permission_title">Το Xiaomi Cloud απαιτεί άδειες</string>
     <string name="micloud_request_sync_too_frequent">Πάρα πολλά αιτήματα. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="micloud_setting_antispam_summary">Εξαιρέσεις και αποκλεισμένοι αριθμοί</string>
+    <string name="micloud_setting_bluetooth_summary">Συγχρονίστε τις πληροφορίες σχετικά με τις συζευγμένες συσκευές σας με το cloud</string>
     <string name="micloud_setting_browser_summary">Σελιδοδείκτες, ιστορικό, και καρτέλες</string>
     <string name="micloud_setting_calendar_summary">Συμβάντα</string>
     <string name="micloud_setting_calllog_summary">Ιστορικό κλήσεων</string>
@@ -408,6 +411,8 @@
     <string name="micloud_storage_expires_soon_title">Ο αποθηκευτικός χώρος του Xiaomi Cloud θα λήξει σύντομα</string>
     <string name="micloud_storage_expires_very_soon_title">Ο αποθηκευτικός χώρος του Xiaomi Cloud θα λήξει σύντομα</string>
     <string name="micloud_storage_full">Το Cloud είναι γεμάτο</string>
+    <string name="micloud_storage_unit_gb">%s GB</string>
+    <string name="micloud_storage_unit_mb">%s MB</string>
     <string name="micloud_sync_alert_dialog_message">Συγχρονίστε τις φωτογραφίες, επαφές, σημειώσεις και περισσότερα για όλες τις συσκευές σας.</string>
     <string name="micloud_sync_alert_dialog_message_v2">Συγχρονίστε τις φωτογραφίες, τις επαφές, τις σημειώσεις και πολλά άλλα σε όλες τις συσκευές σας.</string>
     <string name="micloud_sync_alert_dialog_negative">Ακύρωση</string>

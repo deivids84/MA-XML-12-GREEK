@@ -712,7 +712,6 @@ ID:%s
     <string name="ok">Εντάξει</string>
     <string name="on_tip_firework_recommend">"Θα λάβετε εξατομικευμένες προτάσεις περιεχομένου από τη Firework"</string>
     <string name="open_settings">Ρυθμίσεις</string>
-    <string name="order_alphabet">Α-Ω</string>
     <string name="order_recently_subscribe">Πρόσφατες συνδρομές</string>
     <string name="order_recently_updated">Πρόσφατες ενημερώσεις</string>
     <string name="ovp_alert_dialog_download_install_task">Γίνεται λήψη HD plug-in…</string>

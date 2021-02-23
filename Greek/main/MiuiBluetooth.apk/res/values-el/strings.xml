@@ -141,6 +141,8 @@
     <string name="bluetooth_hearingaid_right_pairing_message">Γίνεται σύζευξη δεξιού βοηθήματος ακοής…</string>
     <string name="bluetooth_hid_profile_summary_connected">Συνδέθηκε σε συσκευή εισαγωγής</string>
     <string name="bluetooth_hid_profile_summary_use_for">Χρησιμοποιείται για εισαγωγή</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Συνδέθηκε σε LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Χρήση για LE_AUDIO</string>
     <string name="bluetooth_map_profile_summary_connected">Συνδέθηκε με τον Χάρτη</string>
     <string name="bluetooth_map_profile_summary_use_for">Χρησιμοποιείται για MAP</string>
     <string name="bluetooth_opp_profile_summary_connected">Συνδέθηκε σε διακομιστή μεταφοράς αρχείων</string>
@@ -169,6 +171,7 @@
     <string name="bluetooth_profile_headset">Ήχος τηλεφώνου</string>
     <string name="bluetooth_profile_hearing_aid">Βοήθημα ακοής</string>
     <string name="bluetooth_profile_hid">Συσκευή εισαγωγής</string>
+    <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
     <string name="bluetooth_profile_map">Χρησιμοποιήθηκε για πρόσβαση μηνυμάτων</string>
     <string name="bluetooth_profile_opp">Μεταφορά αρχείων</string>
     <string name="bluetooth_profile_pan">Πρόσβαση Ίντερνετ</string>

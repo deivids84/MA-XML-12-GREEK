@@ -6,8 +6,10 @@
     <string name="all_call_livetalk_remain_mins">Λεπτά που απομένουν: %1$s εσωτερικού ή %2$s εξωτερικού</string>
     <string name="always">Πάντα</string>
     <string name="alwaysUsePrompt">Απομνημόνευση της επιλογής μου</string>
+    <string name="application_cannot_open_alipay_health_code">"Αδύνατο το άνοιγμα του κωδικού υγείας Alipay"</string>
     <string name="application_cannot_open_alipay_payment_code">"Αδυναμία ανοίγματος του κωδικού πληρωμής του Alipay"</string>
     <string name="application_cannot_open_alipay_scanner">"Αδυναμία ανοίγματος του σαρωτή του Alipay"</string>
+    <string name="application_cannot_open_weixin_health_code">"Αδύνατο το άνοιγμα του κωδικού υγείας WeChat"</string>
     <string name="application_cannot_open_weixin_payment_code">"Αδυναμία ανοίγματος του κωδικού πληρωμής του WeChat"</string>
     <string name="application_cannot_open_weixin_scanner">"Αδυναμία ανοίγματος του σαρωτή του WeChat"</string>
     <string name="application_not_install_content">"Φαίνεται πως η εφαρμογή που εκτελεί αυτή την ενέργεια δεν έχει εγκατασταθεί στη συσκευή σας. Μπορείτε να εγκαταστήσετε αυτή την εφαρμογή ή να αναθέσετε διαφορετική ενέργεια σε αυτή τη χειρονομία."</string>

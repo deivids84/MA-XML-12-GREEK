@@ -1166,6 +1166,8 @@
     <string name="bluetooth_is_discoverable">Ορατό σε όλες τις κοντινές συσκευές Bluetooth (%1$s)</string>
     <string name="bluetooth_is_discoverable_always">Ενεργοποίηση: Η συσκευή αυτή να είναι ορατή για όλες τις κοντινές συσκευές Bluetooth</string>
     <string name="bluetooth_is_visible_message">Η συσκευή %1$s είναι ορατή σε κοντινές συσκευές όταν είναι ανοικτές οι Ρυθμίσεις Bluetooth.</string>
+    <string name="bluetooth_le_audio_profile_summary_connected">Συνδέθηκε σε LE_AUDIO</string>
+    <string name="bluetooth_le_audio_profile_summary_use_for">Χρήση για LE_AUDIO</string>
     <string name="bluetooth_left_name">Αριστερά</string>
     <string name="bluetooth_lock_voice_dialing">Κλείδωμα της λειτουργίας φωνητικών κλήσεων</string>
     <string name="bluetooth_lock_voice_dialing_summary">Να μην επιτρέπεται η χρήση του προγράμματος κλήσης bluetooth όταν η οθόνη είναι κλειδωμένη</string>
@@ -1244,6 +1246,7 @@
     <string name="bluetooth_profile_headset">Ήχος τηλεφώνου</string>
     <string name="bluetooth_profile_hearing_aid">Βοήθημα ακοής</string>
     <string name="bluetooth_profile_hid">Συσκευή εισαγωγής</string>
+    <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
     <string name="bluetooth_profile_map">Χρησιμοποιήθηκε για πρόσβαση μηνυμάτων</string>
     <string name="bluetooth_profile_opp">Μεταφορά αρχείων</string>
     <string name="bluetooth_profile_pan">Πρόσβαση Ίντερνετ</string>
@@ -1388,7 +1391,7 @@ Bluetooth"</string>
     <string name="bootloader_status_locked">Κλειδωμένο</string>
     <string name="bootloader_status_locked_info">Η συσκευή είναι κλειδωμένη</string>
     <string name="bootloader_status_locked_summary">Το τηλέφωνο είναι ασφαλές</string>
-    <string name="bootloader_status_privacy_dialog_message">Το Mi Ξεκλείδωμα απαιτεί πρόσβαση στο Mi Λογαριασμό σας, CPU ID, IMEI, IMSI για να λειτουργήσει κανονικά. Συλλέγουμε, χρησιμοποιούμε, και επεξεργαζόμαστε τα δεδομένα σας με βάση την %s μας. Συμφωνείτε;</string>
+    <string name="bootloader_status_privacy_dialog_message"><Data>Το ξεκλείδωμα Mi χρειάζεται πρόσβαση στον Mi Λογαριασμό σας, ID CPU, IMSI για να λειτουργήσει κανονικά. Διαβάστε και συμφωνήστε με την &lt;a href=\"%1$s\"&gt;Πολιτική Προστασίας Προσωπικών Δεδομένων&lt;/a&gt;. Συμφωνώ?</Data></string>
     <string name="bootloader_status_privacy_dialog_no">Ακύρωση</string>
     <string name="bootloader_status_privacy_dialog_title">Απαιτούνται άδειες</string>
     <string name="bootloader_status_privacy_dialog_url_text">Πολιτική Απορρήτου</string>
@@ -1694,19 +1697,19 @@ Bluetooth"</string>
     <string name="color_calibration_none">Αυτή η συσκευή</string>
     <string name="color_cyan">Κυανό</string>
     <string name="color_game_led_applications_title">Επιλέξτε εφαρμογές</string>
-    <string name="color_game_led_applications_title_summary">Μπορείτε να περιορίσετε χρησιμοποιώντας φως LED για ατομικές εφαρμογές</string>
+    <string name="color_game_led_applications_title_summary">Επιλέξτε μεμονωμένες εφαρμογές που θα λειτουργούν με φως LED</string>
     <string name="color_game_led_battery_title">Διατήρηση ενεργοποίησης κατά τη διάρκεια φόρτισης</string>
-    <string name="color_game_led_charging_summary">Θα απενεργοποιηθεί όταν η μπαταρία έχει φορτίσει</string>
-    <string name="color_game_led_end_time">Ώρα λήξης</string>
+    <string name="color_game_led_charging_summary">Το φως LED θα απενεργοποιηθεί όταν η μπαταρία είναι φορτισμένη</string>
+    <string name="color_game_led_end_time">Τέλος</string>
     <string name="color_game_led_game_mode_summary">Εμφάνιση εφέ για παιχνίδι όταν το Τούρμπο παιχνιδιού είναι ενεργοποιημένο</string>
     <string name="color_game_led_game_mode_title">Χρησιμοποιήστε για Τούρμπο παιχνιδιού</string>
     <string name="color_game_led_incall_pulse_title">Χρησιμοποιήστε για εισερχόμενες κλήσεις</string>
-    <string name="color_game_led_notification_pulse_title">Φλας για ειδοποιήσεις όταν η οθόνη είναι απενεργοποιημένη</string>
-    <string name="color_game_led_remind_title">Εφέ υπενθύμισης</string>
+    <string name="color_game_led_notification_pulse_title">Παλμός για ειδοποιήσεις στην οθόνη Πάντα ενεργοποιημένη</string>
+    <string name="color_game_led_remind_title">Εφέ</string>
     <string name="color_game_led_special_scene_title">Ειδικά εφέ</string>
-    <string name="color_game_led_start_time">Ώρα έναρξης</string>
+    <string name="color_game_led_start_time">Έναρξη</string>
     <string name="color_game_led_summary">"Δεν λειτουργεί κατά τη λειτουργία DND"</string>
-    <string name="color_game_led_time_title">Φως LED στην ώρα του</string>
+    <string name="color_game_led_time_title">Προγραμματισμός εγκαίρως</string>
     <string name="color_game_led_title">Ειδοποίηση φωτισμού LED</string>
     <string name="color_gray">Γκρι</string>
     <string name="color_green">Πράσινο</string>
@@ -2347,9 +2350,9 @@ Bluetooth"</string>
     <string name="dialog_backup_title">Δημιουργία αντιγράφων ασφαλείας αντικειμένων πρώτα;</string>
     <string name="dialog_check_button_negative">Προσπαθήστε ξανά</string>
     <string name="dialog_check_button_positive">Σύνδεση σε Wi-Fi</string>
-    <string name="dialog_check_context">"Η συσκευή σας δεν μπορεί να συνδεθεί στο Διαδίκτυο τώρα.
-1. Πατήστε \"Σύνδεση σε Wi-Fi\" για να επιλέξετε ένα από τα διαθέσιμα δίκτυα.
-2. Εάν θέλετε να χρησιμοποιήσετε δεδομένα κινητής τηλεφωνίας, πατήστε \"Δοκιμάστε ξανά\" ή αφαιρέστε και τοποθετήστε ξανά την κάρτα SIM."</string>
+    <string name="dialog_check_context">"Η συσκευή σας δεν μπορεί να συνδεθεί στο διαδίκτυο τώρα.
+· Πατήστε \"Σύνδεση σε Wi-Fi\" για να επιλέξετε ένα από τα διαθέσιμα δίκτυα.
+· Αν θέλετε να χρησιμοποιήσετε τα δεδομένα κινητής τηλεφωνίας, πατήστε \"Προσπαθήστε ξανά\" ή αφαιρέστε και επανατοποθετήστε την κάρτα SIM."</string>
     <string name="dialog_check_title">"Αδυναμία σύνδεσης στο ίντερνετ"</string>
     <string name="dialog_chose_item">Επιλογή αντικειμένου για προβολή</string>
     <string name="dialog_content_login">Σύνδεση στο Mi Λογαριασμό σας για ενημέρωση;</string>
@@ -2549,7 +2552,7 @@ Bluetooth"</string>
     <string name="dpp_cannot_connect_target">"Αδυναμία σύνδεσης στο δίκτυο"</string>
     <string name="dpp_connect_success">Συνδέθηκε επιτυχώς</string>
     <string name="dpp_not_support">"Δεν είναι δυνατή η κοινή χρήση αυτού του δικτύου"</string>
-    <string name="dpp_qr_code_summary">Συνδεθείτε σε δίκτυο Wi-Fi σαρώνοντας αυτόν τον κωδικό QR.</string>
+    <string name="dpp_qr_code_summary">Ζητήστε από το άλλο άτομο να σαρώσει αυτόν τον κωδικό QR χρησιμοποιώντας τον σαρωτή στις ρυθμίσεις Wi-Fi</string>
     <string name="dpp_qrcode_generator_summary">Σάρωση αυτού του κωδικού QR με συσκευή που υποστηρίζει την Easy Connect</string>
     <string name="dpp_scanner_summary">Τοποθετήσετε έναν κωδικό QR μέσα στο ορθογώνιο</string>
     <string name="dpp_shared_fail">"Δεν ήταν δυνατή η κοινή χρήση Wi-Fi"</string>
@@ -2786,6 +2789,7 @@ Bluetooth"</string>
     <string name="expandable_under_keyguard_title">Εμφάνιση στην Οθόνη κλειδώματος</string>
     <string name="experimental_category_title">Σε πειραματικό στάδιο</string>
     <string name="experimental_preference">(Πειραματικό)</string>
+    <string name="expert_detail_content_description">Προβολή λεπτομερειών</string>
     <string name="extended_power_menu">Εκτεταμένο μενού ισχύος</string>
     <string name="exterior">Σχέδιο χρώματος</string>
     <string name="external_code_size_label">Εφαρμογή αποθηκευτικού χώρου USB</string>
@@ -3674,6 +3678,8 @@ Xiaomi Cloud
     <string name="last_time_used_label">Τελευταία χρήση</string>
     <string name="lattice_smartcover_title">Δικτυωτό εμπρόσθιο κάλλυμα</string>
     <string name="launch_ai_shortcut">Συντομεύσεις Mi AI</string>
+    <string name="launch_alipay_health_code">Alipay κωδικός υγείας</string>
+    <string name="launch_alipay_health_code_auto_close">Η συντόμευση του κώδικα υγείας Alipay δεν είναι πλέον διαθέσιμη. Μπορείτε να αλλάξετε σε μια διαφορετική συντόμευση.</string>
     <string name="launch_alipay_payment_code">Πληρωμή μέσω Alipay</string>
     <string name="launch_alipay_scanner">Σαρωτής Alipay</string>
     <string name="launch_by_default">Άνοιγμα από προεπιλογή</string>
@@ -3691,6 +3697,8 @@ Xiaomi Cloud
     <string name="launch_notification_center">Πίνακας ειδοποιήσεων</string>
     <string name="launch_recents">Εκκίνηση Πρόσφατων</string>
     <string name="launch_voice_assistant">Εκκίνηση Φωνητικού βοηθού</string>
+    <string name="launch_wechat_health_code">Κωδικός υγείας WeChat</string>
+    <string name="launch_wechat_health_code_auto_close">Η συντόμευση κώδικα υγείας WeChat δεν είναι πλέον διαθέσιμη. Μπορείτε να αλλάξετε σε μια διαφορετική συντόμευση.</string>
     <string name="launch_wechat_payment_code">Πληρωμή μέσω WeChat</string>
     <string name="launch_wechat_scanner">Σαρωτής WeChat</string>
     <string name="launch_wifi_text">Προβολή λεπτομερειών</string>
@@ -4353,6 +4361,7 @@ Xiaomi Cloud
     <string name="miui_lab_install_drive_mode_title">Εγκατάσταση Λειτουργίας αυτοκινήτου</string>
     <string name="miui_lab_settings">MIUI εργαστήριο</string>
     <string name="miui_lab_slogan">Μάθετε. Εξερευνήστε. Ανακαλύψτε.</string>
+    <string name="miui_master_clear_prompt_battery_low">"Δεν είναι δυνατή η επαναφορά εργοστασιακών ρυθμίσεων όταν έχει απομείνει λιγότερο από %1$s μπαταρία. Φορτίστε τη συσκευή σας πριν συνεχίσετε."</string>
     <string name="miui_master_clear_summary">Διαγράφει όλα τα δεδομένα σε αυτή τη συσκευή</string>
     <string name="miui_more_special_feature">Εξερεύνηση νέων λειτουργιών</string>
     <string name="miui_optimization_disabled">Απενεργοποίηση βελτιστοποίησης MIUI</string>

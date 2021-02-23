@@ -260,7 +260,6 @@
     <string name="bill_center_setting">Ρυθμίσεις λογαριασμών</string>
     <string name="bill_center_setting_head">Εισαγωγή πληροφοριών από αυτούς τους λογαριασμούς</string>
     <string name="bill_cycle_text">Κύκλος λογαριασμών</string>
-    <string name="bill_list_card_num_fmt">**** **** ****%s</string>
     <string name="bill_remind">Υπενθύμιση αποπληρωμής</string>
     <string name="bill_remind_due">Μια αποπληρωμή είναι ληξιπρόθεσμη στις%s , πατήστε για προβολή</string>
     <string name="blank_feedback_toast">Θα πρέπει να γράψετε σχόλια</string>
