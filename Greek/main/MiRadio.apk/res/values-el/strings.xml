@@ -166,6 +166,16 @@
     <string name="can_heard_not_download">Τραγούδια μπορούν να ακουστούν μόνο και δεν μπορούν να κατέβουν…</string>
     <string name="cancel">Ακύρωση</string>
     <string name="cancel_delay_stop">Απενεργοποίηση χρονομέτρου</string>
+    <string name="cancel_dialog_cancel_title">"Η δωρεάν δοκιμή δεν θα είναι διαθέσιμη"</string>
+    <string name="cancel_dialog_title">"Οι υπηρεσίες δεν θα είναι διαθέσιμες μετά την ακύρωση"</string>
+    <string name="cancel_free_equity">Ακύρωση</string>
+    <string name="cancel_msg">"Η δωρεάν δοκιμαστική περίοδος δεν έχει τελειώσει ακόμα. Δεν θα μπορείτε να συνεχίσετε να χρησιμοποιείτε αν ακυρώσετε τη συνδρομή σας τώρα. Ακυρώσετε ούτως ή άλλως?"</string>
+    <string name="cancel_msg_left">"Πρόσβαση
+σε όλο το περιεχόμενο"</string>
+    <string name="cancel_msg_mid">"Αυτόματη ανανέωση
+"</string>
+    <string name="cancel_msg_right">"Ακύρωση
+οποτεδήποτε"</string>
     <string name="cancel_running_download">Ακύρωση</string>
     <string name="cannot_comment_try_scroll">Αυτό το τραγούδι δεν μπορεί να σχολιαστεί, προσπαθήστε να μετακινηθείτε</string>
     <string name="cannot_reply">"Δεν μπορώ να απαντήσω σε αυτό το σχόλιο τώρα."</string>
@@ -262,6 +272,8 @@
     <string name="delete_file_start">Διαγραφή επιλεγμένων αρχείων</string>
     <string name="delete_single_fm_history">Διαγραφή αυτού του ιστορικού αναπαραγωγής?</string>
     <string name="delete_the_downloaded_file">Τα ληφθέντα αρχεία θα διαγραφούν.</string>
+    <string name="description_content">"Το ραδιόφωνο FM είναι μια εφαρμογή συστήματος. Δεν θα είστε σε θέση να ακούσετε τους τοπικούς και online ραδιοφωνικούς σταθμούς αφού το απεγκαταστήσετε."</string>
+    <string name="description_title">Απεγκατάσταση \"FM Radio\"?</string>
     <string name="deselect_all">Αποεπιλογή όλων</string>
     <string name="desktop_lyric_lock_toast">Κλειδωμένο. Μπορείτε να ξεκλειδώσετε μουσική στη σκιά ειδοποιήσεων.</string>
     <string name="desktop_lyric_setting_title">Στίχοι αρχικής οθόνης</string>
@@ -900,6 +912,7 @@ ID:%s
     <string name="paused_waiting_to_retry">Αναμονή για επανάληψη</string>
     <string name="pay_now">Τρέχουσα υπηρεσία</string>
     <string name="pending_apk">Εκκρεμεί…</string>
+    <string name="permission_runtime_perm_desc_location">Για πρόσβαση σε τοπικούς ραδιοφωνικούς σταθμούς</string>
     <string name="personal_radio_favorite">Αγαπημένα, συνιστώ παρόμοια τραγούδια</string>
     <string name="phone_bind_too_many">Αυτό το τηλέφωνο έχει συσχετιστεί με πολλαπλούς Mi Λογαριασμούς σε ένα μικρό χρονικό διάστημα. Δοκιμάστε έναν διαφορετικό αριθμό τηλεφώνου.</string>
     <string name="phone_hint">Αριθμός τηλεφώνου</string>
@@ -908,16 +921,17 @@ ID:%s
     <string name="photoPickerNotFoundText">Δεν υπάρχουν διαθέσιμες φωτογραφίες.</string>
     <string name="play_all"><Data>Αναπαραγωγή όλων &lt;font color=\"#999999\"&gt;(%1$d)&lt;/font&gt;</Data></string>
     <string name="play_all_shuffle"><Data>Τυχαία αναπαραγωγή όλων&lt;font color=\"#999999\"&gt;(%1$d)&lt;/font&gt;</Data></string>
-    <string name="play_all_song">Αναπαραγωγή όλων</string>
     <string name="play_continue"><Data>Συνεχίστε να παίζετε &lt;font color=\"#999999\"&gt;(%1$d)&lt;/font&gt;</Data></string>
     <string name="play_error_program_not_find">Αυτό το στοιχείο δεν είναι πλέον διαθέσιμο.</string>
     <string name="play_mode_circle">Λειτουργία Κύκλου</string>
     <string name="play_mode_circle_hint">Επαναλάβετε ένα κομμάτι τώρα</string>
-    <string name="play_mode_circle_title">Επανάληψη ενός</string>
+    <string name="play_mode_circle_title">Επανάληψη</string>
     <string name="play_mode_normal_hint">Παίζοντας κομμάτια με την αρχική σειρά τώρα</string>
-    <string name="play_mode_normal_title">Αναπαραγωγή όλων</string>
+    <string name="play_mode_normal_title">Ακολουθία</string>
     <string name="play_mode_shuffle">Λειτουργία Τυχαίας Αναπαραγωγή</string>
+    <string name="play_mode_shuffle_title">Τυχαία Αναπαραγωγή</string>
     <string name="play_mode_single">Μονή Λειτουργία</string>
+    <string name="play_mode_single_title">Επανάληψη</string>
     <string name="play_next">Αναπαραγωγή επόμενου</string>
     <string name="play_song_continue">Συνέχιση αναπαραγωγής</string>
     <string name="play_speed">Ταχύτητα Αναπαραγωγής</string>
@@ -1190,6 +1204,7 @@ ID:%s
     <string name="talkback_login">Σύνδεση</string>
     <string name="talkback_mode_repeat_all">Λειτουργία κυκλώματος</string>
     <string name="talkback_mode_repeat_current">Λειτουργία επανάληψης</string>
+    <string name="talkback_mode_repeat_none">Ακολουθία λειτουργίας</string>
     <string name="talkback_mode_repeat_shuffle">Λειτουργία ανακατέματος</string>
     <string name="talkback_more">Περισσότερα</string>
     <string name="talkback_more_function">Περισσότερα χαρακτηριστικά</string>
@@ -1324,6 +1339,7 @@ ID:%s
     <string name="upgrade_music">Ενημέρωση Μουσικής</string>
     <string name="upgrade_music_message">Οι ενημερώσεις είναι έτοιμες. Επανεκκίνηση για ενημέρωση.</string>
     <string name="upload_error_log">Μεταφόρτωση αρχείου καταγραφής</string>
+    <string name="use_again">"Να μην ακυρωθεί"</string>
     <string name="user_avatar_update_title">Αλλαγή φωτογραφίας προφίλ</string>
     <string name="user_avatar_uploading">Μια στιγμή…</string>
     <string name="user_id_hint">Email/Τηλεφώνου/ID Mi Λογαριασμού</string>
@@ -1368,5 +1384,8 @@ ID:%s
     <string name="xiaoai_install_title">Εγκατάσταση φωνητικού βοηθού Mi AI</string>
     <string name="xiaoai_update_message">Φαίνεται ότι η μηχανή φωνής Mi AI είναι πολύ παλιά. Μπορείτε να την ενημερώσετε τώρα.</string>
     <string name="xiaoai_update_title">Ενημέρωση Mi AI</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Όχι τώρα</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Ενημέρωση</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Υπάρχει διαθέσιμη ενημέρωση</string>
     <string name="yesterday">Χθες</string>
 </resources>

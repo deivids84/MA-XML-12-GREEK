@@ -482,6 +482,10 @@ https://appleid.apple.com/#!&amp;page=signin για κλείσιμο"</string>
     <string name="select_storage_location">Επιλογή τοποθεσίας αντίγραφου ασφαλείας</string>
     <string name="service_stoped">Η υπηρεσία διακόπηκε</string>
     <string name="settings_summary">Ρυθμίσεις μηνυμάτων και τηλεφώνου</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
     <string name="sms_title">Μηνύματα</string>
     <string name="soft_ap_create_failed">"Αδυναμία δημιουργίας σημείου πρόσβασης"</string>
     <string name="soft_ap_creating">Γίνεται δημιουργία σημείου πρόσβασης…</string>
@@ -726,6 +730,7 @@ https://appleid.apple.com/#!&amp;page=signin για κλείσιμο"</string>
     <string name="trans_waiting_for_sender">Αναμονή σύνδεσης της παλιάς συσκευής…</string>
     <string name="trans_wlan_tips_message">"Μην απενεργοποιήστε το Wi-fi ή κάνετε εναλλαγή σε άλλα δίκτυα Wi-Fi κατά την διάρκεια της μεταφοράς. Αλλιώς, το Mi Mover δεν θα μπορέσει να μεταφέρει δεδομένα."</string>
     <string name="trans_wlan_tips_title">"Μην απενεργοποιήστε το Wi-Fi"</string>
+    <string name="unit_byte">B</string>
     <string name="unknown_hint">Άγνωστο</string>
     <string name="usb_backup_select_data_too_large">"Τα επιλεγμένα αρχεία είναι μεγάλα. Βεβαιωθείτε πως το USB έχει αρκετό χώρο αποθήκευσης.
 Μεταφέρετε σημαντικά μόνο αρχεία."</string>
@@ -751,6 +756,7 @@ https://appleid.apple.com/#!&amp;page=signin για κλείσιμο"</string>
     <string name="wifi_title">Ρυθμίσεις Wi-Fi</string>
     <string name="xiaomi_connect_download_manager_fail">"Αδυναμία εκκίνησης λήψης. Βεβαιωθείτε πως η Διαχείριση λήψεων λειτουργεί κανονικά."</string>
     <string name="xiaomi_external_storage_unavailable">"Ο χώρος αποθήκευσης δεν είναι διαθέσιμος, ελέγξτε την κάρτα SD σας."</string>
+    <string name="xiaomi_router_location">Mi Router %s</string>
     <string name="xiaomi_update_dialog_message">"Γίνεται εισαγωγή έκδοσης %1$s
 Μέγεθος: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Γίνεται εισαγωγή έκδοσης %1$s

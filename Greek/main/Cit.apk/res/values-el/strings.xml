@@ -41,8 +41,12 @@
     <string name="action_example">Παράδειγμα ενέργειας</string>
     <string name="action_nothing">περίμενε για δοκιμή</string>
     <string name="add">Προσθήκη</string>
+    <string name="afdcalibration_test">ΔΟΚΙΜΗ ΒΑΘΜΟΝΟΜΗΣΗΣ AFD</string>
+    <string name="afdcalibrationrubberstamp_test">ΔΟΚΙΜΗ ΔΙΑΒΑΘΜΟΝΟΜΗΣΗΣ ΠΡΟΒΟΛΗΣ ΠΡΟΣΒΑΣΗΣ</string>
+    <string name="afdrubberstamp_test">ΔΟΚΙΜΗ ΠΡΟΣΩΠΙΚΟΥ ΣΤΟΙΧΕΙΟΥ ΠΡΟΣΒΑΣΗΣ</string>
     <string name="allow_gpu_maxfreq_summary">GPU overfreq πειραματική λειτουργία θα μπορούσε να εισαγάγει προβλήματα ενέργειας ή ακόμα πιο σοβαρά προβλήματα. Ωστόσο, θα αποκατασταθούν μόλις απενεργοποιήσετε αυτή τη λειτουργία. Ενεργοποιήστε τη λειτουργία GPU maxfreq?</string>
     <string name="ant_setting">ant</string>
+    <string name="audio_rule">Αναλυτής xml ήχου</string>
     <string name="audio_spk_cal_wait">Βαθμονόμηση, παρακαλώ...</string>
     <string name="audio_spk_def">Βαθμονόμηση των ομιλητών, παρακαλώ</string>
     <string name="back_mic_check_record_tip">Εγγραφή, παρακαλώ πείτε κάτι στο MIC στο πίσω μέρος του τηλεφώνου</string>
@@ -54,6 +58,10 @@
     <string name="battery_plug_wirelee_title">Δοκιμή ασύρματης φόρτισης</string>
     <string name="battery_plugin_wirelee">Η ασύρματη φόρτιση έχει συνδεθεί</string>
     <string name="battery_plugout_wirelee">Παρακαλώ συνδέστε ασύρματη φόρτιση</string>
+    <string name="battery_reverse_wireless_charge_success">επιτυχής αντιστροφή ασύρματης φόρτισης</string>
+    <string name="battery_reverse_wireless_charge_summary">δοκιμή αντίστροφης ασύρματης φόρτισης</string>
+    <string name="battery_reverse_wireless_charge_time_out">τερματισμός χρόνου αντίστροφης ασύρματης φόρτισης</string>
+    <string name="battery_reverse_wireless_charge_title">αντιστροφή ασύρματης φόρτισης</string>
     <string name="battery_value">Ηλεκτρισμός</string>
     <string name="begin_to_save_finger_data">Έναρξη αποθήκευσης δεδομένων δακτύλου</string>
     <string name="bt_address">Διεύθυνση:</string>
@@ -413,11 +421,13 @@
     <string name="cit_reset_check_title">Επανεκκίνηση δοκιμής</string>
     <string name="cit_reset_ese_summary">Επαναφέρετε το eSE, όλες οι NFC bankcards σας και οι transcards θα διαγραφούν.</string>
     <string name="cit_reset_test">Δοκιμή</string>
+    <string name="cit_reverse_charge_check_summary">Εισαγωγή OTG τηλεφώνου για φόρτιση</string>
     <string name="cit_rgb_check_blue_light">RGB blue</string>
     <string name="cit_rgb_check_green_light">RGB πράσινο</string>
     <string name="cit_rgb_check_red_light">RGB κόκκινο</string>
     <string name="cit_sar_get_status_title">GET DSI ΑΞΙΑ</string>
     <string name="cit_sar_sensor_check_summary">Οι τιμές για τα κανάλια αισθητήρα sar θα πρέπει να εμφανίζονται παρακάτω, καλύψτε το κουμπί του τηλεφώνου, εάν τα δεδομένα αλλάξουν, η λειτουργία είναι καλή, Παρακαλώ προσέξτε να μην κρατήσετε τη συσκευή και να κρατήσει το κάτω μέρος καθαρό του τηλεφώνου κυττάρων!</string>
+    <string name="cit_sar_sensor_check_title">SAR Sensor</string>
     <string name="cit_sar_setting_config_title">ΡΥΘΜΙΣΗ ΔΟΚΙΜΗΣ SAR</string>
     <string name="cit_sd_fail">Παρουσιάστηκε ένα σφάλμα.</string>
     <string name="cit_sd_mount">Τοποθέτηση κάρτας SD</string>
@@ -451,8 +461,12 @@
     <string name="cit_sim_state_unkown">Άγνωστο</string>
     <string name="cit_slider_hall_miui_test_summary">Εκτέλεση μιας πλήρους λειτουργίας ολίσθησης τηλεφώνου προς τα πάνω και ολίσθηση προς τα κάτω.</string>
     <string name="cit_slider_hall_test_summary">Εκτέλεση μιας πλήρους λειτουργίας ολίσθησης τηλεφώνου προς τα πάνω και ολίσθηση προς τα κάτω.</string>
+    <string name="cit_soft_torch">μπροστινό μαλακό φλας οδήγησε</string>
+    <string name="cit_soft_torch_on">Ενεργοποιήστε το ελαφρύ φλας</string>
+    <string name="cit_splash_check_summary">Βεβαιωθείτε ότι υπάρχει φαινόμενο μαύρης οθόνης περισσότερα 5s.</string>
     <string name="cit_start_calibration">Βαθμονόμηση</string>
     <string name="cit_stop_calibration">Διακοπή βαθμονόμησης</string>
+    <string name="cit_tele_camera_check_title">Τηλεφωνική κάμερα</string>
     <string name="cit_tfcard_no_support">Δεν υποστηρίζει την κάρτα TF σε αυτήν τη συσκευή.</string>
     <string name="cit_tfcard_support">Η κάρτα TF υποστηρίζεται σε αυτήν τη συσκευή.</string>
     <string name="cit_tfcard_support_summary">Ελέγξτε αν η TFCard υποστηρίζεται σε αυτήν τη συσκευή</string>
@@ -588,6 +602,8 @@
     <string name="cit_tool_bluetooth_tx_burst_run">RUN</string>
     <string name="cit_tool_bluetooth_tx_chain">κεραία:</string>
     <string name="cit_tool_bluetooth_tx_channel">κανάλι:</string>
+    <string name="cit_tool_bluetooth_tx_h">Εισαγάγετε τον φορέα Bluetooth 2.480GHz Freq Test Mode</string>
+    <string name="cit_tool_bluetooth_tx_l">Εισαγάγετε τον φορέα Bluetooth 2.402GHz Freq Test Mode</string>
     <string name="cit_tool_bluetooth_tx_level">Pwr/Lv:</string>
     <string name="cit_tool_bluetooth_tx_power">Pwr/dBm:</string>
     <string name="cit_tool_bluetooth_tx_rse_run">RUN</string>
@@ -711,6 +727,7 @@
 δοκιμή απέτυχε!"</string>
     <string name="cit_usb_OTG_in">USB_OTG συσκευή έχει συνδεθεί, παρακαλώ συνδέστε και αντίστροφη σύνδεση</string>
     <string name="cit_usb_OTG_in_charge">Εντοπίστηκε συσκευή USB OTG</string>
+    <string name="cit_usb_OTG_in_need_plugout">USB_OTG έχει συνδεθεί, παρακαλώ συνδέστε πρώτα</string>
     <string name="cit_usb_OTG_out">USB_OTG συσκευή έχει συνδεθεί έξω, παρακαλώ αντίστροφη βύσμα</string>
     <string name="cit_usb_OTG_plug_in_start_test">Παρακαλώ προσθέστε τη συσκευή USB_OTG και ξεκινήστε τη δοκιμή</string>
     <string name="cit_usb_OTG_plug_out_test_complete">USB_OTG έχει συνδεθεί έξω, πλήρης δοκιμή</string>
@@ -756,8 +773,10 @@
     <string name="copyright">Πνευματικά Δικαιώματα :Copyright: 2015 Goodix All Rights Reserved.</string>
     <string name="current_angle">Τρέχουσα Γωνία:</string>
     <string name="delete">Διαγραφή</string>
+    <string name="description_info">Πληροφορίες</string>
     <string name="display_test_finish">Η δοκιμή οθόνης ολοκληρώθηκε</string>
     <string name="dsi_sar_on_off_tips">Διακόπτης Dsi Sar On/Off</string>
+    <string name="enrol">Enrol</string>
     <string name="error">Σφάλμα</string>
     <string name="error_app_internal">Εσωτερικό σφάλμα εφαρμογής</string>
     <string name="error_app_unsupported">Μη υποστηριζόμενη μορφή</string>
@@ -769,6 +788,9 @@
     <string name="error_unknown_error">Άγνωστο Σφάλμα</string>
     <string name="fail">Αποτυχία</string>
     <string name="failed_to_test">ΑΠΕΝΕΡΓΟΠΟΙΗΜΕΝΗ ΔΟΚΙΜΗ</string>
+    <string name="far">FAR (Ρυθμός Αποδοχής):</string>
+    <string name="far_count">FAC (Αριθμός Αποδοχής):</string>
+    <string name="far_total_count">FATC (Αποδοχή Συνολικού Αριθμού):</string>
     <string name="fingerprint">Αποτύπωμα:</string>
     <string name="fingerprint_input_title">δοκιμή εισόδου δακτυλικού αποτυπώματος</string>
     <string name="firstplug_mic_check_record_tip">Σταμάτημα Εγγραφής, Αφού συνδέσετε τα ακουστικά επιβεβαιώστε το αποτέλεσμα</string>
@@ -798,7 +820,13 @@
     <string name="fpc_app_name">Εργαλείο Δοκιμής Αισθητήρα</string>
     <string name="fpc_pn_calibration">Λήψη και αποθήκευση εικόνας PN</string>
     <string name="front_mic_check_record_tip">Καταγραφή, παρακαλώ πείτε κάτι στο MIC στο μπροστινό μέρος του τηλεφώνου</string>
+    <string name="frr">FRR (Ρυθμός Απόρριψης):</string>
+    <string name="frr_count">FRC (Πλήθος Απόρριψης):</string>
+    <string name="frr_total_count">Frc( Συνολικός Αριθμός Απόρριψης):</string>
     <string name="get_DSI_result">Αποτέλεσμα DSI</string>
+    <string name="get_base_finger">Εξαγωγή εικόνας: πάρτε το βασικό δάχτυλο</string>
+    <string name="get_finger_data">Εξαγωγή εικόνας: δειγματοληψία δεδομένων δακτύλου</string>
+    <string name="get_sample_finger">Αποσυμπίεση εικόνας: πάρτε το δάχτυλο δείγματος</string>
     <string name="get_sensor_info">ΠΛΗΡΟΦΟΡΙΕΣ ΑΙΣΘΗΤΗΡΑ ΠΑΙΧΝΙΔΙΟΥ</string>
     <string name="get_template_finger">Εξαγωγή εικόνας: πάρτε το δάχτυλο του προτύπου</string>
     <string name="gpu_maxfreq_title">Λειτουργία GPU Overfreq για πειραματικό</string>
@@ -897,10 +925,12 @@
     <string name="radio_info_data_disconnected">Αποσυνδέθηκε</string>
     <string name="radio_info_data_network_type_label">Τύπος Δικτύου Δεδομένων:</string>
     <string name="radio_info_data_suspended">Αναστολή</string>
+    <string name="radio_info_display_dbm">dBm</string>
     <string name="radio_info_entry">Πληροφορίες Δικτύου Κινητού</string>
     <string name="radio_info_gprs_service_label">Υπηρεσία Δεδομένων:</string>
     <string name="radio_info_gsm_service_label">Φωνητική Υπηρεσία:</string>
     <string name="radio_info_neighboring_location_label">Πληροφορίες Κυττάρων Γειτονιών:</string>
+    <string name="radio_info_phone_idle">Αδρανής</string>
     <string name="radio_info_phone_number_label">Αριθμός Τηλεφώνου:</string>
     <string name="radio_info_phone_offhook">Κλήση σε εξέλιξη</string>
     <string name="radio_info_phone_ringing">Κουδούνισμα</string>

@@ -277,6 +277,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="size_unknown">Άγνωστο μέγεθος</string>
     <string name="start_backup_to_micloud">Δημιουργία αντιγράφων ασφαλείας για εφαρμογές στο Xiaomi Cloud</string>
     <string name="start_recover">Επαναφορά %s</string>
+    <string name="storage_unit_gb">%s GB</string>
+    <string name="storage_unit_mb">%s MB</string>
     <string name="success_open_cloudbackup">Έγινε ενεργοποίηση αντίγραφων ασφαλείας για εφαρμογές Αρχικής οθόνης</string>
     <string name="title_alert_cancel_restore">Διακοπή επαναφοράς</string>
     <string name="title_alert_restore_error">"Αδυναμία επαναφοράς"</string>

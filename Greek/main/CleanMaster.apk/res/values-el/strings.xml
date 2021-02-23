@@ -171,6 +171,7 @@
     <string name="buy_a_new_phone">Λήψη περισσότερου αποθηκευτικού χώρου</string>
     <string name="buy_immediately">Αγορά</string>
     <string name="buy_traffic_pack">Αγοράστε περισσότερα δεδομένα</string>
+    <string name="byteShort">B</string>
     <string name="cache_title_empty_folder">Άδειος φάκελος (%d)</string>
     <string name="cache_title_empty_folder2">Άδειος φάκελος</string>
     <string name="cache_title_system_cache">Προσωρινή μνήμη δεδομένων</string>
@@ -326,12 +327,14 @@
     <string name="garbage_month">Καθαρίστηκε %s αυτό το μήνα</string>
     <string name="gb_global_icon_ad_card_btn">GET</string>
     <string name="gb_global_icon_ad_card_title">Προτείνεται για εσάς</string>
+    <string name="gigabyteShort">GB</string>
     <string name="global_wa_audio">Ήχος</string>
     <string name="global_wa_audio_item_title">Φωνητικά μηνύματα</string>
     <string name="global_wa_backend_alert_dialog_content">Ελευθερώστε χώρο με την εκκαθάριση WhatsApp στοιχεία</string>
     <string name="global_wa_backend_alert_dialog_title">Καθαριστής WhatsApp</string>
     <string name="global_wa_clean_icon_text">Καθαριστής WhatsApp</string>
     <string name="global_wa_clean_now">Εκκαθάριση</string>
+    <string name="global_wa_document">Έγγραφα</string>
     <string name="global_wa_group_advice">Προτεινόμενο</string>
     <string name="global_wa_group_clean_earlier">Νωρίτερα</string>
     <string name="global_wa_group_clean_last_month">Προηγούμενος μήνας</string>
@@ -451,6 +454,7 @@
     <string name="hints_title_garbage">Απορρίμματα</string>
     <string name="hints_video_camera">Καταγεγραμμένα βίντεο</string>
     <string name="hints_video_download">Λήφθηκαν βίντεο</string>
+    <string name="hot">Δημοφιλή</string>
     <string name="hot_today">Δημοφιλή σήμερα</string>
     <string name="information_setting">Συστάσεις</string>
     <string name="install_sucess">Εγκαταστάθηκε %s με επιτυχία</string>
@@ -480,6 +484,7 @@
     <string name="mainbtn_text_no_trash">Παράλειψη</string>
     <string name="mainbtn_text_quick_cleanup">Εκκαθάριση %s</string>
     <string name="mainbtn_text_quick_cleanup_default">Εκκαθάριση</string>
+    <string name="megabyteShort">MB</string>
     <string name="memeory_check_content">%1$d εφαρμογές, μνήμη %2$s</string>
     <string name="memory_clean_icon_text">Ταχύτητα ενίσχυσης</string>
     <string name="memory_clean_no_trash_tip">Όλα φαίνονται καλά</string>
@@ -589,6 +594,7 @@
     <string name="permission_dialog_storage_btn2">Ακύρωση</string>
     <string name="permission_dialog_storage_content">Ο καθαριστής χρειάζεται άδεια πρόσβασης στον εσωτερικό χώρο αποθήκευσης για να μπορεί να λειτουργήσει κανονικά. Πατήστε \"Ρυθμίσεις\" για να διαχειριστείτε τα δικαιώματα αποθήκευσης.</string>
     <string name="permission_dialog_storage_title">Απαιτούνται δικαιώματα</string>
+    <string name="petabyteShort">PB</string>
     <string name="phone_search">Αναζήτηση Google</string>
     <string name="positive_confirm">Εντάξει</string>
     <string name="powerful_acceleration">Defragmentation</string>
@@ -695,6 +701,7 @@
     <string name="summary_delete_large_file">Οριστική διαγραφή των επιλεγμένων αρχείων?</string>
     <string name="summary_delete_video">Οριστική διαγραφή επιλεγμένων βίντεο?</string>
     <string name="summary_optimizer">"Ο καθαριστής χρειάζεται να ανεβάσει τα ονόματα αρχείων των αρχείων δεδομένων τοποθεσίας στους διακομιστές του Clean Master, για να είναι σε θέση να ενημερώσει τους ορισμούς του cloud. Συμφωνία?"</string>
+    <string name="terabyteShort">TB</string>
     <string name="there_is_no">Όλα φαίνονται καλά, ελάτε πίσω αργότερα</string>
     <string name="tips_low_storage_dialog_cancel">Ακύρωση</string>
     <string name="tips_low_storage_dialog_msg_qq">Το μέγεθος της προσωρινής μνήμης QQ έχει φτάσει στο 3GB. Αυτό μπορεί να επιβραδύνει τη συσκευή σας. Εκκαθάριση της προσωρινής μνήμης QQ τώρα?</string>
@@ -830,6 +837,7 @@
     <string name="whatsapp_function_summery">Εκκαθάριση συνημμένων WhatsApp</string>
     <string name="whatsapp_function_title">Καθαριστής WhatsApp</string>
     <string name="whatsapp_group_audio">Αρχεία ήχου</string>
+    <string name="whatsapp_group_document">Έγγραφα</string>
     <string name="whatsapp_group_image">Εικόνες</string>
     <string name="whatsapp_group_video">Βίντεο</string>
     <string name="whatsapp_group_voice">Φωνητικά μηνύματα</string>
