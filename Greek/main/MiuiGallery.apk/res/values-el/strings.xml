@@ -167,7 +167,7 @@
     <string name="album_share_subtitle_requesting">Γίνεται λήψη πληροφοριών άλμπουμ…</string>
     <string name="album_share_title_new_album">Κοινοποίηση νέου άλμπουμ</string>
     <string name="album_show_local_only">Προβολή μόνο τοπικών άλμπουμ</string>
-    <string name="album_show_local_only_summary">Ενεργοποιήστε για να δείτε και να διαγράψετε φωτογραφίες μόνο στην συσκευή σας</string>
+    <string name="album_show_local_only_summary">Μια επιλογή για τη διαγραφή μόνο τοπικών άλμπουμ θα είναι διαθέσιμη όταν αυτή η δυνατότητα είναι ενεργοποιημένη</string>
     <string name="album_sort_type">Σειρά ταξινόμησης</string>
     <string name="album_sort_type_create_time_asc">Από παλιά σε νέα</string>
     <string name="album_sort_type_create_time_desc">Από νέα σε παλιά</string>
@@ -221,7 +221,8 @@
     <string name="authorize_to_device_failed">"Αδυναμία εξουσιοδότησης"</string>
     <string name="authorize_watch_on_tv_failed">"Αδυναμία εξουσιοδότησης προβολής στην τηλεόραση"</string>
     <string name="auto_backup_introduce">Αυτόματος συγχρονισμός φωτογραφιών και βίντεο (απαιτείται Mi Λογαριασμός)</string>
-    <string name="auto_download_media_title">Αυτόματη λήψη φωτογραφιών από Xiaomi Cloud</string>
+    <string name="auto_download_media_title">Αυτόματη λήψη</string>
+    <string name="auto_download_title">Επιλογή ποιότητας εικόνας</string>
     <string name="auto_update_face">Αυτόματη προσθήκη φωτογραφιών</string>
     <string name="auto_update_face_summary">Αυτόματη αντιστοίχιση και προσθήκη φωτογραφιών στο άλμπουμ Μωρού</string>
     <string name="auto_update_off">Ανενεργό</string>
@@ -291,6 +292,8 @@
     <string name="backup_pause_dialog_title">Παύση συγχρονισμού</string>
     <string name="backup_pause_title">Έγινε παύση συγχρονισμού</string>
     <string name="backup_pending">Θα γίνει αυτόματη δημιουργία αντίγραφου ασφαλείας</string>
+    <string name="backup_settings">Συγχρονισμός με το cloud</string>
+    <string name="backup_settings_more">Πρόσθετες ρυθμίσεις</string>
     <string name="backup_stop">Διακοπή δημιουργίας</string>
     <string name="backup_sync_dialog_confirm">Ενεργοποίηση</string>
     <string name="backup_sync_dialog_tips">Ενεργοποίηση συγχρονισμού με το cloud για αλλαγή ρυθμίσεων.</string>
@@ -441,13 +444,23 @@
     <string name="close_dialog_desc">Κλείσιμο κουτί διαλόγου</string>
     <string name="cloud_authorize_to_share_to_device">Εξουσιοδότηση προβολής στοιχείων σε τηλεοράσεις που σχετίζονται με τον Mi Λογαριασμό σας</string>
     <string name="cloud_authorizing_to_device">Εξουσιοδότηση…</string>
+    <string name="cloud_backup_enable_title">Συγχρονισμός</string>
+    <string name="cloud_backup_open_button">Ενεργοποίηση</string>
+    <string name="cloud_backup_space">Αποθηκευτικός χώρος στο Cloud</string>
+    <string name="cloud_backup_status_disable">Ανενεργό</string>
+    <string name="cloud_backup_status_eneble">Ενεργό</string>
+    <string name="cloud_backup_title">Συγχρονισμός με το cloud</string>
+    <string name="cloud_bacup_disable_button">Απενεργοποίηση συγχρονισμού</string>
+    <string name="cloud_bacup_disable_processing">Επεξεργασία…</string>
     <string name="cloud_camera_display_name">Φωτογραφίες κάμερας</string>
     <string name="cloud_cancel_authorizing_to_device">Ακύρωση εξουσιοδότησης…</string>
     <string name="cloud_guide_auto_backup_title">Επιλέξτε άλμπουμ για συγχρονισμό</string>
     <string name="cloud_guide_login_title">Αυτόματη δημιουργία αντιγράφων ασφαλείας για φωτογραφίες και βίντεο</string>
     <string name="cloud_guide_welcome_title">Σύννεφο Xiaomi</string>
-    <string name="cloud_privacy_with_ai_album">Δήλωση απορρήτου για αυτόματο συγχρονισμό και επεξεργασία εικόνας</string>
-    <string name="cloud_privacy_with_face">Δήλωση απορρήτου για αυτόματο συγχρονισμό και αναγνώριση προσώπου</string>
+    <string name="cloud_login_ok">Το κατάλαβα</string>
+    <string name="cloud_login_settings_title">Ρυθμίσεις συγχρονισμού</string>
+    <string name="cloud_privacy_with_ai_album">Χαρακτηριστικά και ιδιωτικότητα</string>
+    <string name="cloud_privacy_with_face">Χαρακτηριστικά και ιδιωτικότητα</string>
     <string name="cloud_screenshots_display_name">Στιγμιότυπα οθόνης</string>
     <string name="cloud_settings">Συγχρονισμός</string>
     <string name="cloud_storage_extend">Επέκταση χώρου cloud</string>
@@ -1159,6 +1172,7 @@
     <string name="merge_album_title">Συγχώνευση με ένα άτομο</string>
     <string name="messagelist_sender_self">Εγώ</string>
     <string name="mi_drop">Mi Κοινοποίηση</string>
+    <string name="mi_mover_working_desc">Mi Mover μεταφέρει αντικείμενα…</string>
     <string name="micloud_introduce">Αυτόματος συγχρονισμός φωτογραφιών και βίντεο (απαιτείται Mi Λογαριασμός)</string>
     <string name="midnight">ΠΜ</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
@@ -1568,6 +1582,7 @@
     <string name="photo_purge_dialog_message_image">"Δεν θα είστε σε θέση να επαναφέρετε στοιχεία αν τα διαγράψετε. Διαγραφή ούτως ή άλλως?"</string>
     <string name="photo_purge_dialog_message_video">"Δεν θα είστε σε θέση να επαναφέρετε στοιχεία αν τα διαγράψετε. Διαγραφή ούτως ή άλλως?"</string>
     <string name="photo_save_to_msg">Αποθηκεύτηκε σε %s</string>
+    <string name="photo_size_not_support">"Αυτή η ανάλυση εικόνας δεν υποστηρίζεται"</string>
     <string name="photo_vlog_module_finish">Επιτυχής λήψη επεξεργαστή βίντεο</string>
     <string name="photo_vlog_module_loading">Λήψη επεξεργαστή βίντεο…</string>
     <string name="photodetail_failed_already_exist">Αυτό το αρχείο υπάρχει ήδη</string>
@@ -1810,6 +1825,7 @@
     <string name="security_share_subtitle_hide">Οι πληροφορίες τοποθεσίας αφαιρέθηκαν</string>
     <string name="security_share_subtitle_no_hide">Περιέχει πληροφορίες τοποθεσίας</string>
     <string name="see_ignore_faces">"Προβολή ατόμων που αγνοήσατε"</string>
+    <string name="see_more_settings">Πρόσθετες ρυθμίσεις</string>
     <string name="select_all">Επιλογή όλων</string>
     <string name="select_image_operation">Γίνεται προσθήκη φωτογραφιών</string>
     <string name="select_item_face">"Είναι '%s';"</string>
@@ -1851,7 +1867,7 @@
     <string name="share_public_url_text">"Κοινοποίησα το άλμπουμ %1$s με εσάς. Δείτε το στο%2$s"</string>
     <string name="share_with_family">Κοινοποίηση στην οικογένεια</string>
     <string name="sharer_quota_fulfiled">"Έχετε ήδη κοινοποιήσει αυτό το άλμπουμ με τον μέγιστο αριθμό ατόμων."</string>
-    <string name="show_cloud_albumlist_summary">Διαχείριση των άλμπουμ που συγχρονίζετε με το cloud</string>
+    <string name="show_cloud_albumlist_summary">"Τα νέα στοιχεία από τα επιλεγμένα άλμπουμ δεν θα μεταφορτωθούν στο cloud αφού απενεργοποιήσετε τον συγχρονισμό."</string>
     <string name="show_hidden_album_summary">Προβολή και διαχείριση κρυφών άλμπουμ</string>
     <string name="show_hidden_album_title">Προβολή κρυφών άλμπουμ</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Επιτυχής μετακίνηση, μεταβείτε στα Άλλα άλμπουμ για προβολή</string>
@@ -1970,6 +1986,11 @@
     <string name="support_single_image">Επιλέξτε μία εικόνα</string>
     <string name="support_single_video">Επιλέξτε ένα βίντεο</string>
     <string name="sync_album_in_proecess">Γίνεται συγχρονισμός άλμπουμ…</string>
+    <string name="sync_backup_disable_confirm_message_downloading">Αν απενεργοποιήσετε το συγχρονισμό τώρα, οι τρέχουσες λήψεις των αρχικών αρχείων που αποθηκεύονται στο σύννεφο θα διακοπούν. Υψηλής ποιότητας εικόνες που αποθηκεύονται σε αυτή τη συσκευή δεν θα είναι πλέον διαθέσιμες, καθώς και. Απενεργοποιήστε ούτως ή άλλως?</string>
+    <string name="sync_backup_disable_confirm_message_wait">Οι εικόνες υψηλής ποιότητας που είναι αποθηκευμένες σε αυτήν τη συσκευή δεν θα είναι πλέον διαθέσιμες μετά την απενεργοποίηση του συγχρονισμού. Μπορείτε να κατεβάσετε πρωτότυπα αρχεία από το cloud και να απενεργοποιήσετε το συγχρονισμό μετά από αυτό.</string>
+    <string name="sync_backup_disable_confirm_title">Απενεργοποίηση συγχρονισμού</string>
+    <string name="sync_backup_enable_confirm_message">Όταν ο συγχρονισμός με το cloud είναι ενεργός, τα στοιχεία από αυτήν τη συσκευή θα μεταφορτωθούν και θα συγχωνευτούν με τα στοιχεία που αποθηκεύονται στο σύννεφο.</string>
+    <string name="sync_backup_enable_confirm_title">Συγχώνευση συγχρονισμένων στοιχείων</string>
     <string name="sync_battery_low">Χαμηλή μπαταρία</string>
     <string name="sync_cloud_space_full">Μη επαρκής χώρος στο Xiaomi Cloud</string>
     <string name="sync_diabled_toast">Ο συγχρονισμός είναι απενεργοποιημένος</string>
@@ -2374,6 +2395,8 @@
     <string name="vlog_filter_lanmei">Μύρτιλο</string>
     <string name="vlog_filter_liulan">Ομίχλη</string>
     <string name="vlog_filter_luoma">Ρώμη</string>
+    <string name="vlog_filter_master_close">Εφέ βίντεο που αφαιρέθηκαν</string>
+    <string name="vlog_filter_master_open">Εφαρμοσμένα εφέ βίντεο</string>
     <string name="vlog_filter_no_support_nums">"Παράλειψη βίντεο που δεν υποστηρίζουν την επεξεργασία (%1$d)"</string>
     <string name="vlog_filter_nuanyang">Ηλιοφάνεια</string>
     <string name="vlog_filter_origin">Κανένα</string>

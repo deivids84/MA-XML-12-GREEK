@@ -107,8 +107,10 @@
     <string name="music_dirac_mode_general_earbuds">Γενικά</string>
     <string name="music_dirac_mode_general_inear">Γενικά In-Ear</string>
     <string name="music_dirac_mode_in_ear_four_unit">Ακουστικά Mi Quadruple Driver</string>
+    <string name="music_dirac_mode_mi_dual_driver_in_ear_earphones">Mi Διπλός Οδηγός Ενδο-Αυτί Ακουστικά</string>
     <string name="music_dirac_mode_off">Dirac ανενεργό</string>
     <string name="music_dirac_mode_piston_typec">Mi Ακουστικά μέσα στο αυτί ( τύπου C)</string>
+    <string name="music_dirac_mode_redmi_earphones">Redmi Ακουστικά</string>
     <string name="music_dolby_mode_movie">Βίντεο</string>
     <string name="music_dolby_mode_music">Μουσική</string>
     <string name="music_dolby_mode_off">Ανενεργό</string>

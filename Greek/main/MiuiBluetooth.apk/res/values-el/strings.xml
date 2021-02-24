@@ -432,6 +432,10 @@ Bluetooth"</string>
     <string name="mi_key_summary_open_camera">Διπλό κλικ στο Mi Key για άνοιγμα Κάμερας</string>
     <string name="mi_key_summary_take_photo">Κλικ στο Mi Key για λήψη φωτογραφίας</string>
     <string name="mi_key_take_photo">Λήψη φωτογραφίας</string>
+    <string name="miheadset_notification_Box">Κουτί</string>
+    <string name="miheadset_notification_Disconnect">Αποσύνδεση</string>
+    <string name="miheadset_notification_LeftEar">Α</string>
+    <string name="miheadset_notification_RightEar">Δ</string>
     <string name="mihome_app_download">Εγκατάσταση τώρα</string>
     <string name="mihome_app_update">Ενημέρωση τώρα</string>
     <string name="mihome_download_tips">Εγκαταστήστε την εφαρμογή Mi Home και κρατήστε το τηλέφωνό σας κοντά στη συσκευή.</string>
