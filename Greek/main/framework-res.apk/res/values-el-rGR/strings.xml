@@ -693,7 +693,7 @@
     <string name="httpErrorTooManyRequests">Πραγματοποιείται επεξεργασία πάρα πολλών αιτημάτων. Προσπαθήστε ξανά αργότερα.</string>
     <string name="httpErrorUnsupportedAuthScheme">"Το πλάνο ελέγχου ταυτότητας ιστοτόπου δεν υποστηρίζεται."</string>
     <string name="httpErrorUnsupportedScheme">"Το πρωτόκολλο δεν υποστηρίζεται."</string>
-    <string name="icu_abbrev_wday_month_day_no_year">eeeMMd</string>
+    <string name="icu_abbrev_wday_month_day_no_year">eeedMMMM</string>
     <string name="imProtocolCustom">Προσαρμοσμένο</string>
     <string name="imTypeCustom">Προσαρμοσμένο</string>
     <string name="imTypeHome">Σπίτι</string>

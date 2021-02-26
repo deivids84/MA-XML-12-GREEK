@@ -90,6 +90,8 @@
     <string name="already_favorited">Επισημάνθηκε ήδη ως αγαπημένο</string>
     <string name="always_use_metered">Να γίνεται πάντα χρήση δεδομένων κινητής</string>
     <string name="am">ΠΜ</string>
+    <string name="app_description_content">"Η μουσική είναι μια εφαρμογή συστήματος που περιέχει ένα πρόγραμμα αναπαραγωγής ήχου και σας επιτρέπει να διαχειριστείτε αρχεία ήχου. Θα μπορείτε ακόμα να αναπαράγετε αρχεία ήχου μετά την αφαίρεση της συντόμευσης Αρχικής οθόνης."</string>
+    <string name="app_description_title">Αφαίρεση \"Μουσικής\" από την αρχική οθόνη?</string>
     <string name="app_label">Λήψεις</string>
     <string name="app_permission_confirm">Κατανοητό</string>
     <string name="app_permission_optional">Προαιρετικές άδειες</string>
@@ -1059,6 +1061,7 @@
     <string name="talkback_back">Πίσω</string>
     <string name="talkback_batch_process">Πολλαπλά αντικείμενα</string>
     <string name="talkback_clear">Εκκαθάριση</string>
+    <string name="talkback_cut">Επεξεργαστής ήχου κλήσης</string>
     <string name="talkback_device">Αναπαραγωγή σε άλλες συσκευές</string>
     <string name="talkback_download">Λήψη</string>
     <string name="talkback_favorite">Αγαπημένο τραγούδι</string>

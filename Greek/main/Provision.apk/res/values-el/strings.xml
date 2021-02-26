@@ -154,6 +154,7 @@
     <string name="other_settings_user_experience">Πρόγραμμα Εμπειρίας Χρήστη</string>
     <string name="other_settings_user_experience_summary">Βοηθήστε μας στην βελτίωση των προϊόντων και υπηρεσιών μας στέλνοντας μας τα δεδομένα χρήσης σας. Δείτε λεπτομέρειες</string>
     <string name="other_settings_user_experience_summary_index">Προβολή λεπτομερειών</string>
+    <string name="permission_MIUIDaemon_introduction">Ο δαίμονας MIUI σάς επιτρέπει να μεταφέρετε δεδομένα από τη συσκευή σας όταν η οθόνη του είναι κατεστραμμένη.</string>
     <string name="permission_account">Πρόσβαση στους λογαριασμούς στη συσκευή σας:</string>
     <string name="permission_account_introduction">Για σύνδεση με Mi Λογαριασμό</string>
     <string name="permission_application_package_introduction">Για πρόσβαση στον χώρο αποθήκευσης για ανάλυση και σάρωση πακέτων εγκατάστασης</string>
@@ -186,6 +187,10 @@
     <string name="permission_picture_introduction">Για αποθήκευση, επεξεργασία και συγχρονισμό φωτογραφιών και βίντεο</string>
     <string name="permission_read_call_records">Επεξεργασία ιστορικού κλήσεων:</string>
     <string name="permission_read_call_records_introduction">Για προσθήκη αντικειμένων στο ιστορικό κλήσεων και διαγραφή αποκλεισμένων κλήσεων</string>
+    <string name="permission_read_contacts">Πρόσβαση σε επαφές</string>
+    <string name="permission_read_contacts_introduction">Για την επαλήθευση της ταυτότητάς σας</string>
+    <string name="permission_read_message">Πρόσβαση μηνυμάτων κειμένου</string>
+    <string name="permission_read_message_introduction">Για την επαλήθευση της ιδιοκτησίας της συσκευής σας</string>
     <string name="permission_read_note_introduction">Για πρόσβαση σε σημειώσεις και συνημμένα</string>
     <string name="permission_read_write_file">Πρόσβαση και αποθήκευση αρχείων και φωτογραφιών στη συσκευή σας:</string>
     <string name="permission_read_write_file_introduction">Για πρόσβαση, αποθήκευση και προσωρινή αποθήκευση αντικειμένων στη συσκευή σας</string>
@@ -223,6 +228,7 @@
     <string name="security_introduction">Μπορείτε να χρησιμοποιείτε αυτή την εφαρμογή για εκκαθάριση σκουπιδιών στη συσκευή σας, εύρεση και εξουδετέρωση ιών, βελτιστοποίηση απόδοσης παιχνιδιών, εξοικονόμηση μπαταρίας, διαχείριση εφαρμογών, αδειών και άλλα.</string>
     <string name="security_mobile_account_introduction">Για σύνδεση και διαχείριση των λογαριασμών συστήματος</string>
     <string name="service_agreement">"Διάβασα και συμφώνησα με τους όρους και προϋποθέσεις."</string>
+    <string name="service_name_MIUIDaemon">MIUI Daemon</string>
     <string name="service_name_album">Συλλογή</string>
     <string name="service_name_application_package">Εγκατάσταση πακέτων</string>
     <string name="service_name_backup">Αντίγραφα ασφαλείας</string>

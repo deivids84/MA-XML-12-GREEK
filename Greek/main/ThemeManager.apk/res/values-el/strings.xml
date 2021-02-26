@@ -434,9 +434,9 @@ d MMMM"</string>
     <string name="miui_lock_screen_date_two_lines_12">"EEEE
 d MMMM"</string>
     <string name="miui_lock_screen_large_date">"EEE
-M/dd"</string>
+dd/M"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
-M/dd"</string>
+dd/M"</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH

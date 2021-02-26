@@ -1668,7 +1668,7 @@ ID:%s
     <string name="title_start_use_menstruation_assistant">Καταγράψτε τον εμμηνορροϊκό σας κύκλο</string>
     <string name="title_today_exercise_detail">"Σημερινή δραστηριότητα"</string>
     <string name="today">Σήμερα</string>
-    <string name="today_hh_mm">Σήμερα ΩΩ:λλ</string>
+    <string name="today_hh_mm">Σήμερα HH:mm</string>
     <string name="today_label">Σήμερα</string>
     <string name="today_no_data">Δεν υπάρχουν δεδομένα για σήμερα ακόμα</string>
     <string name="today_single">Σήμερα</string>

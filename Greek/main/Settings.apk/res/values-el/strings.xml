@@ -4263,10 +4263,6 @@ Xiaomi Cloud
     <string name="miheadset_LeftEar">Αριστερά</string>
     <string name="miheadset_RightEar">Δεξιά</string>
     <string name="miheadset_active">Ενεργητικός</string>
-    <string name="miheadset_ancBalance">Μεσαίο</string>
-    <string name="miheadset_ancClosed">Ανενεργό</string>
-    <string name="miheadset_ancDecrease">Χαμηλή</string>
-    <string name="miheadset_ancIncrease">Υψηλή</string>
     <string name="miheadset_anc_indicate">Συνδέστε τα ακουστικά σας</string>
     <string name="miheadset_audio_mode">Ποιότητα ήχου</string>
     <string name="miheadset_audio_mode_high">Υψηλή</string>
@@ -4343,10 +4339,8 @@ Xiaomi Cloud
     <string name="miheadset_rename_device">Μετονομασία</string>
     <string name="miheadset_soft">Απαλό</string>
     <string name="miheadset_transparent">Διαφάνεια</string>
-    <string name="miheadset_transparentMode">Διαφάνεια</string>
     <string name="miheadset_triple_click_key_mode">Τριπλό πάτημα</string>
     <string name="miheadset_unpair_device_text">%1$s θα αποσυνδεθεί από όλες τις συσκευές που σχετίζονται με αυτόν τον Mi Λογαριασμό.</string>
-    <string name="miheadset_voiceIncrease">Βελτίωση φωνής</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Διάφορα αρχεία</string>
     <string name="misc_files_selected_count">Επιλέχθηκαν %1$d από %2$d</string>
