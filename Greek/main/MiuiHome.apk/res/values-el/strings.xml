@@ -152,6 +152,8 @@
     <string name="aqi_quality_index_light_pollution">Προσοχή</string>
     <string name="aqi_quality_index_moderate">Μέτρια</string>
     <string name="aqi_quality_index_unhealthy">Ανθυγιεινή</string>
+    <string name="assistant_edge_gesture_summary">Σύρετε προς τα επάνω από κάτω αριστερά ή κάτω δεξιά γωνία για να ξυπνήσει ο Βοηθός Google</string>
+    <string name="assistant_edge_gesture_title">Σύρετε προς τα πάνω για Βοηθό Google</string>
     <string name="auto_add_app_shortcut">Τοποθέτηση νέων εφαρμογών στην Αρχική οθόνη</string>
     <string name="auto_delete_category_dialog_content">Οι τρέχουσες εφαρμογές θα αφαιρεθούν από αυτή την κατηγορία και η κατηγορία θα διαγραφεί. Διαγραφή αυτής της κατηγορίας τώρα;</string>
     <string name="auto_delete_category_dialog_title">Διαγραφή κατηγορίας</string>

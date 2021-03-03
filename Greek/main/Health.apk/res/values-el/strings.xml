@@ -80,6 +80,7 @@
     <string name="altitude_pressure_hint">*Το ύψος που υπολογίζεται με βάση την ατμοσφαιρική πίεση είναι κατά προσέγγιση</string>
     <string name="altitude_range">Υψόμετρο</string>
     <string name="am">ΠΜ</string>
+    <string name="app_name">MiaoCourse</string>
     <string name="app_setting">Εφαρμογές</string>
     <string name="audio_permission_dialog_desc">Για να αναλύσει τον κύκλο του ύπνου σας και να εγγράψει ομιλία και ροχαλητό, η Xiaomi Health χρειάζεται άδεια εγγραφής ήχου.</string>
     <string name="audio_permission_dialog_title">Να επιτρέπεται εγγραφή ήχου</string>
@@ -263,6 +264,7 @@
     <string name="date_format_y_m_d_notranslate">ηη-μήνας-MM-έτος</string>
     <string name="date_format_yyyy_m_d_h_m">ΜΜ/ηη/εεεε ΩΩ:λλ</string>
     <string name="date_picker_lunar">Παραδοσιακό κινεζικό ημερολόγιο</string>
+    <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="date_week_index">"εεεε 'Δ'"</string>
     <string name="day">Ημέρα</string>
     <string name="deep_light_detection_open_prompt">Ο κύκλος ύπνου σας θα αναλυθεί την επόμενη φορά που θα πάτε στο κρεβάτι</string>
@@ -813,10 +815,13 @@ ID:%s
     <string name="miuix_appcompat_cloud_state_syncing">Γίνεται συγχρονισμός με Cloud…</string>
     <string name="miuix_appcompat_confirm_description">Επιβεβαίωση</string>
     <string name="miuix_appcompat_delete_description">Διαγραφή</string>
+    <string name="miuix_appcompat_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
+    <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_all_description">Επιλογή όλων</string>
+    <string name="miuix_appcompat_select_item">Επιλογή στοιχείων</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Επιτυχής ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Γίνεται ανανέωση…</string>
@@ -1082,6 +1087,7 @@ ID:%s
     <string name="select_recog_question">Επιλογή ενέργειας</string>
     <string name="select_swim_posture">Επιλέξτε στυλ</string>
     <string name="select_target">Select Target</string>
+    <string name="send">Αποστολή</string>
     <string name="send_diagnosis_log">Αποστολή αρχείου καταγραφής διάγνωσης</string>
     <string name="sending">Αποστολή…</string>
     <string name="set_emergency_contact">Επαφή έκτακτης ανάγκης</string>

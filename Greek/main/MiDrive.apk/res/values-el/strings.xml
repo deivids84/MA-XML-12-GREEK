@@ -324,6 +324,9 @@
     <string name="setting_title">Ρυθμίσεις</string>
     <string name="shortcut_dialog_confirm">Δημιουργία</string>
     <string name="shortcut_dialog_content">Δημιουργήστε μια συντόμευση αρχικής οθόνης για το Mi Drive?</string>
+    <string name="speed_unit_gb">%s GB/δ</string>
+    <string name="speed_unit_kb">%s KB/δ</string>
+    <string name="speed_unit_mb">%s MB/δ</string>
     <string name="start_download">Έναρξη λήψης…</string>
     <string name="start_upload">Έναρξη μεταφόρτωσης…</string>
     <string name="stay_tuned">Μείνετε συντονισμένοι</string>

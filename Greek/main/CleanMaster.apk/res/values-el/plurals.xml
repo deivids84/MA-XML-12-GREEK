@@ -23,16 +23,16 @@
         <item quantity="one">%1$d αντικείμενο ανά δευτερόλεπτο| Χρόνος που απομένει: %2$s</item>
     </plurals>
     <plurals name="dc_group_title_normal">
-        <item quantity="other">Πάρτε %1$d βήματα για να ελευθερώσετε %2$s</item>
-        <item quantity="one">Κάντε %1$d βήμα για να ελευθερώσετε %2$s</item>
+        <item quantity="other">Κάντε %1$d βήματα για απελευθέρωση έως %2$s</item>
+        <item quantity="one">Κάντε %1$d βήμα για απελευθέρωση έως %2$s</item>
     </plurals>
     <plurals name="dc_item_summary_apk">
         <item quantity="other">&lt;Data&gt;Μπορείτε να διαγράψετε &lt;font color=#0097FF&gt;%d&lt;/font&gt; πακέτα εγκατάστασης&lt;/Data&gt;</item>
         <item quantity="one">&lt;Data&gt;Μπορείτε να διαγράψετε &lt;font color=#0097FF&gt;%d&lt;/font&gt; πακέτο εγκατάστασης&lt;/Data&gt;</item>
     </plurals>
     <plurals name="dc_item_summary_app_data">
-        <item quantity="other">&lt;Data&gt;Μπορείτε να καθαρίσετε τα δεδομένα για &lt;font color=#0097FF&gt;%d&lt;/font&gt; εφαρμογές&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Μπορείτε να καθαρίσετε τα δεδομένα για &lt;font color=#0097FF&gt;%d&lt;/font&gt; εφαρμογή&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data&gt;Μπορείτε να καθαρίσετε τα δεδομένα &lt;font color=#0097FF&gt;%d&lt;/font&gt; εφαρμογών&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Μπορείτε να καθαρίσετε τα δεδομένα &lt;font color=#0097FF&gt;%d&lt;/font&gt; εφαρμογής&lt;/Data&gt;</item>
     </plurals>
     <plurals name="dc_item_summary_image">
         <item quantity="other">&lt;Data&gt;Μπορείτε να διαγράψετε &lt;font color=#0097FF&gt;%d&lt;/font&gt; περιττές φωτογραφίες&lt;/Data&gt;</item>
@@ -87,24 +87,24 @@
         <item quantity="one">Διαγραφή %1$s φωτογραφίας από όλες τις συσκευές σας;</item>
     </plurals>
     <plurals name="global_wa_clean_finish_audio">
-        <item quantity="other">&lt;Data&gt;Απελευθερώθηκε &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (αρκετό για &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; τραγούδια)&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Απελευθερώθηκε &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (αρκετό για &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; τραγούδι)&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data&gt;Ελευθερώσατε &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (αρκετά για &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; τραγούδια)&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Ελευθερώσατε &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (αρκετά για &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; τραγούδι)&lt;/Data&gt;</item>
     </plurals>
     <plurals name="global_wa_clean_finish_picture">
-        <item quantity="other">&lt;Data&gt;Απελευθερώθηκε &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (αρκετό για &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; φωτογραφίες)&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Απελευθερώθηκε &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (αρκετό για &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; φωτογραφία)&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data&gt;Ελευθερώσατε &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (αρκετά για &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; φωτογραφίες)&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Ελευθερώσατε &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (αρκετά για &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; φωτογραφία)&lt;/Data&gt;</item>
     </plurals>
     <plurals name="global_wa_image">
-        <item quantity="other">%1$d στοιχεία</item>
-        <item quantity="one">%1$d στοιχείο</item>
+        <item quantity="other">%1$d αντικείμενα</item>
+        <item quantity="one">%1$d αντικείμενο</item>
     </plurals>
     <plurals name="global_wa_video">
-        <item quantity="other">%1$d στοιχεία</item>
-        <item quantity="one">%1$d στοιχείο</item>
+        <item quantity="other">%1$d αντικείμενα</item>
+        <item quantity="one">%1$d αντικείμενο</item>
     </plurals>
     <plurals name="global_wa_voice">
         <item quantity="other">&lt;Data&gt;Βρέθηκαν &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; φωνητικά μηνύματα&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;Βρέθηκαν &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; φωνητικό μήνυμα&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;Βρέθηκε &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; φωνητικό μήνυμα&lt;/Data&gt;</item>
     </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="other">%d ομάδες</item>
@@ -139,8 +139,8 @@
         <item quantity="one">Έγινε λήψη από %1$d άτομο</item>
     </plurals>
     <plurals name="resutl_function_install_app_summary">
-        <item quantity="other">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; εφαρμογές δεν έχουν χρησιμοποιηθεί για μεγάλη περίοδο, ρίξτε μια ματιά.;&lt;/Data&gt;</item>
-        <item quantity="one">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; εφαρμογή δεν έχει χρησιμοποιηθεί για μεγάλη περίοδο, ρίξτε μια ματιά.;&lt;/Data&gt;</item>
+        <item quantity="other">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; εφαρμογές δεν έχουν χρησιμοποιηθεί για μεγάλη περίοδο, ρίξτε μια ματιά.&lt;/Data&gt;</item>
+        <item quantity="one">&lt;Data&gt;&lt;font color=#ff0000 &gt;%d&lt;/font&gt; εφαρμογή δεν έχει χρησιμοποιηθεί για μεγάλη περίοδο, ρίξτε μια ματιά.&lt;/Data&gt;</item>
     </plurals>
     <plurals name="rs_clean_size_hint_image">
         <item quantity="other">Αρκετά για %d φωτογραφίες</item>

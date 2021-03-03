@@ -775,6 +775,7 @@ Bluetooth"</string>
     <string name="face_unlock_pin_and_fingerprint">Εισαγάγετε PIN ή χρησιμοποιήστε δακτυλικό αποτύπωμα για ξεκλείδωμα</string>
     <string name="face_unlock_reveal_eye">Κάντε τα μάτια σας ορατά</string>
     <string name="face_unlock_reveal_mouth">Κάντε τα χείλη σας ορατά</string>
+    <string name="face_unlock_success">Ξεκλείδωτο επιτυχώς</string>
     <string name="failed_to_open_app_settings_toast">"Αδυναμία ανοίγματος ρυθμίσεων για %1$s"</string>
     <string name="fingerprint_add_text">Η λειτουργία δακτυλικού αποτυπώματος ενημερώθηκε. Προσθέστε το δακτυλικό σας αποτύπωμα ξανά.</string>
     <string name="fingerprint_add_title">Προσθήκη δακτυλικού αποτυπώματος</string>
@@ -1212,6 +1213,7 @@ d MMMM"</string>
     <string name="media_transfer_this_device_name">Αυτή η συσκευή</string>
     <string name="media_transfer_wired_device_name">Ενσύρματη συσκευή ήχου</string>
     <string name="media_transfer_wired_usb_device_name">Ενσύρματα ακουστικά</string>
+    <string name="megabyte_per_second">MB/δ</string>
     <string name="memory_leak">Διαρροή μνήμης</string>
     <string name="menu_ime">Εναλλαγή πληκτρολογίου</string>
     <string name="mic_active">Ενεργό μικρόφωνο</string>

@@ -100,9 +100,12 @@
     <string name="input_method_category">"Επιλογή προεπιλεγμένου πληκτρολογίου που θα χρησιμοποιείτε για τα μηνύματα, σημειώσεις, και σχεδόν για όλα. Μπορείτε αργότερα να εγκαταστήσετε πληκτρολόγια ανεξάρτητων κατασκευαστών."</string>
     <string name="input_method_setting">Επιλογή πληκτρολόγιου</string>
     <string name="install_preinstall_app">Φόρτωση εφαρμογών…</string>
+    <string name="item_contents_wwarning">"Εάν η συσκευή σας λείπει, δεν θα είστε σε θέση να εμποδίσετε άλλους ανθρώπους να τα χρησιμοποιήσουν και να έχουν πρόσβαση στα δεδομένα σας, εκτός αν ορίσετε μια κλειδαριά οθόνης. Παράλειψη ούτως ή άλλως?"</string>
     <string name="item_fingerprint">Δακτυλικό αποτύπωμα</string>
     <string name="item_lock_screen_password">Μόνο κλείδωμα οθόνης</string>
     <string name="item_lock_screen_password_only">Κλείδωμα οθόνης</string>
+    <string name="item_return">Ορισμός</string>
+    <string name="item_skip">Παράλειψη</string>
     <string name="ktlocation_U">(KT Παράγοντας Υπηρεσίας)</string>
     <string name="ktposition_header">Κοινοποίηση πληροφοριών τοποθεσίας με υπηρεσίες επείγουσας διάσωσης</string>
     <string name="language_picker_other_languages_title">Περισσότερες γλώσσες</string>
@@ -300,6 +303,7 @@
     <string name="terms_privacy_policy_input_method_facemoji">Πολιτική Απορρήτου Facemoji</string>
     <string name="terms_privacy_policy_input_method_kika">Πολιτική Απορρήτου Kika</string>
     <string name="title_fingerprint">Ορισμός κωδικού</string>
+    <string name="title_set_fingerprint">Κλείδωμα οθόνης</string>
     <string name="user_agreement">Όροι Χρήσης</string>
     <string name="user_agreement_declare">Πριν χρησιμοποιήσετε το MIUI, πρέπει να διαβάσετε και να συμφωνήσετε με τη Συμφωνία Χρήστη και την Πολιτική Απορρήτου. Όσο ενεργοποιείται η συσκευή σας, η Υπηρεσία Ενεργοποίησης Mi SIM, Xiaomi Cloud, Εύρεση συσκευής, Αρχική Οθόνη, Συχνές φράσεις, Υπηρεσία μετάφρασης, MIUI Daemon, Πρόγραμμα προβολής HTML, MIUI SDK, Βοηθός AI, Μπαταρία και Απόδοση, Ανιχνευτής Ισχύος, Joyose, Ρύθμιση του OS AI, Διαχειριστής αδειών και Ενημερώσεις θα συνδεθούν στο δίκτυο. Οι Έξυπνες υπηρεσίες θα συνδεθούν στο δίκτυο και θα πραγματοποιήσουν πρόσβαση στην τοποθεσία σας.</string>
     <string name="voice_assist_advice">Το Mi AI σάς επιτρέπει να χρησιμοποιείτε έλεγχο φωνής, αλλά καταναλώνει περισσότερη ισχύ (+1% κάθε ώρα).</string>

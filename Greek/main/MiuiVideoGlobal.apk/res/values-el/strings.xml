@@ -99,6 +99,8 @@
     <string name="alert_dialog_download_prepare">Γίνεται προετοιμασία λήψης…</string>
     <string name="alert_dialog_download_progress">"Γίνεται λήψη εφαρμογής: "</string>
     <string name="all">Προβολή όλων</string>
+    <string name="app_description_content">"Το Mi Video είναι μια εφαρμογή συστήματος που περιέχει ένα τοπικό πρόγραμμα αναπαραγωγής βίντεο. Θα μπορείτε ακόμα να αναπαράγετε αρχεία βίντεο μετά την αφαίρεση της συντόμευσης αρχικής οθόνης."</string>
+    <string name="app_description_title">Αφαιρέστε το \"Mi Video\" από την αρχική οθόνη?</string>
     <string name="app_name">Mi Βίντεο</string>
     <string name="auth_again">Συμφωνώ</string>
     <string name="auth_fail_warning">Η συνεδρία έληξε. Συνδεθείτε ξανά.</string>
@@ -107,6 +109,7 @@
     <string name="back_to_mainpage">Εξερεύνηση</string>
     <string name="before_yestoday">Πριν 2 ημέρες</string>
     <string name="bind_sign_in_title">Προσθήκη Mi Λογαριασμού</string>
+    <string name="brvah_app_name">Βιβλιοθήκη</string>
     <string name="cancel">Ακύρωση</string>
     <string name="cancel_choose">Αποεπιλογή</string>
     <string name="cancel_subscribe_tips">Κατάργηση ακολούθησης τώρα;</string>
@@ -261,6 +264,13 @@ ID:%s
 Αποστολή αυτού του κωδικού στον επόπτη."</string>
     <string name="dialog_privacy_info_new2">"Για να μπορέσετε να χρησιμοποιήσετε τις υπηρεσίες αυτές, πρέπει να συμφωνήσετε ότι %1$s θα συλλέγει, επεξεργάζεται και χρησιμοποιεί τις προσωπικές σας πληροφορίες. Αναμένεται ότι έχετε διαβάσει και συμφωνήσει στην &lt;a href=%2$s&gt;Πολιτική Απορρήτου&lt;/a&gt; όταν πατήσετε \"Συμφωνώ\" παρακάτω."</string>
     <string name="dialog_privacy_info_new3">"Για να μπορείτε να χρησιμοποιείτε αυτή την υπηρεσία, πρέπει να επιτρέψετε στην εφαρμογή %1$s να συλλέγει, επεξεργάζεται και χρησιμοποιεί τα προσωπικά σας δεδομένα σύμφωνα με την Πολιτική Απορρήτου. Εάν πατήσετε στο Αποδοχή παρακάτω, συμφωνείτε με την &lt;a href=%2$s&gt;Πολιτική Απορρήτου&lt;/a&gt; και το &lt;a href=%3$s&gt;Συμφωνητικό Χρήστη&lt;/a&gt; της Xiaomi. &lt;br/&gt;&lt;br/&gt;Πατώντας στο Αποδοχή, συμφωνείτε επίσης να παρέχετε στο Mi Video πρόσβαση στη λίστα εφαρμογών εγκατεστημένων στη συσκευή σας. Με αυτή την άδεια, το Mi Βίντεο θα μπορεί να κάνει κοινή χρήση στοιχείων, να κατανοεί εάν μία εφαρμογή είναι εγκατεστημένη στη συσκευή σας, ποια έκδοση της εφαρμογής έχει εγκατασταθεί και εάν μια εφαρμογή είναι ασφαλής."</string>
+    <string name="dialog_privacy_revoke_cancel">Ακύρωση</string>
+    <string name="dialog_privacy_revoke_count_down">Ανάληψη (%1$dδ)</string>
+    <string name="dialog_privacy_revoke_description">Κάνοντας εναλλαγή από το διακόπτη, αποσύρετε τη συγκατάθεσή σας για την Πολιτική Απορρήτου του Mi Video. Θα σταματήσουμε να συλλέγουμε τα προσωπικά σας στοιχεία. Οι προσωπικές πληροφορίες που έχουν ήδη συλλεχθεί και αποθηκευτεί θα διαγραφούν εντός της συγκεκριμένης χρονικής περιόδου, όπως απαιτείται από την ισχύουσα νομοθεσία. Η ανάκληση της συγκατάθεσής σας στην Πολιτική Προστασίας Προσωπικών Δεδομένων θα πραγματοποιηθεί ως άρνηση αποδοχής ηλεκτρονικών υπηρεσιών βάσει συλλεγόμενων προσωπικών πληροφοριών.</string>
+    <string name="dialog_privacy_revoke_fail">Η συσκευή σας πρέπει να συνδεθεί στο δίκτυο για να μπορέσετε να αποσύρετε τη συγκατάθεσή σας. Ελέγξτε τις ρυθμίσεις δικτύου σας και προσπαθήστε ξανά.</string>
+    <string name="dialog_privacy_revoke_ok">Ανάληψη</string>
+    <string name="dialog_privacy_revoke_success">Επιτυχής απόσυρση</string>
+    <string name="dialog_privacy_revoking">Ανάκληση της συγκατάθεσης…</string>
     <string name="dialog_privacy_title">Εξουσιοδότηση</string>
     <string name="dialog_revoke_privacy_info_new2">Μετά την ανάκληση εξουσιοδότησης, η εφαρμογή θα διακόψει την συλλογή δεδομένων, και όλα τα σχετικά δεδομένα θα διαγραφούν από τους διακομιστές μας. Αυτό ενδέχεται να καταστήσει εικονικά άχρηστη την εφαρμογή. Ανάκληση εξουσιοδότησης παρ\' όλα αυτά;</string>
     <string name="dialog_revoke_privacy_title">Ανάκληση εξουσιοδότησης</string>
@@ -685,6 +695,7 @@ ID:%s
     <string name="next_step">Επόμενο</string>
     <string name="nick_name">Ψευδώνυμο</string>
     <string name="no_account">Δεν έχετε συνδεθεί</string>
+    <string name="no_history">Δεν υπάρχουν αντικείμενα εδώ</string>
     <string name="no_longer_prompt">"Να μην εμφανιστεί ξανά"</string>
     <string name="no_more_content">"Αυτά προς το παρόν"</string>
     <string name="no_network_tips">"Αδυναμία χρήσης αυτής της λειτουργίας τώρα. Η πρόσβαση στο δίκτυο είναι περιορισμένη."</string>
@@ -1049,6 +1060,8 @@ ID:%s
     <string name="plus_sort_type_time">Ώρα</string>
     <string name="plus_tab_gallery">Φάκελοι</string>
     <string name="plus_tab_time">Χρονοδιάγραμμα</string>
+    <string name="privacy_revoke_setting">Κάνοντας εναλλαγή από το διακόπτη, αποσύρετε τη συγκατάθεσή σας για την Πολιτική Απορρήτου του Mi Video.</string>
+    <string name="privacy_revoke_title">Ανάκληση της συγκατάθεσης</string>
     <string name="progressbar_title">Έλεγχος για προβλήματα ασφαλείας…</string>
     <string name="psw_hint">Κωδικός</string>
     <string name="psw_sign_in">Σύνδεση με κωδικό</string>
@@ -1114,6 +1127,7 @@ ID:%s
     <string name="screenrecord_cancel">Προβλήματα συμβατότητας</string>
     <string name="screenrecord_nosupport_record">"Για την ώρα, η Εγγραφή οθόνης δεν υποστηρίζεται σε αυτή την συσκευή."</string>
     <string name="search">Αναζήτηση</string>
+    <string name="search_bar_hint">Αναζήτηση βίντεο</string>
     <string name="search_choose_language">Επιλέξτε γλώσσα</string>
     <string name="search_choose_voice_language">Επιλέξτε τη γλώσσα που χρησιμοποιείται για φωνητική αναζήτηση</string>
     <string name="search_hot_words">Δημοφιλή</string>
@@ -1300,4 +1314,12 @@ ID:%s
     <string name="xiaomi_update_sdk_external_storage_unavailable">Μη διαθέσιμος χώρος, ελέγξτε την κάρτα SD.</string>
     <string name="year">έτος</string>
     <string name="yesterday">Χθες</string>
+    <string name="ytb_account">Λογαριασμοί</string>
+    <string name="ytb_author_video">Βίντεο</string>
+    <string name="ytb_login">Σύνδεση</string>
+    <string name="ytb_login_btn">Σύνδεση</string>
+    <string name="ytb_login_hint">Συνδεθείτε για να δείτε τις συνδρομές σας στο YouTube</string>
+    <string name="ytb_logout">Αποσύνδεση</string>
+    <string name="ytb_play_next">Επάνω επόμενο</string>
+    <string name="ytb_subscribed">Συνδρομές</string>
 </resources>

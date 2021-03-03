@@ -272,7 +272,7 @@
     <string name="no">Όχι</string>
     <string name="noon">Μεσημέρι</string>
     <string name="notification_click_tip">Πατήστε για προβολή λεπτομερειών</string>
-    <string name="ok">ΟΚ</string>
+    <string name="ok">OK</string>
     <string name="perm_action_allow">Αποδοχή</string>
     <string name="perm_action_deny">Να μην γίνει ποτέ αποδοχή</string>
     <string name="perm_manager_suggest_operation">Διαχείριση αδειών</string>

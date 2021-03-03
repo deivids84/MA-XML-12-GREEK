@@ -77,7 +77,7 @@
     <string name="incoming_file_confirm_content">Αποδοχή εισερχόμενου αρχείου;</string>
     <string name="incoming_file_confirm_ok">Αποδοχή</string>
     <string name="incoming_file_confirm_timeout_content">Σημειώθηκε διακοπή κατά την αποδοχή ενός εισερχόμενου αρχείου από τον αποστολέα \"%1$s\"</string>
-    <string name="incoming_file_confirm_timeout_ok">ΟΚ</string>
+    <string name="incoming_file_confirm_timeout_ok">OK</string>
     <string name="incoming_file_confirm_title">Μεταφορά αρχείου</string>
     <string name="incoming_file_toast_msg">Εισερχόμενο αρχείο από άλλη συσκευή. Επιβεβαιώστε ότι θέλετε να λάβετε αυτό το αρχείο.</string>
     <string name="incoming_line1">Από</string>

@@ -194,7 +194,7 @@
     <string name="antivirus_third_privacy_title">Πολιτικές απορρήτου τρίτων</string>
     <string name="antivirus_toast_already_update">Έγινε ενημέρωση</string>
     <string name="antivirus_toast_network_unavailable">"Αδυναμία σύνδεσης στο δίκτυο"</string>
-    <string name="antivirus_toast_update_failed">"Αδυναμία ενημέρωσης"</string>
+    <string name="antivirus_toast_update_failed">Οι διακομιστές μας είναι απασχολημένοι. Περιμένετε ένα ή δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="antivirus_toast_update_success">Επιτυχής ενημέρωση</string>
     <string name="antivirus_toast_updating">Γίνεται ενημέρωση…</string>
     <string name="antivirus_update_btn_contiue">Συνέχεια</string>
@@ -459,17 +459,24 @@
     <string name="app_manager_show_detail_infos">Προβολή όλων</string>
     <string name="app_manager_start_by">Έγινε εκκίνηση από %s</string>
     <string name="app_manager_system_mobile_disable">Απενεργοποίηση δεδομένων</string>
+    <string name="app_manager_tab_app">Εφαρμογές</string>
+    <string name="app_manager_tab_manager">Διαχείριση</string>
     <string name="app_manager_thumbnail_blur_summary">Θόλωμα προβολών εφαρμογών στα Πρόσφατα</string>
     <string name="app_manager_thumbnail_blur_title">Θόλωμα προβολών εφαρμογών</string>
     <string name="app_manager_title">Διαχείριση εφαρμογών</string>
+    <string name="app_manager_to_appstore">Ανακαλύψτε περισσότερες εφαρμογές</string>
     <string name="app_manager_total_size">Σύνολο</string>
     <string name="app_manager_uninstall">Απεγκατάσταση</string>
+    <string name="app_manager_uninstall_button_text">Απεγκατάσταση</string>
+    <string name="app_manager_uninstall_notify_title">Απεγκατάσταση εφαρμογών που χρησιμοποιούνται σπάνια</string>
     <string name="app_manager_uninstall_protected_dlg_msg">Η απεγκατάσταση εφαρμογών συστήματος μπορεί να αποτρέψει ορισμένα MIUI στοιχεία να λειτουργήσουν κανονικά. Απεγκατάσταση παρ\' όλα αυτά;</string>
     <string name="app_manager_uninstall_protected_dlg_title">Γίνεται απεγκατάσταση εφαρμογών συστήματος</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Οι αντίστοιχες διπλότυπες εφαρμογές θα αφαιρεθούν ταυτόχρονα με τα δεδομένα εφαρμογών.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_msg">Η απεγκατάσταση διπλότυπης εφαρμογής θα διαγράψει όλα τα δεδομένα της εφαρμογής.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_title">Απεγκατάσταση διπλότυπης εφαρμογής;</string>
     <string name="app_manager_unstall_application">Απεγκατάσταση</string>
+    <string name="app_manager_update">Ενημέρωση</string>
+    <string name="app_manager_updater_notify_message">Ενημέρωση εφαρμογών για πρόσβαση σε νέες λειτουργίες</string>
     <string name="app_managere_not_have_app">Κενό</string>
     <string name="app_manger_des_separator">", "</string>
     <string name="app_mobile">Δεδομένα κινητής τηλεφωνίας</string>
@@ -615,7 +622,7 @@
     <string name="auto_task_edit_choose_condition_title">Επιλογή προϋπόθεσης</string>
     <string name="auto_task_edit_choose_new_operation">Προσθήκη ενέργειας</string>
     <string name="auto_task_edit_choose_operation_title">Επιλογή ενέργειας</string>
-    <string name="auto_task_edit_condition_summary">Για παράδειγμα, \"Στις 23:00\"</string>
+    <string name="auto_task_edit_condition_summary_new">Για παράδειγμα, \"At %s\"</string>
     <string name="auto_task_edit_condition_title">Προσθήκη προϋπόθεσης</string>
     <string name="auto_task_edit_my_custom_task">Εισαγωγή ονόματος εργασίας</string>
     <string name="auto_task_edit_operation_summary">Για παράδειγμα, \"Ενεργοποιήστε την Λειτουργία πτήσης\"</string>
@@ -627,7 +634,7 @@
     <string name="auto_task_manager_group_title">Οι αυτόματες εργασίες μου</string>
     <string name="auto_task_notify_do_task_title">Οι αυτόματες εργασίες ξεκίνησαν</string>
     <string name="auto_task_notify_exit_task_title">Οι αυτόματες εργασίες τερματίστηκαν</string>
-    <string name="auto_task_notify_task_cancel_count_down">Η αυτόματη ενέργεια θα ακυρωθεί σε 5 δευτερόλεπτα</string>
+    <string name="auto_task_notify_task_cancel_count_down_new">Η αυτοματοποιημένη ενέργεια θα ακυρωθεί σε %d δευτερόλεπτα</string>
     <string name="auto_task_notify_task_cancel_do">Ακύρωση ενέργειας</string>
     <string name="auto_task_notify_task_canceled_summary">Μπορείτε να πραγματοποιείτε και να δέχεστε κλήσεις</string>
     <string name="auto_task_notify_task_canceled_summary2">"Φαίνεται ότι παίζετε ένα παιχνίδι."</string>
@@ -635,7 +642,7 @@
     <string name="auto_task_notify_task_canceled_summary4">Ακυρώθηκε από Πρώτο χώρο</string>
     <string name="auto_task_notify_task_canceled_title">Η ενέργεια ακυρώθηκε</string>
     <string name="auto_task_notify_task_continue_do">Έναρξη ενέργειας</string>
-    <string name="auto_task_notify_task_count_down">Η αυτόματη ενέργεια θα ξεκινήσει σε 5 δευτερόλεπτα</string>
+    <string name="auto_task_notify_task_count_down_new">Η αυτοματοποιημένη ενέργεια θα ξεκινήσει σε %d δευτερόλεπτα</string>
     <string name="auto_task_notify_task_exit_task">Ακύρωση εργασίας</string>
     <string name="auto_task_operation_airplane_mode">Λειτουργία πτήσης</string>
     <string name="auto_task_operation_auto_brightness">Αυτόματη φωτεινότητα</string>
@@ -841,6 +848,9 @@
     <string name="card_main_xspace_summary">Δημιουργία διπλότυπων λογαριασμών για οποιαδήποτε εφαρμογή</string>
     <string name="card_main_xspace_title">Διπλότυπες εφαρμογές</string>
     <string name="card_tc_failed">"Αδυναμία βαθμονόμησης"</string>
+    <string name="card_uninstall_button_text">Διαχείριση</string>
+    <string name="card_uninstall_summary">Απεγκατάσταση εφαρμογών που χρησιμοποιούνται σπάνια για να ελευθερώσετε χώρο αποθήκευσης</string>
+    <string name="card_uninstall_title_1">Απεγκατάσταση εφαρμογών που χρησιμοποιούνται σπάνια</string>
     <string name="cd_back">Πίσω</string>
     <string name="cellular_data_auto_check">Αυτόματος έλεγχος</string>
     <string name="cellular_package_daily_input">Εισαγωγή</string>
@@ -959,7 +969,7 @@
     <string name="deep_clean_never_memory_clean">Ποτέ</string>
     <string name="deep_power_save_item_summary_auto_brightness">Αυτόματη προσαρμογή φωτεινότητας οθόνης για εξοικονόμηση μπαταρίας</string>
     <string name="deep_power_save_item_summary_bluetooth">Απενεργοποιήστε το Bluetooth για εξοικονόμηση μπαταρίας</string>
-    <string name="deep_power_save_item_summary_lock_screen_time">Απενεργοποίηση οθόνης μετά από 15 δευτερόλεπτα αδράνειας για εξοικονόμηση μπαταρίας</string>
+    <string name="deep_power_save_item_summary_lock_screen_time_new">Βάλτε την οθόνη σε αναστολή μετά από %d δευτερόλεπτα αδράνειας για εξοικονόμηση μπαταρίας</string>
     <string name="deep_power_save_item_title_auto_brightness">Ενεργοποίηση αυτόματης φωτεινότητας</string>
     <string name="deep_power_save_item_title_bluetooth">Απενεργοποίηση Bluetooth</string>
     <string name="deep_power_save_item_title_lock_screen_time">Απενεργοποιήστε την οθόνη</string>
@@ -1505,6 +1515,7 @@
     <string name="gamebox_immersion_tips_content">Η Λειτουργία καθήλωσης αποτρέπει όλες τις λειτουργίες της κάρτας SIM εκτός από τη σύνδεση στα δεδομένα κινητής τηλεφωνίας. Δεν θα σας διακόψουν ούτε εισερχόμενες κλήσεις, ούτε θα λάβετε ειδοποιήσεις σχετικές με αναπάντητες κλήσεις. Όλες οι λειτουργίες της κάρτας SIM θα επανέλθουν όταν απενεργοποιηθεί η Λειτουργία Καθήλωσης. Ενεργοποίηση Λειτουργίας Καθήλωσης;</string>
     <string name="gamebox_immersion_tips_title">Προσοχή</string>
     <string name="gamebox_immerson_open">"Γίνεται απενεργοποίηση Λειτουργίας καθήλωσης, μην κάνετε εναλλαγή δικτύων…"</string>
+    <string name="gamebox_macro">Combos</string>
     <string name="gamebox_manual_record">Εγγραφή</string>
     <string name="gamebox_milink">Μετάδοση</string>
     <string name="gamebox_positive_button_text">ΟΚ (%1$dδ)</string>
@@ -1592,6 +1603,9 @@
     <string name="gb_first_window_summary">Ενίσχυση ταχύτητας και απόδοσης στο επίπεδο συστήματος</string>
     <string name="gb_first_window_title">Τούρμπο παιχνιδιού</string>
     <string name="gb_game_end_toast">Αναθεώρηση των βασικών στιγμών των παιχνιδιών σας</string>
+    <string name="gb_game_macro_bubble_tips">Δοκιμάστε combos</string>
+    <string name="gb_game_macro_toast_tips">"Δοκίμασε combos!
+Καταγράψτε ακολουθίες και χρησιμοποιήστε τις οποτεδήποτε!"</string>
     <string name="gb_game_video_bottom_tips">Παρακολουθήστε τις εγγραφές των συνεδριών σας στο gamebox. Τα βίντεο αποθηκευτήκαν εκεί για 7 ημέρες από προεπιλογή.</string>
     <string name="gb_game_video_item_tag">Βασική στιγμή</string>
     <string name="gb_game_video_page_delete_success">Επιτυχής διαγραφή</string>
@@ -1620,6 +1634,20 @@
     <string name="gb_new_feature">Νέα λειτουργία</string>
     <string name="gb_operat_frequently">Όχι τόσο γρήγορα!</string>
     <string name="gb_shortcut_pref_title">Συντόμευση Αρχικής οθόνης</string>
+    <string name="gb_shoulder_key">Κουμπιά ώμου</string>
+    <string name="gb_shoulder_key_add_show_btn">Εμφάνιση εικονικών κουμπιών κατά τη διάρκεια παιχνιδιών</string>
+    <string name="gb_shoulder_key_add_tips">Μετακινήστε τα κουμπιά [L] και [R] σε οποιαδήποτε λειτουργική θέση και χρησιμοποιήστε τα μέσω κουμπιών ώμου</string>
+    <string name="gb_shoulder_key_btn_cancel">Ακύρωση</string>
+    <string name="gb_shoulder_key_btn_save_exit">Αποθήκευση</string>
+    <string name="gb_shoulder_key_circle_left">Α</string>
+    <string name="gb_shoulder_key_circle_right">Δ</string>
+    <string name="gb_shoulder_key_dialog_txt">Μπορείτε να ενεργοποιήσετε το Game Turbo χρησιμοποιώντας κουμπιά ώμου.</string>
+    <string name="gb_shoulder_key_guide_btn_done">Το κατάλαβα</string>
+    <string name="gb_shoulder_key_guide_btn_next">Επόμενο</string>
+    <string name="gb_shoulder_key_guide_tips">Ρυθμίστε τα κουμπιά ώμου για να παίξετε σαν επαγγελματία!</string>
+    <string name="gb_shoulder_key_guide_tips1">Ανοίξτε την εργαλειοθήκη και ρυθμίστε τα κουμπιά ώμων</string>
+    <string name="gb_shoulder_key_settings_guide_tips1">Μετακινήστε τα κουμπιά [L] και [R] σε οποιαδήποτε λειτουργική θέση για να ολοκληρώσετε τη διαμόρφωση</string>
+    <string name="gb_shoulder_key_settings_guide_tips2">Χρησιμοποιήστε τα κουμπιά ώμου για τα χαρακτηριστικά που τους εκχωρήσατε κατά τη διάρκεια των παιχνιδιών</string>
     <string name="gb_sign_gift">Συνδεθείτε για να αποκτήσετε βραβεία</string>
     <string name="gb_sign_gift_button_text">Λήψη</string>
     <string name="gb_sign_notification_summary">Συνδεθείτε καθημερινά για να λάβετε ενίσχυση Xunyou</string>
@@ -1879,7 +1907,7 @@
     <string name="list_empty_text">Κενή</string>
     <string name="load_only_under_wlan">Φόρτωση μόνο μέσω Wi-Fi</string>
     <string name="loading">Περιμένετε μία στιγμή…</string>
-    <string name="loading_text_format" formatted="false">Κατάργηση ιδιωτικών πληροφοριών από φωτογραφίες (%d/%d)…</string>
+    <string name="loading_text_format" formatted="false">Έλεγχος αν οι φωτογραφίες περιέχουν ιδιωτικές πληροφορίες %d/%d</string>
     <string name="local_ip_exception_summary">"Αδυναμία απόκτησης τοπικής διεύθυνσης IP. Για να αναφέρετε το πρόβλημα αυτό στο MIUI, μεταβείτε στην εφαρμογή Σχόλια και στείλτε ένα αρχείο καταγραφής από την συσκευή σας."</string>
     <string name="lock_all_title">Κλείδωμα όλων των εφαρμογών</string>
     <string name="lock_mode_title">Ρυθμίσεις κλειδώματος</string>
@@ -2239,7 +2267,7 @@
     <string name="network_traffic_warning_title">Κατανάλωση δεδομένων για εφαρμογές συστήματος</string>
     <string name="networkchanged_exception_summary">Η σύνδεση δικτύου άλλαξε. Δοκιμάστε ξανά.</string>
     <string name="networkchanged_exception_title">Η σύνδεση άλλαξε</string>
-    <string name="never">1 φορά</string>
+    <string name="never_new">%d φορά</string>
     <string name="news_change">Αλλαγή</string>
     <string name="nickname">Ψευδώνυμο</string>
     <string name="night">Βράδυ</string>
@@ -2661,8 +2689,8 @@
     <string name="power_center_list_item_deep_save_title">Σύνθετες ρυθμίσεις</string>
     <string name="power_center_list_item_haptic_feedback">Απενεργοποίηση απτικής ανάδρασης</string>
     <string name="power_center_list_item_haptic_feedback_summary">"Οι χειρονομίες και τα χειριστήρια του συστήματος δεν θα συνοδεύονται από απτική ανάδραση"</string>
-    <string name="power_center_list_item_set_lockscreen_time">Απενεργοποίηση οθόνης μετά από 30 δευτερόλεπτα αδράνειας</string>
     <string name="power_center_list_item_set_lockscreen_time_holder">Κλείδωμα συσκευής μετά από %d δευτερόλεπτα αδράνειας</string>
+    <string name="power_center_list_item_set_lockscreen_time_new">Βάλτε την οθόνη σε αναστολή μετά από %d δευτερόλεπτα αδράνειας</string>
     <string name="power_center_list_item_set_lockscreen_time_summary">Κλείδωμα της συσκευής σας γρηγορότερα εξοικονομεί μπαταρία</string>
     <string name="power_center_list_item_wake_notification">"Να μην ενεργοποιηθεί η οθόνη για ειδοποιήσεις"</string>
     <string name="power_center_list_item_wake_notification_summary">Οι εισερχόμενες ειδοποιήσεις θα εμφανίζονται μόνο όταν ενεργοποιείτε την οθόνη</string>
@@ -2765,7 +2793,7 @@
     <string name="power_optimize_set_lockscreen_time_holder">Κλείδωμα της συσκευής μετά από %d δευτερόλεπτα αδράνειας</string>
     <string name="power_phone">Φωνητικές κλήσεις</string>
     <string name="power_save_mode">Εξοικονόμηση Μπαταρίας</string>
-    <string name="power_save_mode_auto_exit_summary">Απενεργοποίηση όταν η μπαταρία είναι 60% ή πλήρως φορτισμένη</string>
+    <string name="power_save_mode_auto_exit_summary_new">Απενεργοποιήστε όταν η μπαταρία είναι %s ή φορτισμένη πλήρως;</string>
     <string name="power_save_mode_auto_exit_title">Απενεργοποίηση όταν φορτιστεί</string>
     <string name="power_save_mode_close_aod_display_summary">Απενεργοποίηση του Always-on display όταν η Εξοικονόμηση μπαταρίας είναι ενεργή</string>
     <string name="power_save_mode_close_aod_display_title">Απενεργοποίηση του Always-on display</string>
@@ -3736,6 +3764,7 @@
     <string name="suggest_app_tolock_unmasked">Ορατές ειδοποιήσεις</string>
     <string name="suggest_scan_again">Ολοκληρώστε την σάρωση για αποφυγή κινδύνων ασφαλείας.</string>
     <string name="summary_app_lock_disable">Προστασία των δεδομένων σας με Κλείδωμα εφαρμογής</string>
+    <string name="summary_app_update_new">Ενημέρωση εφαρμογών για πρόσβαση σε νέες λειτουργίες</string>
     <string name="summary_auto_update">Το MIUI θα επιλέξει την καταλληλότερη στιγμή για να κατεβάσει και να εγκαταστήσει ενημερώσεις.</string>
     <string name="summary_background_connection">Έχετε περιορίσει την σύνδεση παρασκήνιου για την εφαρμογή αυτή.</string>
     <string name="summary_block_calls_from_cantacts">Οι κλήσεις από επαφές έχουν μπλοκαριστεί.</string>
@@ -3793,7 +3822,7 @@
     <string name="superpower_notification_summary">Ενεργοποίηση Εξαιρετικής εξοικονόμησης μπαταρίας</string>
     <string name="superpower_notification_time_12">EEEE, dd MMMM</string>
     <string name="superpower_notification_time_24">EEEE, dd MMMM</string>
-    <string name="superpower_notification_title">Απομένουν λιγότερο από 10% μπαταρίας</string>
+    <string name="superpower_notification_title_new">Απομένει λιγότερο από %s της μπαταρίας</string>
     <string name="superpower_progress_content">Ενεργοποίηση Εξαιρετικής εξοικονόμησης μπαταρίας…</string>
     <string name="superpower_progress_left_time">%1$dω %2$dλ</string>
     <string name="superpower_progress_switch_home">Εναλλαγή σε Σκοτεινό θέμα</string>
@@ -3807,9 +3836,9 @@
     <string name="superpower_savemode_limit3">Περιορισμός δραστηριότητας κατανάλωσης ενέργειας (συγχρονισμός, GPS, δόνηση, Always-on display κλπ.)</string>
     <string name="superpower_savemode_limit4">Αποδοχή επιλεγμένων εφαρμογών να λειτουργούν κανονικά</string>
     <string name="superpower_settings">Εξαιρετική εξοικονόμηση μπαταρίας</string>
-    <string name="superpower_settins_autoenter_summary">Αυτόματη απενεργοποίηση εξαιρετικής εξοικονόμησης μπαταρίας όταν η μπαταρία είναι γεμάτη μόνο 10%</string>
+    <string name="superpower_settins_autoenter_summary_new">Ενεργοποιήστε την Ultra εξοικονόμηση μπαταρίας αυτόματα όταν η μπαταρία είναι μόνο %s φορτισμένη</string>
     <string name="superpower_settins_autoenter_title">Αυτόματη απενεργοποίηση</string>
-    <string name="superpower_settins_autoleave_summary">Αυτόματη απενεργοποίηση εξαιρετικής εξοικονόμησης μπαταρίας όταν η μπαταρία είναι γεμάτη 50%</string>
+    <string name="superpower_settins_autoleave_summary_new">Απενεργοποιήστε την Ultra εξοικονόμηση μπαταρίας αυτόματα όταν η μπαταρία είναι %s φορτισμένη</string>
     <string name="superpower_settins_autoleave_title">Αυτόματη απενεργοποίηση</string>
     <string name="superpower_settins_other">Πρόσθετες ρυθμίσεις</string>
     <string name="superpower_settins_switch_summary">Περιορισμός των λειτουργιών που καταναλώνουν την περισσότερη ενέργεια προκειμένου να παραμείνουν οι βασικές λειτουργίες (π.χ. κλήσεις, SMS και επιλεγμένες εφαρμογές). Διατίθεται όσο το περισσότερο δυνατόν</string>
@@ -3876,6 +3905,7 @@
     <string name="tc_sms_report_get_success_notify_title">Έγινε λήψη SMS αναφοράς χρήσης δεδομένων</string>
     <string name="tc_sms_report_geting_sms">Γίνεται απόκτηση πληροφοριών SMS…</string>
     <string name="tc_sms_report_notify_correction_body">Μεταβείτε στην εφαρμογή Χρήση δεδομένων στο Κέντρο Ασφαλείας και προσπαθήστε ξανά.</string>
+    <string name="tc_sms_report_notify_correction_business_hall">Βαθμονόμηση ξανά στις Υπηρεσίες Μεταφορέα</string>
     <string name="tc_sms_report_notify_correction_failure_title">"Αδυναμία ενημέρωσης πληροφοριών χρήσης δεδομένων"</string>
     <string name="tc_sms_report_notify_get_failure_body">"Αδυναμία υποβολής αναφοράς χρήσης δεδομένων. Βεβαιωθείτε πως είστε συνδεδεμένοι σε ένα κινητό δίκτυο."</string>
     <string name="tc_sms_report_notify_get_failure_title">"Αδυναμία λήψης SMS χρήσης δεδομένων"</string>
@@ -4119,6 +4149,7 @@
     <string name="traffic_setting_fragment_sms_content_tips">Γράψτε εδώ το μήνυμά σας</string>
     <string name="traffic_setting_fragment_title">Ερώτηση χρήσης δεδομένων</string>
     <string name="traffic_setting_fragment_title_guide">Πάροχοι και πλάνα δεδομένων</string>
+    <string name="traffic_to_limit_warning">"Έχετε χρησιμοποιήσει το %s του ορίου δεδομένων σας"</string>
     <string name="traffic_usage_warning_body">"Έχετε ήδη χρησιμοποιήσει %s δεδομένων κινητής τηλεφωνίας αυτό τον μήνα."</string>
     <string name="traffic_usage_warning_limit">Προειδοποίηση ορίου χρήσης δεδομένων</string>
     <string name="traffic_usage_warning_title">Προειδοποίηση κατανάλωσης δεδομένων</string>
@@ -4194,6 +4225,11 @@
     <string name="vb_ve_settings_pic_border_stronger">Ενισχυμένα περιγράμματα</string>
     <string name="vb_ve_settings_picture_stronger">Ενισχυμένα κινούμενα σχέδια</string>
     <string name="vb_video_effects_display_style">Στυλ</string>
+    <string name="vb_video_effects_dolby">Dolby Atmos</string>
+    <string name="vb_video_effects_dolby_dialog_enhancer">Ενισχυμένος διάλογος</string>
+    <string name="vb_video_effects_dolby_headset">" (Μόνο για τηλέφωνα)"</string>
+    <string name="vb_video_effects_dolby_open">Dolby Atmos είναι ενεργή</string>
+    <string name="vb_video_effects_dolby_stereo_expansion">Διευρυμένο στερεοφωνικό</string>
     <string name="vb_video_effects_setting_black_white">Μ&amp;Α</string>
     <string name="vb_video_effects_setting_cinema">Σινεμά</string>
     <string name="vb_video_effects_setting_girl">Κοκκίνισμα</string>
@@ -4236,6 +4272,7 @@
     <string name="videobox_settings_timing_desc">Λάβετε μια ωριαία ευκαιριακή προειδοποίηση υπενθυμίζοντάς σας να κάνετε ένα διάλειμμα</string>
     <string name="videobox_settings_title">Εργαλειοθήκη για βίντεο</string>
     <string name="view_traffic_detail">Προβολή λεπτομερειών</string>
+    <string name="view_traffic_details">Προβολή στατιστικών χρήσης δεδομένων</string>
     <string name="virus_auto_update_engine">Αυτόματες ενημερώσεις：%s</string>
     <string name="virus_update_tips_title">Προειδοποίηση</string>
     <string name="virus_wait_network_dialog_message">"Το τηλέφωνο σας δεν είναι συνδεδεδμένο σε Wi-Fi τώρα. Χρήση δεδομένων κινητής;"</string>
@@ -4333,6 +4370,22 @@
     <string name="warningcenter_mijia_page_title">Ειδοποιήσεις</string>
     <string name="warningcenter_mijia_search_keywords">Αρχική ειδοποιήσεις Mi</string>
     <string name="warningcenter_mijia_title">Ειδοποιήσεις από έξυπνες οικιακές συσκευές</string>
+    <string name="warningcenter_policeassist_charge_tips">*Μπορεί να χρεωθείτε για εξερχόμενα μηνύματα κειμένου. Επικοινωνήστε με την εταιρεία κινητής τηλεφωνίας σας για να μάθετε για τις χρεώσεις.</string>
+    <string name="warningcenter_policeassist_close_btn">Απενεργοποίηση</string>
+    <string name="warningcenter_policeassist_flow_locating">Λήψη πληροφοριών…</string>
+    <string name="warningcenter_policeassist_flow_locfailed">"Αδυναμία κοινοποίησης τοποθεσίας"</string>
+    <string name="warningcenter_policeassist_flow_privacy">Πολιτική Απορρήτου</string>
+    <string name="warningcenter_policeassist_flow_send">Κοινή τοποθεσία με την αστυνομία</string>
+    <string name="warningcenter_policeassist_flow_tips">Μοιραστείτε την τοποθεσία σας</string>
+    <string name="warningcenter_policeassist_noti_content">Στείλτε αυτόματα ένα μήνυμα κειμένου με την τοποθεσία σας</string>
+    <string name="warningcenter_policeassist_noti_privacy">Πατήστε για να ελέγξετε την Πολιτική Απορρήτου</string>
+    <string name="warningcenter_policeassist_noti_send">Μοιράσου την τοποθεσία σου με την αστυνομία</string>
+    <string name="warningcenter_policeassist_noti_title">Κοινή χρήση τοποθεσίας κατά τη διάρκεια κλήσεων έκτακτης ανάγκης</string>
+    <string name="warningcenter_policeassist_open_btn">Ενεργοποίηση</string>
+    <string name="warningcenter_policeassist_open_content">"Στείλτε αυτόματα τις πληροφορίες τοποθεσίας σας στην αστυνομία χρησιμοποιώντας SMS ή δεδομένα κινητής τηλεφωνίας ενώ καλείτε 110, 120, 119, 122, ή 12122."</string>
+    <string name="warningcenter_policeassist_open_title">Μοιραστείτε την τοποθεσία σας με την αστυνομία κατά τη διάρκεια κλήσεων έκτακτης ανάγκης</string>
+    <string name="warningcenter_policeassist_privacy"><Data>\"Έχω διαβάσει και συμφωνήσει με &lt;a href=\"%1$s\"&gt;Συμφωνία Χρήστη&lt;/a&gt; και &lt;a href=\"%2$s\"&gt;Πολιτική Προστασίας Προσωπικών Δεδομένων&lt;/a&gt;.\"</Data></string>
+    <string name="warningcenter_policeassist_title">Θέση έκτακτης ανάγκης</string>
     <string name="warningcenter_smarthome">Αρχική Mi</string>
     <string name="warningcenter_title">Κέντρο Προειδοποίησης MIUI</string>
     <string name="website">Ιστοσελίδα</string>
