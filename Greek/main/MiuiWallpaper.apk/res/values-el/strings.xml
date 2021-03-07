@@ -10,14 +10,14 @@
     <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">διαγραφή</string>
-    <string name="abc_menu_enter_shortcut_label">εισαγωγή</string>
-    <string name="abc_menu_function_shortcut_label">Συνάρτηση+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">διάστημα</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Μενού+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Αναζήτηση…</string>
     <string name="abc_searchview_description_clear">Διαγραφή ερωτήματος</string>
     <string name="abc_searchview_description_query">Ερώτημα αναζήτησης</string>
@@ -41,7 +41,7 @@
     <string name="early_morning">Πρωί</string>
     <string name="earth_id">γη</string>
     <string name="earth_summary">Η Γη είναι το λίκνο του ανθρώπινου πολιτισμού</string>
-    <string name="earth_super_wallpaper_label">γη</string>
+    <string name="earth_super_wallpaper_label">earth</string>
     <string name="earth_title">Σπίτι</string>
     <string name="eras_ad">μ.Χ.</string>
     <string name="eras_bc">π.Χ.</string>
@@ -62,22 +62,22 @@
     <string name="geometry_title">Γεωμετρία</string>
     <string name="install_failed">"Αδυναμία εγκατάστασης"</string>
     <string name="mars_id">Άραβας</string>
-    <string name="mars_position_content_0">"Αυτή η περιοχή περιέχει γκρεμούς, μεσά και πλατιά κοιλάδες, οι οποίες πιστεύεται ότι προκλήθηκαν από παγετώνες που καλύπτονται από συντρίμμια. Εδώ έχουν επίσης εντοπιστεί μεταλλικά άργιλα, τα οποία παρουσιάζουν μεγάλο ενδιαφέρον για την αναζήτηση στοιχείων για τον αρχαίο Άρη.
+    <string name="mars_position_content_0">"This region contains cliffs, mesas, and wide flat valleys, which are believed to have been caused by debris-covered glaciers. Clay minerals have also been detected here, which are of great interest in the search for evidence of life on ancient Mars.
 
-NASA / JPL / Πανεπιστήμιο της Αριζόνα"</string>
-    <string name="mars_position_content_1">"Λήφθηκε όταν το Curiosity του Mars rover εξερευνά τους λόφους Pahrump στο Gale Crater. Η περιοχή περιέχει ιζηματογενή πετρώματα που οι επιστήμονες πιστεύουν ότι σχηματίζονται παρουσία νερού και οι σκοτεινές περιοχές είναι άμμος.
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_1">"Taken when the Mars rover Curiosity is exploring the Pahrump Hills in Gale Crater. The region contains sedimentary rocks that scientists believe formed in the presence of water, and the dark areas are sand.
 
-NASA / JPL / Πανεπιστήμιο της Αριζόνα"</string>
-    <string name="mars_position_content_2">"Το Mawrth Vallis είναι ένα αρχαίο κανάλι εκροής νερού με ανοιχτόχρωμα βράχια πλούσια σε πηλό. Ορυκτά αργίλου διατηρούν εύκολα τη μικροσκοπική ζωή στη Γη, οπότε ίσως ίχνη αρχαίας ζωής στο Mawrth.
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_2">"Mawrth Vallis is an ancient water outflow channel with light-colored clay-rich rocks. Clay minerals easily preserve microscopic life on Earth, so perhaps traces of ancient life may be found at Mawrth.
 
-NASA / JPL / Πανεπιστήμιο της Αριζόνα"</string>
+NASA/JPL/University of Arizona"</string>
     <string name="mars_position_title_0">"Περιοχή του Οροπεδίου
 της Νειλοσύρτεως"</string>
-    <string name="mars_position_title_1">Κρατήρας Gale</string>
-    <string name="mars_position_title_2">"Κρατήρας στο
+    <string name="mars_position_title_1">Gale Crater</string>
+    <string name="mars_position_title_2">"Crater in
 Mawrth Vallis"</string>
     <string name="mars_summary">Οι τεράστιες έρημοι του Άρη πάντα μάγευαν την ανθρωπότητα</string>
-    <string name="mars_super_wallpaper_label">Άρης</string>
+    <string name="mars_super_wallpaper_label">mars</string>
     <string name="mars_title">Ο κόκκινος πλανήτης</string>
     <string name="mi_wallpaper_loading">Φόρτωση Mi-Wallpaper ...</string>
     <string name="mi_wallpaper_title">MI ταπετσαρία</string>
@@ -92,7 +92,7 @@ d MMMM"</string>
     <string name="miui_lock_screen_large_date">"EEE
 dd/M"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
-M/dd"</string>
+dd/M"</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
@@ -171,7 +171,7 @@ mm"</string>
     <string name="saturday_shortest">Σαβ</string>
     <string name="saturn_id">Κρόνος</string>
     <string name="saturn_summary">Οι δακτύλιοι του Κρόνου δημιουργούν το πιο απίστευτο θέαμα στο ηλιακό σύστημα</string>
-    <string name="saturn_super_wallpaper_label">Κρόνος</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
     <string name="saturn_title">Απομακρυσμένοι δακτύλιοι</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="snowmountain_summary">Ηλιόλουστες πλαγιές του βουνού Siguniang</string>
@@ -220,7 +220,7 @@ mm"</string>
     <string name="the_chinese_youth_day">Ημέρα της Νεολαίας</string>
     <string name="the_christmas_day">Χριστούγεννα</string>
     <string name="the_double_ninth_festival">Γιορτή Double Ninth</string>
-    <string name="the_dragon_boat_festival">Φεστιβάλ Dragon Boat</string>
+    <string name="the_dragon_boat_festival">Dragon Boat Festival</string>
     <string name="the_easter_day">Πάσχα</string>
     <string name="the_eve_of_the_spring_festival">Παραμονή του Κινεζικού νέου έτους</string>
     <string name="the_fifth_day">Πέμπτη ημέρα του Κινεζικού νέου έτους</string>

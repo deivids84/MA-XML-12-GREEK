@@ -1111,6 +1111,17 @@
     <string name="ivr_type_settings">Ρυθμίσεις πλάνου δεδομένων</string>
     <string name="ivr_type_settings_hint">Εισαγάγετε τον κωδικό του πλάνου δεδομένων σας</string>
     <string name="jump_to_mobile_network_setting">Ρυθμίσεις δικτύου κινητής τηλεφωνίας</string>
+    <string name="kddi_sim_lock_status_allowed">Επιτρέπεται</string>
+    <string name="kddi_sim_lock_status_code">Κωδικός</string>
+    <string name="kddi_sim_lock_status_default_code">-</string>
+    <string name="kddi_sim_lock_status_no_sim">Δεν υπάρχει κάρτα SIM</string>
+    <string name="kddi_sim_lock_status_not_allowed">Δεν Επιτρέπεται</string>
+    <string name="kddi_sim_lock_status_open_wifi_warning">Απαιτείται σύνδεση Wi-Fi</string>
+    <string name="kddi_sim_lock_status_status">Κατάσταση</string>
+    <string name="kddi_sim_lock_status_title">Κατάσταση κάρτας SIM</string>
+    <string name="kddi_sim_lock_status_update">SIM status update</string>
+    <string name="kddi_sim_lock_status_update_fail">Αποτυχία ενημέρωσης</string>
+    <string name="kddi_sim_lock_status_update_success">Επιτυχής ενημέρωση</string>
     <string name="keep_screen_on">Παραμονή σε λειτουργία</string>
     <string name="keep_screen_on_summary">Η οθόνη δεν θα μεταβαίνει ποτέ σε κατάσταση αδράνειας κατά τη φόρτιση</string>
     <string name="keywords_adb_wireless">adb, εντοπισμός σφαλμάτων, προγραμματιστής</string>

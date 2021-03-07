@@ -3281,6 +3281,7 @@ Bluetooth"</string>
     <string name="headset_remove_message">Άρση σύζευξης συσκευής?</string>
     <string name="headset_remove_message_indicate">%1$s θα αποσυνδεθεί από όλες τις συσκευές που σχετίζονται με αυτόν τον λογαριασμό Mi</string>
     <string name="headset_settings_title">Εφέ ήχου</string>
+    <string name="headset_unsaved_device">Αφαίρεση της συσκευής</string>
     <string name="headset_unsaved_devices">Χρησιμοποιείται σε άλλες συσκευές</string>
     <string name="hearing_aids_category">Βοηθητικά εργαλεία ακοής</string>
     <string name="heavy_weight_stop_description">Δεν είναι δυνατή η ασφαλής διακοπή αυτής της εφαρμογής. Αν τη διακόψετε, ενδέχεται να χάσετε κάποιες από τις τρέχουσες εργασίες σας.</string>
@@ -6585,6 +6586,7 @@ Xiaomi Cloud
     <string name="sim_call_back_title">Επανάκληση από προεπιλεγμένη SIM</string>
     <string name="sim_calls_always_use">Να χρησιμοποιείται πάντα για κλήσεις</string>
     <string name="sim_calls_ask_first_prefs_title">Ερώτηση κάθε φορά</string>
+    <string name="sim_card_lock">Κατάσταση κάρτας SIM</string>
     <string name="sim_card_number_title">SIM %1$d</string>
     <string name="sim_card_select_title">Επιλογή κάρτας SIM</string>
     <string name="sim_cards_changed_message">Οι κάρτες SIM έχουν αλλάξει</string>

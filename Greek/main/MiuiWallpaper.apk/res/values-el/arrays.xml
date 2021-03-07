@@ -71,13 +71,13 @@
     </string-array>
     <string-array name="settings_search_mars">
         <item>Ο κόκκινος πλανήτης</item>
-        <item>Ταπετσαρία/Σούπερ ταπετσαρίες/Ο κόκκινος πλανήτης</item>
+        <item>Ταπετσαρία/Σούπερ ταπετσαρία/Ο κόκκινος πλανήτης</item>
         <item>Άρης;Έκδοση Άρης;Σούπερ ταπετσαρίες;Ταπετσαρία</item>
     </string-array>
     <string-array name="settings_search_saturn">
-        <item>Δαχτυλίδια του Κρόνου</item>
-        <item>Ταπετσαρία/σούπερ ταπετσαρίες/δαχτυλίδια του Κρόνου</item>
-        <item>Πλανήτης;Κρόνος;Σούπερ ταπετσαρία;Ταπετσαρία</item>
+        <item>Rings of Saturn</item>
+        <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
+        <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
     </string-array>
     <string-array name="settings_search_snowmountain">
         <item>Snowy peaks</item>
