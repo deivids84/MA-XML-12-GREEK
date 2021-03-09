@@ -75,6 +75,7 @@
     <string name="btn_retry">Έλεγχος ξανά</string>
     <string name="btn_skip">Παράλειψη αυτού του βήματος</string>
     <string name="button_cancel">Ακύρωση</string>
+    <string name="button_confirm">Το κατάλαβα</string>
     <string name="button_delete">Διαγραφή</string>
     <string name="button_next">Επόμενο</string>
     <string name="can_not_backup_in_lite_mode">"Αδυναμία δημιουργίας αντίγραφου ασφαλείας σε Απλή λειτουργία"</string>
@@ -221,6 +222,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">Εναλλαγή διακόπτη για αντίγραφα ασφαλείας</string>
     <string name="other_device_main_space">Πρώτος χώρος</string>
     <string name="other_device_second_space">Δεύτερος χώρος</string>
+    <string name="pc_mode_not_support_restore_warning">"Δεν είναι δυνατή η επαναφορά στοιχείων σε λειτουργία PC. Απενεργοποιήστε τη λειτουργία PC και προσπαθήστε ξανά."</string>
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
     <string name="process_whole_recovery">Γίνεται επαναφορά \"%s\"</string>
     <string name="provision_back">Πίσω</string>

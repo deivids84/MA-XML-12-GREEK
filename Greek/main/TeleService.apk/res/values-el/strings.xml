@@ -1252,6 +1252,9 @@
     <string name="message_decode_error">Παρουσιάστηκε κάποιο σφάλμα κατά την αποκωδικοποίηση του μηνύματος.</string>
     <string name="mhh_disable">Απενεργοποιήθηκε η προβολή Ιατρικών θεμάτων, Υγείας και Νοσοκομείων</string>
     <string name="mhh_enable">Ενεργοποιήθηκε η προβολή Ιατρικών θεμάτων, Υγείας και Νοσοκομείων</string>
+    <string name="mi_mobile_sim_activate_message">Ενεργοποιήστε τη SIM %d για να μπορείτε να χρησιμοποιήσετε το Mi Mobile. Αυτό μπορεί να διαρκέσει έως και 5 λεπτά.</string>
+    <string name="mi_mobile_sim_activate_ok">Ενεργοποίηση</string>
+    <string name="mi_mobile_sim_activate_title">Mi Mobile!</string>
     <string name="mi_sim_settings_summary">Χρήση δεδομένων κινητής τηλεφωνίας χωρίς κάρτα SIM</string>
     <string name="mi_sim_settings_title">Mi SIM</string>
     <string name="mismatchPin">"Τα PIN που πληκτρολογήσατε δεν ταιριάζουν. Δοκιμάστε ξανά."</string>
@@ -2398,6 +2401,7 @@
     <string name="wifi_auto_sel_wapi_cert">Αυτόματη επιλογή</string>
     <string name="wifi_call_accept">Παράλειψη</string>
     <string name="wifi_call_available_message">"Τώρα μπορείτε να κάνετε κλήσεις μέσω Wi-Fi. Εάν συνδεθείτε με δίκτυο Wi-Fi, θα είστε σε θέση να συνομιλείτε ακόμη και όταν είστε σε περιοχή χωρίς κάλυψη δικτύου κινητής τηλεφωνίας."</string>
+    <string name="wifi_call_available_message_for_ATT_MX">Πρόκειται να συνδεθείτε σε δίκτυο Wi-Fi, η ποιότητα κλήσεων μπορεί να διαφέρει ανάλογα με το δίκτυο.</string>
     <string name="wifi_call_available_title">Ενεργοποίηση κλήσεων Wi-Fi</string>
     <string name="wifi_call_cancel">Περισσότερες πληροφορίες</string>
     <string name="wifi_call_help">Βοήθεια</string>

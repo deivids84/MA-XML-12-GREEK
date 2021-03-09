@@ -312,6 +312,15 @@
 2. Όταν ακούτε μουσική με την οθόνη σας απενεργοποιημένη."</string>
     <string name="voice_assist_desp">Εκφωνήστε \"Mi AI\" στο τηλέφωνο σας. Το Mi AI θα αναγνωρίσει την φωνή σας και θα έχει δυνατότητα ελέγχου της συσκευής σας.</string>
     <string name="voice_assist_title">Ενεργοποίηση με φωνή</string>
+    <string name="wc_dialog_agree">Συμφωνώ</string>
+    <string name="wc_dialog_reject">"Δεν συμφωνώ"</string>
+    <string name="wc_dialog_summary">Ταπετσαρία Carousel προσφέρει εκπληκτικές εικόνες και συναρπαστικές ιστορίες στην οθόνη κλειδώματος καθημερινά.</string>
+    <string name="wc_dialog_title">Αναγνωρισμένη οθόνη κλειδώματος</string>
+    <string name="wc_double_check_agree">Δοκιμάστε</string>
+    <string name="wc_double_check_reject">Όχι, ευχαριστώ</string>
+    <string name="wc_double_check_summary">Μπορείτε να ενεργοποιήσετε καρουσέλ ταπετσαριών για να δείτε αν λειτουργεί για σας. Να θυμάστε ότι μπορείτε πάντα να ενεργοποιήσετε και να απενεργοποιήσετε Ταπετσαρία Carousel στις Ρυθμίσεις &gt; Οθόνη κλειδώματος.</string>
+    <string name="wc_double_check_title">Δοκιμάστε Το Καρουσέλ Ταπετσαριών</string>
+    <string name="wc_notice_link_announcement_summary">"Διαβάστε και συμφωνήστε με την &lt;a href=\"%1$s\"&gt;Πολιτική Απορρήτου&lt;/a&gt; και &lt;a href=\"%2$s\"&gt;Συμφωνία Χρήστη&lt;/a&gt; του τρίτου παρόχου περιεχομένου πριν χρησιμοποιήσετε αυτό το χαρακτηριστικό."</string>
     <string name="welcome">Καλωσορίσατε</string>
     <string name="zone_picker_title">Επιλογή ζώνης ώρας</string>
 </resources>

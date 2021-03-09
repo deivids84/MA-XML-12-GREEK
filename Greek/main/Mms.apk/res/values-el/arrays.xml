@@ -96,33 +96,33 @@
         <item>Συζήτηση RCS, μεταφορά αρχείου RCS</item>
     </string-array>
     <string-array name="passport_alphabet_table">
-        <item>\#</item>
-        <item>A</item>
-        <item>σι</item>
-        <item>ντο</item>
-        <item>ρε</item>
-        <item>μι</item>
-        <item>φά</item>
-        <item>σολ</item>
+        <item>Α</item>
+        <item>Β</item>
+        <item>Γ</item>
+        <item>Δ</item>
+        <item>Ε</item>
+        <item>Ζ</item>
         <item>Η</item>
-        <item>Εγώ</item>
+        <item>Θ</item>
         <item>Ι</item>
-        <item>κ</item>
-        <item>μεγάλο</item>
+        <item>Κ</item>
+        <item>Λ</item>
         <item>Μ</item>
         <item>Ν</item>
+        <item>Ξ</item>
         <item>Ο</item>
         <item>Π</item>
-        <item>Ερ</item>
         <item>Ρ</item>
-        <item>μικρό</item>
+        <item>Σ</item>
         <item>Τ</item>
-        <item>Ε</item>
-        <item>Β</item>
-        <item>Δ</item>
+        <item>Υ</item>
+        <item>Φ</item>
         <item>Χ</item>
-        <item>Γ</item>
-        <item>Z</item>
+        <item>Ψ</item>
+        <item>Ω</item>
+        <item>\#</item>
+        <item>.</item>
+        <item>.</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Πάντα</item>

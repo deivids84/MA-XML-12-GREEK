@@ -88,6 +88,7 @@
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>
+    <string name="gradienter_title">Επίπεδο</string>
     <string name="guide_toast">Για να γίνει βαθμονόμηση, κάνετε με τη συσκευή σας την παρακάτω κίνηση.</string>
     <string name="keywords_search_compass">Compass;Calibrate compass;Pressure;Altitude;Latitude;Longtitude;Check longtitude; Check latitude;MIUI Compass;Compass app;MIUI Compass app;Where is Compass;Download Compass;Atmospheric pressure; Check altitude;How much is the altitude</string>
     <string name="latitude">Γεωγραφικό πλάτος</string>

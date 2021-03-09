@@ -40,6 +40,7 @@
     <string name="customization_continue">Συνέχεια</string>
     <string name="customization_pause_tip">Τερματισμός δοκιμής τώρα; Συνδέστε τα ακουστικά για να συνεχίσετε.</string>
     <string name="customization_quit">Έξοδος</string>
+    <string name="dolby_atoms">Dolby Atmos</string>
     <string name="dolby_dax_geq_select_title">Προεπιλογές</string>
     <string name="dolby_dax_geq_title">Ισοσταθμιστής γραφικών</string>
     <string name="dolby_dax_profile_dynamic">Δυναμικό</string>

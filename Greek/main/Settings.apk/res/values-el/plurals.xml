@@ -408,6 +408,10 @@
         <item quantity="other">%1$d προτάσεις</item>
         <item quantity="one">1 πρόταση</item>
     </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">Λάβετε μια ειδοποίηση όποτε ένα από τα ακουστικά σας είναι μακριά από το αυτί ή την θήκη φόρτισης για περισσότερο από %d λεπτά</item>
+        <item quantity="one">Λάβετε μια ειδοποίηση κάθε φορά που ένα από τα ακουστικά σας είναι μακριά από το αυτί ή την θήκη φόρτισης για περισσότερο από %d λεπτό</item>
+    </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d στοιχεία</item>
         <item quantity="one">1 στοιχείο</item>

@@ -1438,6 +1438,9 @@ Bluetooth"</string>
     <string name="bt_ldac_open_dialog_summary">Το LDAC παρέχει μια εμπειρία υψηλής ποιότητας ήχου αλλά φέρει μεγαλύτερη κατανάλωση ενέργειας. Ενδέχεται να παρουσιαστούν σφάλματα κατά τη διάρκεια της αναπαραγωγής λόγω περιορισμών υλικού Bluetooth.</string>
     <string name="bt_ldac_open_dialog_title">Ενεργοποίηση LDAC;</string>
     <string name="bt_ldac_property">Ιδιότητες</string>
+    <string name="bt_leaudio_open_dialog_summary">"Δεν θα μπορείτε να συνδέσετε πολλαπλές συσκευές με τα ακουστικά σας όταν το LC3 είναι ενεργό. Άλλες συνδεδεμένες συσκευές θα αποσυνδεθούν αν ενεργοποιήσετε αυτή τη λειτουργία. Ενεργοποιήστε το LC3 ούτως ή άλλως?"</string>
+    <string name="bt_leaudio_open_dialog_title">Προσοχή</string>
+    <string name="bt_leaudio_summary">Υψηλής ποιότητας εμπειρία ήχου</string>
     <string name="bt_lhdc_declaration">Όταν μια συσκευή Bluetooth υποστηρίζει LHDC, θα συνδεθεί από προεπιλογή. Το LHDC επιτρέπει την αναπαραγωγή ήχου υψηλής ποιότητας και μειώνει την καθυστέρηση κατά τη διάρκεια παιχνιδιού, αλλά επίσης, αυξάνει την κατανάλωση ενέργειας. Ενδέχεται να εμφανιστούν προβλήματα κατά την αναπαραγωγή λόγω περιορισμών υλικού Bluetooth.</string>
     <string name="bt_lhdc_dialog_summary">Το LHDC επιτρέπει την αναπαραγωγή ήχου υψηλής ποιότητας και μειώνει την καθυστέρηση κατά τη διάρκεια παιχνιδιού, αλλά επίσης αυξάνει την κατανάλωση ενέργειας. Η λειτουργία μπορεί να απενεργοποιηθεί στις Ρυθμίσεις.</string>
     <string name="bt_lhdc_dialog_title">Η τρέχουσα συσκευή υποστηρίζει LHDC, το οποίο έχει συνδεθεί από προεπιλογή:</string>
@@ -7135,7 +7138,6 @@ Xiaomi Cloud
     <string name="switch_access_service_on">Εναλλαγή Πρόσβασης</string>
     <string name="switch_bootup_sound">Ήχος εκκίνησης</string>
     <string name="switch_headset_anti_lost">Έλλειψη ειδοποίησης ακουστικών</string>
-    <string name="switch_headset_anti_lost_summary">Λάβετε ειδοποίηση κάθε φορά που ένα από τα ακουστικά σας βρίσκεται μακριά από το αυτί ή τη θήκη φόρτισης για περισσότερο από ένα λεπτό</string>
     <string name="switch_headset_anti_lost_title">Έλλειψη ειδοποίησης ακουστικών</string>
     <string name="switch_off_text">Ανενεργή</string>
     <string name="switch_on_text">Ενεργό</string>

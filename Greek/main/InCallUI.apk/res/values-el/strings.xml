@@ -2,6 +2,7 @@
 <resources>
     <string name="ai_assistant">Έξυπνες κλήσεις</string>
     <string name="ai_assistant_not_installed">Πρώτα εγκαταστήστε τον Βοηθό AI Call</string>
+    <string name="ai_dial">Κλήση τεχνητής νοημοσύνης</string>
     <string name="ai_mode_auto">Αυτόματο</string>
     <string name="ai_mode_manual">Χειροκίνητα</string>
     <string name="ai_mode_subtitles">Υπότιτλοι</string>
