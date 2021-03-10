@@ -432,7 +432,7 @@ Bluetooth"</string>
     <string name="mi_key_summary_open_camera">Διπλό κλικ στο Mi Key για άνοιγμα Κάμερας</string>
     <string name="mi_key_summary_take_photo">Κλικ στο Mi Key για λήψη φωτογραφίας</string>
     <string name="mi_key_take_photo">Λήψη φωτογραφίας</string>
-    <string name="miheadset_notification_Box">Κουτί</string>
+    <string name="miheadset_notification_Box">Περίπτωση</string>
     <string name="miheadset_notification_Disconnect">Αποσύνδεση</string>
     <string name="miheadset_notification_LeftEar">Α</string>
     <string name="miheadset_notification_RightEar">Δ</string>

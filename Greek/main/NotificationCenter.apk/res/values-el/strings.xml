@@ -198,6 +198,11 @@
     <string name="notification_aggregate_title">Ομαδοποίηση ειδοποιήσεων</string>
     <string name="notification_display_setting">Πίνακας ειδοποιήσεων</string>
     <string name="notification_display_style">Στυλ ειδοποιήσεων</string>
+    <string name="notification_fold_description1">Ο φάκελος ειδοποιήσεων εισήχθη στο MIUI 9. Αυτό το χαρακτηριστικό φιλτράρει ασήμαντες ειδοποιήσεις και τις τοποθετεί σε ξεχωριστό φάκελο.</string>
+    <string name="notification_fold_description2">MIUI θα θυμάται ποιες ειδοποιήσεις πατάτε, και στη συνέχεια να χρησιμοποιεί πολλαπλά κριτήρια για να καθορίσει αν είναι σημαντικές.</string>
+    <string name="notification_fold_description3">"Αν οι ειδοποιήσεις που θεωρείτε σημαντικές εξακολουθούν να πηγαίνουν στο φάκελο Ειδοποιήσεις, βεβαιωθείτε ότι έχετε αναφέρει τέτοια ζητήματα σε εμάς."</string>
+    <string name="notification_fold_footer_icon_summary">Εμφάνιση εικονιδίων εφαρμογών όταν οι ασήμαντες ειδοποιήσεις είναι ομαδοποιημένες</string>
+    <string name="notification_fold_footer_icon_title">Εμφάνιση εικονιδίων εφαρμογών</string>
     <string name="notification_fold_summary">Αυτόματη ομαδοποίηση μη σημαντικών ειδοποιήσεων</string>
     <string name="notification_fold_title">Ομαδοποίηση ειδοποιήσεων</string>
     <string name="notification_keyguard_hide_content">Εμφάνιση ειδοποιήσεων αλλά απόκρυψη περιεχομένου</string>

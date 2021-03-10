@@ -470,6 +470,7 @@
     <string name="allow_sound_title">Επιτρέψτε τον ήχο</string>
     <string name="allow_vibrate_title">Επιτρέψτε τη δόνηση</string>
     <string name="alpha_build">Αλφα</string>
+    <string name="already_delete_system_app">Απεγκατεστημένες εφαρμογές συστήματος</string>
     <string name="always">Πάντα</string>
     <string name="always_allow_bind_appwidgets_text">Έχετε επιλέξει να επιτρέπεται σε αυτήν την εφαρμογή η δημιουργία γραφικών στοιχείων και η πρόσβαση στα δεδομένα τους.</string>
     <string name="always_running">Εκτελείται πάντα (%s)</string>
@@ -1695,6 +1696,7 @@ Bluetooth"</string>
     <string name="cmcc_hardware_version">Έκδοση υλισμικού</string>
     <string name="codec_low_latency_summary">Ελαχιστοποίηση καθυστέρησης κατά τη διάρκεια συγχρονισμού ήχου και βίντεο σε παιχνίδι</string>
     <string name="codec_low_latency_title">Μικρή καθυστέρηση</string>
+    <string name="codec_low_latency_video_summary">Παρέχετε εμπειρία ήχου χαμηλής καθυστέρησης για παιχνίδια και βίντεο, κάνοντας συγχρονισμό ήχου και εικόνας πιο φυσικό.</string>
     <string name="color_black">Μαύρο</string>
     <string name="color_blue">Μπλε</string>
     <string name="color_calibration_none">Αυτή η συσκευή</string>
@@ -2813,6 +2815,7 @@ Bluetooth"</string>
     <string name="face_data_input_ok_title">Επιτυχής προσθήκη</string>
     <string name="face_data_input_structure_title">Προσθήκη δεδομένων 3D προσώπου</string>
     <string name="face_data_input_title">Προσθήκη δεδομένων προσώπου</string>
+    <string name="face_data_introduction_add">Έναρξη</string>
     <string name="face_data_introduction_msg">Τα δεδομένα προσώπου μπορούν να χρησιμοποιηθούν για το ξεκλείδωμα της συσκευής σας ή για την επαλήθευση της ταυτότητας σας. Προσθέστε κωδικό Κλειδώματος οθόνης πριν προσθέσετε τα δεδομένα του προσώπου σας.</string>
     <string name="face_data_introduction_next">Επόμενο</string>
     <string name="face_data_introduction_title">Αναγνώριση προσώπου</string>
@@ -2825,7 +2828,7 @@ Bluetooth"</string>
     <string name="face_data_manage_unlock_title">Ξεκλείδωμα χρησιμοποιώντας τα δεδομένα προσώπου</string>
     <string name="face_data_siggesstion_next">Επόμενο</string>
     <string name="face_data_siggesstion_next_time">Επόμενο (%ds)</string>
-    <string name="face_data_suggesstion_first">Προβλήματα ασφαλείας: Το ξεκλείδωμα με πρόσωπο είναι λιγότερο ασφαλές από ένα PIN, κωδικό, ή μοτίβο. Η συσκευή σας ενδέχεται να ξεκλειδωθεί με μια φωτογραφία σας, καθώς και από άτομα ή αντικείμενα που σας μοιάζουν.</string>
+    <string name="face_data_suggesstion_first">Το ξεκλείδωμα προσώπου είναι λιγότερο ασφαλές από ένα PIN, έναν κωδικό πρόσβασης ή ένα μοτίβο. Η συσκευή σας μπορεί να ξεκλειδωθεί με τη φωτογραφία σας, καθώς και από άτομα ή αντικείμενα με παρόμοια εμφάνιση.</string>
     <string name="face_data_suggesstion_second">"Βεβαιωθείτε ότι όλα τα μέρη του προσώπου σας δεν καλύπτονται από αντικείμενα και είναι εντελώς ορατά. Το πρόσωπό σας θα πρέπει επίσης να φωτίζεται σωστά."</string>
     <string name="face_intro_error_max">Έχετε προσθέσει τον μέγιστο αριθμό προσώπων</string>
     <string name="face_intro_error_unknown">Δεν είναι δυνατή η προσθήκη περισσότερων προσώπων</string>
@@ -3122,7 +3125,6 @@ Bluetooth"</string>
 
 Με την ενεργοποίηση της αυτόματης δημιουργίας αντιγράφων ασφαλείας, τα δεδομένα της συσκευής και των εφαρμογών αποθηκεύονται απομακρυσμένα περιοδικά. Τα δεδομένα εφαρμογών μπορεί να είναι διαφόρων ειδών δεδομένα τα οποία έχουν αποθηκευτεί από κάποια εφαρμογή (ανάλογα με τις ρυθμίσεις του προγραμματιστή), συμπεριλαμβανομένων δυνητικά ευαίσθητων δεδομένων, όπως επαφών, μηνυμάτων και φωτογραφιών."</string>
     <string name="fullbackup_erase_dialog_message">Να διακοπεί η δημιουργία αντιγράφων ασφαλείας για τα δεδομένα συσκευών (όπως είναι οι κωδικοί πρόσβασης Wi-Fi και το ιστορικό κλήσεων) και τα δεδομένα εφαρμογών (όπως είναι οι ρυθμίσεις και τα αρχεία που αποθηκεύουν οι εφαρμογές) και να διαγραφούν όλα τα αντίτυπα από τους απομακρυσμένους διακομιστές;</string>
-    <string name="function_description">Σχετικά με αυτή την λειτουργία</string>
     <string name="gadget_picker_title">Επιλογή gadget</string>
     <string name="gadget_toggle_wifi">Γίνεται ενημέρωση ρύθμισης Wi-Fi</string>
     <string name="gadget_wifi">Wi-Fi</string>
@@ -3281,6 +3283,8 @@ Bluetooth"</string>
     <string name="header_category_wireless_networks">Ασύρματα &amp; δίκτυα</string>
     <string name="header_data_and_synchronization">Δεδομένα και συγχρονισμός</string>
     <string name="headset_connectiong">Γίνεται σύνδεση…</string>
+    <string name="headset_notification_switch_summary">Εμφάνιση κατάστασης στο γραφικό στοιχείο ειδοποιήσεων όταν τα ακουστικά είναι συνδεδεμένα</string>
+    <string name="headset_notification_switch_title">Γραφικό στοιχείο σκιάς ειδοποιήσεων</string>
     <string name="headset_remove_message">Άρση σύζευξης συσκευής?</string>
     <string name="headset_remove_message_indicate">%1$s θα αποσυνδεθεί από όλες τις συσκευές που σχετίζονται με αυτόν τον λογαριασμό Mi</string>
     <string name="headset_settings_title">Εφέ ήχου</string>
@@ -3550,6 +3554,7 @@ Xiaomi Cloud
     <string name="keyboard_settings_title">Πληκτρολόγιο Android</string>
     <string name="keyboard_shortcuts_helper">Συντομεύσεις πληκτρολογίου</string>
     <string name="keyboard_shortcuts_helper_summary">Εμφάνιση διαθέσιμων συντομεύσεων</string>
+    <string name="keyboard_skin_follow_system_enable">Εναλλαγή σε σκοτεινή λειτουργία μαζί με το σύστημα</string>
     <string name="keyguard_advance_setting_title">Σύνθετες ρυθμίσεις</string>
     <string name="keyguard_security_setting_others">Άλλα</string>
     <string name="keyguard_security_setting_privacy_policy">Πολιτική Απορρήτου</string>
@@ -4364,6 +4369,8 @@ Xiaomi Cloud
     <string name="miui_allow_vibrate">Δονήσεις</string>
     <string name="miui_data_usage_menu_metered">Κινητά σημεία πρόσβασης</string>
     <string name="miui_experience_optimization">Ενεργοποίηση βελτιστοποίησης MIUI</string>
+    <string name="miui_face_enroll_risk_warning_btn_cancel">Ακύρωση</string>
+    <string name="miui_face_enroll_risk_warning_title_text">Προσοχή</string>
     <string name="miui_face_enroll_success">"Τώρα μπορείτε να ξεκλειδώσετε αυτή τη συσκευή με τη χρήση δεδομένων προσώπου.
 Συνεχίστε για πρόσβαση στις πρόσθετες ρυθμίσεις."</string>
     <string name="miui_input_method_settings">Ρυθμίσεις μεθόδου εισαγωγής</string>
@@ -4902,11 +4909,6 @@ Xiaomi Cloud
     <string name="notification_conversation_summary">%1$s • %2$s</string>
     <string name="notification_conversation_summary_low">Χωρίς ήχο ή δόνηση και εμφανίζεται χαμηλά στην ενότητα συζητήσεων</string>
     <string name="notification_display_settings">Πίνακας ειδοποιήσεων</string>
-    <string name="notification_fold_description1">Ο Φάκελος Ειδοποιήσεων εισήχθη στην MIUI 9. Αυτή η λειτουργία φιλτράρει ασήμαντες ειδοποιήσεις και τις τοποθετεί σε έναν ξεχωριστό φάκελο.</string>
-    <string name="notification_fold_description2">Το MIUI θα θυμάται ποιες ειδοποιήσεις αγγίζετε και, στη συνέχεια, θα χρησιμοποιεί πολλαπλά κριτήρια για να προσδιορίσει κατά πόσο είναι σημαντικά.</string>
-    <string name="notification_fold_description3">"Εάν οι ειδοποιήσεις που θεωρείτε σημαντικές εξακολουθούν να εισέρχονται στο φάκελο Ειδοποιήσεων, βεβαιωθείτε ότι αναφέρετε αυτά τα ζητήματα σε εμάς. Θα εκτιμούσαμε τα σχόλιά σας."</string>
-    <string name="notification_fold_footer_icon_summary">Εμφάνιση εικονιδίων εφαρμογών όταν ομαδοποιούνται οι ασήμαντες ειδοποιήσεις</string>
-    <string name="notification_fold_footer_icon_title">Εμφάνιση εικονιδίων εφαρμογών</string>
     <string name="notification_fold_summary">Όλες οι ασήμαντες ειδοποιήσεις θα εμφανιστούν σε διαφορετικό φάκελο</string>
     <string name="notification_fold_title">Φάκελος ειδοποιήσεων</string>
     <string name="notification_group_title">Ομάδα κατηγοριών ειδοποιήσεων</string>
