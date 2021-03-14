@@ -10,14 +10,14 @@
     <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">Διαγραφή</string>
-    <string name="abc_menu_enter_shortcut_label">Εισαγωγή</string>
-    <string name="abc_menu_function_shortcut_label">Λειτουργία</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">διάστημα</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Μενού+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Αναζήτηση…</string>
     <string name="abc_searchview_description_clear">Διαγραφή ερωτήματος</string>
     <string name="abc_searchview_description_query">Ερώτημα αναζήτησης</string>
@@ -678,7 +678,7 @@ mm"</string>
     <string name="resource_comment_limit">Όχι τόσο γρήγορα! Επανέλθετε αφότου θα έχετε χρησιμοποιήσει αυτό το θέμα για λίγο περισσότερο.</string>
     <string name="resource_comment_loading_list">Περιμένετε μία στιγμή…</string>
     <string name="resource_comment_name_default">Ψευδώνυμο</string>
-    <string name="resource_comment_no_average_score">Μη διαθέσιμο</string>
+    <string name="resource_comment_no_average_score">N/A</string>
     <string name="resource_comment_no_comment">Μπορείτε να αφήσετε το πρώτο σχόλιο!</string>
     <string name="resource_comment_over_limit">Πολύ μακρύ σχόλιο. Κάντε το πιο σύντομο και δοκιμάστε ξανά.</string>
     <string name="resource_comment_publish">Υποβολή</string>

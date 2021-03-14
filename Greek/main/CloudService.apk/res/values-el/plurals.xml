@@ -97,12 +97,12 @@
         <item quantity="one">"Αδυναμία επιλογής πάνω από %d στοιχείου"</item>
     </plurals>
     <plurals name="share_sdk_invitation_some_people_accepted">
-        <item quantity="other">Η πρόσκληση έγινε δεκτή από %d άτομα</item>
-        <item quantity="one">Η πρόσκληση έγινε δεκτή από %d άτομο</item>
+        <item quantity="other">Έγινε αποδοχή πρόσκλησης από %d άτομα</item>
+        <item quantity="one">Έγινε αποδοχή πρόσκλησης από %d άτομο</item>
     </plurals>
     <plurals name="time_format_day">
-        <item quantity="other">%1$s ημέρες</item>
-        <item quantity="one">%1$s ημέρα</item>
+        <item quantity="other">%1$s μέρες</item>
+        <item quantity="one">%1$s μέρα</item>
     </plurals>
     <plurals name="time_format_hour">
         <item quantity="other">%1$s ώρες</item>
@@ -110,6 +110,6 @@
     </plurals>
     <plurals name="time_format_min">
         <item quantity="other">%1$s λεπτά</item>
-        <item quantity="one">%1$s λεπτά</item>
+        <item quantity="one">%1$s λεπτ</item>
     </plurals>
 </resources>

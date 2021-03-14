@@ -125,16 +125,16 @@
         <item quantity="one">Σε χρήση %d έτος πριν</item>
     </plurals>
     <plurals name="applock_app_suggest_lock">
-        <item quantity="other">Μπορείτε να χρησιμοποιήσετε το κλείδωμα εφαρμογής με %1$s εφαρμογές</item>
-        <item quantity="one">Μπορείτε να χρησιμοποιήσετε το κλείδωμα εφαρμογής με την εφαρμογή %1$s</item>
+        <item quantity="other">Μπορείτε να χρησιμοποιήσετε το Κλείδωμα εφαρμογής με %1$s εφαρμογές</item>
+        <item quantity="one">Μπορείτε να χρησιμοποιήσετε το Κλείδωμα εφαρμογής με %1$s εφαρμογή</item>
     </plurals>
     <plurals name="applock_guide_app_count_tips">
         <item quantity="other">Μπορείτε να προστατέψετε τουλάχιστον %s εφαρμογές</item>
         <item quantity="one">Μπορείτε να προστατέψετε τουλάχιστον %s εφαρμογή</item>
     </plurals>
     <plurals name="applock_one_key_lock">
-        <item quantity="other">%s εφαρμογές θα προστατεύονται με το κλείδωμα εφαρμογής</item>
-        <item quantity="one">%s εφαρμογή θα προστατεύεται με το κλείδωμα εφαρμογής</item>
+        <item quantity="other">%s εφαρμογές θα είναι προστατευμένες με Κλείδωμα εφαρμογής</item>
+        <item quantity="one">%s εφαρμογή θα είναι προστατευμένη με Κλείδωμα εφαρμογής</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">Δυνατότητα σύνδεσης %d εφαρμογών στο δίκτυο στο παρασκήνιο</item>
@@ -294,7 +294,7 @@
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
         <item quantity="other">%d trojans</item>
-        <item quantity="one">%d δούρειος</item>
+        <item quantity="one">%d trojan</item>
     </plurals>
     <plurals name="hints_permission_apps_count">
         <item quantity="other">%d εφαρμογές</item>

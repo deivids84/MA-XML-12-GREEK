@@ -10,14 +10,14 @@
     <string name="abc_capital_on">ΕΝΕΡΓΟΠΟΙΗΣΗ</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">διαγραφή</string>
-    <string name="abc_menu_enter_shortcut_label">εισαγωγή</string>
-    <string name="abc_menu_function_shortcut_label">Συνάρτηση+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
     <string name="abc_menu_space_shortcut_label">διάστημα</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Μενού+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Αναζήτηση…</string>
     <string name="abc_searchview_description_clear">Διαγραφή ερωτήματος</string>
     <string name="abc_searchview_description_query">Ερώτημα αναζήτησης</string>
@@ -197,8 +197,8 @@
     <string name="float_todo_guide_title_v2">Συντόμευση χειρονομίας</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/Μ</string>
-    <string name="fmt_date_numeric_year_month_day">d/Μ/yyyy</string>
+    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="folder_exist">Φάκελος με το ίδιο όνομα υπάρχει ήδη</string>
@@ -343,7 +343,7 @@
     <string name="note_gesture_guide_step2">Πιέστε και κρατήστε μία σημείωση και μετά σύρετέ την πάνω από μια άλλη σημείωση για δημιουργία φακέλου</string>
     <string name="note_gesture_guide_step3">Πιέστε και κρατήστε μία σημείωση και μετά σύρετέ την πάνω από έναν φάκελο για να μετακινήσετε τη σημείωση εκεί</string>
     <string name="note_header_first_enter_guide">Τραβήξτε προς τα κάτω για να δείτε περισσότερα</string>
-    <string name="note_invalid_mindnote_hint">"Οι νοητικοί χάρτες δεν είναι διαθέσιμοι σε αυτήν την έκδοση. Ενημερώστε την εφαρμογή για να χρησιμοποιήσετε αυτήν τη δυνατότητα."</string>
+    <string name="note_invalid_mindnote_hint">"Οι χάρτες ιδεών δεν είναι διαθέσιμοι σε αυτήν την έκδοση. Ενημερώστε την εφαρμογή για να χρησιμοποιήσετε αυτήν τη δυνατότητα."</string>
     <string name="note_link_email">Σύνθεση email</string>
     <string name="note_link_other">Άνοιγμα με εφαρμογή χάρτη</string>
     <string name="note_link_select">Επιλογή κειμένου</string>
@@ -351,7 +351,7 @@
     <string name="note_link_web">Προβολή στον φυλλομετρητή</string>
     <string name="note_mindnote_entrance_hint">"Ξεκινήστε να πληκτρολογείτε "</string>
     <string name="note_mindnote_entrance_hint_newversion">"Ξεκινήστε να πληκτρολογείτε "</string>
-    <string name="note_mindnote_entrance_icon_text">Δημιουργήστε έναν νοητικό χάρτη</string>
+    <string name="note_mindnote_entrance_icon_text">Δημιουργήστε έναν χάρτη ιδεών</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Δημιουργήστε έναν νοητικό χάρτη</string>
     <string name="note_sort_way">Επιλέξτε πως θέλετε να ταξινομήσετε τις σημειώσεις σας</string>
     <string name="notealert_enter">Άνοιγμα σημείωσης</string>
@@ -554,7 +554,7 @@
     <string name="the_chinese_youth_day">Ημέρα της Νεολαίας</string>
     <string name="the_christmas_day">Χριστούγεννα</string>
     <string name="the_double_ninth_festival">Γιορτή Double Ninth</string>
-    <string name="the_dragon_boat_festival">Φεστιβάλ Dragon Boat</string>
+    <string name="the_dragon_boat_festival">Dragon Boat Festival</string>
     <string name="the_easter_day">Πάσχα</string>
     <string name="the_eve_of_the_spring_festival">Παραμονή του Κινεζικού νέου έτους</string>
     <string name="the_fifth_day">Πέμπτη ημέρα του Κινεζικού νέου έτους</string>
@@ -647,7 +647,7 @@
     <string name="todo_edit_btn_today">Σήμερα</string>
     <string name="todo_edit_btn_tomorrow">Αύριο</string>
     <string name="todo_edit_text_hint">Εισαγωγή περιγραφής εργασίας</string>
-    <string name="todo_event_description_a_week_ago">Πριν από %1$d εβδομάδα</string>
+    <string name="todo_event_description_a_week_ago">%1$d εβδομάδα πριν</string>
     <string name="todo_event_description_a_week_later">Σε %1$d εβδομάδα</string>
     <string name="todo_event_description_day_after_tomorrow">Σε %1$d ημέρες</string>
     <string name="todo_event_description_day_before_yesterday">Πριν από %1$d ημέρες</string>

@@ -374,8 +374,8 @@
     </string-array>
     <string-array name="bluetooth_map_versions">
         <item>MAP 1.2 (Προεπιλογή)</item>
-        <item>ΧΑΡΤΗΣ 1, 3</item>
-        <item>ΧΑΡΤΗΣ 1, 4</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
     </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
         <item>Χρήση προεπιλογής συστήματος: %1$d</item>
@@ -393,10 +393,10 @@
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Απενεργοποιημένο</item>
-        <item>Φιλτραρισμένο</item>
+        <item>Filtered</item>
         <item>Ενεργοποιήθηκε</item>
-        <item>Κεφαλίδες φιλτραρισμένες</item>
-        <item>Φιλτραρισμένα πακέτα πολυμέσων</item>
+        <item>Headers filtered</item>
+        <item>Media packets filtered</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 δευτερόλεπτο</item>
@@ -442,7 +442,7 @@
         <item>Sans-serif condensed</item>
         <item>Sans-serif monospace</item>
         <item>Serif</item>
-        <item>Μονοδιαστημική Serif</item>
+        <item>Serif monospace</item>
         <item>Απλά</item>
         <item>Λοξά</item>
         <item>Μικρά κεφαλαία</item>
@@ -846,8 +846,8 @@
     <string-array name="enable_opengl_traces_entries">
         <item>Χωρίς</item>
         <item>Logcat</item>
-        <item>Systrace (Γραφικά)</item>
-        <item>Κλήση στοίβας σε glGetError</item>
+        <item>Systrace (Graphics)</item>
+        <item>Call stack on glGetError</item>
     </string-array>
     <string-array name="enabled_networks_subsidy_locked_choices">
         <item>Μόνο LTE</item>
@@ -991,7 +991,7 @@
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_retry_linux">
-        <item>Εγκατάσταση εργαλείου: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
+        <item>Install tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
         <item>Δημιουργία καταλόγου: mkdir /media/mtp</item>
         <item>Επιβεβαίωση αδειών ομάδας χρήστη στην τρέχουσα ομάδα χρήστη</item>
         <item>Συνδεθείτε ξανά</item>
@@ -1064,7 +1064,7 @@
         <item>Κάμερα</item>
         <item>Συλλογή</item>
         <item>Μουσική</item>
-        <item>E-mail</item>
+        <item>Email</item>
         <item>Αναπαραγωγή βίντεο</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
