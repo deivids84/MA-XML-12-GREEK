@@ -319,7 +319,7 @@ Bluetooth"</string>
     <string name="fast_connect_device_connect_success">Ολοκλήρωση</string>
     <string name="fast_connect_device_headset_l">Αριστερά</string>
     <string name="fast_connect_device_headset_r">Δεξιά</string>
-    <string name="fast_connect_device_headset_reset">Πατήστε παρατεταμένα το κουμπί στο κουτί</string>
+    <string name="fast_connect_device_headset_reset">Πατήστε και κρατήστε πατημένο το κουμπί στην υπόθεση</string>
     <string name="fast_connect_device_title_connect_fail">"Αδυναμία σύνδεσης%1$s"</string>
     <string name="fast_connect_device_title_connecting">Γίνεται σύνδεση…</string>
     <string name="fast_connect_device_title_find_headset">Εύρεση %1$s</string>

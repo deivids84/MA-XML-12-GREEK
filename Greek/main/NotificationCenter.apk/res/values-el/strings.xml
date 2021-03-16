@@ -69,6 +69,8 @@
     <string name="feedback_tip_cancel">"Τα δεδομένα ειδοποιήσεων δεν θα συλλέγονται."</string>
     <string name="feedback_tip_msg">Για ακριβέστερη ομαδοποίηση των ειδοποιήσεων, πρέπει να συλλέξουμε το όνομα εφαρμογής, τον τίτλο και την περιγραφή της ειδοποίησης και την ώρα της αποστολής της. Υποβολή των σχολίων σας;</string>
     <string name="feedback_tip_title">Σχόλια για κατηγορίες ειδοποιήσεων</string>
+    <string name="float_notification_snooze_strategy">Απόκρυψη προσωρινά</string>
+    <string name="float_notification_snooze_summary">Σύρετε προς τα πάνω σε μια αιωρούμενη ειδοποίηση για να κρύψετε προσωρινά τα επερχόμενα</string>
     <string name="float_notifications">Αναδυόμενες ειδοποιήσεις</string>
     <string name="float_notifications_short">Αναδυόμενη</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -104,6 +106,10 @@
     <string name="menu_setting_tip_unfold">Όλες οι ειδοποιήσεις αυτής της εφαρμογής θα θεωρούνται σημαντικές</string>
     <string name="menu_setting_unfold">Σημαντικές</string>
     <string name="midnight">Νύχτα</string>
+    <string name="miui_snooze_always_float">"Χωρίς απόκρυψη"</string>
+    <string name="miui_snooze_cancel">Ακύρωση</string>
+    <string name="miui_snooze_default_time">Για %d λεπτό</string>
+    <string name="miui_snooze_until_unlock_screen">Μέχρι να κλειδωθεί</string>
     <string name="miuix_appcompat_cloud_state_disabled">Συγχρονισμός με το cloud είναι απενεργοποιημένος</string>
     <string name="miuix_appcompat_cloud_state_finished">Συγχρονισμός με το cloud με επιτυχία</string>
     <string name="miuix_appcompat_cloud_state_syncing">Συγχρονισμός με το cloud…</string>

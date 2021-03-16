@@ -143,6 +143,7 @@
     <string name="accessibility_preview_effect_button">Εφέ προεπισκόπισης</string>
     <string name="accessibility_preview_expand">Μεγέθυνση</string>
     <string name="accessibility_preview_front">Προεπισκόπηση μπροστινής κάμερας</string>
+    <string name="accessibility_preview_remote">Διπλή προεπισκόπηση εγγραφής τηλεφώνου</string>
     <string name="accessibility_preview_select_tip">Θέση %1$d</string>
     <string name="accessibility_preview_selected">Επιλεγμένο</string>
     <string name="accessibility_preview_shrink">Σμίκρυνση</string>
@@ -310,6 +311,7 @@
     <string name="ambilight_tips_for_suggest_using_tripod">Χρησιμοποιήστε τρίποδο</string>
     <string name="ambilight_tips_for_using_tripod">Χρησιμοποιήστε τρίποδο</string>
     <string name="audio_focus_exit_button_text">Απενεργοποίηση Εστίασης ήχου</string>
+    <string name="audio_map_summary_tip">Παρακολούθηση της έντασης του αριστερού και δεξιού καναλιού σε πραγματικό χρόνο και προσαρμογή του χρησιμοποιώντας το ρυθμιστικό</string>
     <string name="auto_hibernation_enter_tip">Θα γίνει απενεργοποίηση της οθόνης…</string>
     <string name="autozoom_click_hint">"Πατήστε ένα αντικείμενο για να εστιάσετε πάνω του ενώ κινείται. Σταθείτε τουλάχιστον 3 μέτρα μακριά για καλύτερο αποτέλεσμα."</string>
     <string name="autozoom_disabled_hint">Έγινε διακοπή εντοπισμού κινούμενου αντικειμένου</string>
@@ -517,6 +519,15 @@
     <string name="custom_watermark_words">Προσαρμοσμένο υδατογράφημα</string>
     <string name="custom_watermark_words_input_hint">Εισαγωγή κειμένου</string>
     <string name="custom_watermark_words_save_success">Επιτυχής αποθήκευση</string>
+    <string name="dialog_button_accept">Αποδοχή</string>
+    <string name="dialog_button_back">Πίσω</string>
+    <string name="dialog_button_cancel">Ακύρωση</string>
+    <string name="dialog_button_connect">Σύνδεση</string>
+    <string name="dialog_button_disconnect">Έξοδος</string>
+    <string name="dialog_button_exit">Απενεργοποίηση</string>
+    <string name="dialog_button_ok">Εντάξει</string>
+    <string name="dialog_button_reject">Απόρριψη</string>
+    <string name="dialog_button_scan">Αναζήτηση συσκευών</string>
     <string name="dialog_google_lens_option_0">Google Lens (Προτεινόμενο)</string>
     <string name="dialog_ok">Εντάξει</string>
     <string name="dialog_ok_time">ΟΚ (%dδ)</string>
@@ -656,6 +667,7 @@
     <string name="hint_slow_motion">Το βίντεο που καταγράφετε θα παιχτεί πιο αργά.</string>
     <string name="hint_subtitle">"Υπαγορεύστε υπότιτλους όσο γράφετε βίνεο"</string>
     <string name="hint_subtitle_prompt">Τώρα μπορείτε να υπαγορεύετε υπότιτλους</string>
+    <string name="histogram_summary_tip">Εμφάνιση ανάδρασης έκθεσης σε πραγματικό χρόνο</string>
     <string name="hunt_dual_water_mark">Το υδατογράφημα διπλή κάμερας θα προστεθεί αυτόματα.</string>
     <string name="id_card_mode_hint_back">Σαρώστε την πίσω πλευρά του ID σας</string>
     <string name="id_card_mode_hint_front">Σαρώστε την εμπρόσθια πλευρά του ID σας</string>
@@ -823,6 +835,7 @@
     <string name="mimoji_eyebrow_shape">Σχήμα φρυδιών</string>
     <string name="mimoji_eyeglass">Γυαλιά</string>
     <string name="mimoji_eyelash">Βλεφαρίδες</string>
+    <string name="mimoji_eyelid">Eyelids</string>
     <string name="mimoji_featured_face">Πρόσωπο</string>
     <string name="mimoji_fragment_tab_name">Αυτοκόλλητα άβαταρ</string>
     <string name="mimoji_freckle">Φακίδες</string>
@@ -909,6 +922,12 @@
     <string name="network_access_user_notice_message_sticker">&lt;Data&gt;Η Κάμερα πρέπει να συνδεθεί στο ίντερνετ για να παρέχει αυτοκόλλητα για αυτή τη λειτουργία.&lt;br/&gt;&lt;br/&gt;Πατώντας στο \"Συμφωνώ\" παρακάτω, συμφωνείτε με τη &lt;a href =%1$s&gt;Συμφωνία Χρήστη&lt;/a&gt; και την &lt;a href =%2$s&gt;Πολιτική Απορρήτου&lt;/a&gt; και θα επιτρέψετε η Κάμερα να συνδεθεί στο Ίντερνετ.&lt;/Data&gt;</string>
     <string name="network_access_user_notice_message_voice_caption">&lt;Data&gt;Η Κάμερα πρέπει να συνδεθεί στο ίντερνετ για να παρέχει τη λειτουργικότητα εξόδου ομιλία σε κείμενο.&lt;br/&gt;&lt;br/&gt;Πατώντας στο \"Συμφωνώ\" παρακάτω, συμφωνείτε με τη &lt;a href =%1$s&gt;Συμφωνία Χρήστη&lt;/a&gt; και την &lt;a href =%2$s&gt;Πολιτική Απορρήτου&lt;/a&gt; και επιτρέπετε η Κάμερα να συνδεθεί στο Ίντερνετ.&lt;/Data&gt;</string>
     <string name="network_access_user_notice_title">Γίνεται σύνδεση στο interrnet</string>
+    <string name="network_connection_failed">"Αδυναμία σύνδεσης"</string>
+    <string name="network_connection_ongoing">Σύνδεση…</string>
+    <string name="network_connection_prerequisites">Ενεργοποιήστε το Bluetooth και το Wi-Fi για να μπορείτε να χρησιμοποιείτε διπλή εγγραφή τηλεφώνου.</string>
+    <string name="network_connection_prerequisites_china">Ενεργοποιήστε το Bluetooth και το Wi-Fi για να μπορείτε να χρησιμοποιείτε διπλή εγγραφή τηλεφώνου.</string>
+    <string name="network_connection_rejected">Απορρίφθηκε</string>
+    <string name="network_connection_timed_out">Λήξη χρονικού ορίου σύνδεσης</string>
     <string name="no_storage">Τοποθετείστε κάρτα SD πριν τη χρήση της Κάμερας</string>
     <string name="not_enough_space">Η κάρτα SD είναι γεμάτη</string>
     <string name="not_set">Δεν έχει οριστεί</string>
@@ -1283,6 +1302,7 @@
     <string name="pref_custom_feature_layout_title">Διάταξη λειτουργίας</string>
     <string name="pref_custom_shutter_sound_title">Ήχος</string>
     <string name="pref_custom_tint_title">Χρώματα</string>
+    <string name="pref_customization_style">Προσαρμοσμένο στυλ</string>
     <string name="pref_customization_title">Προσαρμογή</string>
     <string name="pref_document_mode">Έγγραφα</string>
     <string name="pref_dual_camera_video">Διπλό βίντεο</string>
@@ -1316,6 +1336,7 @@
     <string name="pref_module_settings">Λειτουργίες</string>
     <string name="pref_more_mode_style_title">Λειτουργίες κάμερας</string>
     <string name="pref_multi_camera_dual_video_front">Μπροστινή κάμερα</string>
+    <string name="pref_multi_camera_dual_video_remote">Εγγραφή διπλού τηλεφώνου</string>
     <string name="pref_n_s_a">Ρυθμίσεις ήχου</string>
     <string name="pref_n_s_o_l">Ενεργό</string>
     <string name="pref_n_s_o_m">Ανενεργό</string>
@@ -1348,6 +1369,8 @@
     <string name="pref_super_night_se_title">Αυτόματη λειτουργία νύχτας</string>
     <string name="pref_userdefine_watermark_title">Προσαρμοσμένο υδατογράφημα</string>
     <string name="pref_video_captrue_ability_title">Λήψη εικόνας κατά την εγγραφή</string>
+    <string name="pref_video_cast_setting_summary">Ενεργοποιήστε για να μπορείτε να πυροβολήσετε ένα βίντεο με πολλαπλές συσκευές</string>
+    <string name="pref_video_cast_setting_title">Εγγραφή διπλού τηλεφώνου</string>
     <string name="pref_video_denoise_off">Ανενεργή</string>
     <string name="pref_video_denoise_on">Ενεργή</string>
     <string name="pref_video_denoise_title">Φίλτρο θορύβου</string>
@@ -1403,6 +1426,19 @@
     <string name="recommend_soft_light_tip">Ενεργοποιήστε το φλας</string>
     <string name="recommend_super_night">Δοκιμάστε τη Νυχτερινή λειτουργία</string>
     <string name="record_back_pressed_hint">Πατήστε ξανά για να σταματήσετε την εγγραφή</string>
+    <string name="remote_online_connecting">Επιλέξτε συσκευή για σύνδεση</string>
+    <string name="remote_online_disconnect_confirmation">Ακύρωση σύνδεσης με %1$s?</string>
+    <string name="remote_online_exit_confirmation">Απενεργοποιήστε την εγγραφή διπλής τηλεφωνίας τώρα?</string>
+    <string name="remote_online_exit_connecting">Αποσύνδεση και έξοδος από την εγγραφή διπλού τηλεφώνου τώρα?</string>
+    <string name="remote_online_guide">Ενεργοποιήστε την εγγραφή διπλής τηλεφωνίας στην άλλη συσκευή χρησιμοποιώντας την εναλλαγή του Κέντρου ελέγχου.</string>
+    <string name="remote_online_interrupted">Αποσυνδέθηκε. Συνδεθείτε ξανά για να συνεχίσετε.</string>
+    <string name="remote_online_introduction_i">"Η εγγραφή διπλού τηλεφώνου επιτρέπει τον συνδυασμό ροών από δύο διαφορετικές συσκευές σε ένα βίντεο. Θα μπορείτε να κάνετε προεπισκόπηση και των δύο ροών και του τελικού βίντεο σε αυτήν τη συσκευή. Σημειώστε ότι ο ήχος θα καταγράφεται μόνο από αυτή τη συσκευή."</string>
+    <string name="remote_online_introduction_ii">Για να λειτουργήσει αυτό το χαρακτηριστικό, η άλλη συσκευή Mi ή Redmi πρέπει να υποστηρίζει διπλή εγγραφή τηλεφώνου. Μπορεί να ενεργοποιηθεί χρησιμοποιώντας την εναλλαγή του Κέντρου ελέγχου.</string>
+    <string name="remote_online_searching">Αναζήτηση συσκευών…</string>
+    <string name="remote_online_service_name">Εγγραφή διπλού τηλεφώνου</string>
+    <string name="remote_online_unavailable">"Δεν βρέθηκαν συσκευές κοντά"</string>
+    <string name="remote_online_waiting">Αναμονή σύνδεσης της άλλης συσκευής…</string>
+    <string name="remote_online_whats">Πώς λειτουργεί η διπλή εγγραφή τηλεφώνου?</string>
     <string name="reset_manual_picture_style_toast">Επιτυχής επαναφορά παραμέτρων</string>
     <string name="reset_manually_parameter_confirmed">ΟΚ</string>
     <string name="reset_manually_parameter_hint">Επαναφορά</string>
@@ -1497,6 +1533,7 @@
     <string name="timer_burst_manu_param_interval">Χρονικό διάστημα χωρίς έκθεση</string>
     <string name="timer_burst_param_interval">Χρονικό διάστημα</string>
     <string name="timer_burst_param_total_count">Αριθμός φωτογραφιών</string>
+    <string name="timerburst_pressed_hint">Πατήστε ξανά για διακοπή</string>
     <string name="title_snap_double_confirm">Επιβεβαίωση ξανά</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Αδυναμία παρατεταμένης λήψης ενώ είναι ενεργή η λήψη ήχου"</string>
     <string name="toast_saving">Γίνεται αποθήκευση φωτογραφιών…</string>
@@ -1551,6 +1588,16 @@
     <string name="video_bokeh_zoom_in">Μεγέθυνση</string>
     <string name="video_bokeh_zoom_out">Σμίκρυνση</string>
     <string name="video_camera_label">Εγγραφή βίντεου</string>
+    <string name="video_cast_connecting">Σύνδεση…</string>
+    <string name="video_cast_exit_confirmation">Έξοδος τώρα?</string>
+    <string name="video_cast_exit_warning">"Η ροή σας δεν θα είναι διαθέσιμη στην άλλη συσκευή."</string>
+    <string name="video_cast_inviting">%1$s θέλει να χρησιμοποιήσει διπλή εγγραφή τηλεφώνου με αυτήν τη συσκευή.</string>
+    <string name="video_cast_notification_content">Πατήστε για διακοπή</string>
+    <string name="video_cast_notification_title">Χρησιμοποιώντας πολλαπλές κάμερες στο παρασκήνιο…</string>
+    <string name="video_cast_service_error">"Δεν ήταν δυνατή η ενεργοποίηση της εγγραφής διπλής τηλεφωνίας στο παρασκήνιο"</string>
+    <string name="video_cast_service_name">Διπλό τηλέφωνο</string>
+    <string name="video_cast_state_exited">Έξοδος εγγραφής διπλής τηλεφωνίας</string>
+    <string name="video_cast_state_paused">Παύση</string>
     <string name="video_effect_entry_blackwhite">Μ&amp;Α</string>
     <string name="video_effect_entry_bygone">Παλιό</string>
     <string name="video_effect_entry_central">Κεντρικό</string>
@@ -1577,7 +1624,7 @@
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">Προβολή Πολιτικής Απορρήτου</string>
     <string name="vv_duartion_hint">%1$s | Τμήμα %2$d | %3$ss</string>
-    <string name="vv_hint">Μπορείτε να τραβάτε vlog μόνο σε οριζόντιο προσανατολισμό</string>
+    <string name="vv_hint">Μπορείτε να πυροβολήσετε μόνο vlogs σε οριζόντια λειτουργία</string>
     <string name="vv_mode_menu_item_name">VLOG</string>
     <string name="vv_stability_hint">Κρατήστε τη συσκευή σας σταθερή</string>
     <string name="vv_start">Τραβήξτε vlog</string>

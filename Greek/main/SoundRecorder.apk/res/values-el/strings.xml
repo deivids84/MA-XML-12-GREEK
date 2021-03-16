@@ -224,6 +224,7 @@
     <string name="notification_playback">Γίνεται αναπαραγωγή…</string>
     <string name="notification_recording">Γίνεται καταγραφή…</string>
     <string name="notification_recording_ticker">Τηλέφωνο σε σίγαση</string>
+    <string name="notification_save_as_complete">Αποθηκεύτηκε επιτυχώς</string>
     <string name="notification_stopped">Η εγγραφή σταμάτησε</string>
     <string name="notification_title_all_paused">Έγινε παύση λήψης</string>
     <string name="offline_recognize_progress">Μεταγραφή χωρίς σύνδεση %s…</string>
@@ -372,6 +373,7 @@
     <string name="saturday">Σάββατο</string>
     <string name="saturday_short">Σαβ</string>
     <string name="saturday_shortest">Σαβ</string>
+    <string name="save_as">Αποθήκευση ως</string>
     <string name="save_record_dialog_title">Αποθήκευση ηχογράφησης</string>
     <string name="search_app">Ηχογράφηση</string>
     <string name="search_empty">"Αδυναμία εύρεσης αποτελεσμάτων"</string>

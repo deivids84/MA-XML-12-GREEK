@@ -31,6 +31,7 @@
     <string name="afternoon">Απόγευμα</string>
     <string name="am">ΠΜ</string>
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
+    <string name="close">Κλείσιμο</string>
     <string name="copy">Αντιγραφή</string>
     <string name="date_picker_lunar">Παραδοσιακό κινεζικό ημερολόγιο</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
@@ -293,6 +294,7 @@
     <string name="saturday_short">Σαβ</string>
     <string name="saturday_shortest">Σαβ</string>
     <string name="search_menu_title">Αναζήτηση</string>
+    <string name="send">Αποστολή</string>
     <string name="share_cancel">Ακυρώθηκε η κοινή χρήση</string>
     <string name="share_failed">"Αδυναμία κοινοποίησης"</string>
     <string name="share_no_network">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο"</string>

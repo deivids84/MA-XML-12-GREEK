@@ -4274,9 +4274,9 @@ Xiaomi Cloud
     <string name="miheadset_RightEar">Δεξιά</string>
     <string name="miheadset_active">Ενεργητικός</string>
     <string name="miheadset_ancClosed">Ανενεργό</string>
-    <string name="miheadset_ancHigh">Υψηλή</string>
-    <string name="miheadset_ancLow">Χαμηλή</string>
-    <string name="miheadset_ancMedium">Μεσαίο</string>
+    <string name="miheadset_ancHigh">Αεροπλάνο</string>
+    <string name="miheadset_ancLow">Γραφείο</string>
+    <string name="miheadset_ancMedium">Καθημερινά</string>
     <string name="miheadset_anc_indicate">Συνδέστε τα ακουστικά σας</string>
     <string name="miheadset_audio_mode">Ποιότητα ήχου</string>
     <string name="miheadset_audio_mode_high">Υψηλή</string>
@@ -4324,6 +4324,7 @@ Xiaomi Cloud
     <string name="miheadset_ignore">Άρση σύζευξης</string>
     <string name="miheadset_in_ear_check">Ανίχνευση παρουσίας αυτιού</string>
     <string name="miheadset_in_ear_check_summary">Παύση και συνέχιση της αναπαραγωγής αυτόματα καθώς φοράτε ή αφαιρείτε ακουστικά</string>
+    <string name="miheadset_key_config_ANC_list_title">Έλεγχος θορύβου</string>
     <string name="miheadset_key_config_call_ai">Φωνητικός βοηθός</string>
     <string name="miheadset_key_config_close">Ανενεργό</string>
     <string name="miheadset_key_config_close_summary">Απενεργοποίηση ακύρωσης θορύβου και διαφάνειας</string>
