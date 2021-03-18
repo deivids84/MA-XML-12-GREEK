@@ -219,7 +219,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Αυτά είναι όλα για τώρα"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Μόλις ένα δευτερόλεπτο…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Αδυναμία φόρτωσης στοιχείων"</string>
-    <string name="month_day_format">ΜΜ/ηη</string>
+    <string name="month_day_format">dd/MM</string>
     <string name="move_file_success">Επιτυχής μετακίνηση</string>
     <string name="music_format_not_support">"Αδυναμία προεπισκόπησης αυτού του αρχείου"</string>
     <string name="music_picker_title">Επιλογή μουσικής</string>

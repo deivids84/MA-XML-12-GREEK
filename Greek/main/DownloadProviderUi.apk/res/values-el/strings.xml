@@ -426,10 +426,10 @@
     <string name="search_favorite_title">Αγαπημένα</string>
     <string name="search_history">Ιστορικό αναζήτησης</string>
     <string name="search_history_empty">Δεν υπάρχουν στοιχεία</string>
-    <string name="search_history_month">ΜΜ/ηη</string>
+    <string name="search_history_month">dd/MM</string>
     <string name="search_history_title">Ιστορικό</string>
     <string name="search_history_today">Σήμερα</string>
-    <string name="search_history_year">ΜΜ/ηη/εεεε</string>
+    <string name="search_history_year">dd/MM/yyyy</string>
     <string name="search_history_yesterday">Χθες</string>
     <string name="search_home_download_popup">Μετάβαση πίσω στις λήψεις</string>
     <string name="search_home_vif_show_more">Περισσότερα</string>

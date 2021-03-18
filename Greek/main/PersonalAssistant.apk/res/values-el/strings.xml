@@ -472,7 +472,7 @@
     <string name="arr_time">Ώρα άφιξης</string>
     <string name="arrive">Προσγείωση</string>
     <string name="assistant_day_deadline">Τελευταία ημέρα</string>
-    <string name="assistant_format_MMdd">ΜΜ/ηη</string>
+    <string name="assistant_format_MMdd">dd/MM</string>
     <string name="assistant_place">Αναγνώριση συχνών τοποθεσιών</string>
     <string name="assistant_summary">Λάβετε χρήσιμες προτάσεις σωστά όταν τις χρειάζεστε</string>
     <string name="authorize_button">Αποδοχή</string>
@@ -486,9 +486,9 @@
     <string name="base_hour24_format_en">ΩΩ:λλ</string>
     <string name="base_search_empty">"Δεν βρέθηκαν αποτελέσματα"</string>
     <string name="base_time_just_now">Μόλις τώρα</string>
-    <string name="base_time_month">ΜΜ/ηη</string>
-    <string name="base_time_year">ΜΜ/ηη/εεεε</string>
-    <string name="base_year_month_day_all_format_en">MM/dd/yyyy HH:mm:ss</string>
+    <string name="base_time_month">dd/MM</string>
+    <string name="base_time_year">dd/MM/yyyy</string>
+    <string name="base_year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
     <string name="base_yesterday">Χθες</string>
     <string name="battery_history">Μπαταρία</string>
     <string name="beijing">Beijing</string>
@@ -1278,7 +1278,7 @@ ID:%s
     <string name="month_august_short">Αυγ</string>
     <string name="month_august_shortest">Αυγ</string>
     <string name="month_day_format">dd/MM</string>
-    <string name="month_day_hour_minute_format_en">ΜΜ/ηη ΩΩ:λλ</string>
+    <string name="month_day_hour_minute_format_en">dd/ΜΜ HH:mm</string>
     <string name="month_december">Δεκέμβριος</string>
     <string name="month_december_short">Δεκ</string>
     <string name="month_december_shortest">Δεκ</string>

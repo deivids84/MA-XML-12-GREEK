@@ -1716,7 +1716,7 @@
     <string name="request_sms_url_title">Σημείωση</string>
     <string name="retry_to_create_album">Προσπαθήστε ξανά</string>
     <string name="retry_to_request_qr_code">Προσπαθήστε ξανά</string>
-    <string name="risk_control_deleted_date">ΜΜ/ηη</string>
+    <string name="risk_control_deleted_date">dd/MM</string>
     <string name="risk_control_deleted_message">Κάποιος διέγραψε τα αντικείμενα συλλογής σας από το σύννεφο χρησιμοποιώντας ένα %3$s στο %1$s στο %2$s. Ήταν ότι εσείς?</string>
     <string name="risk_control_deleted_title">Προειδοποίηση ασφαλείας</string>
     <string name="rubbish_album_move_to_other_album_success">Μπορείτε να δείτε αυτά τα αντικείμενα στο \"Άλλα άλμπουμ\" τώρα.</string>

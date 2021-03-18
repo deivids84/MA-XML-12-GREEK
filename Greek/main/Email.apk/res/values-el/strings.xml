@@ -30,8 +30,8 @@
     <string name="abc_shareactionprovider_share_with">Κοινοποίηση σε</string>
     <string name="abc_shareactionprovider_share_with_application">Κοινοποίηση στην εφαρμογή %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
-    <string name="about_checking_update">έλεγχος ενημέρωσης...</string>
-    <string name="about_go_to_update">Πηγαίνετε στην ενημέρωση</string>
+    <string name="about_checking_update">Έλεγχος για ενημερώσεις...</string>
+    <string name="about_go_to_update">Για ενημέρωση</string>
     <string name="about_lasted_version">Είναι η τελευταία έκδοση</string>
     <string name="account_add_title">Επιλογή υπηρεσίας Email</string>
     <string name="account_duplicate_dlg_message_fmt">"Χρησιμοποιείτε ήδη αυτό το όνομα χρήστη για το λογαριασμό «%s »."</string>
@@ -47,8 +47,8 @@
     <string name="account_security_title">Ασφάλεια συσκευής</string>
     <string name="account_security_verification">Επαλήθευση λογαριασμού</string>
     <string name="account_set_up_change_type_note">Εάν χρειάζεται να κάνετε εναλλαγή μεταξύ ρυθμίσεις POP3 και IMAP, διαγράψετε το λογαριασμό σας και δημιουργήστε ένα νέο με τις ρυθμίσεις που θέλετε.</string>
-    <string name="account_setting_general_summry">Ορισμός κοινών λειτουργιών ηλεκτρονικού ταχυδρομείου</string>
-    <string name="account_setting_general_title">Ρυθμίσεις Συνάρτησης</string>
+    <string name="account_setting_general_summry">Ορισμός κοινών συναρτήσεων email</string>
+    <string name="account_setting_general_title">Ρύθμιση συνάρτησης</string>
     <string name="account_setting_message_body_load_complete">Ολόκληρο μήνυμα</string>
     <string name="account_setting_message_body_load_head_abstract">Περίληψη Email</string>
     <string name="account_setting_message_body_load_head_only">Επικεφαλίδα μόνο</string>
@@ -74,7 +74,7 @@
     <string name="account_settings_notifications">Ειδοποιήσεις</string>
     <string name="account_settings_notify_label">Ειδοποιήσεις Email</string>
     <string name="account_settings_notify_summary">Εμφάνιση ειδοποίησης κατά την άφιξη νέου email</string>
-    <string name="account_settings_only_notify_inbox">Μόνο ώθηση εισερχόμενων μηνυμάτων</string>
+    <string name="account_settings_only_notify_inbox">Μόνο εισερχόμενα email υπενθύμισης ειδοποίησης</string>
     <string name="account_settings_param">Ρυθμίσεις λογαριασμού</string>
     <string name="account_settings_preference_att_save_path">Προεπιλεγμένη τοποθεσία για συνημμένα</string>
     <string name="account_settings_preference_head_icon">Φωτογραφίες προφίλ</string>
@@ -197,8 +197,8 @@
     <string name="allread">Ανάγνωση όλων</string>
     <string name="always_bcc_myself">Πάντα Ιδ. κοι. τον εαυτό μου</string>
     <string name="app_name">Αλληλογραφία</string>
-    <string name="app_uninstall_content">Το email είναι μια εφαρμογή συστήματος MIUI. Μετά την απεγκατάσταση, δεν θα είστε σε θέση να προσθέσετε λογαριασμούς ηλεκτρονικού ταχυδρομείου, να στείλετε και να λάβετε μηνύματα ηλεκτρονικού ταχυδρομείου και να συγχρονίσετε τα προγράμματα ηλεκτρονικού ταχυδρομείου.</string>
-    <string name="app_uninstall_title">Απεγκατάσταση \"email\"?</string>
+    <string name="app_uninstall_content">"Το Mails είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να διαχειριστείτε τους λογαριασμούς email σας, να στέλνετε και να λαμβάνετε μηνύματα ηλεκτρονικού ταχυδρομείου ή συμβάντα συγχρονισμού μετά την απεγκατάσταση της εφαρμογής."</string>
+    <string name="app_uninstall_title">Απεγκατάσταση \"Mail\"?</string>
     <string name="appraise_des">Σας αρέσει η εφαρμογή μας?</string>
     <string name="appraise_good">Ναι</string>
     <string name="appraise_ignore">"Αργότερα"</string>
@@ -271,7 +271,7 @@
     <string name="bottom_bar_more_quickreply">Γρήγορη απάντηση</string>
     <string name="bottom_bar_more_share">Κοινοποίηση</string>
     <string name="bottom_bar_no_quickreply_toast">Καμία γρήγορη απαντήση</string>
-    <string name="calendar_remind_dialog_title">Υπενθύμιση αργότερα</string>
+    <string name="calendar_remind_dialog_title">Προσθήκη στο ημερολόγιο</string>
     <string name="calendar_remind_gridview_pick_date">Επιλέξτε ημερομηνία</string>
     <string name="calendar_skip_no_account_alert">"Αδυναμία εύρεσης αυτού του λογαριασμού"</string>
     <string name="cancel">Ακύρωση</string>
@@ -342,7 +342,7 @@
     <string name="contact_list_title">Επαφές</string>
     <string name="contact_permission_error">"Περιορίστηκε η πρόσβαση στις επαφές του τηλεφώνου"</string>
     <string name="contact_select">Επιλογή επαφών</string>
-    <string name="contain_view_all_body">Προβολή του πλήρους κειμένου του μηνύματος</string>
+    <string name="contain_view_all_body">Προβολή πλήρους email</string>
     <string name="content_description">%1$s  σχετικά με %2$s , %3$s  στις %4$s , %5$s </string>
     <string name="content_description_today">%1$s  σχετικά με %2$s , %3$s  στις %4$s , %5$s </string>
     <string name="contextmenu_add">Προσθήκη στις επαφές</string>
@@ -443,10 +443,10 @@
     <string name="drawer_close">Κλείσιμο σχεδιαστή πλοήγησης</string>
     <string name="drawer_contacts">Επαφές</string>
     <string name="drawer_open">Άνοιγμα σχεδιαστή πλοήγησης</string>
-    <string name="drive_card_button_tips">Αντιγράψτε τον εξαγόμενο κώδικα και λάβετε το κοινόχρηστο περιεχόμενο</string>
-    <string name="drive_card_code">κωδικός εξαγωγής</string>
-    <string name="drive_card_tips">Βρέθηκε σύνδεσμος κοινής χρήσης από %s</string>
-    <string name="drive_card_title">Σύνδεσμος δίσκου</string>
+    <string name="drive_card_button_tips">Αντιγράψτε τον κώδικα εξαγωγής και λάβετε το κοινόχρηστο περιεχόμενο</string>
+    <string name="drive_card_code">Ο κωδικός εξαγωγής είναι:</string>
+    <string name="drive_card_tips">Βρέθηκε σύνδεσμος κοινής χρήσης δίσκου από %s</string>
+    <string name="drive_card_title">Netdisk link</string>
     <string name="dtend">Τελειώνει</string>
     <string name="dtstart">Αρχίζει</string>
     <string name="due">Ληξιπρόθεσμη</string>
@@ -573,8 +573,8 @@
     <string name="general_preference_text_zoom_normal">Κανονικό</string>
     <string name="general_preference_text_zoom_small">Μικρό</string>
     <string name="general_preference_text_zoom_tiny">Μικροσκοπικό</string>
-    <string name="general_preference_trash_contact">Διαλογή spam</string>
-    <string name="general_preference_trash_contact_sum">Χειρισμός επιστολών από αποστολείς που έχουν αναφερθεί σε μεγάλους αριθμούς</string>
+    <string name="general_preference_trash_contact">Φιλτράρισμα spam</string>
+    <string name="general_preference_trash_contact_sum">Φιλτράρισμα μηνυμάτων ηλεκτρονικού ταχυδρομείου από τους αποστολείς που αναφέρθηκαν από πολλούς χρήστες</string>
     <string name="generic_attachment_problem">"Αδυναμία επισύναψης αρχείου."</string>
     <string name="get_database_exception">"Εκκαθάριση δεδομένων της εφαρμογής στις Ρυθμίσεις &gt; Εφαρμογές Συστήματος και προσπαθήστε ξανά."</string>
     <string name="get_oauth_code">Λήψη κωδικού</string>
@@ -600,18 +600,18 @@
     <string name="info_item_hide">Διαγραφή</string>
     <string name="inline_picture_deleted">Λήψη εικόνας που λείπει…</string>
     <string name="input_password_prompt">Εισάγετε τον κωδικό σας</string>
-    <string name="install_mime_encrypt_cert">Εγκατάσταση Πιστοποιητικού Κρυπτογράφησης S/Mime</string>
-    <string name="install_mime_sign_cert">Εγκαταστήστε Πιστοποιητικό Υπογραφής S/Mime</string>
+    <string name="install_mime_encrypt_cert">Εγκατάσταση πιστοποιητικού κρυπτογράφησης S/MIME</string>
+    <string name="install_mime_sign_cert">Εγκατάσταση πιστοποιητικού υπογραφής S/MIME</string>
     <string name="interact_with_server_error">"Αδυναμία σύνδεσης στο διακομιστή"</string>
     <string name="invalid_recipient">Η διεύθυνση %s  δεν είναι έγκυρη.</string>
     <string name="invalid_recipient_title">Σφάλμα παραλήπτη</string>
-    <string name="invoice_card_amount">ποσό</string>
-    <string name="invoice_card_buyer">αγοραστής</string>
+    <string name="invoice_card_amount">Συνολικό ποσό που χρεώθηκε</string>
+    <string name="invoice_card_buyer">Αγοραστής</string>
     <string name="invoice_card_date">ημερομηνία</string>
-    <string name="invoice_card_open">άνοιγμα τιμολογίου</string>
-    <string name="invoice_card_save">αποθήκευση τιμολογίου</string>
-    <string name="invoice_card_seller">πωλητής</string>
-    <string name="invoice_card_title">e-invoice</string>
+    <string name="invoice_card_open">Άνοιγμα τιμολογίου</string>
+    <string name="invoice_card_save">Αποθήκευση τιμολογίου</string>
+    <string name="invoice_card_seller">Πωλητής</string>
+    <string name="invoice_card_title">Ηλεκτρονικό τιμολόγιο</string>
     <string name="kilobytes">%s  KB</string>
     <string name="list_empty_to_fresh">Δεν υπάρχουν ακόμη emails.</string>
     <string name="load_from_remote">Αναζήτηση mailbox στον διακομιστή</string>
@@ -638,13 +638,13 @@
     <string name="login_des_yangdex">Συνδεθείτε στο Yandex Mail</string>
     <string name="login_err_message">Χρησιμοποιήστε εξουσιοδοτημένους κωδικούς πρόσβασης για σύνδεση στο %1$s εάν το επιλέξατε προηγουμένως. Μεταβείτε στη διεύθυνση https://email.163.com/ για επαναφορά του κωδικού σας ή του κωδικού πρόσβασης.</string>
     <string name="login_err_outlook_msg">"%s
-Παρακαλώ επιβεβαιώστε αν ο κωδικός πρόσβασης εφαρμογής είναι ενεργοποιημένος, αν είναι ενεργοποιημένο, παρακαλώ μεταβείτε στην ιστοσελίδα της Microsoft για να επαναφέρετε τον κωδικό πρόσβασης εφαρμογής"</string>
+Γεια σας, παρακαλώ επιβεβαιώστε αν ο κωδικός πρόσβασης της εφαρμογής είναι ενεργοποιημένος, αν είναι ενεργοποιημένο, παρακαλώ μεταβείτε στην επίσημη ιστοσελίδα της Microsoft για να επαναφέρετε τον κωδικό πρόσβασης εφαρμογής"</string>
     <string name="login_err_sina_message">Χρησιμοποιήστε εξουσιοδοτημένους κωδικούς πρόσβασης για σύνδεση στο %1$s εάν το επιλέξατε προηγουμένως. Μεταβείτε στη διεύθυνση https://mail.sina.com.cn/ για επαναφορά του κωδικού σας ή του κωδικού πρόσβασης.</string>
     <string name="login_failed_ticker">%s ανεπιτυχής σύνδεση.</string>
     <string name="login_failed_tip">"Επικοινωνήστε μαζί μας στη WeChat για βοήθεια: "</string>
     <string name="login_failed_title">"Αδυναμίας σύνδεσης"</string>
     <string name="login_mail">Σύνδεση</string>
-    <string name="login_manual">Χειροκίνητη Ρύθμιση</string>
+    <string name="login_manual">χειροκίνητη ρύθμιση</string>
     <string name="login_qq_psw">Εισαγωγή κωδικού μη αυτόματα</string>
     <string name="long_press_to_select_tip">Αγγίξτε &amp; παρατεταμένα για να επιλέξετε μια συνομιλία, στη συνέχεια, αγγίξτε για να επιλέξετε περισσότερες.</string>
     <string name="mail">Αλληλογραφία</string>
@@ -658,7 +658,8 @@
     <string name="mail_login_help_details2">2. Οι κωδικοί εξουσιοδότησης τρίτου μπορούν να χρησιμοποιηθούν για σύνδεση σε προγράμματα-πελάτες ηλεκτρονικού ταχυδρομείου τρίτου όταν οι υπηρεσίες POP3/IMAP/SMTP είναι ενεργοποιημένες.</string>
     <string name="mail_login_help_title">Κωδικός Email/Πρόγραμμα-πελάτης τρίτου:</string>
     <string name="mail_outlook_login_tips">"Θα ανακατευθυνθείτε στην Microsoft για εισαγωγή κωδικού"</string>
-    <string name="mail_outlook_oauth_login">"Σύνδεση με OAuth"</string>
+    <string name="mail_outlook_oauth_login">"Χρησιμοποιήστε πιο ασφαλή σύνδεση Oauth
+ (Personal χρήστες Outlook δεν μπορούν να συγχρονίσουν τα ημερολόγιά τους κατά τη σύνδεση με OAuth)"</string>
     <string name="mail_outlook_psw_login">Σύνδεση με κωδικό</string>
     <string name="mailbox_list_account_selector_combined_view">Συνδυασμένος λογαριασμός</string>
     <string name="mailbox_name_display_ad">Διαφημίσεις</string>
@@ -672,7 +673,7 @@
     <string name="mailbox_name_display_trash">Σκουπίδια</string>
     <string name="mailbox_name_display_unread">Μη αναγνωσμένα</string>
     <string name="mailbox_setting_preference_sync_summary_close">Συγχρονισμός: Ανενεργό</string>
-    <string name="mailbox_setting_preference_sync_summary_open">Συγχρονισμός: Ενεργός</string>
+    <string name="mailbox_setting_preference_sync_summary_open">Συγχρονισμός: Ενεργό</string>
     <string name="mailbox_settings_activity_title">Ρυθμίσεις συγχρονισμού</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Ρυθμίσεις συγχρονισμού (%s )</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Συγχρονισμός mail από</string>
@@ -742,7 +743,7 @@
     <string name="menu_search">Αναζήτηση</string>
     <string name="menu_settings">Ρυθμίσεις</string>
     <string name="merged_mailbox_compose_select_account">Επιλογή Λογαριασμού</string>
-    <string name="message_all_body">Πλήρες Κείμενο</string>
+    <string name="message_all_body">Πλήρες κείμενο του email</string>
     <string name="message_body_load_set_description">Φόρτωση emails όταν χρησιμοποιείτε δεδομένα κινητής τηλεφωνίας</string>
     <string name="message_compose_insert_quick_response_list_title">Εισαγωγή γρήγορης απάντησης</string>
     <string name="message_decode_error">"Αδυναμία αποκωδικοποίησης μηνύματος"</string>
@@ -816,6 +817,7 @@
     <string name="ntes_do_not_sms_uplink">Στείλετε SMS από τον συσχετισμένο τηλεφωνικό αριθμό και μετά πατήστε «Το μήνυμα εστάλη».</string>
     <string name="ntes_had_send">Το μήνυμα εστάλη</string>
     <string name="ntes_had_send_to_content">"Εάν έχετε ήδη στείλει SMS από τον συσχετισμένο αριθμό τηλεφώνου, πατήστε «Το μήνυμα εστάλη» για να συνεχίσετε."</string>
+    <string name="ntes_login_auth_too_much">"Δεν είναι δυνατή η προσθήκη περισσότερων από 5 κωδικών επαλήθευσης. Συνδεθείτε στα εισερχόμενά σας σε έναν υπολογιστή και διαγράψτε τους κωδικούς που δεν χρησιμοποιείτε."</string>
     <string name="ntes_login_error_message" formatted="false">"Δεν είναι δυνατή η λήψη πληροφοριών λογαριασμού (Σφάλμα %s). %s."</string>
     <string name="ntes_password_error_hint">"Εάν προκύψουν σφάλματα όταν εισαγάγετε τον κωδικό σας, κλείστε αυτή τη σελίδα και ανοίξτε την ξανά."</string>
     <string name="ntes_phone_send">Αποστολή μηνύματος κειμένου από το συσχετισμένο τηλεφωνικό αριθμό</string>
@@ -837,7 +839,7 @@
     <string name="open_external_storage_and_contacts_and_calendar_permission">Να επιτρέπεται στο Mail η πρόσβαση στο χώρο αποθήκευσης, στις επαφές και στις πληροφορίες ημερολογίου από τις Ρυθμίσεις</string>
     <string name="open_external_storage_and_contacts_permission">Να επιτρέπεται στο Mail η πρόσβαση στο χώρο αποθήκευσης και στις επαφές από τις Ρυθμίσεις</string>
     <string name="open_notification_kingagent">Ενεργοποίηση ειδοποιήσεων burial point</string>
-    <string name="open_pdf_error">Το αρχείο PDF απέτυχε να ανοίξει. Παρακαλώ κατεβάστε άλλα εργαλεία ανοίγματος PDF και προσπαθήστε ξανά αργότερα.</string>
+    <string name="open_pdf_error">"Δεν ήταν δυνατό να ανοίξει PDF. Εγκαταστήστε έναν αναγνώστη PDF και προσπαθήστε ξανά."</string>
     <string name="optimization_suggestion">Εισηγήσεις βελτιστοποίησης</string>
     <string name="others_mail">Άλλα</string>
     <string name="others_mail_des">Άλλες ιδιωτικές ή εταιρικές υπηρεσίες email</string>
@@ -882,17 +884,17 @@
     <string name="password_expired_ticker">Το PIN ή κωδικός πρόσβασης οθόνης κλειδώματός σας έχει λήξει.</string>
     <string name="pdf_has_signature_prompt_cancel">Άνοιγμα του αρχικού αρχείου</string>
     <string name="pdf_has_signature_prompt_confirm">Άνοιγμα αντιγράφου</string>
-    <string name="pdf_has_signature_prompt_message">Εντοπίστηκε ένα υπογεγραμμένο αντίγραφο αυτού του συνημμένου. Άνοιγμα ή όχι?</string>
-    <string name="pdf_save_error">Το σώμα είναι πολύ μεγάλο, δεν μπορεί να εξαχθεί ως αρχείο PDF</string>
-    <string name="pdf_save_no_body">Περιμένετε να φορτώσει το κείμενο με επιτυχία και προσπαθήστε ξανά</string>
+    <string name="pdf_has_signature_prompt_message">Εντοπίστηκε υπογεγραμμένο αντίγραφο αυτού του συνημμένου, ανοίξτε το?</string>
+    <string name="pdf_save_error">Επειδή το σώμα είναι πολύ μεγάλο, δεν μπορεί να εξαχθεί ως αρχείο PDF</string>
+    <string name="pdf_save_no_body">Παρακαλώ περιμένετε για να φορτώσει το κείμενο με επιτυχία και προσπαθήστε ξανά</string>
     <string name="pdf_save_to">Αποθηκεύτηκε σε</string>
-    <string name="pdf_signature_create_title">Δημιουργία υπογραφής</string>
-    <string name="pdf_signature_manager_max_count">Μέγιστος αριθμός υπογραφών, παρακαλώ διαγράψτε την υπάρχουσα υπογραφή και προσπαθήστε ξανά</string>
-    <string name="pdf_signature_manager_title">Διαχειριστής υπογραφών</string>
-    <string name="pdf_viewer_actionbar_more_other">Άνοιγμα από άλλη εφαρμογή</string>
-    <string name="pdf_viewer_actionbar_more_wps">Άνοιγμα από WPS</string>
-    <string name="pdf_viewer_file_damage_toast">Το αρχείο PDF είναι κατεστραμμένο. Παρακαλώ ελέγξτε το αρχείο και προσπαθήστε ξανά</string>
-    <string name="pdf_viewer_new_email">Νέο email</string>
+    <string name="pdf_signature_create_title">Σχεδιάστε την υπογραφή σας</string>
+    <string name="pdf_signature_manager_max_count">Έχει συμπληρωθεί ο μέγιστος αριθμός υπογραφών που μπορούν να δημιουργηθούν. Παρακαλώ διαγράψτε τις υπάρχουσες υπογραφές πριν τις δημιουργήσετε</string>
+    <string name="pdf_signature_manager_title">Διαχείριση υπογραφής</string>
+    <string name="pdf_viewer_actionbar_more_other">Άνοιγμα με άλλες εφαρμογές</string>
+    <string name="pdf_viewer_actionbar_more_wps">Άνοιγμα με WPS</string>
+    <string name="pdf_viewer_file_damage_toast">Το αρχείο PDF είναι κατεστραμμένο, παρακαλώ ελέγξτε το αρχείο και προσπαθήστε ξανά</string>
+    <string name="pdf_viewer_new_email">Αποστολή με email</string>
     <string name="pdf_viewer_reply">Απάντηση με αυτό το αρχείο</string>
     <string name="pdf_viewer_save_signature">Αποθήκευση υπογραφής</string>
     <string name="pdf_viewer_sign_file_damage_toast">Το αρχείο δεν υπάρχει</string>
@@ -905,8 +907,8 @@
     <string name="perference_setup_send_tag">Διακομιστής εξερχόμενων mail</string>
     <string name="permission_access_provider_desc">Να επιτρέπεται στην εφαρμογή η πρόσβαση στο email, ονόματα χρηστών και κωδικούς πρόσβασής σας</string>
     <string name="permission_access_provider_label">Πρόσβαση δεδομένων χρήστη</string>
-    <string name="permission_des_calendar">Για τον συγχρονισμό συμβάντων ημερολογίου</string>
-    <string name="permission_des_contact">Για πρόσβασης σε emails των επαφών σας με σκοπό την αυτόματη συμπλήρωση παραληπτών</string>
+    <string name="permission_des_calendar">Χρησιμοποιείται για το συγχρονισμό των μηνυμάτων ηλεκτρονικού ταχυδρομείου σας με πληροφορίες προγραμματισμού στο ημερολόγιο εγκαίρως. Συνιστάται έντονα να επιλέξετε Πάντα Να επιτρέπεται</string>
+    <string name="permission_des_contact">Χρησιμοποιείται για τον άμεσο συγχρονισμό των επαφών email σας σε κινητές επαφές, συνιστάται να επιλέξετε Πάντα Να επιτρέπεται</string>
     <string name="permission_des_external_storage">Για τη δημιουργία νέων Email, καθώς και για αποθήκευση και προσθήκη συνημμένων</string>
     <string name="permission_read_attachment_desc">"Επιτρέπει στην εφαρμογή την ανάγνωση των συνημμένων των email σας"</string>
     <string name="permission_read_attachment_label">Ανάγνωση συνημμένων</string>
@@ -1113,6 +1115,7 @@
     <string name="server_cet_issuer_no_trust">"Ο εκδότης αυτού του πιστοποιητικού δεν είναι έμπιστος οργανισμός."</string>
     <string name="server_cet_subject_cn">"Υποστηριζόμενος τομέας: "</string>
     <string name="server_cet_title">Λεπτομέρειες πιστοποιητικού</string>
+    <string name="server_log">Συμφωνία Υπηρεσίας</string>
     <string name="service_protocol_discribe"><u>Έχω διαβάσει και αποδέχομαι την «Συμφωνία παροχής υπηρεσιών της WPS Mail»</u></string>
     <string name="service_protocol_title">Σύμβαση παροχής υπηρεσιών</string>
     <string name="set_network">Ρύθμιση δικτύου</string>
@@ -1136,7 +1139,7 @@
     <string name="signature_black_shark">Στάλθηκε από το τηλέφωνο Blackshark</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="sms_not_found_tip">Δεν είναι δυνατή η εκκίνηση της εφαρμογής SMS του συστήματος, παρακαλώ ξεκινήστε χειροκίνητα την εφαρμογή SMS και στείλτε μια επαλήθευση SMS.</string>
+    <string name="sms_not_found_tip">"Δεν ήταν δυνατό να ανοίξετε την προεπιλεγμένη εφαρμογή ανταλλαγής μηνυμάτων SMS. Ανοίξτε την εφαρμογή και στείλτε χειροκίνητα την επαλήθευση SMS."</string>
     <string name="smtp_password_error">Ο κωδικός για το διακομιστή εξερχόμενης αλληλογραφίας είναι εσφαλμένος</string>
     <string name="sort_attachment">Ταξινόμηση κατά</string>
     <string name="special_text_1">写道:</string>
@@ -1182,8 +1185,11 @@
     <string name="toast_bar_send_fail_remind">"Αδυναμία αποστολής email. Αποθηκεύτηκε στον φάκελο \"Εξερχόμενα."</string>
     <string name="toast_bar_sync_failed_client_cert">"Αδυναμία συγχρονισμού λόγω πιστοποιητικού που λείπει. Πατήστε ξανά για προσθήκη πιστοποιητικού."</string>
     <string name="toast_bar_sync_failed_mi_authority">Συνδεθείτε για εξουσιοδότηση της συσκευής σας</string>
+    <string name="toastbar_calendar_and_contacts_permission_switch_allow_only_using">Το χρονοδιάγραμμα και οι πληροφορίες επικοινωνίας δεν ήταν συγχρονισμός σε πραγματικό χρόνο, η άδεια Επαφών έχει οριστεί σε</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">Για συγχρονισμό πληροφοριών ημερολογίου και επαφών, αποδεχτείτε τις απαραίτητες άδειες για το Mail στις Ρυθμίσεις</string>
+    <string name="toastbar_calendar_permission_switch_allow_only_using">Αποτυχία προγραμματισμού συγχρονισμού σε πραγματικό χρόνο, ορίστε τα δικαιώματα ημερολογίου ώστε να επιτρέπονται πάντα</string>
     <string name="toastbar_calendar_permission_switch_close">Για λήψη υπενθυμίσεων ημερολογίου, αποδεχτείτε τις απαραίτητες άδειες για το Mail στις Ρυθμίσεις</string>
+    <string name="toastbar_contacts_permission_switch_allow_only_using">Τα στοιχεία επικοινωνίας δεν ήταν συγχρονισμός σε πραγματικό χρόνο, η άδεια επαφών έχει οριστεί για να επιτρέπει πάντα</string>
     <string name="toastbar_contacts_permission_switch_close">Για προσθήκη επαφών, αποδεχτείτε τις απαραίτητες άδειες για το Mail στις Ρυθμίσεις</string>
     <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Ενεργοποίηση συγχρονισμού ημερολογίου και επαφών για συγχρονισμό ημερολογίου και επαφών</string>
     <string name="toastbar_local_calendar_sync_switch_close">Ενεργοποίηση συγχρονισμού ημερολογίου για λήψη υπενθυμίσεων ημερολογίου</string>
@@ -1197,11 +1203,11 @@
     <string name="toolbar_part_symbol">Σημείο παραγράφου</string>
     <string name="topic_merge">Ρυθμίσεις προβολής</string>
     <string name="topic_merge_summary">Ομαδοποίηση κατά θέμα</string>
-    <string name="train_card_title">Το εισιτήριο τρένου αγοράστηκε με επιτυχία</string>
-    <string name="train_card_title_alternate">Αναμονή για εισιτήριο τρένων με επιτυχία</string>
-    <string name="train_card_title_change">Το εισιτήριο τρένου άλλαξε με επιτυχία</string>
-    <string name="train_card_title_change_arrival">Το εισιτήριο τρένου άλλαξε με επιτυχία</string>
-    <string name="train_card_title_refund">Επιτυχής επιστροφή εισιτηρίου τρένου</string>
+    <string name="train_card_title">Η αγορά εισιτηρίων ήταν επιτυχής</string>
+    <string name="train_card_title_alternate">Η λειτουργία της λίστας αναμονής εισιτηρίων ήταν επιτυχής</string>
+    <string name="train_card_title_change">Το εισιτήριο άλλαξε ήταν επιτυχές</string>
+    <string name="train_card_title_change_arrival">Το εισιτήριο άλλαξε ήταν επιτυχές</string>
+    <string name="train_card_title_refund">Επιτυχής επιστροφή εισιτηρίων</string>
     <string name="translation_loading">Περιμένετε μια στιγμή…</string>
     <string name="translation_no_result">Χωρίς αποτελέσματα</string>
     <string name="translation_pronunciation_am">Aγγλικά(ΗΠΑ)</string>
@@ -1236,6 +1242,12 @@
     <string name="upload_log_title">Στείλτε εσφαλμένα αρχεία καταγραφής για να μας βοηθήσουν να βελτιώσουμε το Mail</string>
     <string name="upload_log_yes">Αποστολή</string>
     <string name="uploading_logs">Περιμένετε μια στιγμή…</string>
+    <string name="user_experience_content">Επιβεβαιώστε ότι έχετε διαβάσει και συμφωνείτε με το Πρόγραμμα Εμπειρίας Χρήστη</string>
+    <string name="user_experience_log">Πρόγραμμα Εμπειρίας Χρήστη</string>
+    <string name="user_experience_login">Συμμετοχή</string>
+    <string name="user_experience_logout">Έξοδος από το πρόγραμμα εμπειρίας</string>
+    <string name="user_experience_positive">Συμφωνώ και συνεχίστε</string>
+    <string name="user_experience_title">Δήλωση και όροι</string>
     <string name="user_new_auth_code">Χρησιμοποιήστε έναν νέο κωδικό για να συνδεθείτε</string>
     <string name="user_privacy_settings">Ρυθμίσεις απορρήτου</string>
     <string name="user_privacy_settings_agreement_authorization">"(Πατώντας στο \"Συμφωνώ\", δίνετε στην εφαρμογή Mail όλες τις απαιτούμενες άδειες)"</string>
@@ -1252,11 +1264,11 @@
     <string name="wait_for_sync_title">Αναμονή για συγχρονισμό</string>
     <string name="wait_help_context">αναμονή</string>
     <string name="wait_while_update_db">Γίνεται ενημέρωση βάσης δεδομένων…</string>
-    <string name="web_view_load_error_tip">Προέκυψαν κάποια προβλήματα και το σώμα αυτού του email δεν μπορεί να εμφανιστεί σωστά. Αν αντιμετωπίσετε αυτό το πρόβλημα, παρακαλώ προσθέστε την ομάδα QQ 952315061 για να μας δώσετε σχόλια.</string>
+    <string name="web_view_load_error_tip">"Το σώμα αυτού του email δεν θα μπορούσε να εμφανιστεί σωστά. Αναφέρετε αυτό το πρόβλημα σε εμάς στην ομάδα QQ (952315061)."</string>
     <string name="webview_logout">Μπορείτε να προσπαθήσετε να συνδεθείτε ξανά</string>
     <string name="webview_logout_cancel">Όχι τώρα</string>
     <string name="webview_logout_sure">Προσπαθήστε ξανά</string>
-    <string name="webview_not_found">Η σελίδα δεν μπορεί να ανοιχτεί επειδή η εφαρμογή WebView δεν μπορεί να βρεθεί.</string>
+    <string name="webview_not_found">"Δεν ήταν δυνατό το άνοιγμα της σελίδας επειδή λείπει το πρόσθετο WebView"</string>
     <string name="webview_sslerror_handle_cancel">Ακύρωση</string>
     <string name="webview_sslerror_handle_continue">Συνέχεια</string>
     <string name="webview_sslerror_handle_hitmessage">Παρουσιάστηκε ένα σφάλμα πιστοποιητικού, θέλετε να συνεχίσετε ούτως ή άλλως;</string>
@@ -1265,7 +1277,7 @@
     <string name="wipe_account_fail_description">Αποδοχή</string>
     <string name="wipe_account_fail_title">"Αδυναμία διαγραφής προσωπικών πληροφοριών"</string>
     <string name="wps_card_button_tips">Άνοιγμα Εγγράφου Kingsoft</string>
-    <string name="wps_card_tips">Βρέθηκε σύνδεσμος κοινής χρήσης από \"%s\"</string>
+    <string name="wps_card_tips">Βρέθηκε σύνδεσμος κοινής χρήσης Εγγράφου Kingsoft από %s</string>
     <string name="wps_card_title">Έγγραφο Kingsoft</string>
     <string name="wrong_password">Ο κωδικός πρόσβασης που εισαγάγατε είναι εσφαλμένος</string>
     <string name="xiaomi_email">Αλληλογραφία</string>

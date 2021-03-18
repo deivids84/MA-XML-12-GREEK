@@ -49,15 +49,15 @@
     <string name="animation_clock_panel">Κυματιστό κατράν</string>
     <string name="aod_close_color_inversion">"Αυτή η λειτουργία δεν μπορεί να συνδυαστεί με την αναστροφή χρώματος. Απενεργοποιήστε πρώτα την αναστροφή χρώματος."</string>
     <string name="aod_component">Εμφανιζόμενα στοιχεία</string>
-    <string name="aod_dual_clock_date">ΩΩ:λλ ΜΜ/ηη</string>
-    <string name="aod_dual_clock_date_12">ωω:λλ ΜΜ/ηη αα</string>
+    <string name="aod_dual_clock_date">HH:mm dd/MM</string>
+    <string name="aod_dual_clock_date_12">hh:mm dd/MM aa</string>
     <string name="aod_lock_screen_date">EE, d MMMM</string>
     <string name="aod_lock_screen_date_12">EE, d MMMM</string>
     <string name="aod_lock_screen_date_12_signature">Μ/δ</string>
     <string name="aod_lock_screen_date_signature">Μ/δ</string>
-    <string name="aod_lock_screen_date_smartcover">"EE,
-dd MM"</string>
-    <string name="aod_lock_screen_date_smartcover_b">EE, dd MM</string>
+    <string name="aod_lock_screen_date_smartcover">"EE
+dd/MM"</string>
+    <string name="aod_lock_screen_date_smartcover_b">EE dd/MM</string>
     <string name="aod_mode_preview">Προεπισκόπιση</string>
     <string name="aod_mode_style">Στυλ ρολογιού και παρασκήνιο</string>
     <string name="aod_mode_style_title">Περισσότερες επιλογές</string>

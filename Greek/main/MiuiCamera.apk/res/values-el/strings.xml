@@ -1521,7 +1521,7 @@
     <string name="timbre_normal">Πρωτότυπη</string>
     <string name="timbre_robot">Ρομπότ</string>
     <string name="time_lapse_error">"Αδυναμία χρήσης αυτής της ανάλυσης για εγγραφή με χρονικό διάστημα"</string>
-    <string name="time_stamp_date_format">ΜΜ/ηη/εεεε</string>
+    <string name="time_stamp_date_format">dd/MM/yyyy</string>
     <string name="timefreeze_guide_tip2">Μπορείτε να παγώσετε και να αποδεσμεύσετε το φόντο οποιαδήποτε στιγμή πριν ή κατά τη διάρκεια των γυρισμάτων.</string>
     <string name="timefreeze_guide_tip3">Ρωτήστε το θέμα σας για να μείνετε στο κέντρο του πλαισίου.</string>
     <string name="timefreeze_guide_tip4">Κάντε την κίνηση να σταματήσει.</string>
