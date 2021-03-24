@@ -1451,6 +1451,14 @@
         <item>DHCP</item>
         <item>Στατικό</item>
     </string-array>
+    <string-array name="wifi_link_turbo_mode_entries">
+        <item>Βοηθητικό</item>
+        <item>Πλήρης</item>
+    </string-array>
+    <string-array name="wifi_link_turbo_mode_summary_entries">
+        <item>Ενισχύστε την ταχύτητα χρησιμοποιώντας δεδομένα κινητής τηλεφωνίας μόνο όταν το σήμα Wi-Fi είναι φτωχό</item>
+        <item>Συνδυάστε Wi-Fi και δεδομένα κινητής τηλεφωνίας για να αυξήσετε την ταχύτητα σύνδεσης</item>
+    </string-array>
     <string-array name="wifi_metered_entries">
         <item>Αυτόματος εντοπισμός</item>
         <item>Χρήση ως δικτύου με περιορισμούς</item>

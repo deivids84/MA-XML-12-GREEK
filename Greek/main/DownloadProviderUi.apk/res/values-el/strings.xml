@@ -626,9 +626,13 @@
     <string name="thursday_shortest">Thu</string>
     <string name="time_consume">Διάρκεια</string>
     <string name="time_picker_dialog_title">Ορισμός ώρας</string>
+    <string name="tip_download_icon_restore">Προσθήκη συντόμευσης αρχικής οθόνης για λήψεις</string>
+    <string name="tip_download_icon_retry">"Αδυναμία προσθήκης συντόμευσης. Δοκιμάστε ξανά."</string>
     <string name="title_homepage_infoflow">Πρόσφατες ενημερώσεις</string>
     <string name="title_tips">Προσοχή</string>
     <string name="title_unbind_xunlei">Αφαιρέστε τον Xunlei λογαριασμό σας</string>
+    <string name="toast_download_icon_restore_fail">"Αδυναμία προσθήκης συντόμευσης"</string>
+    <string name="toast_download_icon_restore_success">Προστέθηκε με επιτυχία</string>
     <string name="toast_only_wifi_download">Συνδεθείτε σε Wi-Fi για λήψη αυτού του αντικειμένου</string>
     <string name="toast_update_data_limit_fail">"Αδυναμία ορισμού"</string>
     <string name="toast_xunlei_engine_open">Ενεργοποιήθηκε ο επιταχυντής λήψης Xunlei</string>

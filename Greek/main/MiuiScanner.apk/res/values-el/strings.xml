@@ -415,6 +415,7 @@
     <string name="phone_can_not_be_empty">"Ο αριθμός τηλεφώνου δεν μπορεί να είναι κενός"</string>
     <string name="phone_number">Τηλεφωνικό νούμερο</string>
     <string name="phone_storage">Εσωτερικός αποθηκευτικός χώρος</string>
+    <string name="picture">Συλλογή</string>
     <string name="picture_is_being_saved">Η εικόνα αποθηκεύεται</string>
     <string name="place_barcode_into_rectangle">Τοποθέτησε τον κώδικα μέσα στο πλαίσιο</string>
     <string name="plant_fail">"Αδυναμία αναγνώρισης"</string>

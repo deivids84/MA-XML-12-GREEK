@@ -1512,6 +1512,7 @@
     <string name="gamebooster_network_dialog_title">"Κάποιες λειτουργίες δεν είναι διαθέσιμες"</string>
     <string name="gamebox_app_not_find">Εγκατάσταση της εφαρμογής πρώτα.</string>
     <string name="gamebox_browser_not_find">Εγκατάσταση Προγράμματος περιήγησης Mi πρώτα</string>
+    <string name="gamebox_collimator">Αξιοθέατα</string>
     <string name="gamebox_display_1">Κανένα</string>
     <string name="gamebox_display_2">Κορεσμός</string>
     <string name="gamebox_display_3">Φωτεινός</string>
@@ -1540,6 +1541,7 @@
     <string name="gamebox_qq_not_find">Εγκαταστήστε QQ και προσπαθήστε ξανά.</string>
     <string name="gamebox_recent_task_expand_fail">"Δεν υπάρχουν εγκατεστημένες εφαρμογές που λειτουργούν με συντομεύσεις"</string>
     <string name="gamebox_simcard">Εναλλαγή καρτών SIM</string>
+    <string name="gamebox_time">Χρονόμετρο</string>
     <string name="gamebox_type_close">"Να μην εμφανίζεται"</string>
     <string name="gamebox_type_float">Έγινε επίλυση συντόμευσης</string>
     <string name="gamebox_type_gesture">Σαρώστε για προβολή</string>
@@ -1590,6 +1592,10 @@
     <string name="gb_advance_settings_vibration_4d_summary2">Δόνηση κατά τις εκτελέσεις στο παιχνίδι</string>
     <string name="gb_audition_instruction">Πατήστε και κρατήστε για εγγραφή (%1$s-%2$ss)</string>
     <string name="gb_audition_play_instruction">Χρήση ακουστικών για καλύτερο εφέ</string>
+    <string name="gb_collimator_color">Χρώμα</string>
+    <string name="gb_collimator_size">Μέγεθος</string>
+    <string name="gb_collimator_style">Τύπος</string>
+    <string name="gb_collimator_toast">Ένα θέαμα κάνει τον στόχο πολύ πιο βολικό</string>
     <string name="gb_create_icon_summary">Δημιουργία συντόμευσης Αρχικής οθόνης</string>
     <string name="gb_description_image_button_answer">Απάντηση</string>
     <string name="gb_description_image_button_reject">Απόρριψη</string>
@@ -1624,6 +1630,7 @@
     <string name="gb_game_macro_bubble_tips">Δοκιμάστε combos</string>
     <string name="gb_game_macro_toast_tips">"Δοκίμασε combos!
 Καταγράψτε ακολουθίες και χρησιμοποιήστε τις οποτεδήποτε!"</string>
+    <string name="gb_game_time_toast">Το χρονόμετρο είναι διαθέσιμο τώρα!</string>
     <string name="gb_game_video_bottom_tips">Παρακολουθήστε τις εγγραφές των συνεδριών σας στο gamebox. Τα βίντεο αποθηκευτήκαν εκεί για 7 ημέρες από προεπιλογή.</string>
     <string name="gb_game_video_item_tag">Βασική στιγμή</string>
     <string name="gb_game_video_page_delete_success">Επιτυχής διαγραφή</string>
@@ -1650,6 +1657,7 @@
     <string name="gb_msg_transparent_dispaly_summary">Διάφανο</string>
     <string name="gb_network_status_bad">Παρουσιάστηκε σφάλμα σύνδεσης.</string>
     <string name="gb_new_feature">Νέα λειτουργία</string>
+    <string name="gb_not_support_on_device">"Αυτή η εφαρμογή δεν μπορεί να χρησιμοποιηθεί στην εξωτερική οθόνη"</string>
     <string name="gb_operat_frequently">Όχι τόσο γρήγορα!</string>
     <string name="gb_shortcut_pref_title">Συντόμευση Αρχικής οθόνης</string>
     <string name="gb_sign_gift">Συνδεθείτε για να αποκτήσετε βραβεία</string>
@@ -4134,7 +4142,7 @@
     <string name="traffic_limit_error_alert_title">Υπενθύμιση ορίου δεδομένων %s</string>
     <string name="traffic_limit_input">Όριο δεδομένων (υποχρεωτικό)</string>
     <string name="traffic_none">Κανένα</string>
-    <string name="traffic_over_purchase_link">"Φτάσατε στο όριο του πλάνου χρήσης δεδομένων κινητής σας.&lt;br/&gt;Εάν ξεπεράσετε το όριο χρήσης δεδομένων σας, ο πάροχός σας μπορεί να σας επιφέρει επιπρόσθετες χρεώσεις.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Πατήστε για ανανέωση του υπολοίπου σας.&lt;/U&gt;&lt;/font&gt;"</string>
+    <string name="traffic_over_purchase_link">"Έχετε συμπληρώσει το όριο χρήσης δεδομένων του σχεδίου κινητού σας.&lt;br/&gt;Αν υπερβείτε το όριο χρήσης δεδομένων του σχεδίου σας, η εταιρεία κινητής τηλεφωνίας σας ενδέχεται να χρεώσει επιπλέον χρεώσεις.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Πατήστε για να αυξήσετε το υπόλοιπό σας.&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="traffic_provider_no_sim">"Η κάρτα SIM δεν εγκαταστάθηκε"</string>
     <string name="traffic_purchase_body">Πατήστε για ανανέωση του υπολοίπου σας.</string>
     <string name="traffic_setting_fragment_area">Τοπικά</string>
@@ -4233,6 +4241,7 @@
     <string name="vb_quick_func_screen_record">Εγγραφή</string>
     <string name="vb_quick_func_screening">Μετάδοση</string>
     <string name="vb_settings">Ρυθμίσεις</string>
+    <string name="vb_ve_settings_ai_stronger">AI</string>
     <string name="vb_ve_settings_display_style_tips">*Αυτά τα εφέ εφαρμόζονται σε όλη την οθόνη</string>
     <string name="vb_ve_settings_pic_border_stronger">Ενισχυμένα περιγράμματα</string>
     <string name="vb_ve_settings_picture_stronger">Ενισχυμένα κινούμενα σχέδια</string>
@@ -4289,6 +4298,7 @@
     <string name="virus_update_tips_title">Προειδοποίηση</string>
     <string name="virus_wait_network_dialog_message">"Το τηλέφωνο σας δεν είναι συνδεδεδμένο σε Wi-Fi τώρα. Χρήση δεδομένων κινητής;"</string>
     <string name="vtb_func_desc">Σχετικά με αυτή τη λειτουργία</string>
+    <string name="vtb_func_display_style_desc0">Η τεχνητή νοημοσύνη μπορεί να αναγνωρίσει ανθρώπους, ζώα, φυτά, ουρανό, κτίρια, και άλλα αντικείμενα που εμφανίζονται σε βίντεο και δυναμικά να τα ενισχύσει.</string>
     <string name="vtb_func_display_style_desc1">"Τα επιλεγμένα εφέ δεν θα εφαρμοστούν σε βίντεο HDR σε επιλεγμένες συσκευές."</string>
     <string name="vtb_func_display_style_desc2">"Αυτά τα εφέ δεν θα εφαρμοστούν σε στιγμιότυπα οθόνης."</string>
     <string name="vtb_func_frc_desc0">Η εξομάλυνση κίνησης μειώνει το θάμπωμα και προσθέτει λεπτομέρειες στα κινούμενα αντικείμενα. Η χρήση αυτής της λειτουργίας αυξάνει την κατανάλωση ενέργειας.</string>

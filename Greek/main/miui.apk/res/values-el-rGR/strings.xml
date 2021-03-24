@@ -22,6 +22,7 @@
     <string name="click_to_restore">Επαναφέρετε τα στοιχεία συστήματος για να μπορείτε να χρησιμοποιείτε κανονικά το MIUI μετά από επαναφορά στις εργοστασιακές ρυθμίσεις. Πατήστε για έναρξη.</string>
     <string name="close">Κλείσιμο</string>
     <string name="com_android_email">Αλληλογραφία</string>
+    <string name="com_android_soundrecorder">Εγγραφή</string>
     <string name="com_mi_liveassistant">Βοηθός ζωντανής ροής</string>
     <string name="com_miui_calculator">Aριθμομηχανή</string>
     <string name="com_miui_cleanmaster">Καθαριστής</string>
@@ -35,6 +36,7 @@
     <string name="com_xiaomi_drivemode">Λειτουργία αυτοκινήτου</string>
     <string name="com_xiaomi_gamecenter">Παιχνίδια</string>
     <string name="com_xiaomi_jr">Mi Οικονομικά</string>
+    <string name="com_xiaomi_midrop">ShareMe</string>
     <string name="com_xiaomi_scanner">Σαρωτής</string>
     <string name="com_xiaomi_shop">Mi Κατάστημα</string>
     <string name="com_xiaomi_vipaccount">Mi Κοινότητα</string>

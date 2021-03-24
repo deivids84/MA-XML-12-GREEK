@@ -173,6 +173,7 @@
     <string name="gb_gpu_tips_graph">Βελτιστοποιήστε τα γραφικά για να αυξήσετε την απόδοση της GPU και να εξοικονομήσετε ενέργεια. Αυτή η δυνατότητα υποστηρίζεται από επιλεγμένα παιχνίδια.</string>
     <string name="gb_gpu_tips_resolution">"Η προεπιλεγμένη ανάλυση καθορίζεται από το συγκεκριμένο παιχνίδι. Ορισμένα παιχνίδια δεν επιτρέπουν την προσαρμογή της ανάλυσης."</string>
     <string name="gb_gpu_tips_texture">Προτεραιότητα στην απόδοση ή την ποιότητα εικόνας</string>
+    <string name="gb_not_support_on_device">"Αυτή η εφαρμογή δεν μπορεί να χρησιμοποιηθεί στην εξωτερική οθόνη"</string>
     <string name="gb_pannel_control_mode_balance">Ισορροπημένο</string>
     <string name="gb_pannel_control_mode_custom">Προσαρμοσμένη</string>
     <string name="gb_pannel_control_mode_high_quality">Υψηλή ποιότητα</string>

@@ -45,9 +45,9 @@
     <string name="activate_popup_confirm_failed_send_sms">Αποστολή ξανά</string>
     <string name="activate_popup_confirm_failed_server">Προσπαθήστε ξανά</string>
     <string name="activate_popup_desc_2_intl_sim_cards">2 διεθνή SMS θα σταλούν για ενεργοποίηση %s. Θα χρεωθείτε από τον πάροχό σας.</string>
-    <string name="activate_popup_desc_2_intl_sim_cards_msg">Για ενεργοποίηση %2$s, %1$d θα αποσταλεί διεθνές SMS. Ο πάροχός σας θα σας χρεώσει για αυτά τα μηνύματα.</string>
+    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Για να ενεργοποιήσετε το %2$s, &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;διεθνές πληρωμένο SMS&lt;/b&gt; θα σταλεί. Η εταιρεία κινητής τηλεφωνίας σας θα σας χρεώσει για αυτά τα μηνύματα.</string>
     <string name="activate_popup_desc_2_sim_cards">2 κανονικά SMS θα σταλούν για ενεργοποίηση %s. Θα χρεωθείτε από τον πάροχό σας.</string>
-    <string name="activate_popup_desc_2_sim_cards_msg">Για ενεργοποίηση %2$s, %1$d θα αποσταλεί κανονικό SMS. Ο πάροχός σας θα σας χρεώσει για αυτά τα μηνύματα.</string>
+    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Για να ενεργοποιήσετε %2$s, &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;εγχώριες πληρωμένες SMS&lt;/b&gt; θα αποσταλεί. Η εταιρεία κινητής τηλεφωνίας σας θα σας χρεώσει για αυτά τα μηνύματα.</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"Αδυναμία εύρεσης του αριθμού τηλεφώνου σας. Βεβαιωθείτε ότι η κάρτα SIM σας είναι ενεργοποιημένη.
 Εισαγάγετε τον αριθμό της νέας σας κάρτας SIM για επανενεργοποίηση %s."</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Αδυναμία αποστολής μηνύματος ενεργοποίησης. Βεβαιωθείτε ότι η κάρτα SIM σας είναι ενεργοποιημένη.
@@ -64,10 +64,10 @@
     <string name="activate_popup_desc_find_device_postfix">Ένα SMS ενεργοποίησης μπορεί να σταλθεί μετά την εναλλαγή κάρτας SIM.</string>
     <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Για να ενεργοποιήσετε το %3$s, εισαγάγετε τον αριθμό τηλεφώνου SIM %2$d. Εάν αντικαταστήσετε αυτήν την κάρτα SIM, θα σταλεί ένα άλλο SMS ενεργοποίησης.</string>
     <string name="activate_popup_desc_intl_sim_card">Ένα διεθνές SMS θα σταλεί για ενεργοποίηση %s. Θα χρεωθείτε από τον πάροχο σας.</string>
-    <string name="activate_popup_desc_intl_sim_card_msg">Για ενεργοποίηση %2$s, %1$d θα αποσταλεί διεθνές SMS. Ο πάροχός σας θα σας χρεώσει για αυτό το μήνυμα.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Για να ενεργοποιήσετε το %2$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;διεθνές πληρωμένο SMS&lt;/b&gt;θα σταλεί. Η εταιρεία κινητής τηλεφωνίας σας θα σας χρεώσει για αυτό το μήνυμα.</string>
     <string name="activate_popup_desc_mi_account_user_manual">%1$s. &lt;Data&gt;Ανατρέξτε στον &lt;a href=https://account.xiaomi.com/helpcenter/faq&gt; Οδηγό Χρήσης Mi Λογαριασμού&lt;/a&gt; για οποιεσδήποτε απορίες.&lt;/Data&gt;</string>
     <string name="activate_popup_desc_mixed_sim_cards">2 SMS(κανονικό και διεθνές) θα σταλούν για ενεργοποίηση %s. Θα χρεωθείτε από τον πάροχό σας.</string>
-    <string name="activate_popup_desc_mixed_sim_cards_msg">Για ενεργοποίηση %3$s, θα αποσταλεί %1$d κανονικό και %2$d διεθνές SMS. Ο πάροχός σας θα σας χρεώσει για αυτά τα μηνύματα.</string>
+    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Για ενεργοποίηση του %3$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;εγχώριες πληρωμένες SMS&lt;/b&gt; και &lt;xliff:g id=number_sms refersto=1&gt;%2$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;διεθνείς πληρωμένες SMS&lt;/b&gt; θα σταλούν. Ο μεταφορέας σας θα σας χρεώσει για αυτά τα μηνύματα.</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">"Φαίνεται ότι κάνατε εναλλαγή κάρτας SIM. Θα αποσταλούν 2 διεθνή SMS για ενεργοποίηση %s. Θα χρεωθείτε από τον πάροχο σας."</string>
     <string name="activate_popup_desc_new_2_sim_cards">"Φαίνεται ότι κάνατε εναλλαγή κάρτας SIM. Θα αποσταλούν 2 κανονικά SMS για ενεργοποίηση %s. Θα χρεωθείτε από τον πάροχο σας."</string>
     <string name="activate_popup_desc_new_intl_sim_card">"Φαίνεται ότι κάνατε εναλλαγή κάρτας SIM. Θα αποσταλεί διεθνές SMS για ενεργοποίηση %s. Θα χρεωθείτε από τον πάροχο σας."</string>
@@ -80,7 +80,7 @@
     <string name="activate_popup_desc_sim_card">Ένα κανονικό SMS θα σταλεί για ενεργοποίηση %s. Θα χρεωθείτε από τον πάροχο σας.</string>
     <string name="activate_popup_desc_sim_card_downlink">Εισαγάγετε τον αριθμό τηλεφώνου σας για ενεργοποίηση %s.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg">Για ενεργοποίηση %2$s, εισαγάγετε τον αριθμό τηλεφώνου της SIM %1$d.</string>
-    <string name="activate_popup_desc_sim_card_msg">Για ενεργοποίηση %2$s, %1$d θα αποσταλεί κανονικό SMS. Ο πάροχός σας θα σας χρεώσει για αυτό το μήνυμα.</string>
+    <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Για να ενεργοποιήσετε το %2$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;θα σταλεί πληρωμένο SMS&lt;/font&gt; . Ο μεταφορέας σας θα σας χρεώσει για αυτό το μήνυμα.</string>
     <string name="activate_popup_desc_voip_privacy">Πολιτική Απορρήτου</string>
     <string name="activate_popup_desc_voip_privacy_prefix">"Η υπηρεσία VoIP υποστηρίζεται από Weihui. Προβολή Weihui"</string>
     <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. Για να ενεργοποιήσετε το %3$s, εισαγάγετε τον αριθμό τηλεφώνου SIM %2$d. Η τεχνική υποστήριξη παρέχεται εν μέρει από την Weihuitel. Ανατρέξτε στην Πολιτική Απορρήτου της Weihuitel για λεπτομέρειες.</string>

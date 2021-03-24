@@ -525,6 +525,7 @@
     <string name="dialog_button_connect">Σύνδεση</string>
     <string name="dialog_button_disconnect">Έξοδος</string>
     <string name="dialog_button_exit">Απενεργοποίηση</string>
+    <string name="dialog_button_goto">Ρυθμίσεις</string>
     <string name="dialog_button_ok">Εντάξει</string>
     <string name="dialog_button_reject">Απόρριψη</string>
     <string name="dialog_button_scan">Αναζήτηση συσκευών</string>
@@ -568,10 +569,13 @@
     <string name="dual_camera_too_close_toast">Η κάμερα βρίσκεται πολύ κοντά στο αντικείμενο.</string>
     <string name="dual_camera_use_hint">"Βεβαιωθείτε πως το αντικείμενο δεν είναι μακρύτερα από 2 μέτρα."</string>
     <string name="dual_video_record_merged">Συνδυασμένο</string>
+    <string name="dual_video_record_remote">Εγγραφή διπλού τηλεφώνου</string>
     <string name="dual_video_record_standalone">Διαχωρισμένο</string>
     <string name="dual_video_user_guide_main_content">Για τη δημιουργία βίντεο από πολλαπλές κάμερες στη συσκευής σας, επιλέξτε δύο κάμερες στη συσκευή σας και βιντεοσκοπήστε ταυτόχρονα. Οι εγγραφές μπορούν να αποθηκευτούν ξεχωριστά ή να συνδυαστούν σε διαιρεμένη προβολή ή ως βίντεο εικόνας σε εικόνα.</string>
     <string name="dual_video_user_guide_main_title">Βίντεο από πολλαπλές κάμερες</string>
     <string name="dual_video_user_guide_merge_content">Βιντεοσκοπήστε με δύο κάμερες και συνδυάστε τις εγγραφές σε διαιρεμένη προβολή ή σε βίντεο εικόνας σε εικόνα.</string>
+    <string name="dual_video_user_guide_remote_content">"Η εγγραφή διπλού τηλεφώνου επιτρέπει τον συνδυασμό ροών από δύο διαφορετικές συσκευές σε ένα βίντεο. Θα μπορείτε να κάνετε προεπισκόπηση και των δύο ροών και του τελικού βίντεο σε αυτήν τη συσκευή. Σημειώστε ότι ο ήχος θα καταγράφεται μόνο από αυτή τη συσκευή."</string>
+    <string name="dual_video_user_guide_remote_p">Τηλέφωνο %d</string>
     <string name="dual_video_user_guide_standalone_content">Βιντεοσκοπήστε με δύο κάμερες ταυτόχρονα και αποθηκεύστε και τις δύο εγγραφές ως ξεχωριστά βίντεο.</string>
     <string name="edit_blusher">Ρουζ</string>
     <string name="edit_chin">Σαγόνι</string>
@@ -1328,7 +1332,7 @@
     <string name="pref_hdr10plus_video_mode_description">Βελτιστοποίηση των χρωμάτων και ρύθμιση της αντίθεσης για βίντεο 4K και 8K. Αυτή η λειτουργία λειτουργεί μόνο σε συσκευές συμβατές με HDR10+.</string>
     <string name="pref_i_n_r_b">Έξυπνη μείωση θορύβου</string>
     <string name="pref_k_h">Ζωντανός ενδοακουστικός έλεγχος</string>
-    <string name="pref_k_s_i">Αναπαραγωγή ηχογραφημένου ήχου στα ακουστικά όταν είναι συνδεδεμένα</string>
+    <string name="pref_k_s_i">Παρακολούθηση ηχογραφημένου ήχου χρησιμοποιώντας τα ακουστικά όταν είναι συνδεδεμένα</string>
     <string name="pref_lens_dirty_detect_summary">Λάβετε ειδοποίηση όταν ο φακός είναι βρόμικος</string>
     <string name="pref_lens_dirty_detect_title">Ειδοποίηση για βρόμικο φακό</string>
     <string name="pref_live_duration_title">Διάρκεια ζωντανά</string>
@@ -1368,6 +1372,7 @@
     <string name="pref_super_night_se_summary">Ανίχνευση συνθηκών χαμηλού φωτισμού και αυτόματη βελτίωση της ποιότητας εικόνας</string>
     <string name="pref_super_night_se_title">Αυτόματη λειτουργία νύχτας</string>
     <string name="pref_userdefine_watermark_title">Προσαρμοσμένο υδατογράφημα</string>
+    <string name="pref_video_ai_audio_single">Μετωπικός ήχος</string>
     <string name="pref_video_captrue_ability_title">Λήψη εικόνας κατά την εγγραφή</string>
     <string name="pref_video_cast_setting_summary">Ενεργοποιήστε για να μπορείτε να πυροβολήσετε ένα βίντεο με πολλαπλές συσκευές</string>
     <string name="pref_video_cast_setting_title">Εγγραφή διπλού τηλεφώνου</string>
@@ -1417,6 +1422,11 @@
     <string name="pref_watermark_title">Υδατογράφημα</string>
     <string name="pref_wind_denoise_title">Φίλτρο αέρα</string>
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
+    <string name="prek_b_j_o">Αναδημιουργία στερεοφωνικού εφέ surround</string>
+    <string name="prek_b_j_p">Μείωση της επίδρασης του ανέμου στην ηχογράφηση</string>
+    <string name="prep_video_ai_audio_new_desc_tip">Οι ήχοι από το θέμα στο επίκεντρο ενισχύονται</string>
+    <string name="prep_video_ai_audio_single_desc_tip">Ήχοι από πίσω από την οθόνη φιλτραρίζονται</string>
+    <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Η μεγέθυνση ήχου δεν λειτουργεί με ζωντανή οθόνη μέσα στο αυτί και εξωτερικό μικρόφωνο"</string>
     <string name="preparing_sd">Γίνεται έλεγχος κάρτας SD…</string>
     <string name="preview_back_pressed_hint">Πατήστε ξανά για επιστροφή στην προβολή</string>
     <string name="pro_color_mode">Επαγγελματικό χρώμα</string>
@@ -1434,6 +1444,7 @@
     <string name="remote_online_interrupted">Αποσυνδέθηκε. Συνδεθείτε ξανά για να συνεχίσετε.</string>
     <string name="remote_online_introduction_i">"Η εγγραφή διπλού τηλεφώνου επιτρέπει τον συνδυασμό ροών από δύο διαφορετικές συσκευές σε ένα βίντεο. Θα μπορείτε να κάνετε προεπισκόπηση και των δύο ροών και του τελικού βίντεο σε αυτήν τη συσκευή. Σημειώστε ότι ο ήχος θα καταγράφεται μόνο από αυτή τη συσκευή."</string>
     <string name="remote_online_introduction_ii">Για να λειτουργήσει αυτό το χαρακτηριστικό, η άλλη συσκευή Mi ή Redmi πρέπει να υποστηρίζει διπλή εγγραφή τηλεφώνου. Μπορεί να ενεργοποιηθεί χρησιμοποιώντας την εναλλαγή του Κέντρου ελέγχου.</string>
+    <string name="remote_online_permission">"Αλλάξτε την άδεια τοποθεσίας της Κάμερας για \"Να επιτρέπεται μόνο κατά τη χρήση της εφαρμογής\" για να μπορείτε να χρησιμοποιείτε διπλή εγγραφή τηλεφώνου."</string>
     <string name="remote_online_searching">Αναζήτηση συσκευών…</string>
     <string name="remote_online_service_name">Εγγραφή διπλού τηλεφώνου</string>
     <string name="remote_online_unavailable">"Δεν βρέθηκαν συσκευές κοντά"</string>

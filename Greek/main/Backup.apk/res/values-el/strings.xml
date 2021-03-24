@@ -644,6 +644,7 @@ https://appleid.apple.com/#!&amp;page=signin για κλείσιμο"</string>
 Ελευθερώστε χώρο αποθήκευσης ή μεταφέρετε μόνο σημαντικά αντικείμενα."</string>
     <string name="trans_old_phone_low_space_msg">"To Mi Mover χρειάζεται ορισμένο αποθηκευτικό χώρο για την τακτοποίηση των μεταφερθέντων δεδομένων, αλλά φαίνεται πως δεν υπάρχει διαθέσιμος σώρος στην παλιά συσκευή. Ελευθερώστε χώρο από την \"Ασφάλεια\" ή μεταφέρετε μόνο σημαντικά αντικείμενα."</string>
     <string name="trans_old_phone_low_space_title">Ανεπαρκής χώρος αποθήκευσης</string>
+    <string name="trans_one_key_migrate">Mi Mover</string>
     <string name="trans_open_camera_failed_message">Επανεκκινήστε την συσκευή σας ή ελέγξτε εάν το Mi Mover επιτρέπεται να χρησιμοποιεί &lt;b&gt;Κάμερα&lt;/b&gt;.</string>
     <string name="trans_open_camera_failed_title">"Αδυναμία σύνδεσης με την Κάμερα"</string>
     <string name="trans_open_location_button">Ενεργοποίηση</string>
@@ -756,6 +757,7 @@ https://appleid.apple.com/#!&amp;page=signin για κλείσιμο"</string>
     <string name="wifi_title">Ρυθμίσεις Wi-Fi</string>
     <string name="xiaomi_connect_download_manager_fail">"Αδυναμία εκκίνησης λήψης. Βεβαιωθείτε πως η Διαχείριση λήψεων λειτουργεί κανονικά."</string>
     <string name="xiaomi_external_storage_unavailable">"Ο χώρος αποθήκευσης δεν είναι διαθέσιμος, ελέγξτε την κάρτα SD σας."</string>
+    <string name="xiaomi_router">Δρομολογητής Mi</string>
     <string name="xiaomi_router_location">Mi Router %s</string>
     <string name="xiaomi_update_dialog_message">"Γίνεται εισαγωγή έκδοσης %1$s
 Μέγεθος: %2$s"</string>
