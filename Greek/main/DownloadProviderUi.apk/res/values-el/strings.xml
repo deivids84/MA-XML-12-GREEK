@@ -103,6 +103,8 @@
     <string name="dialog_content_limit0">Περιορισμός λήψεων</string>
     <string name="dialog_content_limit_max">Απεριόριστο</string>
     <string name="dialog_delete_positive">Διαγραφή</string>
+    <string name="dialog_download_dir_content" formatted="false">Ο προεπιλεγμένος φάκελος προορισμού για τις λήψεις σας έχει αλλάξει από \"%s\" σε \"%s/ DLManager\".</string>
+    <string name="dialog_download_dir_title">Νέος φάκελος προορισμού</string>
     <string name="dialog_failed_body">Προσπάθεια λήψης αυτού του αρχείου αργότερα ή διαγραφή από την ουρά;</string>
     <string name="dialog_file_already_exists">Αυτό το αρχείο υπάρχει ήδη.</string>
     <string name="dialog_file_missing_body">"Αδυναμία εύρεσης αρχείου, φαίνεται πως έχει διαγραφεί."</string>

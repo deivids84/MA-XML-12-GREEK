@@ -264,7 +264,7 @@ ID:%s
 Αποστολή αυτού του κωδικού στον επόπτη."</string>
     <string name="dialog_disagree_privacychange_info">"Δεν θα μπορείτε να χρησιμοποιήσετε τις online υπηρεσίες ροής Mi Video εάν δεν συμφωνείτε με την Πολιτική Απορρήτου μας. Πατήστε \"Ακύρωση\" για να επιστρέψετε ή \"Μην συμφωνείτε\" για να συνεχίσετε και να χρησιμοποιήσετε το Mi Video ως τοπικό παίκτη μόνο."</string>
     <string name="dialog_disagree_privacychange_title">"Δεν συμφωνεί?"</string>
-    <string name="dialog_privacy_change_info">"Έχουμε ενημερώσει την Πολιτική Προστασίας Προσωπικών Δεδομένων Mi λόγω των προσαρμογών στις υπηρεσίες που προσφέρουμε. Για να κατανοήσουμε πλήρως τα δικαιώματά σας ως χρήστη καθώς και τους τρόπους με τους οποίους χρησιμοποιούμε τα δεδομένα σας, διαβάστε και συμφωνήστε με την &lt;a href=%1$s&gt;Συμφωνία Χρήστη&lt;/a&gt; και &lt;a href=%2$s&gt;Πολιτική Προστασίας Προσωπικών Δεδομένων&lt;/a&gt; πριν χρησιμοποιήσετε την εφαρμογή."</string>
+    <string name="dialog_privacy_change_info">"Ενημερώσαμε την Πολιτική Απορρήτου Mi λόγω των προσαρμογών στις υπηρεσίες που προσφέρουμε. Για να κατανοήσουμε πλήρως τα δικαιώματά σας ως χρήστη καθώς και τους τρόπους με τους οποίους χρησιμοποιούμε τα δεδομένα σας, διαβάστε και συμφωνήστε με την &lt;a href=%1$s&gt;Συμφωνία Χρήστη&lt;/a&gt; και &lt;a href=%2$s&gt;Πολιτική Προστασίας Προσωπικών Δεδομένων&lt;/a&gt; πριν χρησιμοποιήσετε την εφαρμογή."</string>
     <string name="dialog_privacy_change_title">Ενημέρωση πολιτικής απορρήτου</string>
     <string name="dialog_privacy_info_new2">"Για να μπορέσετε να χρησιμοποιήσετε τις υπηρεσίες αυτές, πρέπει να συμφωνήσετε ότι %1$s θα συλλέγει, επεξεργάζεται και χρησιμοποιεί τις προσωπικές σας πληροφορίες. Αναμένεται ότι έχετε διαβάσει και συμφωνήσει στην &lt;a href=%2$s&gt;Πολιτική Απορρήτου&lt;/a&gt; όταν πατήσετε \"Συμφωνώ\" παρακάτω."</string>
     <string name="dialog_privacy_info_new3">"Για να μπορείτε να χρησιμοποιείτε αυτή την υπηρεσία, πρέπει να επιτρέψετε στην εφαρμογή %1$s να συλλέγει, επεξεργάζεται και χρησιμοποιεί τα προσωπικά σας δεδομένα σύμφωνα με την Πολιτική Απορρήτου. Εάν πατήσετε στο Αποδοχή παρακάτω, συμφωνείτε με την &lt;a href=%2$s&gt;Πολιτική Απορρήτου&lt;/a&gt; και το &lt;a href=%3$s&gt;Συμφωνητικό Χρήστη&lt;/a&gt; της Xiaomi. &lt;br/&gt;&lt;br/&gt;Πατώντας στο Αποδοχή, συμφωνείτε επίσης να παρέχετε στο Mi Video πρόσβαση στη λίστα εφαρμογών εγκατεστημένων στη συσκευή σας. Με αυτή την άδεια, το Mi Βίντεο θα μπορεί να κάνει κοινή χρήση στοιχείων, να κατανοεί εάν μία εφαρμογή είναι εγκατεστημένη στη συσκευή σας, ποια έκδοση της εφαρμογής έχει εγκατασταθεί και εάν μια εφαρμογή είναι ασφαλής."</string>
@@ -276,7 +276,7 @@ ID:%s
     <string name="dialog_privacy_revoke_ok">Ανάληψη</string>
     <string name="dialog_privacy_revoke_success">Επιτυχής απόσυρση</string>
     <string name="dialog_privacy_revoking">Ανάκληση της συγκατάθεσης…</string>
-    <string name="dialog_privacy_title">Εξουσιοδότηση</string>
+    <string name="dialog_privacy_title">Όροι και προϋποθέσεις</string>
     <string name="dialog_revoke_privacy_info_new2">Μετά την ανάκληση εξουσιοδότησης, η εφαρμογή θα διακόψει την συλλογή δεδομένων, και όλα τα σχετικά δεδομένα θα διαγραφούν από τους διακομιστές μας. Αυτό ενδέχεται να καταστήσει εικονικά άχρηστη την εφαρμογή. Ανάκληση εξουσιοδότησης παρ\' όλα αυτά;</string>
     <string name="dialog_revoke_privacy_title">Ανάκληση εξουσιοδότησης</string>
     <string name="disagree">"Δεν συμφωνώ"</string>
@@ -1134,6 +1134,7 @@ ID:%s
     <string name="screenrecord_nosupport_record">"Για την ώρα, η Εγγραφή οθόνης δεν υποστηρίζεται σε αυτή την συσκευή."</string>
     <string name="search">Αναζήτηση</string>
     <string name="search_bar_hint">Αναζήτηση βίντεο</string>
+    <string name="search_bar_video_download_hint">Αναζήτηση ή εισαγωγή URL</string>
     <string name="search_choose_language">Επιλέξτε γλώσσα</string>
     <string name="search_choose_voice_language">Επιλέξτε τη γλώσσα που χρησιμοποιείται για φωνητική αναζήτηση</string>
     <string name="search_hot_words">Δημοφιλή</string>
@@ -1294,7 +1295,19 @@ ID:%s
     <string name="v_txt_login">Συνδεθείτε για συγχρονισμό αγαπημένων</string>
     <string name="v_update">Ενημέρωση</string>
     <string name="video_already_download_tip">"Ήδη έχετε πραγματοποιήσει λήψη αυτού του στοιχείου"</string>
+    <string name="video_download_btn">Λήψη</string>
     <string name="video_download_fail">"Αδυναμία λήψης βίντεο"</string>
+    <string name="video_download_fail_hint">"Αδυναμία λήψης"</string>
+    <string name="video_download_floating_guide">Κατεβάστε τα βίντεο δωρεάν</string>
+    <string name="video_download_forbidden">"Δεν είναι δυνατή η λήψη από αυτήν την ιστοσελίδα"</string>
+    <string name="video_download_network_error">Σφάλμα δικτύου</string>
+    <string name="video_download_play_video_guide">Πρώτα, παίξτε το βίντεο.</string>
+    <string name="video_download_play_video_guide2">Στη συνέχεια, πατήστε το κουμπί για λήψη.</string>
+    <string name="video_download_site_search">URL</string>
+    <string name="video_download_source">Λήψη μέσω Web</string>
+    <string name="video_download_start">Λήψη…</string>
+    <string name="video_download_storage_error">Δεν υπάρχει αρκετός αποθηκευτικός χώρος</string>
+    <string name="video_downloading">Λήψη…</string>
     <string name="video_live_over">Η συνεδρία αυτή έληξε</string>
     <string name="video_noyet_download_tip">Ακόμη γίνεται λήψη αυτού του βίντεο</string>
     <string name="video_offline">Αυτό το αντικείμενο δεν είναι διαθέσιμο πλέον</string>

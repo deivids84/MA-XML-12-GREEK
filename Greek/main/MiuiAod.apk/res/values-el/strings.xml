@@ -70,7 +70,7 @@ dd/MM"</string>
     <string name="aod_style">Θέμα</string>
     <string name="aod_theme_store">Πάντα ενεργά θέματα εμφάνισης</string>
     <string name="aod_to_close">Απενεργοποίηση</string>
-    <string name="app_name">Προτίμηση</string>
+    <string name="app_name">blur</string>
     <string name="apply">Εφαρμογή</string>
     <string name="apply_succeed">Επιτυχής εφαρμογή</string>
     <string name="background_icon">Παρασκήνιο</string>
@@ -84,6 +84,7 @@ dd/MM"</string>
     <string name="clear_text_end_icon_content_description">Καθαρισμός κειμένου</string>
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
     <string name="clock_panel_icon">Κατράν ρολογιού</string>
+    <string name="close">Κλείσιμο</string>
     <string name="color_change_with_time_description">Αυτόματη αλλαγή χρώματος κειμένου ανά διαστήματα</string>
     <string name="color_change_with_time_title">Αυτόματη αλλαγή χρώματος</string>
     <string name="component_battery">Μπαταρία</string>
@@ -95,6 +96,7 @@ dd/MM"</string>
     <string name="copy">Αντιγραφή</string>
     <string name="custom_image">Προσαρμοσμένη εικόνα</string>
     <string name="date_picker_lunar">Παραδοσιακό κινεζικό ημερολόγιο</string>
+    <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="deep_space_planet">Απώτερο διάστημα</string>
     <string name="deep_space_planet_des">Αυτό το θέμα αντικατοπτρίζει τις αλλαγές του φωτός που συμβαίνουν γύρω σας κατά τη διάρκεια της ημέρας. Οι ανατολές και ηλιοβασιλέματα συγχρονίζονται επίσης με την τοποθεσία σας.</string>
     <string name="delete">Διαγραφή</string>
@@ -137,10 +139,13 @@ dd/MM"</string>
     <string name="miuix_appcompat_cancel_description">Ακύρωση</string>
     <string name="miuix_appcompat_confirm_description">Επιβεβαίωση</string>
     <string name="miuix_appcompat_delete_description">Διαγραφή</string>
+    <string name="miuix_appcompat_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
+    <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_all_description">Επιλογή όλων</string>
+    <string name="miuix_appcompat_select_item">Επιλογή στοιχείων</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Επιτυχής ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Γίνεται ανανέωση…</string>
@@ -257,6 +262,7 @@ dd/MM"</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="select_notification_animation_style">Επιλέξτε ειδικό εφέ</string>
     <string name="select_notification_notify_style">Επιλογή εφέ ειδοποίησης</string>
+    <string name="send">Αποστολή</string>
     <string name="share">Κοινοποίηση</string>
     <string name="share_to_community">Κοινοποίηση στη Mi Κοινότητα</string>
     <string name="show_battery">Προβολή κατάστασης μπαταρίας</string>

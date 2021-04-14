@@ -181,6 +181,8 @@
     <string name="preference_other">Άλλα</string>
     <string name="preference_privacy_title">Πολιτική Απορρήτου</string>
     <string name="pressure_title">Πίεση</string>
+    <string name="remove_icon_description_content">"Η πυξίδα είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να το χρησιμοποιήσετε για να ελέγξετε τις κατευθύνσεις, τις συντεταγμένες, την ατμοσφαιρική πίεση και το τρέχον υψόμετρο αφού αφαιρέσετε τη συντόμευση Αρχικής οθόνης."</string>
+    <string name="remove_icon_description_title">Αφαίρεση \"Πυξίδας\" από την αρχική οθόνη?</string>
     <string name="saturday">Σάββατο</string>
     <string name="saturday_short">Σαβ</string>
     <string name="saturday_shortest">Σαβ</string>

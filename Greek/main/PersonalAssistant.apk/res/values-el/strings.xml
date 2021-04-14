@@ -612,6 +612,7 @@
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
     <string name="clock_alarm">Alarm</string>
     <string name="clock_parent">Ρολόι</string>
+    <string name="close">Κλείσιμο</string>
     <string name="closed">Ανενεργό</string>
     <string name="collect_diagnosis_log">Συλλογή αρχείου καταγραφής διάγνωσης</string>
     <string name="commute">Προτάσεις χάρτη</string>
@@ -676,6 +677,7 @@
     <string name="data_error">Παρουσιάστηκε σφάλμα. περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="data_error_show">"Η παραγγελία ολοκληρώθηκε, αδυναμία εμφάνισης πληροφοριών."</string>
     <string name="date_picker_lunar">Παραδοσιακό κινεζικό ημερολόγιο</string>
+    <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="debug_card_brief">Ρυθμίσεις και εργαλεία εντοπισμού σφαλμάτων</string>
     <string name="debug_card_detail">Ρυθμίσεις και εργαλεία εντοπισμού σφαλμάτων</string>
     <string name="debug_card_title">Αποσφαλμάτωση</string>
@@ -1251,10 +1253,13 @@ ID:%s
     <string name="miuix_appcompat_cancel_description">Ακύρωση</string>
     <string name="miuix_appcompat_confirm_description">Επιβεβαίωση</string>
     <string name="miuix_appcompat_delete_description">Διαγραφή</string>
+    <string name="miuix_appcompat_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
+    <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_all_description">Επιλογή όλων</string>
+    <string name="miuix_appcompat_select_item">Επιλογή στοιχείων</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Επιτυχής ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Γίνεται ανανέωση…</string>
@@ -1505,6 +1510,7 @@ ID:%s
     <string name="search_category_video">Βίντεο</string>
     <string name="search_change_header">Αντικατάσταση εικόνας εξώφυλλου</string>
     <string name="search_clear_header">Αφαίρεση εικόνας εξωφύλλου</string>
+    <string name="search_header_dialog_title">Αλλαγή φόντου</string>
     <string name="search_hint">Αναζήτηση στα αγαπημένα</string>
     <string name="search_label">Αναζήτηση…</string>
     <string name="search_menu_title">Αναζήτηση</string>
@@ -1512,6 +1518,7 @@ ID:%s
     <string name="search_tip">Γίνεται αναζήτηση…</string>
     <string name="security">Ασφάλεια</string>
     <string name="selected_shortcuts_title">Αρχική σελίδα</string>
+    <string name="send">Αποστολή</string>
     <string name="send_action_title">Προσθήκη στα αγαπημένα</string>
     <string name="send_diagnosis_log">Αποστολή αρχείου καταγραφής διάγνωσης</string>
     <string name="send_express">Γρήγορη παράδοση</string>

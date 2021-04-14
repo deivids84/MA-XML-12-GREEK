@@ -515,8 +515,10 @@
     <string name="welcome_app_title">Καλωσορίσατε στην εφαρμογή Καιρός!</string>
     <string name="wind_direction_no_data">Άνεμος</string>
     <string name="wind_unit">%1$skm/h</string>
-    <string name="xiaomi_weather_description_content">"Ο Καιρός σας παρέχει με ακριβείς πληροφορίες καιρού. Χωρίς την εφαρμογή αυτή, η γραμμή κατάστασης και το widget Καιρού Αρχικής οθόνης δεν θα λειτουργούν κανονικά. Βεβαωθείτε πως δεν χρειάζεστε πλέον τις λειτουργίες αυτές πριν την απεγκατάσταση της εφαρμογής."</string>
-    <string name="xiaomi_weather_description_title">Σχετικά με Καιρό</string>
+    <string name="xiaomi_weather_description_content">"Ο καιρός είναι μια εφαρμογή συστήματος. Δεν θα είστε σε θέση να δείτε πληροφορίες καιρού ή να χρησιμοποιήσετε σχετικά widget μετά την απεγκατάσταση της εφαρμογής."</string>
+    <string name="xiaomi_weather_description_content_remove">"Ο καιρός είναι μια εφαρμογή συστήματος. Δεν θα είστε σε θέση να δείτε πληροφορίες καιρού ή να χρησιμοποιήσετε σχετικά widget μετά την αφαίρεση της συντόμευσης Αρχικής οθόνης."</string>
+    <string name="xiaomi_weather_description_title">Απεγκατάσταση \"Καιρός\"?</string>
+    <string name="xiaomi_weather_description_title_remove">Αφαίρεση του \"Καιρός\" από την αρχική οθόνη?</string>
     <string name="yes_vote_ratio">Υπέρ %1$s%%</string>
     <string name="yesterday">Χθες</string>
 </resources>

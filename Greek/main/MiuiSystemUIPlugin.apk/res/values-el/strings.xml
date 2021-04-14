@@ -90,6 +90,7 @@
     <string name="disabled">Μη διαθέσιμο</string>
     <string name="dnd_popup_close_message">Κατανοητό</string>
     <string name="dnd_popup_message">Μπορείτε να ενεργοποιήσετε τη λειτουργία Μην Ενοχλείτε για να απενεργοποιήσετε τις κλήσεις και τις ειδοποιήσεις χωρίς να απενεργοποιήσετε τους ήχους πολυμέσων.</string>
+    <string name="dolby_atoms_sound_effect_label">Dolby Atmos</string>
     <string name="early_morning">Πρωί</string>
     <string name="eras_ad">μ.Χ.</string>
     <string name="eras_bc">π.Χ.</string>
@@ -112,7 +113,7 @@
     <string name="material_slider_range_end">Τέλος εμβέλειας,</string>
     <string name="material_slider_range_start">Εκκίνηση εύρους,</string>
     <string name="midnight">Νύχτα</string>
-    <string name="miui_dnd_count_down">Χρονοδιακόπτης Μην Ενοχλείτε</string>
+    <string name="miui_dnd_count_down">Σύρετε για ορισμό χρονομέτρου</string>
     <string name="miui_dnd_count_down_time">"Χρονοδιακόπτης Μην Ενοχλείτε
 %s"</string>
     <string name="miui_guide_dialog_button_negative_text">Ρυθμίσεις</string>

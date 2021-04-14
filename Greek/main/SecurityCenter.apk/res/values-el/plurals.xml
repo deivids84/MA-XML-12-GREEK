@@ -632,6 +632,10 @@
         <item quantity="other">αντικείμενα</item>
         <item quantity="one">αντικείμενο</item>
     </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Ακύρωση (%ds)</item>
+        <item quantity="one">Ακύρωση (%ds)</item>
+    </plurals>
     <plurals name="power_main_battery_last_day">
         <item quantity="other">%s ημέρες απέμειναν</item>
         <item quantity="one">%s ημέρα απέμεινε</item>

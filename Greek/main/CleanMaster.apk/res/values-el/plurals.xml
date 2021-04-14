@@ -174,4 +174,8 @@
         <item quantity="other">Διαγραφή %1$d αντικειμένων;</item>
         <item quantity="one">Διαγραφή %1$d αντικειμένου;</item>
     </plurals>
+    <plurals name="whatsapp_file_audio_dec">
+        <item quantity="other">%1$s αρχεία ήχου</item>
+        <item quantity="one">%1$s αρχείο ήχου</item>
+    </plurals>
 </resources>

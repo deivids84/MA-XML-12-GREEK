@@ -599,6 +599,9 @@
     <string name="user_agreement">Συμφωνία Χρήστη</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
+    <string name="version_update_dialog_negative_desc">Όχι τώρα</string>
+    <string name="version_update_dialog_positive_desc">Ενημέρωση</string>
+    <string name="version_update_dialog_title">Υπάρχει διαθέσιμη ενημέρωση</string>
     <string name="vibrate_pref_summary">Δόνηση κατά την αφύπνιση</string>
     <string name="vibrate_when_ringing">Δόνηση κατά το κουδούνισμα</string>
     <string name="voice_add_alarm">Προσθήκη ξυπνητηριού χρησιμοποιώντας μια φωνητική εντολή</string>

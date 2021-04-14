@@ -761,6 +761,8 @@
     <string name="toast_updater_open_4g_text">Οι εφαρμογές θα ενημερωθούν με τη χρήση δεδομένων κινητής τηλεφωνίας (4G)</string>
     <string name="total_clean">Σύνολο εκκαθάρισης: %s</string>
     <string name="total_clean_text">Εκκαθάριση</string>
+    <string name="unit_gb">%s GB</string>
+    <string name="unit_mb">%s MB</string>
     <string name="unlike">Όχι ευχαριστώ</string>
     <string name="update_date_format">dd/MM/yyyy</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
@@ -824,6 +826,7 @@
     <string name="wechat_qq_celan_tab_voice">Φωνητικά μηνύματα</string>
     <string name="wechat_qq_deep_clean_button_text">Βαθιά εκκαθάριση</string>
     <string name="whatsapp_btn_quick_cleanup">Διαγραφή επιλεγμένων αρχείων (%s)</string>
+    <string name="whatsapp_cache_clear">Εκκαθάριση προσωρινής μνήμης…</string>
     <string name="whatsapp_clean_exit_confirm_cancel">Συνέχεια σάρωσης</string>
     <string name="whatsapp_clean_exit_confirm_msg">"Δεν έχει ολοκληρωθεί η σάρωση του WhatsApp. Διακοπή σάρωσης τώρα;"</string>
     <string name="whatsapp_clean_exit_confirm_ok">Διακοπή</string>
@@ -833,6 +836,10 @@
     <string name="whatsapp_delete_confirm_message">Διαγραφή τώρα;</string>
     <string name="whatsapp_delete_confirm_ok">OK</string>
     <string name="whatsapp_delete_done">Ολοκλήρωση</string>
+    <string name="whatsapp_detail_cache_result">Απελευθερώθηκε %s</string>
+    <string name="whatsapp_detail_sort_created">Ταξινόμηση κατά ημερομηνία</string>
+    <string name="whatsapp_file_recv">Ελήφθη</string>
+    <string name="whatsapp_file_send">Απεσταλμένα</string>
     <string name="whatsapp_file_show_order">Σήμερα</string>
     <string name="whatsapp_function_summery">Διαγραφή Συνημένων WhatsApp</string>
     <string name="whatsapp_function_title">Καθαρισμός WhatsApp</string>

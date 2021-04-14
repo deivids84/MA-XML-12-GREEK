@@ -59,9 +59,4 @@
         <item>.</item>
         <item>.</item>
     </string-array>
-    <string-array name="other_settings_auto_update_entries">
-        <item>Wi-Fi και δίκτυα κινητής τηλεφωνίας</item>
-        <item>Μόνο WiFi</item>
-        <item>Ανενεργό</item>
-    </string-array>
 </resources>

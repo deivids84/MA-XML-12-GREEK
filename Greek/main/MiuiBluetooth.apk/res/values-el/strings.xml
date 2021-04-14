@@ -361,6 +361,7 @@ Bluetooth"</string>
     <string name="headset_device_error_box_close">Η περίπτωση φόρτισης είναι απενεργοποιημένη</string>
     <string name="headset_device_error_disconnect">Και τα δύο ακουστικά αποσυνδέονται. Κλείστε την θήκη φόρτισης και ανοίξτε την ξανά για να ξεκινήσει η ενημέρωση.</string>
     <string name="headset_device_error_failed">"Αδυναμία ενημέρωσης"</string>
+    <string name="headset_device_error_multconnect">"Δεν είναι δυνατή η ενημέρωση όταν πολλές συσκευές είναι συνδεδεμένες"</string>
     <string name="headset_device_error_no_device">Τουλάχιστον ένα ακουστικό λείπει από την θήκη φόρτισης</string>
     <string name="headset_device_error_single_device">"Δεν είναι δυνατή η ενημέρωση ενός ακουστικού. Ζεύγος ξανά."</string>
     <string name="headset_device_sync_donot_move_device">Συγχρονισμός… Περιμένετε μέχρι να ολοκληρωθεί ο συγχρονισμός πριν χρησιμοποιήσετε τα ακουστικά.</string>

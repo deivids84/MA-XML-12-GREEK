@@ -363,6 +363,8 @@
     <string name="reg_error_server">Παρουσιάστηκε σφάλμα δικτύου. Κάντε αναφορά και δοκιμάστε ξανά.</string>
     <string name="reg_error_upload_audio">"Δεν ήταν δυνατή η μεταφόρτωση αρχείου, προσπαθήστε ξανά."</string>
     <string name="reg_error_upload_order">"Δεν ήταν δυνατή η μεταφόρτωση, προσπαθήστε ξανά."</string>
+    <string name="remove_icon_description_content">"Η Εγγραφή είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να διαχειριστείτε εγγραφές αφού αφαιρέσετε τη συντόμευση Αρχικής οθόνης."</string>
+    <string name="remove_icon_description_title">Αφαίρεση του \"Recorder\" από την αρχική οθόνη?</string>
     <string name="rename">Μετονομασία</string>
     <string name="rename_dialog_title">Μετονομασία ηχογράφησης</string>
     <string name="rename_duplicate">Ηχογράφηση με το ίδιο όνομα υπάρχει ήδη.</string>

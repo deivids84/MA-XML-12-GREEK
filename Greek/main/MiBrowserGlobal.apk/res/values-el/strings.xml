@@ -1794,6 +1794,7 @@ ID:%s
     <string name="setting">Ρυθμίσεις</string>
     <string name="setting_app_language">Γλώσσα περιηγητή</string>
     <string name="setting_feed_language">Γλώσσα για την Τροφοδοσία με περιεχόμενο</string>
+    <string name="setting_home_page_show_title">Αρχική σελίδα</string>
     <string name="setting_privacy_password">Ορισμός μοτίβου ξεκλειδώματος</string>
     <string name="share_image_text">Δες τι κοινοποίησα! @MIUI</string>
     <string name="share_page_text">Δες τι κοινοποίησα: %1$s @MIUI| %2$s</string>

@@ -74,6 +74,8 @@
 2. On some TV models, this feature is only available when screen mirroring is on. View \"Help\" to learn more."</string>
     <string name="dialog_scanning_device">Αναζήτηση για κοντινές συσκευές…</string>
     <string name="dialog_scanning_precondition">Ενεργοποιήστε το Wi-Fi και Bluetooth στο τηλέφωνό σας για να χρησιμοποιήσετε την Ασύρματη προβολή.</string>
+    <string name="dialog_scanning_precondition_new_china">Ενεργοποιήστε το Wi-Fi, το Bluetooth και τις υπηρεσίες τοποθεσίας για να μπορείτε να χρησιμοποιήσετε casting. Ενεργοποιήστε τώρα?</string>
+    <string name="dialog_scanning_precondition_new_global">Ενεργοποιήστε το Wi-Fi, το Bluetooth και τις υπηρεσίες τοποθεσίας για να μπορείτε να χρησιμοποιήσετε casting. Ενεργοποιήστε τώρα?</string>
     <string name="dialog_select_tv">Επιλογή συσκευής (%d)</string>
     <string name="dialog_show_help">Βοήθεια</string>
     <string name="disconnect">Διακοπή μετάδοσης</string>

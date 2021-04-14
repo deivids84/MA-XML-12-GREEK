@@ -530,6 +530,8 @@
     <string name="call_barring_sum">Ρυθμίσεις φραγής φωνητικών κλήσεων</string>
     <string name="call_category">Κλήση</string>
     <string name="call_description_recording">Γίνεται καταγραφή…</string>
+    <string name="call_fold_setting">Αναδίπλωση και εκδίπλωση</string>
+    <string name="call_fold_setting_title">Αναδίπλωση και εκδίπλωση</string>
     <string name="call_forward_option">Προώθηση κλήσεων</string>
     <string name="call_forwarding_number_hint">Προώθηση κλήσεων σε</string>
     <string name="call_forwarding_settings">Ρυθμίσεις προώθησης κλήσης</string>
@@ -1011,6 +1013,8 @@
     <string name="fiveg_upperlayer_indication1">Κατάσταση Ένδειξης Ανώτερου Στρώματος :</string>
     <string name="flash_when_ring_summary">Χρήση φλας για ειδοποιήσεις εισερχόμενων κλήσεων</string>
     <string name="flash_when_ring_title">Ειδοποίηση LED κατά το κουδούνισμα</string>
+    <string name="fold_answer_pref_summary">Διπλώστε τη συσκευή για να αποδεχτείτε αυτόματα μια εισερχόμενη κλήση</string>
+    <string name="fold_answer_pref_title">Διπλώστε για αποδοχή κλήσεων</string>
     <string name="forbidden_network">(απαγορευμένο)</string>
     <string name="force_allow_on_external">Να επιτρέπονται υποχρεωτικά εφαρμογές σε εξωτ.συσ.</string>
     <string name="force_allow_on_external_summary">Κάνει κάθε εφαρμογή κατάλληλη για εγγραφή σε εξωτερικό αποθηκευτικό χώρο, ανεξάρτητα από τις τιμές του μανιφέστου</string>
@@ -1020,6 +1024,8 @@
     <string name="force_resizable_activities_summary">Να έχουν όλες οι δραστηριότητες δυνατότητα αλλαγής μεγέθους για την προβολή πολλαπλών παραθύρων, ανεξάρτητα από τις τιμές του μανιφέστου.</string>
     <string name="force_rtl_layout_all_locales">Επιβολή κατ. διάταξης RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Επιβολή διάταξης οθόν. RTL για όλες τις τοπ. ρυθμ.</string>
+    <string name="four_point_five_switch_summary">Χρησιμοποιήστε 4.5G για να βελτιώσετε την ταχύτητα πρόσβασης στα δεδομένα σας και την ποιότητα φωνής.</string>
+    <string name="four_point_five_switch_title">4.5G</string>
     <string name="frequecy_num">lte κανάλι num</string>
     <string name="fw_change_failed">"Δεν ήταν δυνατή η αλλαγή του αριθμού προώθησης.
 Επικοινωνήστε με την εταιρεία σας εάν το πρόβλημα παραμένει."</string>
@@ -2245,6 +2251,10 @@
     <string name="turnover_mute_summary">Όταν το τηλέφωνο βρίσκεται σε οριζόντια επιφάνεια με την οθόνη προς τα επάνω, γυρίστε το ανάποδα για σίγαση κλήσης, απενεργοποίηση δόνησης, και διακοπή λήψης φωτός ειδοποιήσεων.</string>
     <string name="turnover_mute_title">Εναλλαγή σε σίγαση κουδουνίσματος</string>
     <string name="undefined">Κανένα</string>
+    <string name="unfold_close_camera_pref_summary">Ξεδιπλώστε τη συσκευή κατά τη διάρκεια μιας βιντεοκλήσης για απενεργοποίηση της κάμερας</string>
+    <string name="unfold_close_camera_pref_title">Ξεδιπλώστε για να απενεργοποιήσετε την κάμερα</string>
+    <string name="unfold_speaker_pref_summary">Ξεδιπλώστε τη συσκευή κατά τη διάρκεια μιας κλήσης για να ενεργοποιήσετε το ηχείο</string>
+    <string name="unfold_speaker_pref_title">Ξεδιπλώστε για να χρησιμοποιήσετε ηχείο</string>
     <string name="unknown">Άγνωστη</string>
     <string name="unlock_failed">Ανεπιτυχές αίτημα ξεκλειδώματος δικτύου.</string>
     <string name="unlock_success">Το ξεκλείδωμα δικτύου ήταν επιτυχές.</string>
@@ -2394,6 +2404,7 @@
     <string name="wapi_password_length_is_min_to_max">Ο κωδικός πρόσβασης πρέπει να είναι: 8-64 χαρακτήρες</string>
     <string name="wapi_yes">ναι</string>
     <string name="wfc_provisioned_switch_string">Παρέχεται δυνατότητα κλήσης μέσω Wi-Fi</string>
+    <string name="wfcmode_ims_preferred">Προτίμηση IMS</string>
     <string name="wfcmode_mobile_preferred">Κατα προτίμηση δίκτυα κινητής τηλεφωνίας</string>
     <string name="wfcmode_wifi_only">Μόνο WiFi</string>
     <string name="wfcmode_wifi_preferred">Κατά προτίμηση Wi-Fi</string>

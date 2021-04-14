@@ -19,6 +19,7 @@
     <string name="autofill_password_activity_label">Κωδικοί επαλήθευσης</string>
     <string name="autofill_service_label">Διαχείριση κωδικών πρόσβασης</string>
     <string name="autofill_setting_activity_label">Διαχείριση κωδικών πρόσβασης</string>
+    <string name="back_button_label">Πίσω</string>
     <string name="cancel">Ακύρωση</string>
     <string name="change_passwork_dialog_content">"Έχετε ήδη αποθηκεύσει έναν κωδικό πρόσβασης για αυτόν τον λογαριασμό. Ενημερώστε τον κωδικό πρόσβασης τώρα?"</string>
     <string name="change_passwork_dialog_title">Ενημέρωση κωδικού πρόσβασης?</string>

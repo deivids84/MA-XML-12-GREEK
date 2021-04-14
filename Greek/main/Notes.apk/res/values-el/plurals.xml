@@ -92,6 +92,10 @@
         <item quantity="one">Μόλις τώρα</item>
         <item quantity="other">Μόλις τώρα</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d επιλεγμένα στοιχεία</item>
+        <item quantity="one">%d επιλεγμένο στοιχείο</item>
+    </plurals>
     <plurals name="note_terms">
         <item quantity="other">%1$s σημειώσεις</item>
         <item quantity="one">%1$s σημείωση</item>

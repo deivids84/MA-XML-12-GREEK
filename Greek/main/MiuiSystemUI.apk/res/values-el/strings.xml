@@ -567,6 +567,7 @@ Bluetooth"</string>
     <string name="character_counter_content_description">Οι χαρακτήρες εισήχθησαν %1$d από %2$d</string>
     <string name="character_counter_overflowed_content_description">Το όριο χαρακτήρων ξεπέρασε το %1$d από %2$d</string>
     <string name="charge_length_format">%1$s πριν</string>
+    <string name="choose_clock_dual_clock_hint_text">"Αδυναμία αλλαγής μορφής όταν το διπλό ρολόι είναι ενεργοποιημένο"</string>
     <string name="choose_clock_panel_title">Διάταξη Οθόνης κλειδώματος</string>
     <string name="choose_clock_third_theme_hint_text">Κλείδωμα οθόνης από το τρέχον εφαρμοσμένο θέμα</string>
     <string name="choose_clock_title_left_top">Αριστερά</string>
@@ -714,8 +715,8 @@ Bluetooth"</string>
     <string name="dnd_is_off">Μην ενοχλείτε ανενεργό</string>
     <string name="dnd_notification_warnings_title">Η Λειτουργία Μην Ενοχλείτε είναι ενεργή. Θα γίνει σίγαση κλήσεων και ειδοποιήσεων.</string>
     <string name="dnd_suppressing_shade_text">Οι ειδοποιήσεις τέθηκαν σε παύση από το στοιχείο \"Μην ενοχλείτε\"</string>
-    <string name="do_disclosure_generic">Η συσκευή αυτή διαχειρίζεται από τον οργανισμό σας</string>
-    <string name="do_disclosure_with_name">Η συσκευή αυτή διαχειρίζεται από %s</string>
+    <string name="do_disclosure_generic">Αυτή η συσκευή ανήκει στον οργανισμό σας</string>
+    <string name="do_disclosure_with_name">Αυτή η συσκευή ανήκει στο %s</string>
     <string name="do_not_silence">"Να μην γίνει σίγαση"</string>
     <string name="do_not_silence_block">"Να μην γίνει σίγαση ή αποκλεισμός"</string>
     <string name="dock_alignment_not_charging">Ευθυγραμμίστε ξανά το τηλέφωνο για ασύρματη φόρτιση</string>
@@ -1844,6 +1845,7 @@ d MMMM"</string>
     <string name="ssl_ca_cert_warning">"Το δίκτυο ενδέχεται
 να παρακολουθείται"</string>
     <string name="standby_bucket_summary">Αναμονή εφαρμογής κατάσταση: %s</string>
+    <string name="start_camera_error_try_again">"Δεν ήταν δυνατή η εκκίνηση της κάμερας. Δοκιμάστε ξανά."</string>
     <string name="start_dreams">Προστασία οθόνης</string>
     <string name="status_bar">Γραμμή κατάστασης</string>
     <string name="status_bar_airplane">Λειτουργία πτήσης</string>

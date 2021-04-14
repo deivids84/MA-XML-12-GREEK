@@ -154,6 +154,10 @@
     <string name="blur_location_is_on_tip">%1$s χρησιμοποιεί την κατά προσέγγιση τοποθεσία σας. Να χρησιμοποιείται αντί για ακριβή τοποθεσία?</string>
     <string name="blur_location_now_tip">Η τοποθεσία κατά προσέγγιση είναι ενεργή</string>
     <string name="blur_location_title">Τοποθεσία κατά προσέγγιση</string>
+    <string name="cetus_invisible_mode_notice_audio">"Είστε incognito. Δεν μπορείτε να χρησιμοποιήσετε το μικρόφωνο τώρα."</string>
+    <string name="cetus_invisible_mode_notice_camera">"Είσαι ανώνυμος. Δεν μπορείς να χρησιμοποιήσεις την κάμερα τώρα."</string>
+    <string name="cetus_invisible_mode_notice_location">"Είστε ανώνυμοι. Δεν μπορείτε να χρησιμοποιήσετε τις υπηρεσίες τοποθεσίας τώρα."</string>
+    <string name="cetus_invisible_mode_notice_tip">Πατήστε για να απενεργοποιήσετε την λειτουργία ανώνυμης περιήγησης στις ρυθμίσεις</string>
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
     <string name="clipboard_ai_allow_once">Επιτρέπεται %1$s να έχει πρόσβαση σε στοιχεία στο πρόχειρο αυτόματα</string>
     <string name="clipboard_data">"Περιεχόμενο:"</string>
@@ -323,6 +327,12 @@
     <string name="screen_overlay_message">Για αλλαγή αυτής της άδειας, πρέπει να απενεργοποιήσετε την επικάλυψη οθόνης στις Ρυθμίσεις &gt; Eφαρμογές.</string>
     <string name="screen_overlay_title">Εντοπίστηκε επικάλυψη οθόνης</string>
     <string name="search_menu_title">Αναζήτηση</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_tera_byte">TB</string>
     <string name="solar_term_autumn_begins">Αρχίζει το φθινόπωρο</string>
     <string name="solar_term_autumn_equinox">Φθινοπωρινή ισημερία</string>
     <string name="solar_term_clear_and_bright">Καθαρός και φωτεινός</string>
