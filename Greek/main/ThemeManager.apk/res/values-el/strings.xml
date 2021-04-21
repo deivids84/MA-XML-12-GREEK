@@ -562,6 +562,7 @@ mm"</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Κατάλαβα</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">"Να μην εμφανιστεί ξανά"</string>
     <string name="multi_sim_ringtone_settings_dialog_title">Προβλήματα συμβατότητας</string>
+    <string name="multiwindow_no_support_icon">"Αδυναμία αλλαγής εικονιδίων κατά τη χρήση του Διαχωρισμού οθόνης"</string>
     <string name="network_exception">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά."</string>
     <string name="new_resource_price_unit">Μι</string>
     <string name="night">ΜΜ</string>

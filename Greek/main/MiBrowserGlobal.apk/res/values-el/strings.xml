@@ -147,6 +147,8 @@
     <string name="app_name_miuiwallpaper">Ταπετσαρίες</string>
     <string name="app_name_screenshot">Στιγμιότυπα οθόνης</string>
     <string name="app_new_version">Η τελευταία έκδοση αυτής της εφαρμογής έχει εγκατασταθεί ήδη</string>
+    <string name="app_uninstall_description_content">"Το πρόγραμμα περιήγησης είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να χρησιμοποιήσετε τις υπηρεσίες αναζήτησης και περιήγησης ιστού που παρέχει μετά την απεγκατάσταση της εφαρμογής."</string>
+    <string name="app_uninstall_description_title">Κατάργηση Εγκατάστασης Περιηγητή?</string>
     <string name="app_update_install">Είστε έτοιμοι για εγκατάσταση ενημέρωσης.</string>
     <string name="application_name">Φυλλομετρητής</string>
     <string name="aqi_quality_index_break">Άκρως επικίνδυνη</string>
@@ -1794,7 +1796,6 @@ ID:%s
     <string name="setting">Ρυθμίσεις</string>
     <string name="setting_app_language">Γλώσσα περιηγητή</string>
     <string name="setting_feed_language">Γλώσσα για την Τροφοδοσία με περιεχόμενο</string>
-    <string name="setting_home_page_show_title">Αρχική σελίδα</string>
     <string name="setting_privacy_password">Ορισμός μοτίβου ξεκλειδώματος</string>
     <string name="share_image_text">Δες τι κοινοποίησα! @MIUI</string>
     <string name="share_page_text">Δες τι κοινοποίησα: %1$s @MIUI| %2$s</string>

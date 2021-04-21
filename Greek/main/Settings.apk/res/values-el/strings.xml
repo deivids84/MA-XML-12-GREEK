@@ -3127,6 +3127,8 @@ Bluetooth"</string>
     <string name="freeform_guide_notification_drop_down_summary">Πατήστε παρατεταμένα και τραβήξτε προς τα κάτω τη γραμμή ενέργειας μιας ειδοποίησης</string>
     <string name="freeform_guide_notification_drop_down_title">Άνοιγμα αναδυόμενων παραθύρων</string>
     <string name="freeform_guide_settings">Αναδυόμενα παράθυρα</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary">Σύρετε από το κάτω μέρος της οθόνης στην επάνω δεξιά γωνία της οθόνης</string>
+    <string name="freeform_guide_slide_to_small_freeform_title">Σύρετε στα επιπλέοντα παράθυρα</string>
     <string name="freeform_guide_slide_up_to_close_summary">Σύρετε προς τα πάνω από τη γραμμή ενέργειας ενός αναδυόμενου παραθύρου</string>
     <string name="freeform_guide_slide_up_to_close_title">Κλείσιμο αναδυόμενων παραθύρων</string>
     <string name="freeform_vedio_description">"· Πατήστε παρατεταμένα και μετά τραβήξτε προς τα κάτω μια ειδοποίηση για να την ανοίξετε σε αναδυόμενο παράθυρο.
@@ -4338,6 +4340,8 @@ Xiaomi Cloud
     <string name="miheadset_double_click_key_mode">Διπλό πάτημα</string>
     <string name="miheadset_double_click_left">Πατήστε δύο φορές το αριστερό ακουστικό</string>
     <string name="miheadset_double_click_right">Πατήστε δύο φορές το δεξί ακουστικό</string>
+    <string name="miheadset_double_press_left">Διπλό πάτημα αριστερά ακουστικά</string>
+    <string name="miheadset_double_press_right">Διπλό πάτημα δεξιού ακουστικού</string>
     <string name="miheadset_enhanceVoice">Βελτίωση φωνής</string>
     <string name="miheadset_enhence_high">Βελτιωμένα πρίμα</string>
     <string name="miheadset_enhence_low">Βελτιωμένα μπάσα</string>
@@ -4399,6 +4403,8 @@ Xiaomi Cloud
     <string name="miheadset_transparent">Διαφάνεια</string>
     <string name="miheadset_transparentMode">Διαφάνεια</string>
     <string name="miheadset_triple_click_key_mode">Τριπλό πάτημα</string>
+    <string name="miheadset_triple_press_left">Τριπλό πάτημα αριστερού ακουστικού</string>
+    <string name="miheadset_triple_press_right">Τριπλό πάτημα δεξιού ακουστικού</string>
     <string name="miheadset_unpair_device_text">%1$s θα αποσυνδεθεί από όλες τις συσκευές που σχετίζονται με αυτόν τον Mi Λογαριασμό.</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="misc_files">Διάφορα αρχεία</string>
@@ -6036,6 +6042,7 @@ Xiaomi Cloud
     <string name="screen_projection_sample_title">Επιδείξεις</string>
     <string name="screen_projection_title">Μετάδοση</string>
     <string name="screen_reader_category_title">Αναγνώστες οθόνης</string>
+    <string name="screen_recorder_title">Εγγραφή Οθόνης</string>
     <string name="screen_resolution_dialog_title">Αλλαγή ανάλυσης</string>
     <string name="screen_resolution_high_format">Υψηλή (%1$s)</string>
     <string name="screen_resolution_normal_format">Κανονική (%1$s)</string>

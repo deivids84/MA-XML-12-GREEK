@@ -31,7 +31,10 @@
     <string name="afternoon">Απόγευμα</string>
     <string name="am">ΠΜ</string>
     <string name="app_name">Εγγραφή Οθόνης</string>
+    <string name="app_notification_channel_record_complete">Ειδοποιήσεις σχετικά με τις τελικές εγγραφές</string>
     <string name="app_notification_info">Ο Εγγραφέας οθόνης εκτελείται στο παρασκήνιο</string>
+    <string name="app_notification_record_complete">"Αποθηκευμένη εγγραφή οθόνης στην Συλλογή
+Πατήστε για προβολή"</string>
     <string name="app_notification_title">Εγγραφή Οθόνης</string>
     <string name="auto_stop_title">Επιτυχής αποθήκευση βίντεου</string>
     <string name="battery_not_allowed" formatted="false">"Αδυναμία εγγραφής όταν η μπαταρία είναι χαμηλότερη από 3%. Βεβαιωθείτε ότι η μπαταρία είναι τουλάχιστον 20% φορτισμένη."</string>
