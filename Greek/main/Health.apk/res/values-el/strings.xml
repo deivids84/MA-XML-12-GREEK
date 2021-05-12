@@ -68,6 +68,8 @@
     <string name="add_data_type_datasource">Προσθήκη πηγής δεδομένων (%1$s)</string>
     <string name="add_model_card">"Tap the button in the upper left corner
 to add cards"</string>
+    <string name="add_model_card2">"Πατήστε το κουμπί παραπάνω για να προσθέσετε κάρτες.
+Θα μπορείτε να παρακολουθείτε τις προπονήσεις και τη δραστηριότητά σας."</string>
     <string name="add_owned_device">Διαθέσιμες συσκευές</string>
     <string name="add_record">Add</string>
     <string name="added_data_source">Προστιθέμενες πηγές</string>
@@ -334,6 +336,7 @@ ID:%s
     <string name="dialog_delete_record_confirm">Delete this record?</string>
     <string name="dialog_exercise_purpose">Καλωσορίσατε στη Xiaomi Health! Ο \"Μετρητής βημάτων\" σας επιτρέπει να δείτε πόσα βήματα κάνετε κατά τη διάρκεια της ημέρας, καθώς και να ορίσετε τους στόχους δραστηριότητας. Όλα τα σχετικά δεδομένα θα αποθηκευτούν τοπικά στη συσκευή σας, που σας επιτρέπει να τα διαχειρίζεστε εύκολα.</string>
     <string name="dialog_exit">Έξοδος</string>
+    <string name="dialog_exit_use">Έξοδος</string>
     <string name="dialog_feedback_content">"If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
     <string name="dialog_feedback_purpose">Η Xiaomi Health χρειάζεται πρόσβαση στον αποθηκευτικό χώρο για να υποβάλλει σχόλια.</string>
     <string name="dialog_feedback_purpose2">For submitting feedback</string>
@@ -365,6 +368,8 @@ ID:%s
     <string name="diastolic_pressure">Διαστολική</string>
     <string name="disable">Off</string>
     <string name="discard_update">Όχι ευχαριστώ</string>
+    <string name="download_apk">Λήψη %s…</string>
+    <string name="download_background">Λήψη</string>
     <string name="drag_sort">Αναδιάταξη</string>
     <string name="dream_talk">Talking %1$s</string>
     <string name="dream_talk_record">You were recorded when you talked during in your sleep</string>

@@ -207,6 +207,7 @@
     <string name="defalut_launcher_title">Προεπιλεγμένο launcher</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">Παιχνίδια</string>
+    <string name="default_folder_title_hot">Δημοφιλείς εφαρμογές</string>
     <string name="default_folder_title_meitu">Εφαρμογές Meitu</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_other_apps">Άλλες εφαρμογές</string>
@@ -222,6 +223,7 @@
     <string name="delete_category_dialog_title">Διαγραφή αυτής της κατηγορίας;</string>
     <string name="delete_screen">Διαγραφή οθόνης</string>
     <string name="delete_wallpaper_message">Διαγραφή %1$d ταπετσαρίας;</string>
+    <string name="deleted_system_applications">Απεγκατεστημένες εφαρμογές συστήματος</string>
     <string name="deselect_all">Αποεπιλογή όλων</string>
     <string name="dialog_work_profile_button_1">Επόμενο</string>
     <string name="dialog_work_profile_button_2">Το κατάλαβα</string>

@@ -130,6 +130,7 @@
     <string name="back_confirm">Αγγίξτε ξανά για να μετακινήστε την εφαρμογή στο παρασκήνιο</string>
     <string name="bluetooth_device">Bluetooth συσκευή ήχου</string>
     <string name="btn_text_edit">Επεξεργασία</string>
+    <string name="btn_text_view_all">Προβολή όλων</string>
     <string name="buffering">Φόρτωση…</string>
     <string name="button_cancel_download">Ακύρωση</string>
     <string name="button_download_now">Λήψη τώρα</string>
@@ -413,6 +414,8 @@
     <string name="fail_to_play">"Αδυναμία αναπαραγωγής τραγουδιού"</string>
     <string name="failed_not_access_sd_card">Αποδοχή πρόσβασης στην κάρτα SD πρώτα</string>
     <string name="failed_obtain_permissions">"Αδυναμία απόκτησης αδειών"</string>
+    <string name="failed_to_connect_hint">Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά</string>
+    <string name="failed_to_connect_text">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο"</string>
     <string name="fans">Ακόλουθοι</string>
     <string name="fav_login_msg">Συνδεθείτε στο Mi Λογαριασμό σας για λήψη τραγουδιών</string>
     <string name="favorite_canceled">Removed from favourites</string>
@@ -475,6 +478,7 @@
     <string name="high_sound_quality">Υψηλή</string>
     <string name="higher_quality_music">Ήχος υψηλής ποιότητας</string>
     <string name="higher_quality_music_summary">Ροή δεδομένων και λήψη αρχείων με μεγαλύτερη ταχύτητα δικτύου</string>
+    <string name="hint_search_songs_playlists_artists">Αναζήτηση τραγουδιών, λιστών αναπαραγωγής και καλλιτεχνών</string>
     <string name="home_tab_home">Αρχική</string>
     <string name="home_tab_local">Η μουσική μου</string>
     <string name="home_tab_more_music">Περισσότερη μουσική</string>
@@ -593,6 +597,7 @@
     <string name="loading">Φόρτωση</string>
     <string name="loading_hint">Περιμένετε μια στιγμή…</string>
     <string name="loading_reached_the_bottom">"Αυτά για τώρα."</string>
+    <string name="loading_text">Μόλις ένα δευτερόλεπτο…</string>
     <string name="local_header_title">Τοπική μουσική</string>
     <string name="local_music">Τοπικά τραγούδια</string>
     <string name="local_music_is_not_available">"Δεν έχετε τραγούδια στη συσκευή σας."</string>
@@ -1132,6 +1137,7 @@
     <string name="title_command_mode">Λειτουργία εντολής</string>
     <string name="title_online_fm_recommend">Προτεινόμενα FM</string>
     <string name="title_online_recommend">Προτεινόμενες λίστες αναπαραγωγής</string>
+    <string name="title_recently_played">Έπαιξε πρόσφατα</string>
     <string name="title_search_history">Αναζήτηση ιστορικού</string>
     <string name="title_search_hot">Δημοφιλή</string>
     <string name="toast_cant_collect_mine_playlist">"Δεν είναι δυνατή η προσθήκη των δικών σας λιστών αναπαραγωγής στα αγαπημένα"</string>

@@ -315,6 +315,7 @@
     <string name="disabled">Απενεργοποιημένο</string>
     <string name="disabled_by_admin">Απενεργοποιήθηκε από τον διαχειριστή</string>
     <string name="disabled_by_admin_summary_text">Ελέγχονται από το διαχειριστή</string>
+    <string name="do_not_show_again">"Να μην εμφανιστεί ξανά"</string>
     <string name="duplicate_video_call_not_allowed">Δεν είναι δυνατή η προσθήκη κλήσης αυτήν τη στιγμή.</string>
     <string name="enable_account_preference_title">Λογαριασμοί κλήσης</string>
     <string name="enable_adb">Εντοπισμός σφαλμάτων USB</string>
@@ -518,6 +519,11 @@
     <string name="runningservices_settings_summary">Προβολή και έλεγχος των εφαρμογών που εκτελούνται αυτή τη στιγμή</string>
     <string name="runningservices_settings_title">Υπηρεσίες που εκτελούνται</string>
     <string name="saved_network">Αποθηκεύτηκε από %1$s</string>
+    <string name="scam_cancle">Ακύρωση</string>
+    <string name="scam_message">"Ρυθμίζετε την προώθηση κλήσεων. Μετά από αυτό, όλες οι εισερχόμενες κλήσεις σας θα απαντηθούν από τον αριθμό %1$s τηλεφώνου. Εάν δεν διαθέτετε αυτόν τον αριθμό προώθησης, μπορεί να κινδυνεύετε να εκθέσετε τα προσωπικά σας στοιχεία ή να υπονομεύσετε την ασφάλεια της περιουσίας σας. Χρησιμοποιήστε αυτό το χαρακτηριστικό με προσοχή."</string>
+    <string name="scam_message_2">**21 * Ο αριθμός προώθησης κλήσεων# είναι ο κωδικός προώθησης κλήσεων. Επικοινωνήστε με τον πάροχο σας εάν έχετε οποιεσδήποτε ερωτήσεις.</string>
+    <string name="scam_ok">Κλήση</string>
+    <string name="scam_title">Υπενθύμιση κινδύνου απάτης</string>
     <string name="screen_zoom_summary_custom">Προσαρμοσμένη (%d)</string>
     <string name="screen_zoom_summary_default">Προεπιλογή</string>
     <string name="screen_zoom_summary_extremely_large">Μεγαλύτερα</string>

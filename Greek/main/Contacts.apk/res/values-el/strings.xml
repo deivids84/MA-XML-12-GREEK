@@ -57,7 +57,6 @@
     <string name="all_list_empty">Δεν υπάρχουν επαφές</string>
     <string name="am">ΠΜ</string>
     <string name="antispam_mark_my_contribution">Κοινοποίηση πληροφοριών σημαίας</string>
-    <string name="app_name">Προτίμηση</string>
     <string name="attach_photo_dialog_title">Φωτογραφία επαφής</string>
     <string name="audio_chat">Φωνητική συνομιλία</string>
     <string name="auto_nickname">Αυτόματα</string>
@@ -304,6 +303,7 @@
     <string name="clear_default">Εκκαθάριση προεπιλογής</string>
     <string name="clear_digits">Διαγραφή αριθμού τηλεφώνου</string>
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
+    <string name="close">Κλείσιμο</string>
     <string name="close_dial_pad_description">Κλείσιμο πληκτρολογίου</string>
     <string name="cloud_antispam_mark">Σημαία</string>
     <string name="cloud_antispam_marked">Με σημαία</string>
@@ -393,6 +393,7 @@ Mi Roaming πρέπει να συνδεθεί στο Διαδίκτυο και �
     <string name="custom_list_filter">Ορισμός προσαρμοσμένης προβολής</string>
     <string name="custom_nickname_hint">Εισαγωγή ψευδώνυμου</string>
     <string name="date_picker_lunar">Παραδοσιακό κινεζικό ημερολόγιο</string>
+    <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="date_year_toggle">Καθορισμός έτους</string>
     <string name="default_ringtone">Προεπιλεγμένος ήχος κλήσης</string>
     <string name="deleteCloudConfirmationDetail">Διαγραφή των πληροφοριών επαφής %s από το cloud και από τη συσκευή;</string>
@@ -705,10 +706,13 @@ Mi Roaming πρέπει να συνδεθεί στο Διαδίκτυο και �
     <string name="miuix_appcompat_cloud_state_syncing">Γίνεται συγχρονισμός με Cloud…</string>
     <string name="miuix_appcompat_confirm_description">Επιβεβαίωση</string>
     <string name="miuix_appcompat_delete_description">Διαγραφή</string>
+    <string name="miuix_appcompat_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_deselect_all_description">Αποεπιλογή όλων</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Ακύρωση</string>
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
+    <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_all_description">Επιλογή όλων</string>
+    <string name="miuix_appcompat_select_item">Επιλογή στοιχείων</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Επιτυχής ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Γίνεται ανανέωση…</string>
@@ -973,6 +977,7 @@ Mi Roaming πρέπει να συνδεθεί στο Διαδίκτυο και �
     <string name="select_all">Επιλογή όλων</string>
     <string name="select_groups">Επιλογή ομάδων</string>
     <string name="select_vcard_title">Επιλογή αρχείου vCard</string>
+    <string name="send">Αποστολή</string>
     <string name="send_contact_shortcut_todesktop_duplicate">Αυτή η συντόμευση υπάρχει ήδη</string>
     <string name="send_contact_shortcut_todesktop_failed">"Αδυναμία τοποθέτησης της συντόμευσης στην Αρχική οθόνη"</string>
     <string name="send_contact_shortcut_todesktop_overflow">"Αδυναμία τοποθέτησης περισσότερων συντομεύσεων στην Αρχική οθόνη"</string>

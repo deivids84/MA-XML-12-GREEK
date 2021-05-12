@@ -85,7 +85,6 @@
     <string name="bugreport_tool_log_dumping_title">Δημιουργία αναφοράς προβλήματος</string>
     <string name="catch_full_log_action_cancel">Ακύρωση</string>
     <string name="catch_full_log_action_complete">Τελείωμα και μεταφόρτωση</string>
-    <string name="catch_full_log_action_start">Δημιουργία αρχείου καταγραφής</string>
     <string name="catch_full_log_add_original_photo">Προσθέστε πρωτότυπη εικόνα ή σύντομο βίντεο</string>
     <string name="catch_full_log_add_photo">Προσθήκη φωτογραφίας</string>
     <string name="catch_full_log_add_photo_dialog_content">"Εάν το ζήτημα που θέλετε να αναφέρετε σχετίζεται με την ποιότητα εικόνας της κάμερας, προσθέστε ένα πρωτότυπο δείγμα φωτογραφίας (όχι κομμένη) για να μας βοηθήσει να εντοπίσουμε το ζήτημα. Προσθήκη φωτογραφίας τώρα;"</string>
@@ -94,9 +93,6 @@
     <string name="catch_full_log_dump_hprof_failed">"Αδυναμία δημιουργίας αρχείου καταγραφής καθυστερήσεων"</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Επιστροφή στη λειτουργία που θέλετε να αναφέρετε και κάντε αναπαραγωγή.
 2. Επιστρέψτε σε αυτή τη σελίδα και πατήστε \"Τελείωμα και ανέβασμα\"."</string>
-    <string name="catch_full_log_item_content_need_open">"1. Πατήστε στο \"Δημιουργία αρχείου καταγραφής\".
-2. Επιστρέψτε στη λειτουργία που θέλετε να αναφέρετε και κάντε αναπαραγωγή.
-3. Επιστρέψτε σε αυτή τη σελίδα και πατήστε \"Τελείωμα και ανέβασμα\"."</string>
     <string name="catch_full_log_item_content_title">Βήματα</string>
     <string name="catch_full_log_item_title_audio">Ήχος, εγγραφή ήχου, και κλήσεις ήχου</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>

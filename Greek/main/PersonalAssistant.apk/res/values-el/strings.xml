@@ -245,6 +245,7 @@
     <string name="app_express_shunfeng_verify_dialog_title">Ολοκλήρωση επαλήθευσης</string>
     <string name="app_express_shunfeng_verify_failed">"Δεν ήταν δυνατή η επαλήθευση των πληροφοριών επαφής. Ελέγξτε αν τα τέσσερα τελευταία ψηφία του αριθμού τηλεφώνου που εισάγατε είναι σωστά και προσπαθήστε ξανά."</string>
     <string name="app_express_tail_number">Παραγγελία: %1$s</string>
+    <string name="app_first_loading_txt">Φόρτωση καρτών…</string>
     <string name="app_health_card_completion">Πρόοδος</string>
     <string name="app_health_card_energy">Θερμίδες</string>
     <string name="app_health_card_step">Βήματα</string>
@@ -349,9 +350,8 @@
     <string name="app_pa_setting_version">Έκδοση: %1$s</string>
     <string name="app_paycode_parent">Alipay</string>
     <string name="app_screen_time_auth">Χρόνος οθόνης</string>
-    <string name="app_screen_time_no_time_title">Λιγότερο από 1 λεπτό</string>
     <string name="app_screen_time_support_false">"Αυτή η υπηρεσία δεν υποστηρίζεται"</string>
-    <string name="app_screen_time_title">"Χρόνος οθόνης: "</string>
+    <string name="app_screen_time_title">"Χρόνος οθόνης"</string>
     <string name="app_setting">Ρυθμίσεις θησαυ/κιου εφαρμογής</string>
     <string name="app_setting_account">Λογαριασμοί</string>
     <string name="app_setting_account_binding">Προσθήκη</string>

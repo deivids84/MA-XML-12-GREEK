@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Κοινοποίηση στην εφαρμογή %s</string>
     <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
     <string name="actionbar_button_up_description">Πίσω</string>
-    <string name="adaptive_fps_tip">2. Επιτύχετε την καλύτερη ισορροπία μεταξύ ομαλότητας και ζωής μπαταρίας προσαρμόζοντας δυναμικά το ρυθμό ανανέωσης.</string>
+    <string name="adaptive_fps_tip">- Επιτύχετε την καλύτερη ισορροπία μεταξύ ομαλότητας κίνησης και διάρκειας ζωής της μπαταρίας προσαρμόζοντας δυναμικά τον ρυθμό ανανέωσης.</string>
     <string name="advanced_mode">Σύνθετες ρυθμίσεις</string>
     <string name="africa_introduction">"Άγρια ζωή ευδοκιμεί στην Αφρική - το σπίτι σε πολλά από τα πιο διάσημα ζώα του κόσμου."</string>
     <string name="african_bush_elephant">Αφρικανικός θάμνος ελέφαντας</string>
@@ -233,7 +233,7 @@
     <string name="fps_smooth_title">Μέτρια</string>
     <string name="fps_standard_summary">Ο κανονικός ρυθμός ανανέωσης εξοικονομεί μπαταρία</string>
     <string name="fps_standard_title">Κανονική</string>
-    <string name="fps_user_tip">1. Αυτά τα animations επίδειξης παίζονται με χαμηλή ταχύτητα για την αναφορά σας. Η πραγματική απόδοση μπορεί να φαίνεται διαφορετική με βάση διάφορους παράγοντες.</string>
+    <string name="fps_user_tip">- Αυτές οι κινήσεις επίδειξης παίζονται με χαμηλή ταχύτητα για την αναφορά σας. Η πραγματική απόδοση μπορεί να φαίνεται διαφορετική με βάση διάφορους παράγοντες.</string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>
@@ -474,6 +474,7 @@
     <string name="search_empty">Δεν βρέθηκαν εφαρμογές</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="send">Αποστολή</string>
+    <string name="service_ringtone_title">Ήχος κλήσης υπηρεσίας</string>
     <string name="several_days_use_time">Χρόνος χρήσης οθόνης: %2$s</string>
     <string name="short_eared_owl">Κοντόχρωμη κουκουκουβάγια</string>
     <string name="shortcut_created">Αυτή η συντόμευση υπάρχει ήδη</string>

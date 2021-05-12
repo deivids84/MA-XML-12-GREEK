@@ -34,6 +34,7 @@
     <string name="alert_message_delete_local_record">Διαγραφή αυτής της εγγραφής;</string>
     <string name="alert_message_delete_record">Με τη διαγραφή της ηχογράφησης από τη συσκευή σας, αυτή η ηχογράφηση θα διαγραφεί επίσης και από το Xiaomi Cloud. Διαγραφή τώρα;</string>
     <string name="alert_message_delete_record_title">Διαγραφή εγγράφης;</string>
+    <string name="all_record">Όλες οι εγγραφές</string>
     <string name="am">ΠΜ</string>
     <string name="app_name">Ηχογράφηση</string>
     <string name="app_record">Εγγραφές εφαρμογής</string>
@@ -107,6 +108,7 @@
     <string name="evening">Απόγευμα</string>
     <string name="expand_button_title">Σύνθετες</string>
     <string name="export_to_note">Εξαγωγή</string>
+    <string name="fm_record">Ραδιόφωνο</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/Μ</string>
@@ -216,9 +218,12 @@
     <string name="network_unavailable_tip">Συνδεθείτε στο δίκτυο και προσπαθήστε ξανά.</string>
     <string name="new_record_name">Νέα ηχογράφηση</string>
     <string name="night">Βράδυ</string>
+    <string name="no_content">Δεν υπάρχουν αντικείμενα ακόμα εδώ</string>
     <string name="no_file">Κενό</string>
     <string name="no_network">"Αδυναμία σύνδεσης στο δίκτυο"</string>
+    <string name="no_playback_file">Επιλέξτε μια εγγραφή για να δείτε λεπτομέρειες</string>
     <string name="noon">Midday</string>
+    <string name="normal_settings_pref_title">Γενικές ρυθμίσεις</string>
     <string name="not_set">Δεν έχει οριστεί</string>
     <string name="notification_message_all_paused">Αναμονή για Wi-Fi σύνδεση.</string>
     <string name="notification_playback">Γίνεται αναπαραγωγή…</string>
@@ -255,6 +260,7 @@
     <string name="order_item_duration">Διάρκεια: %s</string>
     <string name="order_item_number">Αριθμός παραγγελίας: %s</string>
     <string name="order_item_price">%s CNY</string>
+    <string name="other_settings_pref_title">Πρόσθετες ρυθμίσεις</string>
     <string name="path_soundrecorder_setting">Εφαρμογές συστήματος/Ηχογράφηση</string>
     <string name="pause">Παύση</string>
     <string name="pay_error_cancel">Η πληρωμή ακυρώθηκε</string>
@@ -265,19 +271,19 @@
     <string name="pm">ΜΜ</string>
     <string name="preference_clear_data">Εκκαθάριση δεδομένων</string>
     <string name="preference_copied">Το \"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
-    <string name="preference_enable_earpiece_summary">Χρήση δέκτη ηχείου για εξωτερική αναπαραγωγή</string>
-    <string name="preference_enable_earpiece_title">Χρήση δέκτη για αναπαραγωγή ήχου</string>
+    <string name="preference_enable_earpiece_summary">Αναπαραγωγή ήχου χρησιμοποιώντας το ηχείο ακουστικών</string>
+    <string name="preference_enable_earpiece_title">Λειτουργία ακουστικών</string>
     <string name="preference_led_indicator">Ειδοποιήσεις οθόνης κλειδώματος</string>
-    <string name="preference_led_indicator_prompt">Κατά την εγγραφή, να γίνεται προβολή συντόμευσης γραμμής κατάστασης και φλας ειδοποίησης</string>
+    <string name="preference_led_indicator_prompt">Εμφάνιση μπλε ένδειξης στην οθόνη κλειδώματος και φλας LED κατά την εγγραφή</string>
     <string name="preference_online_orders">Online παραγγελίες</string>
     <string name="preference_recog_faqs">Συνήθεις ερωτήσεις σχετικά με την online μεταγραφή</string>
     <string name="preference_recog_terms">Όροι Υπηρεσίας</string>
-    <string name="preference_record_desktop_indicator_summary">Εμφάνιση μπλε δείκτη στην Αρχική οθόνη όταν η Ηχογράφηση λειτουργεί στο παρασκήνιο</string>
+    <string name="preference_record_desktop_indicator_summary">Εμφάνιση μπλε ένδειξης στην αρχική οθόνη κατά την εγγραφή</string>
     <string name="preference_record_desktop_indicator_title">Δείκτης Αρχικής οθόνης</string>
     <string name="preference_record_scenes_dialog_title">Επιλογή τύπου ηχογράφησης</string>
     <string name="preference_scenes">Τύπος ηχογράφησης</string>
     <string name="preference_silent_mode">Σίγαση κουδουνίσματος κατά την εγγραφή</string>
-    <string name="preference_status_bar_indicator_prompt">Εμφάνιση μπάρας κατάστασης κατά τη διάρκεια της εγγραφής</string>
+    <string name="preference_status_bar_indicator_prompt">Εμφάνιση μπλε ένδειξης στην οθόνη κλειδώματος κατά την εγγραφή</string>
     <string name="preference_tip_rename">Μη αυτόματη ονομασία ηχογραφήσεων</string>
     <string name="privacy_policy_title">Πολιτική Απορρήτου</string>
     <string name="recognition_button_add_to_queue">Προσθήκη στην ουρά</string>
@@ -344,6 +350,7 @@
     <string name="record_mark_point">Επιλογή %s</string>
     <string name="record_quliaty_preference_title">Ποιότητα ηχογράφησης</string>
     <string name="record_resotre">Ανάκτηση αρχείων</string>
+    <string name="recorder_record">Ήχος</string>
     <string name="recording">Γίνεται εγγραφή</string>
     <string name="recording_quality_high">Υψηλή ποιότητα</string>
     <string name="recording_quality_low">Χαμηλή ποιότητα</string>
@@ -363,6 +370,7 @@
     <string name="reg_error_server">Παρουσιάστηκε σφάλμα δικτύου. Κάντε αναφορά και δοκιμάστε ξανά.</string>
     <string name="reg_error_upload_audio">"Δεν ήταν δυνατή η μεταφόρτωση αρχείου, προσπαθήστε ξανά."</string>
     <string name="reg_error_upload_order">"Δεν ήταν δυνατή η μεταφόρτωση, προσπαθήστε ξανά."</string>
+    <string name="remind_settings_pref_title">Ειδοποιήσεις</string>
     <string name="remove_icon_description_content">"Η Εγγραφή είναι μια εφαρμογή συστήματος. Δεν θα μπορείτε να διαχειριστείτε εγγραφές αφού αφαιρέσετε τη συντόμευση Αρχικής οθόνης."</string>
     <string name="remove_icon_description_title">Αφαίρεση του \"Recorder\" από την αρχική οθόνη?</string>
     <string name="rename">Μετονομασία</string>
@@ -379,7 +387,7 @@
     <string name="save_record_dialog_title">Αποθήκευση ηχογράφησης</string>
     <string name="search_app">Ηχογράφηση</string>
     <string name="search_empty">"Αδυναμία εύρεσης αποτελεσμάτων"</string>
-    <string name="search_enable_earpiece_title">Χρήση δέκτη για αναπαραγωγή ήχου</string>
+    <string name="search_enable_earpiece_title">Λειτουργία ακουστικών</string>
     <string name="search_hint">Αναζήτηση</string>
     <string name="search_led_indicator">Ειδοποιήσεις οθόνης κλειδώματος</string>
     <string name="search_led_indicator_prompt">Κατά την εγγραφή, να γίνεται προβολή συντόμευσης γραμμής προόδου και ειδοποίηση με παλλόμενο φως στο κλείδωμα Οθόνης</string>
@@ -429,6 +437,7 @@
     <string name="sunday">Κυριακή</string>
     <string name="sunday_short">Κυρ</string>
     <string name="sunday_shortest">Κυρ</string>
+    <string name="tap_to_record">Πατήστε το κουμπί για να ξεκινήσει η εγγραφή</string>
     <string name="text_btn_backward_3_seconds">3 δευτερόλεπτα πίσω</string>
     <string name="text_btn_complete">Διακοπή</string>
     <string name="text_btn_forward_3_seconds">3 δευτερόλεπτα εμπρός</string>

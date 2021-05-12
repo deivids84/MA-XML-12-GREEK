@@ -78,6 +78,7 @@
     <string name="evening">Απόγευμα</string>
     <string name="expand_button_title">Σύνθετες</string>
     <string name="first_using_dialog_message">"Η πυξίδα απαιτεί χρήση δικτύου, κάμερας, και υπηρεσιών τοποθεσίας για την ομαλή λειτουργία της."</string>
+    <string name="first_using_dialog_message_no_camera">Πυξίδα πρέπει να συνδεθείτε στο διαδίκτυο και πρόσβαση πληροφορίες τοποθεσίας για να είναι σε θέση να λειτουργήσει κανονικά. Συμφωνήστε?</string>
     <string name="first_using_dialog_title">Δικαιώματα πρόσβασης</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
@@ -173,6 +174,7 @@
     <string name="noon">Μεσημέρι</string>
     <string name="not_set">Δεν έχει οριστεί</string>
     <string name="open_perm_msg">Η πυξίδα χρειάζεται πρόσβαση σε πληροφορίες τοποθεσίας και στην κάμερα. Αυτό είναι απαραίτητο για προσδιορισμό συντεταγμένων και παροχή ζωντανών προεπισκοπήσεων. Αποδοχή;</string>
+    <string name="open_perm_msg_no_camera">Πυξίδα πρέπει να έχει πρόσβαση στις πληροφορίες τοποθεσίας για να είναι σε θέση να καθορίσει συντεταγμένες. Να επιτρέπεται?</string>
     <string name="open_perm_title">Απαιτούνται άδειες</string>
     <string name="permission_camera_desc">Για προβολή αζιμούθιο στη ζωντανή προεπισκόπηση</string>
     <string name="permission_location_desc">Για προβολή συντεταγμένων</string>

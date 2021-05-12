@@ -1079,7 +1079,7 @@ Bluetooth"</string>
     <string name="kg_invalid_confirm_pin_hint">Οι κωδικοί PIN δεν αντιστοιχούν</string>
     <string name="kg_invalid_puk">Επανεισάγετε τον σωστό κωδικό PUK. Επαναλαμβανόμενες απόπειρες ενδέχεται να απενεργοποιήσουν μόνιμα την SIM.</string>
     <string name="kg_invalid_sim_pin_hint">Εισαγάγετε ένα PIN από 4 μέχρι 8 αριθμούς.</string>
-    <string name="kg_invalid_sim_puk_hint">Ο κωδικός PUK πρέπει να αποτελείται από 8 αριθμούς.</string>
+    <string name="kg_invalid_sim_puk_hint">Ο κωδικός PUK πρέπει να περιέχει %1$d ψηφία.</string>
     <string name="kg_login_too_many_attempts">Πάρα πολλές προσπάθειες μοτίβου</string>
     <string name="kg_password_instructions">Εισαγωγή κωδικού</string>
     <string name="kg_password_pin_failed">Αδυναμία ξεκλειδώματος με PIN κάρτας SIM</string>

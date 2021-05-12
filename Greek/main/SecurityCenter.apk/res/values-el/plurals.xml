@@ -40,6 +40,14 @@
         <item quantity="other">Προστέθηκαν %d παιχνίδια</item>
         <item quantity="one">Προστέθηκε %d παιχνίδι</item>
     </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d εφαρμογές</item>
+        <item quantity="one">%d εφαρμογή</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d εφαρμογές</item>
+        <item quantity="one">%d εφαρμογή</item>
+    </plurals>
     <plurals name="app_behavior_desc_allow">
         <item quantity="other">Επιτράπηκε %3$d φορές μεταξύ %1$s και %2$s</item>
         <item quantity="one">Επιτράπηκε %3$d φορά μεταξύ %1$s και %2$s</item>
@@ -107,10 +115,6 @@
     <plurals name="app_manager_uninstall_notify_summary">
         <item quantity="other">Απεγκατάσταση %d εφαρμογών</item>
         <item quantity="one">Απεγκατάσταση %d εφαρμογής</item>
-    </plurals>
-    <plurals name="app_manager_updater_notify_title">
-        <item quantity="other">Υπάρχουν διαθέσιμες ενημερώσεις για %d εφαρμογές</item>
-        <item quantity="one">Υπάρχουν διαθέσιμες ενημερώσεις για %d εφαρμογή</item>
     </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Σε χρήση %d ημέρες πριν</item>

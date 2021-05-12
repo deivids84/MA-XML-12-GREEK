@@ -280,6 +280,10 @@
         <item quantity="other">%1$d βίντεο έτοιμα για συγχρονισμό</item>
         <item quantity="one">%1$d βίντεο έτοιμο για συγχρονισμό</item>
     </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d φωτογραφίες</item>
+        <item quantity="one">%d φωτογραφία</item>
+    </plurals>
     <plurals name="photo_count_format">
         <item quantity="other">Συνολικά %1$d αντικείμενα</item>
         <item quantity="one">Συνολικά %1$d αντικείμενο</item>
@@ -500,6 +504,14 @@
         <item quantity="other">%d αντικείμενα</item>
         <item quantity="one">%d αντικείμενο</item>
     </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">Συγχρονισμένες %d φωτογραφίες</item>
+        <item quantity="one">Συγχρονισμένη %d φωτογραφία</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">Συγχρονισμένα %d βίντεο</item>
+        <item quantity="one">Συγχρονισμένο %d βίντεο</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">"Δεν θα μπορείτε να επαναφέρετε %d επιλεγμένα αντικείμενα αν τα διαγράψετε. Διαγράψτε ούτως ή άλλως?"</item>
         <item quantity="one">"Δεν θα μπορείτε να επαναφέρετε το επιλεγμένο στοιχείο %d αν το διαγράψετε. Διαγράψτε ούτως ή άλλως?"</item>
@@ -523,5 +535,9 @@
     <plurals name="video_count_format">
         <item quantity="other">%1$d αρχεία</item>
         <item quantity="one">%1$d αρχείο</item>
+    </plurals>
+    <plurals name="videos_count">
+        <item quantity="other">%d βίντεο</item>
+        <item quantity="one">%d βίντεο</item>
     </plurals>
 </resources>

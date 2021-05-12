@@ -169,6 +169,7 @@
     <string name="clipboard_read_ai_deny_once">Περιορισμένη πρόσβαση στο πρόχειρο για %1$s</string>
     <string name="clipboard_read_allow_once">%1$s προσπέλασε στοιχεία στο πρόχειρο</string>
     <string name="clipboard_read_deny_dialog_title">Περιορισμένη πρόσβαση στο πρόχειρο για %1$s</string>
+    <string name="close">Κλείσιμο</string>
     <string name="date_picker_lunar">Παραδοσιακό κινεζικό ημερολόγιο</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="default_permission_description">εκτέλεση άγνωστων ενεργειών</string>
@@ -327,6 +328,7 @@
     <string name="screen_overlay_message">Για αλλαγή αυτής της άδειας, πρέπει να απενεργοποιήσετε την επικάλυψη οθόνης στις Ρυθμίσεις &gt; Eφαρμογές.</string>
     <string name="screen_overlay_title">Εντοπίστηκε επικάλυψη οθόνης</string>
     <string name="search_menu_title">Αναζήτηση</string>
+    <string name="send">Αποστολή</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>

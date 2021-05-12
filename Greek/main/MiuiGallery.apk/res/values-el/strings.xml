@@ -281,7 +281,7 @@
     <string name="backup_no_wifi_btn_text">Χρήση δεδομένων</string>
     <string name="backup_no_wifi_desc">Μπορείτε επίσης να δημιουργήσετε αντίγραφα ασφαλείας μέσω δεδομένων κινητής τηλεφωνίας</string>
     <string name="backup_no_wifi_title">Ο συγχρονισμός θα συνεχιστεί αφού συνδεθείτε σε Wi-Fi</string>
-    <string name="backup_only_in_wifi">Χρήση Wi‑Fi μόνο για συγχρονισμό φωτογραφιών και βίντεο</string>
+    <string name="backup_only_in_wifi">Χρήση μόνο Wi-Fi για συγχρονισμό φωτογραφιών και βίντεο</string>
     <string name="backup_only_in_wifi_summary">Να μην γίνεται ποτέ χρήση δεδομένων κινητής τηλεφωνίας για συγχρονισμό φωτογραφιών και βίντεο</string>
     <string name="backup_only_wifi_dialog_message">Χρήση δεδομένων κινητής τηλεφωνίας για συγχρονισμό φωτογραφιών και βίντεο;</string>
     <string name="backup_pause">Παύση δημιουργίας</string>
@@ -450,6 +450,10 @@
     <string name="cloud_bacup_disable_processing">Επεξεργασία…</string>
     <string name="cloud_camera_display_name">Φωτογραφίες κάμερας</string>
     <string name="cloud_cancel_authorizing_to_device">Ακύρωση εξουσιοδότησης…</string>
+    <string name="cloud_full_space_tip_message">Αναβαθμίστε το πρόγραμμα αποθήκευσης στο cloud για να συγχρονίσετε όλες τις φωτογραφίες και τα βίντεό σας στο σύννεφο.</string>
+    <string name="cloud_full_space_tip_negative">Όχι τώρα</string>
+    <string name="cloud_full_space_tip_positive">Αναβάθμιση</string>
+    <string name="cloud_full_space_tip_title">Ανεπαρκής χώρος στο cloud</string>
     <string name="cloud_guide_auto_backup_title">Επιλέξτε άλμπουμ για συγχρονισμό</string>
     <string name="cloud_guide_login_title">Αυτόματη δημιουργία αντιγράφων ασφαλείας για φωτογραφίες και βίντεο</string>
     <string name="cloud_guide_welcome_title">Σύννεφο Xiaomi</string>
@@ -773,6 +777,7 @@
     <string name="filter_category_texture">Lilt</string>
     <string name="filter_category_travel">Ταξίδι</string>
     <string name="filter_food_caramel">Caramel</string>
+    <string name="filter_food_orangeflavor">Tangerine</string>
     <string name="filter_general_blackice">Μαύρος πάγος</string>
     <string name="filter_general_blackwhite">B&amp;W</string>
     <string name="filter_general_delicious">Φαγητό</string>
@@ -783,6 +788,7 @@
     <string name="filter_general_lilt">Lilt</string>
     <string name="filter_general_movie">Κινηματογράφος</string>
     <string name="filter_general_nature">Φύση</string>
+    <string name="filter_general_past">Yore</string>
     <string name="filter_general_pink">Ροζ</string>
     <string name="filter_general_portrait">Πορτραίτο</string>
     <string name="filter_general_rise">Άνοδος</string>
@@ -826,15 +832,18 @@
     <string name="filter_popular_coldsmoke">Ψυχρή ομίχλη</string>
     <string name="filter_popular_comic">Anime</string>
     <string name="filter_popular_dream">Επανεπαλήθευση</string>
+    <string name="filter_popular_gingertea">Τζίντζερ</string>
     <string name="filter_popular_hill">Λόφοι</string>
     <string name="filter_popular_humanity">Ντοκιμαντέρ</string>
     <string name="filter_popular_icesnow">Χιονόπτωση</string>
     <string name="filter_popular_kamakura">Kamakura</string>
     <string name="filter_popular_lnk">Μελάνι</string>
+    <string name="filter_popular_mango">Mango</string>
     <string name="filter_popular_purple">Μωβ</string>
     <string name="filter_popular_shallow_summer">Ιουνίου</string>
     <string name="filter_popular_smokegreen">Φασκόμηλο</string>
     <string name="filter_popular_watergreen">Σμαράγδι</string>
+    <string name="filter_popular_windchime">Chime</string>
     <string name="filter_popular_wintersun">Μεσοχειμώνας</string>
     <string name="filter_portrait_greyish">Τέφρα</string>
     <string name="filter_portrait_hint">Εστίαση χρωμάτων</string>
@@ -913,6 +922,7 @@
     <string name="filter_sky_yunmeng">Fantasy</string>
     <string name="filter_sky_yunxu">Cirrus</string>
     <string name="filter_texture_shadow">Σούρουπο</string>
+    <string name="filter_travel_charlotte">Σάρλοτ</string>
     <string name="finish_create_baby_album_toast">Δημιουργήθηκε ένα άλμπουμ για \"%s\" στο Xiaomi Cloud</string>
     <string name="finish_fill_baby">Δημιουργία</string>
     <string name="first_time_add_video_to_secret_tips">Ανανέωση Συλλογής για να μπορείτε να αποκρύψετε βίντεο</string>
@@ -1182,6 +1192,7 @@
     <string name="mi_mover_working_desc">Mi Mover μεταφέρει αντικείμενα…</string>
     <string name="micloud_introduce">Αυτόματος συγχρονισμός φωτογραφιών και βίντεο (απαιτείται Mi Λογαριασμός)</string>
     <string name="midnight">ΠΜ</string>
+    <string name="mishare_all_devices">Όλες οι συσκευές</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Αποεπιλογή</string>
     <string name="miuix_appcompat_action_mode_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_action_mode_title_empty">Επιλογή στοιχείων</string>
@@ -1761,7 +1772,7 @@
     <string name="search_backup_now">Ενεργοποίηση</string>
     <string name="search_backup_sub_title">Ενεργοποίηση για να βρείτε περισσότερες εικόνες</string>
     <string name="search_backup_title">Γίνεται συγχρονισμός με το cloud</string>
-    <string name="search_clear_histories">Εκκαθάριση</string>
+    <string name="search_clear_histories">Εκκαθάριση ιστορικού αναζήτησης</string>
     <string name="search_connection_error">"Αδυναμία σύνδεσης στο δίκτυο"</string>
     <string name="search_connection_error_and_set">Πατήστε για έλεγχο ρυθμίσεων δικτύου</string>
     <string name="search_empty_title">Βρείτε φωτογραφίες με συγκεκριμένα άτομα, τοποθεσίες, και αντικείμενα στην Συλλογή σας</string>
@@ -2016,6 +2027,7 @@
     <string name="sync_off_title">Ενεργοποίηση συγχρονισμού με Xiaomi Cloud για αυτόματη δημιουργία αντιγράφων ασφαλείας για φωτογραφίες και βίντεο</string>
     <string name="sync_pending_title">Θα γίνει αυτόματος συγχρονισμός</string>
     <string name="sync_state_unknow">Γίνεται απόκτηση πληροφοριών</string>
+    <string name="synced_photo_video_count">Συγχρονίστηκαν %1$s και %2$s</string>
     <string name="synced_title">Επιτυχής δημιουργία αντιγράφων ασφαλείας για φωτογραφίες και βίντεο</string>
     <string name="syncing_gprs_title">Δημιουργία αντίγραφου ασφαλείας για αντικείμενα μέσω δεδομένων κινητής τηλεφωνίας</string>
     <string name="syncing_metadata_title">Γίνεται συγχρονισμός δεδομένων στο Xiaomi Cloud</string>

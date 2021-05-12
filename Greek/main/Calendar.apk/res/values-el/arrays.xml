@@ -1,70 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="account_sync_frequency">
-    <item>Χειροκίνητα</item>
-    <item>Κάθε 15 λεπτά</item>
-    <item>Κάθε ώρα</item>
-    <item>Κάθε 4 ώρες</item>
-    <item>Κάθε 12 ώρες</item>
-  </string-array>
-  <string-array name="alphabet_table">
-    <item>Α</item>
-    <item>Β</item>
-    <item>Γ</item>
-    <item>Δ</item>
-    <item>Ε</item>
-    <item>Ζ</item>
-    <item>Η</item>
-    <item>Θ</item>
-    <item>Ι</item>
-    <item>Κ</item>
-    <item>Λ</item>
-    <item>Μ</item>
-    <item>Ν</item>
-    <item>Ξ</item>
-    <item>Ο</item>
-    <item>Π</item>
-    <item>Ρ</item>
-    <item>Σ</item>
-    <item>Τ</item>
-    <item>Υ</item>
-    <item>Φ</item>
-    <item>Χ</item>
-    <item>Ψ</item>
-    <item>Ω</item>
-    <item>\#</item>
-    <item>.</item>
-    <item>.</item>
-  </string-array>
-  <string-array name="alphabet_table_with_starred">
-    <item>!</item>
-    <item>Α</item>
-    <item>Β</item>
-    <item>Γ</item>
-    <item>Δ</item>
-    <item>Ε</item>
-    <item>Ζ</item>
-    <item>Η</item>
-    <item>Θ</item>
-    <item>Ι</item>
-    <item>Κ</item>
-    <item>Λ</item>
-    <item>Μ</item>
-    <item>Ν</item>
-    <item>Ξ</item>
-    <item>Ο</item>
-    <item>Π</item>
-    <item>Ρ</item>
-    <item>Σ</item>
-    <item>Τ</item>
-    <item>Υ</item>
-    <item>Φ</item>
-    <item>Χ</item>
-    <item>Ψ</item>
-    <item>Ω</item>
-    <item>\#</item>
-    <item>.</item>
-    <item>.</item>
+  <string-array name="additional_cal_dialog_labels">
+    <item>Κανένα</item>
+    <item>Hijri Samvat</item>
+    <item>Shaka Samvat</item>
+    <item>Vikrami Samvat</item>
   </string-array>
   <string-array name="aquarius_info">
     <item>ενυδρείο</item>
@@ -90,10 +30,6 @@
     <item>Μόνο αυτό το συμβάν</item>
     <item>Όλα τα συμβάντα στην σειρά</item>
   </string-array>
-  <string-array name="close_alarm_repeating_labels">
-    <item>Μόνο για αυτή τη φορά</item>
-    <item>Απενεργοποίηση επαναλαμβανόμενης υπενθύμισης</item>
-  </string-array>
   <string-array name="date_calculate_spinner">
     <item>Προς τα εμπρός</item>
     <item>Προς τα πίσω</item>
@@ -101,20 +37,13 @@
   <string-array name="default_reminder_labels">
     <item>Την ώρα του συμβάντος</item>
     <item>5 λεπτά πριν</item>
-    <item>10 λεπτά πριν</item>
     <item>15 λεπτά πριν</item>
     <item>30 λεπτά πριν</item>
     <item>1 ώρα πριν</item>
+    <item>4 ώρες πριν</item>
     <item>1 ημέρα πριν</item>
     <item>2 ημέρες πριν</item>
     <item>1 εβδομάδα πριν</item>
-  </string-array>
-  <string-array name="default_reminder_later_time_labels">
-    <item>5 λεπτά</item>
-    <item>10 λεπτά</item>
-    <item>15 λεπτά</item>
-    <item>30 λεπτά</item>
-    <item>1 ώρα</item>
   </string-array>
   <string-array name="delete_repeating_labels">
     <item>Μόνο αυτό το συμβάν</item>
@@ -139,6 +68,12 @@
     <item>Δίδυμοι</item>
     <item>21/5 - 21/6</item>
   </string-array>
+  <string-array name="global_criket_match">
+    <item>Διεθνείς</item>
+    <item>IPL</item>
+    <item>Εσωτερικό</item>
+    <item>T20 Λεύγες</item>
+  </string-array>
   <string-array name="leo_info">
     <item>λέων</item>
     <item>Λέων</item>
@@ -149,19 +84,19 @@
     <item>Ζυγός</item>
     <item>23/9 - 23/10</item>
   </string-array>
-  <string-array name="open_alarm_repeating_labels">
-    <item>Μόνο για αυτή τη φορά</item>
-    <item>Ορισμός επαναλαμβανόμενης υπενθύμισης</item>
+  <string-array name="panchang_weeks">
+    <item>Κυριακή</item>
+    <item>Δευτέρα</item>
+    <item>Τρίτη</item>
+    <item>Τετάρτη</item>
+    <item>Πέμπτη</item>
+    <item>Παρασκευή</item>
+    <item>Σάββατο</item>
   </string-array>
   <string-array name="pisces_info">
     <item>pisces</item>
     <item>Ιχθύς</item>
     <item>19/2 - 20/3</item>
-  </string-array>
-  <string-array name="prefEntries_alerts_popup_new">
-    <item>Ανενεργό</item>
-    <item>Για όλες τις εκδηλώσεις</item>
-    <item>Για ευαίσθητες στον παράγοντα χρόνο εκδηλώσεις</item>
   </string-array>
   <string-array name="prefEntries_alerts_vibrateWhen">
     <item>Πάντα</item>
@@ -301,12 +236,6 @@
     <item>Ίσως</item>
     <item>Όχι</item>
   </string-array>
-  <string-array name="response_labels2">
-    <item>"Μην απαντάτε"</item>
-    <item>Αποδέχομαι</item>
-    <item>Αποφασίστε αργότερα</item>
-    <item>Απόρριψη</item>
-  </string-array>
   <string-array name="sagittarius_info">
     <item>τοξότης</item>
     <item>Τοξότης</item>
@@ -316,6 +245,10 @@
     <item>σκορπιός</item>
     <item>Σκορπιός</item>
     <item>24/10 - 22/11</item>
+  </string-array>
+  <string-array name="serie_a">
+    <item>1</item>
+    <item>Σειρά Α</item>
   </string-array>
   <string-array name="taurus_info">
     <item>ταύρος</item>
@@ -333,6 +266,34 @@
     <item>παρθένος</item>
     <item>Παρθένος</item>
     <item>23/8 - 22/9</item>
+  </string-array>
+  <string-array name="weather_forecasts">
+    <item>Εκκαθάριση</item>
+    <item>Συννεφιά</item>
+    <item>Overcast</item>
+    <item>Fog</item>
+    <item>Βαριά καταιγίδα</item>
+    <item>Καταιγίδα</item>
+    <item>Ελαφριά καταιγίδα</item>
+    <item>Καταιγίδα</item>
+    <item>Ντους</item>
+    <item>Βαριά βροχή</item>
+    <item>Βροχή</item>
+    <item>Ελαφριά βροχή</item>
+    <item>Βροχή και χιόνι</item>
+    <item>Blizzard</item>
+    <item>Χιόνι ντους</item>
+    <item>Ισχυρή χιονόπτωση</item>
+    <item>Χιόνι</item>
+    <item>Ελαφριά χιονόπτωση</item>
+    <item>Ισχυρή αμμοθύελλα</item>
+    <item>Αμμοθύελλα</item>
+    <item>Σκόνη</item>
+    <item>Ελαφριά αμμοθύελλα</item>
+    <item>Hail</item>
+    <item>Πλωτή σκόνη</item>
+    <item>Ομίχλη</item>
+    <item>Παγωμένη βροχή</item>
   </string-array>
   <string-array name="week_header_name">
     <item>ΚΥΡ</item>

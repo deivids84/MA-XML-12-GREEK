@@ -92,7 +92,7 @@
     <string name="activate_popup_desc_find_device_postfix">Ένα SMS ενεργοποίησης μπορεί να σταλθεί μετά την εναλλαγή κάρτας SIM.</string>
     <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Για να ενεργοποιήσετε το %3$s, εισαγάγετε τον αριθμό τηλεφώνου SIM %2$d. Εάν αντικαταστήσετε αυτήν την κάρτα SIM, θα σταλεί ένα άλλο SMS ενεργοποίησης.</string>
     <string name="activate_popup_desc_intl_sim_card">Ένα διεθνές SMS θα σταλεί για ενεργοποίηση %s. Θα χρεωθείτε από τον πάροχο σας.</string>
-    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Για να ενεργοποιήσετε το %2$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;διεθνές πληρωμένο SMS&lt;/b&gt;θα σταλεί. Η εταιρεία κινητής τηλεφωνίας σας θα σας χρεώσει για αυτό το μήνυμα.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Για να ενεργοποιήσετε το %2$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;διεθνές πληρωμένο SMS&lt;/b&gt; θα σταλεί. Η εταιρεία κινητής τηλεφωνίας σας θα σας χρεώσει για αυτό το μήνυμα.</string>
     <string name="activate_popup_desc_mi_account_user_manual">%1$s. &lt;Data&gt;Ανατρέξτε στον &lt;a href=https://account.xiaomi.com/helpcenter/faq&gt; Οδηγό Χρήσης Mi Λογαριασμού&lt;/a&gt; για οποιεσδήποτε απορίες.&lt;/Data&gt;</string>
     <string name="activate_popup_desc_mixed_sim_cards">2 SMS(κανονικό και διεθνές) θα σταλούν για ενεργοποίηση %s. Θα χρεωθείτε από τον πάροχό σας.</string>
     <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Για ενεργοποίηση του %3$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;εγχώριες πληρωμένες SMS&lt;/b&gt; και &lt;xliff:g id=number_sms refersto=1&gt;%2$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;διεθνείς πληρωμένες SMS&lt;/b&gt; θα σταλούν. Ο μεταφορέας σας θα σας χρεώσει για αυτά τα μηνύματα.</string>
@@ -169,6 +169,7 @@
     <string name="app_name">Υπηρεσία Ενεργοποίησης Xiaomi SIM</string>
     <string name="checking_client">Γίνεται έλεγχος περιβάλλοντος ενεργοποίησης</string>
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
+    <string name="close">Κλείσιμο</string>
     <string name="date_picker_lunar">Κινεζικό Παραδοσιακό Ημερολόγιο</string>
     <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="early_morning">Πρωί</string>
@@ -278,6 +279,7 @@
     <string name="saturday_short">Σαβ</string>
     <string name="saturday_shortest">Σαβ</string>
     <string name="search_menu_title">Αναζήτηση</string>
+    <string name="send">Αποστολή</string>
     <string name="sim_activated_failed_msg">"Αδυναμία ενεργοποίησης υπηρεσίας. Πατήστε για να ξαναπροσπαθήσετε."</string>
     <string name="sim_unactivated_feature_title">"%s δεν ενεργοποιήθηκε"</string>
     <string name="sim_unactivated_msg">"Αυτή η υπηρεσία δεν ενεργοποιήθηκε. Πατήστε για να ξαναπροσπαθήσετε."</string>

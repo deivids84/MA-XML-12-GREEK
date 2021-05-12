@@ -137,11 +137,14 @@
     <string name="miui_feedback_edit_toast_third_packagename_required">Εισαγωγή ονόματος εφαρμογής</string>
     <string name="miui_feedback_main_answer_title">"Υπάρχει απάντηση σε αυτή την ερώτηση"</string>
     <string name="miui_feedback_main_frequent_question_title">ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ</string>
-    <string name="miui_feedback_main_menu_catch_full_log">Δημιουργία αρχείων καταγραφής</string>
-    <string name="miui_feedback_main_menu_feedback_list">Προβολή ιστορικού σχολίων</string>
+    <string name="miui_feedback_main_item_catch_full_log">Λήψη αρχείων καταγραφής</string>
+    <string name="miui_feedback_main_item_customer_service">Υπηρεσίες μεταπωλήσεων</string>
+    <string name="miui_feedback_main_item_feedback_list">Τα σχόλιά μου</string>
+    <string name="miui_feedback_main_menu_view_privacy">Πολιτική Απορρήτου</string>
     <string name="miui_feedback_main_search_footer">"Αυτές δεν είναι οι ερωτήσεις που θέλετε να κάνετε;"</string>
     <string name="miui_feedback_main_search_footer_submit">Υποβολή σχολίων</string>
     <string name="miui_feedback_main_search_issue">Εισαγωγή λέξεων-κλειδιών για αναζήτηση</string>
+    <string name="miui_feedback_main_search_no_answer">"Δεν βρέθηκαν αποτελέσματα"</string>
     <string name="miui_feedback_main_start_submit">Υποβολή σχολίων</string>
     <string name="miui_feedback_main_submit_dialog_confirm">Υποβολή</string>
     <string name="miui_feedback_main_submit_dialog_content">"Φαίνεται πως δεν μπορούσαμε να βρούμε λύση στο πρόβλημά σας. Μπορείτε να μας υποβάλετε τα σχόλιά σας."</string>

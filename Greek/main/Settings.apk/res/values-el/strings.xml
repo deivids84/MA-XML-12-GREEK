@@ -2012,6 +2012,7 @@ Bluetooth"</string>
     <string name="custom_color">Προσαρμοσμένο</string>
     <string name="custom_gesture_title">Προσαρμοσμένες χειρονομίες</string>
     <string name="custom_wifi_name_title">Επεξεργασία ονόματος Wi-Fi</string>
+    <string name="customize_knock_gesture">Προσαρμοσμένες χειρονομίες αρθρώσεων</string>
     <string name="cutout_mode_always">Να εμφανίζεται πάντα η εγκοπή</string>
     <string name="cutout_mode_default">Αυτόματα</string>
     <string name="cutout_mode_settings_title">Κάποιες εφαρμογές ενδέχεται να εμφανιστούν λανθασμένα εάν προσαρμόσετε τον τρόπο που εμφανίζεται η εγκοπή.</string>
@@ -2559,6 +2560,7 @@ Bluetooth"</string>
     <string name="done_button">Τέλος</string>
     <string name="double_click_power_key">Διπλό πάτημα πλήκτρου Απενεργοποίησης</string>
     <string name="double_click_volume_down_when_lock">Πατήστε δύο φορές για Μείωση έντασης όταν η οθόνη είναι κλειδωμένη</string>
+    <string name="double_knock">Διπλή βρύση αρθρώσεων</string>
     <string name="double_tap_power_for_camera_suggestion_title">Γρήγορο άνοιγμα κάμερας</string>
     <string name="double_tap_power_for_camera_summary">Για να ανοίξετε γρήγορα την κάμερα, πατήστε δύο φορές το κουμπί λειτουργίας. Αυτή η ενέργεια μπορεί να πραγματοποιηθεί από οποιαδήποτε οθόνη.</string>
     <string name="double_tap_power_for_camera_title">Γρήγορο άνοιγμα κάμερας</string>
@@ -2816,6 +2818,13 @@ Bluetooth"</string>
     <string name="exterior">Σχέδιο χρώματος</string>
     <string name="external_code_size_label">Εφαρμογή αποθηκευτικού χώρου USB</string>
     <string name="external_data_size_label">Εφαρμογή αποθηκευτικού χώρου USB</string>
+    <string name="external_ram_dialog_btn_cancel">Αργότερα</string>
+    <string name="external_ram_dialog_btn_ok">Reboot</string>
+    <string name="external_ram_dialog_message">Επανεκκινήστε τη συσκευή σας για να εφαρμόσετε τις αλλαγές.</string>
+    <string name="external_ram_dialog_title">Επανεκκίνηση συσκευής</string>
+    <string name="external_ram_summary">"Πρόσθεσε %1$s %2$s RAM καταλαμβάνοντας χώρο αποθήκευσης. Χρησιμοποίησε αυτή τη δυνατότητα μόνο όταν υπάρχει αρκετός διαθέσιμος χώρος αποθήκευσης στη συσκευή σου."</string>
+    <string name="external_ram_title">Επέκταση μνήμης</string>
+    <string name="external_ram_toast">"Αδύνατη η χρήση της επέκτασης μνήμης λόγω ανεπαρκούς χώρου αποθήκευσης"</string>
     <string name="external_source_switch_title">Να επιτρέπεται από αυτήν την πηγή</string>
     <string name="external_source_trusted">Έγινε αποδοχή</string>
     <string name="external_source_untrusted">Δεν επιτρέπεται</string>
@@ -3302,6 +3311,7 @@ Bluetooth"</string>
     <string name="header_category_system">Σύστημα</string>
     <string name="header_category_wireless_networks">Ασύρματα &amp; δίκτυα</string>
     <string name="header_data_and_synchronization">Δεδομένα και συγχρονισμός</string>
+    <string name="headset_aptx-adapter">Προσαρμόσιμο Qualcomm® aptXTM</string>
     <string name="headset_connectiong">Γίνεται σύνδεση…</string>
     <string name="headset_find_both">Αμφότερα</string>
     <string name="headset_find_cancel">Ακύρωση</string>
@@ -3712,6 +3722,16 @@ Xiaomi Cloud
     <string name="keywords_zen_mode_settings">dnd, πρόγραμμα, ειδοποιήσεις, αποκλεισμός, σίγαση, δόνηση, αδράνεια, εργασία, εστίαση, ήχος, σίγαση, ημέρα, καθημερινή, σαββατοκύριακο, νύχτα καθημερινής, συμβάν</string>
     <string name="kid_space_settings">Χώρος παιδιού</string>
     <string name="kilobyte_per_second">KB/δ</string>
+    <string name="knock_edge_area_invalid">"Αυτή η χειρονομία δεν λειτουργεί κοντά στις άκρες οθόνης"</string>
+    <string name="knock_guide_dialog_title">Επιλέξτε μια ενέργεια για αυτή τη χειρονομία. Μπορείτε να την αλλάξετε αργότερα στις Ρυθμίσεις &gt; Πρόσθετες ρυθμίσεις &gt; Συντομεύσεις κουμπιών.</string>
+    <string name="knock_guide_drive_desc">Λήψη στιγμιότυπου οθόνης κατά την οδήγηση</string>
+    <string name="knock_guide_launch_desc">Ενεργοποίηση Mi AI όταν το τηλέφωνό σας βρίσκεται στο τραπέζι</string>
+    <string name="knock_guide_set_screenshot">Στιγμιότυπο</string>
+    <string name="knock_guide_sub_title">Μπορείτε να ενεργοποιήσετε το Mi AI ή να τραβήξετε στιγμιότυπα οθόνης πατώντας την οθόνη με την αρθρωτή σας</string>
+    <string name="knock_guide_title">Διπλή βρύση αρθρώσεων</string>
+    <string name="knock_long_press_horizontal_slid">Πιέστε και σύρετε οριζόντια με ένα αρθρωτό</string>
+    <string name="knock_slide_shape">Σχεδιάστε έναν κύκλο με άρθρωση</string>
+    <string name="knock_slide_v">Ισοπαλία V με άρθρωση</string>
     <string name="label_available">Διαθέσιμα δίκτυα</string>
     <string name="label_mi_stats">Mi αναλύσεις</string>
     <string name="language_and_input_for_work_category_title">Πληκτρολόγιο και εργαλεία προφίλ εργασίας</string>
@@ -4392,6 +4412,7 @@ Xiaomi Cloud
     <string name="miheadset_moreSettingsInAi">Πρόσθετες ρυθμίσεις</string>
     <string name="miheadset_multi_connect_mode">Πολλαπλών Σημείων</string>
     <string name="miheadset_multi_connect_mode_summary">Σύνδεση σε πολλαπλές συσκευές ταυτόχρονα</string>
+    <string name="miheadset_network_not_available">Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά</string>
     <string name="miheadset_next">Επόμενο κομμάτι</string>
     <string name="miheadset_ok_device">Εντάξει</string>
     <string name="miheadset_openAnc">Ακύρωση θορύβου</string>
@@ -5251,6 +5272,8 @@ Xiaomi Cloud
     <string name="permission_manage_title">%s άδειες</string>
     <string name="permission_manager">Άδειες</string>
     <string name="permission_mgr">Άδειες</string>
+    <string name="permission_records">Χρήση δικαιωμάτων</string>
+    <string name="permission_records_summary">Περίληψη του πώς οι εφαρμογές χρησιμοποιούν τα δικαιώματα</string>
     <string name="permission_settings_summary">Διαχείριση αδειών σχετικών με τοποθεσία, αποθηκευτικό χώρο, τηλέφωνο, μηνύματα, και επαφές.</string>
     <string name="permission_settings_title">Άδειες εφαρμογών</string>
     <string name="permissions_label">Άδειες</string>

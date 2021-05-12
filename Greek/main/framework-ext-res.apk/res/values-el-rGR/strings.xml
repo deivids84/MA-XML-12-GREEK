@@ -9,6 +9,7 @@
     <string name="application_cannot_open_alipay_health_code">"Αδύνατο το άνοιγμα του κωδικού υγείας Alipay"</string>
     <string name="application_cannot_open_alipay_payment_code">"Αδυναμία ανοίγματος του κωδικού πληρωμής του Alipay"</string>
     <string name="application_cannot_open_alipay_scanner">"Αδυναμία ανοίγματος του σαρωτή του Alipay"</string>
+    <string name="application_cannot_open_au_pay">Εγκαταστήστε au PAY πρώτα</string>
     <string name="application_cannot_open_weixin_health_code">"Αδύνατο το άνοιγμα του κωδικού υγείας WeChat"</string>
     <string name="application_cannot_open_weixin_payment_code">"Αδυναμία ανοίγματος του κωδικού πληρωμής του WeChat"</string>
     <string name="application_cannot_open_weixin_scanner">"Αδυναμία ανοίγματος του σαρωτή του WeChat"</string>
@@ -77,6 +78,11 @@
     <string name="device_type_pc">Υπολογιστής</string>
     <string name="disable_nfc">Απενεργοποιήθηκε το NFC για ασύρματη φόρτιση</string>
     <string name="disable_nfc_reverse">Απενεργοποιήθηκε το NFC για αντίστροφη ασύρματη φόρτιση</string>
+    <string name="dock_tip_floatwindow">Κρατήστε τη μπάρα και σύρετέ την στην άκρη της οθόνης για να εισάγετε προβολή διαχωριστικής οθόνης.</string>
+    <string name="dock_tip_splitscreen_landscape_drag">Σύρετε οριζόντια τη γραμμή για να ανταλλάξετε τις θέσεις των δύο παραθύρων εφαρμογής.</string>
+    <string name="dock_tip_splitscreen_landscape_float">Κρατήστε και σύρετε προς τα κάτω για να μεταβείτε σε ένα αιωρούμενο παράθυρο.</string>
+    <string name="dock_tip_splitscreen_portrait_drag">Σύρετε την μπάρα κάθετα για να ανταλλάξετε τις θέσεις των δύο παραθύρων εφαρμογής.</string>
+    <string name="dock_tip_splitscreen_portrait_float">Κρατήστε και σύρετε στην αριστερή ή δεξιά πλευρά της οθόνης για να μεταβείτε σε ένα αιωρούμενο παράθυρο.</string>
     <string name="eighthours">8 ώρες</string>
     <string name="enable_livetalk_summary">Εξοικονομήστε 70% στις χρεώσεις κλήσεων σας</string>
     <string name="enable_livetalk_title">Ενεργοποίηση Πακέτου ανανέωσης</string>
@@ -143,6 +149,8 @@
     <string name="miaudiovisual_notification_title">Ηχητικά και οπτικά εφέ</string>
     <string name="miui">miui</string>
     <string name="miui_forbid_poweroff_when_device_locked">"Αδυναμία απενεργοποίησης, η συσκευή είναι κλειδωμένη."</string>
+    <string name="miui_multiwindow_not_support_small_window">"%1$s δεν υποστηρίζει αιωρούμενα παράθυρα"</string>
+    <string name="miui_multiwindow_not_support_split">"Το %1$s δεν υποστηρίζει διαίρεση οθόνης"</string>
     <string name="miui_screen_ratio_hint">Προβλήματα αναλογίας οθόνης</string>
     <string name="miui_screen_ratio_hint_dont_show_again">"Να μην εμφανιστεί ξανά"</string>
     <string name="miui_screen_ratio_hint_go_to_settings">Μεταβείτε στις Ρυθμίσεις</string>
@@ -274,7 +282,7 @@
     <string name="status_bar_toggle_paper_mode">Λειτουργία ανάγνωσης</string>
     <string name="status_bar_toggle_power_mode">Απόδοση</string>
     <string name="status_bar_toggle_quiet_mode">Μην ενοχλείτε</string>
-    <string name="status_bar_toggle_rotate">Κατεύθυνση κλειδώματος</string>
+    <string name="status_bar_toggle_rotate">Προσανατολισμός κλειδώματος</string>
     <string name="status_bar_toggle_screen_button">Κουμπιά</string>
     <string name="status_bar_toggle_screenshot">Στιγμιότυπο οθόνης</string>
     <string name="status_bar_toggle_sync">Συγχρονισμός</string>
