@@ -10,10 +10,10 @@
     <string name="freeform_demo_go_on">Επόμενο</string>
     <string name="freeform_demo_title_finish">Ωραία!</string>
     <string name="freeform_demo_title_skip">Παράλειψη</string>
-    <string name="freeform_slide_to_small_freeform">Σύρετε Freeform σε μικρή ελεύθερη μορφή</string>
-    <string name="freeform_slide_to_small_freeform_summary">Πιέστε και σύρετε τη γραμμή δράσης ενός αιωρούμενου παραθύρου στην επάνω δεξιά γωνία</string>
-    <string name="fullscreen_slide_to_small_freeform">Ολίσθηση πλήρους οθόνης σε ελεύθερη μορφή</string>
-    <string name="fullscreen_slide_to_small_freeform_summary">Σύρετε από το κάτω μέρος της οθόνης στην επάνω δεξιά γωνία της οθόνης</string>
+    <string name="freeform_slide_to_small_freeform">Ελαχιστοποίηση αιωρούμενου παραθύρου</string>
+    <string name="freeform_slide_to_small_freeform_summary">Πατήστε και κρατήστε πατημένο τη γραμμή δράσης και σύρετε σε μια γωνία</string>
+    <string name="fullscreen_slide_to_small_freeform">Minimize an app</string>
+    <string name="fullscreen_slide_to_small_freeform_summary">Σύρετε από το κάτω μέρος της οθόνης στην επάνω δεξιά γωνία</string>
     <string name="how_to_close_or_fullscreen_freeform">Κλείσιμο αναδυόμενων παραθύρων ή εναλλαγή σε λειτουργία πλήρης οθόνης</string>
     <string name="how_to_drop_down_to_fullscreen">Εναλλαγή σε λειτουργία πλήρης οθόνης</string>
     <string name="how_to_drop_down_to_fullscreen_summary">Πατήστε παρατεταμένα και τραβήξτε προς τα κάτω τη γραμμή ενέργειας ενός αναδυόμενου παραθύρου</string>

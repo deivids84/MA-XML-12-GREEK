@@ -73,6 +73,7 @@
     <string name="caller_app">Αίτημα άδειας από %1$s</string>
     <string name="cancel">Άκυρο</string>
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
+    <string name="close">Κλείσιμο</string>
     <string name="copy">Αντιγραφή</string>
     <string name="cta_button_text_agree">ΟΚ</string>
     <string name="cta_button_text_cancel">Έξοδος</string>
@@ -81,6 +82,7 @@
     <string name="current_permission_template">%1$s από τα %2$s</string>
     <string name="current_permissions_category">Τρέχουσες άδειες</string>
     <string name="date_picker_lunar">Κινεζικό Παραδοσιακό Ημερολόγιο</string>
+    <string name="date_time_picker_dialog_title">Ορισμός ημερομηνίας και ώρας</string>
     <string name="default_permission_description">εκτέλεση άγνωστης ενέργειας</string>
     <string name="devicePerms">Πρόσβαση συσκευής</string>
     <string name="dlg_app_replacement_statement">"Η εφαρμογή που εγκαθιστάτε θα αντικαταστήσει μια άλλη εφαρμογή.
@@ -417,6 +419,7 @@
     <string name="screen_overlay_title">Εντοπίστηκε επικάλυψη οθόνης</string>
     <string name="search_menu_title">Αναζήτηση</string>
     <string name="security_settings_desc">Να επιτρέπεται σε αυτήν την εφαρμογή:</string>
+    <string name="send">Αποστολή</string>
     <string name="settings">Ρυθμίσεις</string>
     <string name="settings_warning_dialog_detail">\"Θα σας ζητηθεί στις ακόλουθες περιπτώσεις:
  \"<li>Όταν μια εφαρμογή περιέχει ιούς.</li>\"

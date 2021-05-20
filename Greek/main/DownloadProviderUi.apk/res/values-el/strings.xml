@@ -70,12 +70,14 @@
     <string name="cancel">Ακύρωση</string>
     <string name="cancel_running_download">Ακύρωση</string>
     <string name="cancle">Ακύρωση</string>
+    <string name="character_counter_content_description">Το όριο χαρακτήρων υπερέβη %1$d από %2$d</string>
     <string name="choose_open_picture">Επιλέξτε ενέργεια</string>
     <string name="choose_open_time">"Επιλέξτε πότε θα θέλατε να ξεκινήσετε"</string>
     <string name="clear_data">Εκκαθάριση</string>
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
     <string name="close">Κλείσιμο</string>
     <string name="close_ad">Κλείσιμο AD</string>
+    <string name="collect_diagnosis_log">Συλλογή αρχείου καταγραφής διάγνωσης</string>
     <string name="complete_time">Ολοκληρώθηκε:</string>
     <string name="confirm">ΟΚ</string>
     <string name="confirm_delete_downloads_message">%d λήψεις θα διαγραφούν.</string>
@@ -94,6 +96,10 @@
     <string name="deselect_all">Αποεπιλογή όλων</string>
     <string name="deselect_subfile_all">Αποεπιλογή όλων</string>
     <string name="determine">Εντάξει</string>
+    <string name="diagnosis_log_send_failed">Το αρχείο καταγραφής διαγνώσεων εστάλη απέτυχε.</string>
+    <string name="diagnosis_log_sent_format">"Έχει αποσταλεί το αρχείο καταγραφής διαγνώσεων.
+ID:%s
+Παρακαλώ στείλτε αυτόν τον κωδικό στον τεχνικό."</string>
     <string name="dialog_btn_cancel">Ακύρωση</string>
     <string name="dialog_btn_ok">ΟΚ</string>
     <string name="dialog_btn_ok_disabled_net">Ρυθμίσεις δικτύου</string>
@@ -205,6 +211,7 @@
     <string name="fmt_date_numeric_year_month_day">d/Μ/yyyy</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="for_diagnosis_usage_only">Χρησιμοποιήστε αυτές τις πληροφορίες για διάγνωση μόνο.</string>
     <string name="force_touch_newdownload">Νέα λήψη</string>
     <string name="force_touch_rank">Κατάταξη</string>
     <string name="force_touch_search">Αναζήτηση στον ιστό</string>
@@ -327,6 +334,7 @@
     <string name="month_september_shortest">Σεπ</string>
     <string name="more">Περισσότερα</string>
     <string name="morning">Πρωί</string>
+    <string name="mtrl_chip_close_icon_content_description">Αφαίρεση %1$s</string>
     <string name="net_error">"Συνδεθείτε στο δίκτυο και προσπαθήστε ξανά"</string>
     <string name="network_error">"Αδυναμία σύνδεσης στο δίκτυο"</string>
     <string name="new_add">Νέα λήψη</string>
@@ -352,6 +360,7 @@
     <string name="notify_install_guide_title">Εγκαταστάθηκε %s με επιτυχία</string>
     <string name="notify_not_support">"Τέτοιες ειδοποιήσεις δεν υποστηρίζονται, ενημερώστε τώρα"</string>
     <string name="notify_only_wifi_download">Αναμονή για Wi-Fi</string>
+    <string name="ok">Εντάξει</string>
     <string name="one_month">1 μήνας</string>
     <string name="only_support_torrent">Μόνο αρχεία torrent υποστηρίζονται</string>
     <string name="open">Άνοιγμα</string>
@@ -364,6 +373,9 @@
     <string name="other">Άλλα</string>
     <string name="other_filter">Άλλα</string>
     <string name="package_filter">Πακέτα</string>
+    <string name="passport_oauth_actionbar_title">Mi Λογαριασμός</string>
+    <string name="passport_oauth_sucess_tip">Εξουσιοδοτημένη επιτυχία</string>
+    <string name="password_toggle_content_description">Εμφάνιση κωδικού πρόσβασης</string>
     <string name="path_no_available">"Αυτή η διαδρομή δεν είναι διαθέσιμη"</string>
     <string name="pause_download">Παύση</string>
     <string name="paused">Έγινε παύση</string>
@@ -459,6 +471,8 @@
     <string name="select_subfile_all">Επιλογή όλων</string>
     <string name="selected_count">Επιλέξατε %1$d από %2$d</string>
     <string name="send">Αποστολή</string>
+    <string name="send_diagnosis_log">Αποστολή αρχείου καταγραφής διάγνωσης</string>
+    <string name="sending">Αποστολή…</string>
     <string name="setting_close_debug">Η λειτουργία εντοπισμού σφαλμάτων απενεργοποιήθηκε</string>
     <string name="setting_debug_fail">"Αδυναμία εισόδου σε λειτουργία εντοπισμού σφαλμάτων"</string>
     <string name="setting_open_debug">Η λειτουργία εντοπισμού σφαλμάτων είναι ενεργή. Πατήσετε εδώ 6 φορές για απενεργοποίηση.</string>
@@ -569,6 +583,7 @@
     <string name="task_detail">Εργασίες</string>
     <string name="task_detail_notfound_confirm">ΟΚ</string>
     <string name="task_fail">"Απέτυχε"</string>
+    <string name="temporary_not_available">προσωρινή μη διαθέσιμη</string>
     <string name="terabyteShort">TB</string>
     <string name="test_speed">Δοκιμή</string>
     <string name="test_speed_detail">Λεπτομέρειες</string>

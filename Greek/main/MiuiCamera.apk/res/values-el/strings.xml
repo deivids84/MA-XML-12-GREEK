@@ -587,11 +587,15 @@
     <string name="dual_video_record_remote">Εγγραφή διπλού τηλεφώνου</string>
     <string name="dual_video_record_standalone">Διαχωρισμένο</string>
     <string name="dual_video_user_guide_main_content">Για τη δημιουργία βίντεο από πολλαπλές κάμερες στη συσκευής σας, επιλέξτε δύο κάμερες στη συσκευή σας και βιντεοσκοπήστε ταυτόχρονα. Οι εγγραφές μπορούν να αποθηκευτούν ξεχωριστά ή να συνδυαστούν σε διαιρεμένη προβολή ή ως βίντεο εικόνας σε εικόνα.</string>
+    <string name="dual_video_user_guide_main_content_new">"Τα βίντεο Multicam γυρίζονται με πολλαπλές κάμερες ταυτόχρονα.
+Η εγγραφή διπλού τηλεφώνου σας επιτρέπει επίσης να συνδεθείτε με την άλλη συσκευή και να δημιουργήσετε ένα βίντεο πολύδυμων επιλέγοντας \"Συνδυασμένο\"."</string>
     <string name="dual_video_user_guide_main_title">Βίντεο από πολλαπλές κάμερες</string>
     <string name="dual_video_user_guide_merge_content">Βιντεοσκοπήστε με δύο κάμερες και συνδυάστε τις εγγραφές σε διαιρεμένη προβολή ή σε βίντεο εικόνας σε εικόνα.</string>
-    <string name="dual_video_user_guide_remote_content">"Η εγγραφή διπλού τηλεφώνου επιτρέπει τον συνδυασμό ροών από δύο διαφορετικές συσκευές σε ένα βίντεο. Θα μπορείτε να κάνετε προεπισκόπηση και των δύο ροών και του τελικού βίντεο σε αυτήν τη συσκευή. Σημειώστε ότι ο ήχος θα καταγράφεται μόνο από αυτή τη συσκευή."</string>
+    <string name="dual_video_user_guide_merge_content_new">Δύο ηχογραφήσεις μπορούν να συνδυαστούν σε split view ή σε picture-in-picture video.</string>
+    <string name="dual_video_user_guide_remote_content">"Συνδυάστε τροφοδοσίες από δύο διαφορετικές συσκευές σε ένα βίντεο. Θα μπορείτε να κάνετε προεπισκόπηση και των δύο ροών και του τελικού βίντεο σε αυτήν τη συσκευή. Σημειώστε ότι ο ήχος θα καταγράφεται μόνο από αυτή τη συσκευή."</string>
     <string name="dual_video_user_guide_remote_p">Τηλέφωνο %d</string>
     <string name="dual_video_user_guide_standalone_content">Βιντεοσκοπήστε με δύο κάμερες ταυτόχρονα και αποθηκεύστε και τις δύο εγγραφές ως ξεχωριστά βίντεο.</string>
+    <string name="dual_video_user_guide_standalone_content_new">Ταυτόχρονα ηχογραφημένα βίντεο μπορούν επίσης να διαχωριστούν και να αποθηκευτούν ως δύο αρχεία.</string>
     <string name="early_morning">Πρωί</string>
     <string name="edit_blusher">Ρουζ</string>
     <string name="edit_chin">Σαγόνι</string>
@@ -1014,8 +1018,8 @@
     <string name="network_access_user_notice_title">Γίνεται σύνδεση στο interrnet</string>
     <string name="network_connection_failed">"Αδυναμία σύνδεσης"</string>
     <string name="network_connection_ongoing">Σύνδεση…</string>
-    <string name="network_connection_prerequisites">Ενεργοποιήστε το Bluetooth και το Wi-Fi για να μπορείτε να χρησιμοποιείτε διπλή εγγραφή τηλεφώνου.</string>
-    <string name="network_connection_prerequisites_china">Ενεργοποιήστε το Bluetooth και το Wi-Fi για να μπορείτε να χρησιμοποιείτε διπλή εγγραφή τηλεφώνου.</string>
+    <string name="network_connection_prerequisites">Ενεργοποιήστε το Bluetooth και το Wi-Fi στο κέντρο ελέγχου για να μπορείτε να χρησιμοποιήσετε διπλή εγγραφή τηλεφώνου.</string>
+    <string name="network_connection_prerequisites_china">Ενεργοποιήστε το Bluetooth και το Wi-Fi στο κέντρο ελέγχου για να μπορείτε να χρησιμοποιήσετε διπλή εγγραφή τηλεφώνου.</string>
     <string name="network_connection_rejected">Απορρίφθηκε</string>
     <string name="network_connection_timed_out">Λήξη χρονικού ορίου σύνδεσης</string>
     <string name="night">Βράδυ</string>

@@ -240,6 +240,10 @@
         <item quantity="other">Συνδεθήκατε%d συνεχόμενες ημέρες</item>
         <item quantity="one">Συνδεθήκατε %d φορά</item>
     </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">Το έπιασα (%ds)</item>
+        <item quantity="one">Το έπιασα (%ds)</item>
+    </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="one">"Δοκιμάστε το Voice changer τώρα
 για να λάβετε μια %dημέρα δωρεάν δοκιμή!"</item>

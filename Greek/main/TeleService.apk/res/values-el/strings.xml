@@ -1319,6 +1319,8 @@
     <string name="mobile_network_settings_not_available">Οι ρυθμίσεις δικτύου κινητής τηλεφωνίας δεν είναι διαθέσιμες γι\' αυτόν το χρήστη</string>
     <string name="mobile_networks">Ρυθμίσεις δικτύου κινητής τηλεφωνίας</string>
     <string name="mobile_property">Ιδιότητες δικτύου κινητής τηλεφωνίας</string>
+    <string name="mobile_special_network_optimization_config_summary">Όταν το δίκτυο είναι μη φυσιολογικό, προσπαθήστε να επισκευάσετε αυτόματα</string>
+    <string name="mobile_special_network_optimization_config_title">Ειδική Βελτιστοποίηση Δικτύου</string>
     <string name="mock_location_app">Επιλογή εφ/γής τεχνητής τοπ/σίας</string>
     <string name="mock_location_app_not_set">Δεν ορίστηκε εφαρμογή τεχνητής τοποθεσίας</string>
     <string name="mock_location_app_set">Εφαρμογή τεχνητής τοποθεσίας: %1$s</string>
@@ -2060,6 +2062,10 @@
     <string name="smart_forwarding_settings_menu_summary">"Όταν δεν είναι δυνατή η επικοινωνία στον έναν αριθμό, να γίνεται προώθηση των κλήσεων στον άλλον"</string>
     <string name="sms_messages_title">SMS</string>
     <string name="smsc_dialog_message">"Βεβαιωθείτε ότι ο αριθμός που εισαγάγατε είναι σωστός. Διαφορετικά, δεν θα είστε σε θέση να στέλνετε ή να λαμβάνετε SMS. Επικοινωνήστε με τον παρόχό σας για να επιβεβαιώσετε τον αριθμό SMSC."</string>
+    <string name="softap_beacon_protection">Ενεργοποίηση Προστασίας Φάρου SoftAp</string>
+    <string name="softap_beacon_protection_summary">Ενεργοποίηση προστασίας φάρου SoftAp με χρήση Hotspot</string>
+    <string name="softap_ocv">Ενεργοποίηση SoftAp OCV</string>
+    <string name="softap_ocv_summary">Ενεργοποίηση του SoftAp OCV χρησιμοποιώντας το Hotspot</string>
     <string name="speed_label_fast">Γρήγορη</string>
     <string name="speed_label_medium">Μέτρια</string>
     <string name="speed_label_okay">ΟΚ</string>
@@ -2459,6 +2465,8 @@
     <string name="wifi_hand_sel_wapi_cert">Πιστοποιητικό WAPI</string>
     <string name="wifi_limited_connection">Περιορισμένη σύνδεση</string>
     <string name="wifi_metered_label">Μέτρηση με βάση τη χρήση</string>
+    <string name="wifi_new_network_auto_connection">Ssid Γέφυρα - Αυτόματη Σύνδεση</string>
+    <string name="wifi_new_network_auto_connection_summary">Ενεργοποίηση προσπαθειών αυτόματης σύνδεσης σε ένα νέο SSID WPA/WPA2‐PSK 5GHz με τρέχουσα συνδεδεμένη SSID WPA/WPA2‐PSK 2GHz στα διαπιστευτήρια SSID SSID και BSSID μερικού ταιριάσματος</string>
     <string name="wifi_no_internet">Δεν υπάρχει πρόσβαση στο διαδίκτυο</string>
     <string name="wifi_no_internet_no_reconnect">"Δεν θα συνδεθεί αυτόματα"</string>
     <string name="wifi_not_in_range">Εκτός εμβέλειας</string>
@@ -2490,6 +2498,8 @@
 Ο αποθηκευτικός χώρος διαπιστευτηρίων μπορεί να μην ενεργοποιηθεί"</string>
     <string name="wifi_wapi_psk_type">Τύπος κωδικού πρόσβασης</string>
     <string name="wifi_wapi_user_certificate">Πιστοποιητικό χρήστη</string>
+    <string name="wifi_whitelist_roaming">SSID Bridging ‐ Fast Handover</string>
+    <string name="wifi_whitelist_roaming_summary">Ενεργοποίηση περιαγωγής μεταξύ διαφορετικών APs SSID WPA/WPA2‐PSK με ίδια πύλη διεύθυνσης MAC</string>
     <string name="wificall_switch_summary">Χρήση Wi-Fi για δημιουργία και λήψη κλήσεων όποτε είναι δυνατόν</string>
     <string name="wificall_switch_title">Πραγματοποιήστε κλήσεις μέσω Wi-Fi</string>
     <string name="wild_prompt_str">Αντικατάσταση του χαρακτήρα μπαλαντέρ με</string>

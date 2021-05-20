@@ -403,6 +403,7 @@
     <string name="adjust_3d_depth_title">"Διόρθωση βάθους 3D παιχνιδιών"</string>
     <string name="adjust_font_size_answer_cn">Δοκιμάστε να προσαρμόσετε το μέγεθος του κειμένου και το βάρος της γραμματοσειράς χρησιμοποιώντας τα παρακάτω ρυθμιστικά!</string>
     <string name="adjust_font_size_answer_global">Δοκιμάστε να προσαρμόσετε το μέγεθος του κειμένου χρησιμοποιώντας το ρυθμιστικό παρακάτω!</string>
+    <string name="adjust_ligth">Ρύθμιση φωτεινότητας</string>
     <string name="adjust_temperature_title">Θερμοκρασία χρώματος</string>
     <string name="admin_device_owner_message">"Ο διαχειριστής σας μπορεί να παρακολουθεί και να διαχειρίζεται τις εφαρμογές και τα δεδομένα που σχετίζονται με αυτήν τη συσκευή, συμπεριλαμβανομένων των ρυθμίσεων, των δικαιωμάτων, της εταιρικής πρόσβασης, της δραστηριότητας δικτύου και των πληροφοριών τοποθεσίας της συσκευής."</string>
     <string name="admin_disabled_other_options">Άλλες επιλογές απενεργοποιούνται από τον διαχειριστή σας</string>
@@ -3136,8 +3137,8 @@ Bluetooth"</string>
     <string name="freeform_guide_notification_drop_down_summary">Πατήστε παρατεταμένα και τραβήξτε προς τα κάτω τη γραμμή ενέργειας μιας ειδοποίησης</string>
     <string name="freeform_guide_notification_drop_down_title">Άνοιγμα αναδυόμενων παραθύρων</string>
     <string name="freeform_guide_settings">Αναδυόμενα παράθυρα</string>
-    <string name="freeform_guide_slide_to_small_freeform_summary">Σύρετε από το κάτω μέρος της οθόνης στην επάνω δεξιά γωνία της οθόνης</string>
-    <string name="freeform_guide_slide_to_small_freeform_title">Σύρετε στα επιπλέοντα παράθυρα</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary">Πατήστε και κρατήστε πατημένο το κάτω μέρος του παραθύρου και σύρετέ το στην επάνω δεξιά γωνία</string>
+    <string name="freeform_guide_slide_to_small_freeform_title">Minimize an app</string>
     <string name="freeform_guide_slide_up_to_close_summary">Σύρετε προς τα πάνω από τη γραμμή ενέργειας ενός αναδυόμενου παραθύρου</string>
     <string name="freeform_guide_slide_up_to_close_title">Κλείσιμο αναδυόμενων παραθύρων</string>
     <string name="freeform_vedio_description">"· Πατήστε παρατεταμένα και μετά τραβήξτε προς τα κάτω μια ειδοποίηση για να την ανοίξετε σε αναδυόμενο παράθυρο.
@@ -3311,7 +3312,6 @@ Bluetooth"</string>
     <string name="header_category_system">Σύστημα</string>
     <string name="header_category_wireless_networks">Ασύρματα &amp; δίκτυα</string>
     <string name="header_data_and_synchronization">Δεδομένα και συγχρονισμός</string>
-    <string name="headset_aptx-adapter">Προσαρμόσιμο Qualcomm® aptXTM</string>
     <string name="headset_connectiong">Γίνεται σύνδεση…</string>
     <string name="headset_find_both">Αμφότερα</string>
     <string name="headset_find_cancel">Ακύρωση</string>
@@ -4130,7 +4130,7 @@ Xiaomi Cloud
     <string name="low_label">Χαμηλή</string>
     <string name="low_storage_summary">Ο αποθηκευτικός χώρος εξαντλείται. %1$s σε χρήση - %2$s ελεύθερος</string>
     <string name="macaddr_label">Διεύθυνση MAC</string>
-    <string name="magic_window_name">Διαίρεση παραθύρου</string>
+    <string name="magic_window_name">Παράλληλα παράθυρα</string>
     <string name="main_netcheck_summary">Δοκιμή σύνδεσης για προβλήματα δικτύου</string>
     <string name="main_running_process_description">Κύρια διεργασία σε χρήση.</string>
     <string name="main_toolbar_statistic">Στατιστικά χρήσης δεδομένων</string>
@@ -4420,6 +4420,7 @@ Xiaomi Cloud
     <string name="miheadset_plus">Αύξηση έντασης</string>
     <string name="miheadset_rename">Μετονομασία</string>
     <string name="miheadset_rename_device">Μετονομασία</string>
+    <string name="miheadset_single_ear_indicate">Φορέστε και τα δύο ακουστικά για να χρησιμοποιήσετε ακύρωση θορύβου</string>
     <string name="miheadset_soft">Απαλό</string>
     <string name="miheadset_transparent">Διαφάνεια</string>
     <string name="miheadset_transparentMode">Διαφάνεια</string>
@@ -6787,6 +6788,8 @@ Xiaomi Cloud
     <string name="smartcover_lock_or_unlock_screen_tittle">Λειτουργία Smart Cover</string>
     <string name="smartcover_sensitive_summary">Αυτόματο κλείδωμα ή ξεκλείδωμα τηλεφώνου με την έξυπνη κάλυψη</string>
     <string name="smartcover_sensitive_title">Έξυπνο κάλυμμα</string>
+    <string name="smooth_adjust_ligth">Εξομάλυνση μεταβάσεων</string>
+    <string name="smooth_adjust_ligth_summary">Κάντε τις μεταβάσεις ομαλότερες καθώς ρυθμίζετε τη φωτεινότητα χειροκίνητα. Όταν αυτό το χαρακτηριστικό είναι ενεργό, ενδέχεται να εμφανιστούν ελαφρές ασυνέπειες χρώματος σε ορισμένες περιπτώσεις.</string>
     <string name="sms_application_title">Μηνύματα</string>
     <string name="sms_change_default_dialog_text">Χρήση του %1$s αντί του %2$s ως εφαρμογή SMS;</string>
     <string name="sms_change_default_dialog_title">Αλλαγή εφαρμογής SMS;</string>

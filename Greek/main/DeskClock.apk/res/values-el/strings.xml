@@ -400,6 +400,7 @@
     <string name="search_stopwatch_keywords">Χρονόμετρο</string>
     <string name="search_timer_keywords">Χρονοδιακόπτης</string>
     <string name="search_worldclock_keywords">Ώρα;Παγκόσμια ώρα;Ρολόι</string>
+    <string name="select_operation">Επιλογή</string>
     <string name="send">Αποστολή</string>
     <string name="set_alarm">Επιλογή χρόνου</string>
     <string name="set_alarm_choose_ringtone">Επιλογή ήχου κλήσης</string>
@@ -415,6 +416,7 @@
     <string name="shortcut_stop_watch">Έναρξη χρονομέτρου</string>
     <string name="shut_down_keep_screen">"Η οθόνη δεν θα παραμείνει ενεργή"</string>
     <string name="shutdown_alarm_alert_enable_summary">Η απενεργοποίηση αφυπνίσεων θα ενεργοποιηθεί τουλάχιστον 10 λεπτά μετά από την απενεργοποίηση της συσκευής σας</string>
+    <string name="shutdown_alarm_alert_enable_summary_new">Ενεργοποιήστε για την απενεργοποίηση των ειδοποιήσεων όταν η συσκευή σας είναι απενεργοποιημένη. Μόνο οι ειδοποιήσεις έχουν οριστεί για τουλάχιστον %d λεπτά μετά την απενεργοποίηση της συσκευής θα απενεργοποιηθούν.</string>
     <string name="shutdown_alarm_alert_title">Απενεργοποίηση ξυπνητηριού</string>
     <string name="shutdown_alarm_disable_summary">"Ο συναγερμός δεν θα ηχήσει αφού απενεργοποιηθεί η συσκευή"</string>
     <string name="shutdown_alarm_enable_summary">"Ο συναγερμός θα ηχήσει εάν είναι ρυθμισμένος για τουλάχιστον 10 λεπτά μετά την απενεργοποίηση της συσκευής σας"</string>
