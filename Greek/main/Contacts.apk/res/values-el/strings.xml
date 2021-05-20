@@ -60,7 +60,7 @@
     <string name="attach_photo_dialog_title">Φωτογραφία επαφής</string>
     <string name="audio_chat">Φωνητική συνομιλία</string>
     <string name="auto_nickname">Αυτόματα</string>
-    <string name="auto_record_yellowpage">Κίτρινες σελίδες</string>
+    <string name="auto_record_yellowpage">Χρυσός οδηγός</string>
     <string name="auto_set_nickname">Αυτόματα</string>
     <string name="back_description">Πίσω</string>
     <string name="back_view_description">Πίσω</string>
@@ -270,7 +270,7 @@
     <string name="callrecordview_menu_delete_called">Εκκαθάριση εξερχομένων κλήσεων</string>
     <string name="callrecordview_menu_delete_missed">Εκκαθάριση αναπάντητων κλήσεων</string>
     <string name="callrecordview_menu_delete_one">Διαγραφή από το ιστορικό κλήσεων</string>
-    <string name="callrecordview_menu_delete_sim">Εκκαθάριση καταγραφών ιστορικού κλήσης (%s)</string>
+    <string name="callrecordview_menu_delete_sim">Εκκαθάριση καταγραφών ιστορικού κλήσεων (%s)</string>
     <string name="callrecordview_menu_delete_stranger">Εκκαθάριση αγνώστων αριθμών</string>
     <string name="callrecordview_menu_identify_numbers">Αναγνώριση τηλεφωνικών αριθμών</string>
     <string name="callrecordview_menu_mobiledata">Αγορά δεδομένων</string>
@@ -319,7 +319,7 @@
     <string name="confirm_call_log_dial_summary">Ζητήστε επιβεβαίωση πριν καλέσετε από αρχεία καταγραφής κλήσεων για να αποφύγετε τυχαίες κλήσεις.</string>
     <string name="confirm_call_log_dial_title">Επιβεβαιώστε τις κλήσεις από αρχεία καταγραφής κλήσεων</string>
     <string name="confirm_delete_contact_all_call_logs">"Εκκαθάριση όλου του ιστορικού %s;"</string>
-    <string name="confirm_delete_selected_all_call_logs">Εκκαθάριση ιστορικού κλήσεων?</string>
+    <string name="confirm_delete_selected_all_call_logs">Εκκαθάριση ιστορικού κλήσεων;</string>
     <string name="confirm_delete_sim_entry_miui_title">Διαγραφή</string>
     <string name="confirm_export_message">Η λίστα επαφών σας θα εξαχθεί στο αρχείο: %s.</string>
     <string name="confirm_export_title">Εξαγωγή επαφών;</string>
@@ -348,7 +348,7 @@
     <string name="contact_edit_title_readonly">Επαφή μόνο για ανάγνωση</string>
     <string name="contact_editor_prompt_multiple_accounts">Αποθήκευση επαφής σε</string>
     <string name="contact_editor_prompt_zero_accounts">Αποθήκευση στο κινητό ή σε νέο online λογαριασμό</string>
-    <string name="contact_import_methods_dialog_mi_mover">Εισαγωγή με Mi Mover</string>
+    <string name="contact_import_methods_dialog_mi_mover">Εισαγωγή με Μεταφορά Mi</string>
     <string name="contact_import_methods_dialog_title">Επιλογή μεθόδου εισαγωγής</string>
     <string name="contact_is_deleted">Αυτή η επαφή διαγράφηκε</string>
     <string name="contact_is_readOnly">"Αδυναμία επεξεργασίας επαφών μόνο για ανάγνωση"</string>
@@ -399,7 +399,7 @@ Mi Roaming πρέπει να συνδεθεί στο Διαδίκτυο και �
     <string name="deleteCloudConfirmationDetail">Διαγραφή των πληροφοριών επαφής %s από το cloud και από τη συσκευή;</string>
     <string name="deleteConfirmationDetail">Διαγραφή\"%s\"?</string>
     <string name="deleteConfirmation_title">Διαγραφή επαφής?</string>
-    <string name="delete_call_log_message">Εκκαθάριση ιστορικού κλήσεων?</string>
+    <string name="delete_call_log_message">Εκκαθάριση ιστορικού κλήσεων;</string>
     <string name="delete_call_log_selected_title">Εκκαθάριση επιλεγμένου ιστορικού κλήσεων;</string>
     <string name="delete_call_log_title">Εκκαθάριση ιστορικού κλήσεων</string>
     <string name="delete_conference_call_log_message">Διαγραφή τώρα όλων των εγγραφών κλήσης συνδιάσκεψης που σχετίζονται με αυτή την επαφή;</string>
@@ -712,7 +712,7 @@ Mi Roaming πρέπει να συνδεθεί στο Διαδίκτυο και �
     <string name="miuix_appcompat_search_input_description">Αναζήτηση</string>
     <string name="miuix_appcompat_select_all">Επιλογή όλων</string>
     <string name="miuix_appcompat_select_all_description">Επιλογή όλων</string>
-    <string name="miuix_appcompat_select_item">Επιλογή στοιχείων</string>
+    <string name="miuix_appcompat_select_item">Επιλογή αντικειμένων</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Επιτυχής ανανέωση</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Γίνεται ανανέωση…</string>
@@ -882,8 +882,8 @@ Mi Roaming πρέπει να συνδεθεί στο Διαδίκτυο και �
     <string name="preference_privacy_policy_title">Πολιτική Απορρήτου</string>
     <string name="preference_remove_duplicate">Συγχώνευση διπλότυπων επαφών</string>
     <string name="preference_show_firewall_calllog">Εμφάνιση αποκλεισμένων κλήσεων στο ιστορικό κλήσεων</string>
-    <string name="preference_show_yellowpage_tab_description">Οι Κίτρινες σελίδες ενδέχεται να μην λειτουργούν κανονικά όταν η λειτουργία αυτή είναι ανενεργή.</string>
-    <string name="preference_show_yellowpage_tab_title">Εμφάνιση Κίτρινων σελίδων</string>
+    <string name="preference_show_yellowpage_tab_description">Ο Χρυσός οδηγός ενδέχεται να μην λειτουργεί κανονικά όταν η λειτουργία αυτή είναι ανενεργή.</string>
+    <string name="preference_show_yellowpage_tab_title">Εμφάνιση Χρυσύ οδηγού</string>
     <string name="preference_simple_mode_title">Προβολή φωτογραφιών και πληροφοριών</string>
     <string name="preference_smart_group_company_summary">Ομαδοποίηση ανά εταιρία</string>
     <string name="preference_smart_group_company_title">Εταιρίες</string>
@@ -1212,10 +1212,10 @@ Mi Roaming πρέπει να συνδεθεί στο Διαδίκτυο και �
     <string name="wednesday_short">Τετ</string>
     <string name="wednesday_shortest">Τετ</string>
     <string name="wipe_data">Εκκαθάριση δεδομένων</string>
-    <string name="yellowPageNavigationLabel">Κίτρινες σελίδες</string>
+    <string name="yellowPageNavigationLabel">Χρυσός οδηγός</string>
     <string name="yellowpage_address_tag">Διεύθυνση</string>
     <string name="yellowpage_provider_label">Η τεχνική υποστήριξη για τον καλούντα/Η αναγνώριση αναγνωριστικού αποστολέα παρέχεται από την</string>
-    <string name="yellowpage_search_the_yellowpage">Αναζήτηση στις Κίτρινες σελίδες</string>
+    <string name="yellowpage_search_the_yellowpage">Αναζήτηση στον Χρυσό οδηγό</string>
     <string name="yesterday">Χθες</string>
     <string name="zero_items_selected">Επιλογή αντικειμένων</string>
 </resources>

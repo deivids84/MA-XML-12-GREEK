@@ -63,7 +63,7 @@
     <string name="bluetooth_sap_notif_message">Αίτημα εφαρμογής-πελάτη για αποσύνδεση;</string>
     <string name="bluetooth_sap_notif_ticker">Πρόσβαση SIM Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Πρόσβαση SIM Bluetooth</string>
-    <string name="bt_audio_share_notification_content">Πατήστε για προβολή λεπτομερειών</string>
+    <string name="bt_audio_share_notification_content">Αγγίξτε για προβολή επιλογών</string>
     <string name="bt_audio_share_notification_title">Κοινή χρήση ήχου</string>
     <string name="bt_enable_cancel">Ακύρωση</string>
     <string name="bt_enable_line1">Για να χρησιμοποιήσετε υπηρεσίες Bluetooth, θα πρέπει πρώτα να ενεργοποιήσετε τη λειτουργία Bluetooth.</string>

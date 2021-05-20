@@ -606,7 +606,7 @@
     <string name="version_update_dialog_title">Υπάρχει διαθέσιμη ενημέρωση</string>
     <string name="vibrate_pref_summary">Δόνηση κατά την αφύπνιση</string>
     <string name="vibrate_when_ringing">Δόνηση κατά το κουδούνισμα</string>
-    <string name="voice_add_alarm">Προσθήκη ξυπνητηριού χρησιμοποιώντας μια φωνητική εντολή</string>
+    <string name="voice_add_alarm">Προσθέστε ξυπνητήρι χρησιμοποιώντας μια φωνητική εντολή</string>
     <string name="volume_button_setting_desc">Ανάθεση λειτουργιών για τα κουμπιά Ενεργοποίησης και +/- Έντασης</string>
     <string name="volume_button_setting_summary">"Ορισμός λειτουργίας κουμπιών έντασης κατά την αφύπνιση"</string>
     <string name="volume_button_setting_title">Κουμπιά έντασης</string>

@@ -393,10 +393,10 @@
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>Απενεργοποιημένο</item>
-        <item>Filtered</item>
+        <item>Έγινε φιλτράρισμα</item>
         <item>Ενεργοποιήθηκε</item>
-        <item>Headers filtered</item>
-        <item>Media packets filtered</item>
+        <item>Έγινε φιλτράρισμα επικεφαλίδων</item>
+        <item>Έγινε φιλτράρισμα πακέτων πολυμέσων</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 δευτερόλεπτο</item>
@@ -1268,8 +1268,8 @@
         <item>Συμπαγής</item>
     </string-array>
     <string-array name="tabs_taptic_detail">
-        <item>Τραγανό</item>
-        <item>Βάση</item>
+        <item>Ζωηρό</item>
+        <item>Βασικό</item>
         <item>Ποπ</item>
     </string-array>
     <string-array name="time_format_entries">
