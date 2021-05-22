@@ -627,7 +627,7 @@ mm"</string>
     <string name="recently_used">Πρόσφατα σε χρήση</string>
     <string name="recommend_trigger">Εξατομικευμένες προτάσεις</string>
     <string name="recommend_trigger_summary">Ενεργοποιήστε για να λαμβάνετε προτάσεις βάσει των προτιμήσεών σας</string>
-    <string name="refresh_footer_all_loaded">"Αυτά για τώρα."</string>
+    <string name="refresh_footer_all_loaded">"Αυτά προς το παρόν."</string>
     <string name="refresh_footer_failed">"Αδυναμία φόρτωσης πληροφοριών"</string>
     <string name="refresh_footer_finish">Επιτυχής φόρτωση</string>
     <string name="refresh_footer_loading">Περιμένετε μία στιγμή…</string>

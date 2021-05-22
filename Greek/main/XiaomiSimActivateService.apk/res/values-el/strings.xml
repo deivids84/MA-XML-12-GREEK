@@ -36,7 +36,7 @@
     <string name="activate_feature_call_log_sync">Συγχρονισμός ιστορικού κλήσεων</string>
     <string name="activate_feature_default_name">Mi Υπηρεσίες</string>
     <string name="activate_feature_default_title">Xiaomi</string>
-    <string name="activate_feature_find_device">Η εύρεση συσκευής δεν μπορεί να συνδεθεί στο δίκτυο</string>
+    <string name="activate_feature_find_device">Προσδιορισμός SMS</string>
     <string name="activate_feature_live_talk">Πακέτο ανανέωσης χρόνου ομιλίας</string>
     <string name="activate_feature_mi_roaming">Mi Περιαγωγή</string>
     <string name="activate_feature_mms_sync">Συγχρονισμός μηνυμάτων</string>

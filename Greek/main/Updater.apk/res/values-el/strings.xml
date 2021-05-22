@@ -36,9 +36,9 @@
     <string name="install_desc">Η συσκευή θα επανεκκινήσει στην ανάκτηση και θα εγκαταστήσει το επιλεγμένο αρχείο: <b>%1$s</b>\"
 Τα δεδομένα δεν θα διαγραφούν.\"</string>
     <string name="install_title">Είστε σίγουροι ότι θέλετε να αποσυνδεθείτε;</string>
-    <string name="menu_title_current_version_log">Τι νέο υπάρχει:</string>
-    <string name="menu_title_pick_rom_file">Επιλέξτε πακέτο ενημέρωσης</string>
-    <string name="menu_title_recovery">Επανεκκίνηση σε λειτουργία Recovery</string>
+    <string name="menu_title_current_version_log">Τι νέο υπάρχει</string>
+    <string name="menu_title_pick_rom_file">Επιλογή πακέτου ενημέρωσης</string>
+    <string name="menu_title_recovery">Επανεκκίνηση σε Λειτουργία ανάκτησης</string>
     <string name="message_checkbox">Απόκρυψη μελλοντικών μηνυμάτων από την ομάδα Xiaomi.eu</string>
     <string name="message_checkbox_device">Να μην εμφανιστεί ξανά</string>
     <string name="message_title">ΣΗΜΕΙΩΣΗ:</string>
