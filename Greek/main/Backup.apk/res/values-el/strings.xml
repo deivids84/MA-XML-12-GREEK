@@ -48,6 +48,7 @@
     <string name="am">ΠΜ</string>
     <string name="app_name">Αντίγραφα ασφαλείας</string>
     <string name="apps_and_data_item_desc">Εφαρμογές και δεδομένα</string>
+    <string name="apps_item_desc">Εφαρμογή</string>
     <string name="auto_backup">Προγραμματισμός δημιουργίας αντίγραφου ασφαλείας</string>
     <string name="auto_backup_all_user_apps">Όλες οι εφαρμογές</string>
     <string name="auto_backup_choose">Δημιουργία αντίγραφου ασφαλείας</string>
@@ -424,6 +425,7 @@ https://appleid.apple.com/#!&amp;page=signin για κλείσιμο"</string>
     <string name="new_pc_backup_summary2_pad">Συνδέστε την κινητή συσκευή σας στον υπολογιστή μέσω καλωδίου USB.</string>
     <string name="new_pc_backup_summary4">Σημείωση: Μπορείτε επίσης να αντιγράψετε φωτογραφίες και βίντεο από το DCIM.</string>
     <string name="new_pc_restore_content1">%d. Συνδέστε την κινητή σας συσκευή με τον υπολογιστή μέσω καλωδίου USB.</string>
+    <string name="new_pc_restore_content1_pad">%d. Συνδέστε την κινητή συσκευή σας στον υπολογιστή μέσω καλωδίου USB.</string>
     <string name="new_pc_restore_content2">%d. Αντιγράψτε το αντίγραφο ασφαλείας από τον υπολογιστή στο MIUI-Backup-AllBackup.</string>
     <string name="new_pc_restore_content2_pad">%d. Αντιγράψτε το αντίγραφο ασφαλείας από τον υπολογιστή σας στο MIUI-Backup-AllBackup.</string>
     <string name="new_pc_restore_content3">%1$d. Ανοίξτε το \"%2$s\" και επιλέξτε τα στοιχεία που θέλετε να επαναφέρετε.</string>

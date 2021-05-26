@@ -312,8 +312,7 @@
     <string name="permission_group_title_privacy_related">Απόρρητο</string>
     <string name="permission_group_title_sensitive_privacy_related">Ευαίσθητες άδειες</string>
     <string name="permission_group_title_settings_related">Ρυθμίσεις</string>
-    <string name="permission_list_include">"Γίνεται περίληψη των ακόλουθων:
-"</string>
+    <string name="permission_list_include">Συμπεριλαμβάνονται τα ακόλουθα</string>
     <string name="permission_reminders">Υπενθυμίσεις για άδειες</string>
     <string name="permission_warning_template">Να επιτραπεί στο %1$s η %2$s;</string>
     <string name="permission_warning_template_ask">Να επιτρέπονται στο %1$s οι παρακάτω άδειες;</string>

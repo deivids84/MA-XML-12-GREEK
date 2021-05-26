@@ -90,6 +90,7 @@
     <string name="hints_loading_text">Περιμένετε μία στιγμή…</string>
     <string name="important_warning">Προσοχή</string>
     <string name="insert_data">Εισαγωγή δεδομένων</string>
+    <string name="kill_pkg_toast_message">Η συσκευή σας είναι υπερθέρμανση,και η εφαρμογή θα τερματιστεί</string>
     <string name="lasttime_applist_cloud">Ενημερωμένες εφαρμογές:</string>
     <string name="lasttime_feature_cloud">Ενημερωμένες λειτουργίες:</string>
     <string name="message_i_know">Κατανοητό</string>
@@ -152,6 +153,7 @@
     <string name="sleepmode_privacy_content">"Αυτή η λειτουργία θα χρησιμοποιήσει το σύστημα τηλεφώνου και τις πληροφορίες συσκευής σας. Δεν θα μεταφορτωθεί στους διακομιστές μας."</string>
     <string name="sleepmode_privacy_link">Μάθετε περισσότερα σχετικά με το απόρρητο και την ασφάλεια</string>
     <string name="sleepmode_privacy_title">Λειτουργία αδράνειας</string>
+    <string name="stricter_high_temp_state_message">"Η συσκευή σας είναι υπερθέρμανση, δεν μπορείτε να χρησιμοποιήσετε εφαρμογές εκτός από κλήση επάνω και επαφές"</string>
     <string name="sucess">Ολοκλήρωση</string>
     <string name="thermal_cancel">ΟΧΙ</string>
     <string name="thermal_confirm">ΝΑΙ</string>

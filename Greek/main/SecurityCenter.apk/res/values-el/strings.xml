@@ -367,6 +367,11 @@
     <string name="app_behavior_warning_location_title">%1s πραγματοποιεί πρόσβαση την τοποθεσία σας</string>
     <string name="app_bg_restrict_dialog_message">Ο περιορισμός σύνδεσης δικτύου παρασκηνίου ενδέχεται να αποτρέψει την κανονική λειτουργία της εφαρμογής. Για παράδειγμα, ενδέχεται να μην μπορεί πλέον να λαμβάνει μηνύματα ή να ενημερώνει περιεχόμενο.</string>
     <string name="app_check_no_issue">Φαίνεται ότι δεν έχετε προβλήματα μπαταρίας. Τέλεια!</string>
+    <string name="app_classification_activity_label">Όλες οι εφαρμογές</string>
+    <string name="app_classification_recent_add">Πρόσφατα</string>
+    <string name="app_classification_search_all">Όλα</string>
+    <string name="app_classification_search_hint">Αναζήτηση εφαρμογών</string>
+    <string name="app_classification_suggest_app">Προτάσεις</string>
     <string name="app_detail">Λεπτομέρειες</string>
     <string name="app_error_tip_for_launcher">"Τα συστατικά υλισμικού ή η έκδοση του συστήματος Android της συσκευής σας ενδέχεται να προκαλέσουν προβλήματα συμβατότητας και ως αποτέλεσμα ορισμένες εφαρμογές να μην λειτουργήσουν σωστά, να κολλήσουν ή να τερματιστούν. Εάν αντιμετωπίσετε τέτοια προβλήματα, κοινοποιήστε τα σχόλιά σας στους προγραμματιστές εφαρμογών."</string>
     <string name="app_error_tip_for_store">"Τα συστατικά υλισμικού ή η έκδοση του συστήματος Android της συσκευής σας ενδέχεται να προκαλέσουν προβλήματα συμβατότητας και ως αποτέλεσμα να αποτύχει η εγλατάσταση ορισμένων εφαρμογών. Εάν αντιμετωπίσετε τέτοια προβλήματα ή εάν ορισμένες εφαρμογές δεν λειτουργήσουν σωστά, κολλήσουν ή τερματισούν, περιμένετε να επιλυθούν τα προβλήματα από τους προγραμματιστές εφαρμογών και στην συνέχεια εγκαταστήστε ξανά την εφαρμογή."</string>
@@ -521,6 +526,18 @@
     <string name="app_permission_use_neccesary">Απαιτούμενες άδειες</string>
     <string name="app_permission_use_no_neccesary">Προαιρετικές άδειες</string>
     <string name="app_permission_use_title">Άδειες</string>
+    <string name="app_predict_black_list_empty">Δεν υπάρχουν αντικείμενα ακόμα εδώ</string>
+    <string name="app_predict_black_list_setting_title">Λίστα αποκλεισμένων προτάσεων εφαρμογών</string>
+    <string name="app_predict_folder_name">Αναζήτηση</string>
+    <string name="app_predict_loading_text">Μόλις ένα δευτερόλεπτο…</string>
+    <string name="app_predict_search_title">Όλες οι εφαρμογές</string>
+    <string name="app_predict_setting_black_list">Λίστα</string>
+    <string name="app_predict_setting_black_list_message">"Αποκλεισμός εφαρμογών που δεν θέλετε να δείτε ανάμεσα στις προτάσεις"</string>
+    <string name="app_predict_setting_privacy">Πολιτική Απορρήτου</string>
+    <string name="app_predict_setting_switch_message">Λάβετε προτάσεις εφαρμογών με βάση τις συνήθειες χρήσης σας</string>
+    <string name="app_predict_setting_switch_title">Εξατομίκευση προτάσεων</string>
+    <string name="app_predict_setting_title">Προτάσεις εφαρμογών</string>
+    <string name="app_predict_widget_name_2x4">Προτάσεις εφαρμογών</string>
     <string name="app_running_tip_dialog_negative">Ακύρωση</string>
     <string name="app_running_tip_dialog_positive">ΟΚ</string>
     <string name="app_running_tip_dialog_text">Εξέλθετε από τη %1$s για να την εμποδίσετε να τρέχει στο παρασκήνιο. Αυτό θα επιταχύνει τη συσκευή σας και θα μειώσει την κατανάλωση ενέργειας.</string>
@@ -963,6 +980,8 @@
     <string name="daily_pkg_traffic">Όριο δεδομένων αιχμής</string>
     <string name="data_booster_desc">Απενεργοποιήστε τις άλλες θύρες SIM για να διατηρήστε σταθερή την σύνδεση</string>
     <string name="data_booster_title">Σταθεροποίηση σύνδεσης δεδομένων</string>
+    <string name="data_local_processing_and_storage">Δεδομένα που αποθηκεύονται και υποβάλλονται σε επεξεργασία τοπικά</string>
+    <string name="data_local_processing_and_storage_detail">"Η είσοδος σας θα αποθηκευτεί και θα επεξεργαστεί σε αυτήν τη συσκευή και δεν θα μεταφορτωθεί στο σύννεφο."</string>
     <string name="data_network_blocked_notification_title">Χωρίς σύνδεση Ίντερνετ</string>
     <string name="data_usage_correction_timeout_title">Έληξε ο χρόνος συγχρονισμού της χρήσης δεδομένων</string>
     <string name="data_usage_disabled_dialog">"Φτάσατε το όριο του πλάνου δεδομένων σας. Εάν ξεπεράσετε το όριο, ο πάροχός σας μπορεί να σας επιφέρει επιπρόσθετες χρεώσεις."</string>
@@ -1045,6 +1064,8 @@
     <string name="dialog_title_auto_start_declare">Σχετικά με αυτόματη έναρξη</string>
     <string name="dialog_title_stop_virus_scan">Διακοπή σάρωσης ασφαλείας</string>
     <string name="disable_air_mode">Απενεργοποίηση Λειτουργίας πτήσης πρώτα</string>
+    <string name="disable_sensitive_permissions">Περιορίστηκαν ευαίσθητα δικαιώματα</string>
+    <string name="disable_sensitive_permissions_detail">"Το πληκτρολόγιό σας δεν θα μπορεί να χρησιμοποιεί δικαιώματα που σχετίζονται με το απόρρητο (π.χ. πρόσβαση σε επαφές ή πληροφορίες τοποθεσίας)."</string>
     <string name="dlg_add_blacklist">Αποκλεισμός αυτού του αριθμού;</string>
     <string name="dlg_add_blacklist_title">Προσθήκη στη λίστα αποκλεισμών</string>
     <string name="dlg_add_keyword">Προσθήκη λέξεων-κλειδιών</string>
@@ -1255,6 +1276,31 @@
     <string name="ew_main_warning_list">Προβολή προειδοποιήσεων</string>
     <string name="ew_main_warning_list_tips">Προβολή</string>
     <string name="ew_main_warning_list_title">Προβολή ιστορικού προειδοποίησης</string>
+    <string name="ew_monitor_content">Η κινητή σας συσκευή μπορεί να γίνει μέρος του δικτύου έγκαιρης προειδοποίησης για σεισμό. Μετά τους αισθητήρες του ανιχνεύουν σεισμικά κύματα, τα δεδομένα θα αναλυθούν από τον αλγόριθμο τεχνητής νοημοσύνης και οι έγκαιρες προειδοποιήσεις θα εκδοθούν στους ανθρώπους στις πληγείσες περιοχές.</string>
+    <string name="ew_monitor_exit">Κατάργηση</string>
+    <string name="ew_monitor_exit_content">Γεια σας Εθελοντής ΟΧΙ. %s! Η συσκευή σας μπορεί να παρακολουθεί τη σεισμική δραστηριότητα και να συλλέγει δεδομένα που θα βοηθήσουν στην έκδοση έγκαιρων προειδοποιήσεων σεισμού. Unenenroll ούτως ή άλλως?</string>
+    <string name="ew_monitor_exit_title">Προσοχή</string>
+    <string name="ew_monitor_have_been">"Είμαι περήφανος που είμαι ένας "</string>
+    <string name="ew_monitor_info_title">Πώς λειτουργεί?</string>
+    <string name="ew_monitor_join_number">Αριθμός εθελοντών</string>
+    <string name="ew_monitor_join_path">Γίνετε μέλος του προγράμματος χρησιμοποιώντας μια συσκευή Xiaomi: Ασφάλεια &gt; Σεισμός προειδοποίηση &gt; Σεισμός παρακολούθηση εθελοντή.</string>
+    <string name="ew_monitor_my_content">Η κινητή μου συσκευή είναι μέρος του δικτύου έγκαιρης προειδοποίησης για σεισμό. Μετά τους αισθητήρες του ανιχνεύουν σεισμικά κύματα, τα δεδομένα θα αναλυθούν από τον αλγόριθμο τεχνητής νοημοσύνης και οι έγκαιρες προειδοποιήσεις θα εκδοθούν στους ανθρώπους στις πληγείσες περιοχές.</string>
+    <string name="ew_monitor_number_prex">ΟΧΙ. %s</string>
+    <string name="ew_monitor_open">Συμμετοχή</string>
+    <string name="ew_monitor_read_privacy"><Data>\"Διάβασα και συμφώνησα με την &lt;a href=\"%1$s\"&gt;Πολιτική Προστασίας Προσωπικών Δεδομένων&lt;/a&gt;.\"</Data></string>
+    <string name="ew_monitor_share">Κοινοποίηση</string>
+    <string name="ew_monitor_slogan">"Συμμετοχή στο πρόγραμμα παρακολούθησης του σεισμού μας
+"</string>
+    <string name="ew_monitor_summary1">Χρησιμοποιήστε τη συσκευή σας για σεισμική παρακολούθηση.</string>
+    <string name="ew_monitor_summary2">Αναφορά πληροφοριών σχετικά με το σεισμό</string>
+    <string name="ew_monitor_summary3">Βοηθήστε περισσότερους ανθρώπους να λάβουν ειδοποιήσεις σεισμού γρηγορότερα.</string>
+    <string name="ew_monitor_support">Τεχνική υποστήριξη που παρέχεται από Chengdu Hi-tech Ινστιτούτο Μείωσης καταστροφών</string>
+    <string name="ew_monitor_support_rom">*Αυτή η λειτουργία υποστηρίζεται από επιλεγμένες συσκευές Xiaomi/Redmi και MIUI εκδόσεις.</string>
+    <string name="ew_monitor_thanks_tips">"Σας ευχαριστούμε που γίνατε ο σεισμός
+παρακολουθώντας εθελοντής ΟΧΙ. %s!"</string>
+    <string name="ew_monitor_title">Εθελοντής παρακολούθησης σεισμών</string>
+    <string name="ew_monitor_title_spilt">"Παρακολούθηση σεισμών
+εθελοντής"</string>
     <string name="ew_not_support_area">"Οι προειδοποιήσεις δεν υποστηρίζονται σε αυτήν την περιοχή"</string>
     <string name="ew_push_message">Εκτιμώμενη ένταση: %s. Αναμένεται ελαφρύ κούνημα κοντά σας.</string>
     <string name="ew_push_title">Προειδοποίηση σεισμού για %s</string>
@@ -1296,6 +1342,7 @@
     <string name="exit_dialog_release_memory_positive_button">Κλείσιμο</string>
     <string name="exit_dialog_release_memory_title">&lt;Data&gt;Επιταχύνετε τη συσκευή σας κατά &lt;font color=#0099ff&gt;%d%%&lt;/font&gt;&lt;/Data&gt;</string>
     <string name="exit_dialog_release_storage_message">Περισσότερο από το 80% του χώρου αποθήκευσης της συσκευής σας είναι κατειλλημένο. Ελευθερώστε χώρο μέσω της απεγκατάστασης εφαρμογών που δεν χρησιμοποιείτε ποτέ.</string>
+    <string name="exit_dialog_release_storage_message_new">Περισσότερα από %s του αποθηκευτικού χώρου στη συσκευή σας είναι κατειλημμένα. Απελευθερώστε χώρο απεγκαθιστώντας τις εφαρμογές που δεν χρησιμοποιείτε ποτέ.</string>
     <string name="exit_dialog_release_storage_positive_button">Ελευθερώστε χώρο</string>
     <string name="exit_dialog_release_storage_title">Ελευθερώστε χώρο</string>
     <string name="exit_dialog_scan_message">"Το σκορ απόδοσης της συσκευής σας είναι χαμηλότερο απο 75 πόντους. Βελτιστοποίηση τώρα;"</string>
@@ -1899,6 +1946,7 @@
     <string name="image_protect_recover_success">Επιτυχής επαναφορά</string>
     <string name="image_protect_tips_title">Διαγραφή φωτογραφιών</string>
     <string name="image_protect_total_activity_label">Λήψη ειδοποιήσεων σχετικά με διαγραμμένες φωτογραφίες</string>
+    <string name="ime_security_warning">%1$s μπορεί να καταγράψει όλα όσα πληκτρολογείτε, συμπεριλαμβανομένων των κωδικών πρόσβασης και άλλες ευαίσθητες πληροφορίες. Χρησιμοποιήστε το ούτως ή άλλως?</string>
     <string name="in_delete">Διαγραφή…</string>
     <string name="in_recover">Επαναφορά…</string>
     <string name="info_and_call">Κλήσεις και μηνύματα</string>
@@ -2161,6 +2209,7 @@
     <string name="menu_text_power_manager">Μπαταρία</string>
     <string name="menu_wh_remove">Αφαίρεση από εξαιρέσεις</string>
     <string name="menu_white">Προσθήκη στις εξαιρέσεις</string>
+    <string name="mi_ime_not_used">Χρήση πληκτρολογίου εξουσιοδοτημένου από το Xiaomi</string>
     <string name="mi_service_app_detail">Λεπτομέρειες χρήσης δεδομένων</string>
     <string name="mi_service_traffic_detail">Λεπτομέρειες πλαισίου</string>
     <string name="mian_page_primary_txt">Υπερπόντια περιαγωγή</string>
@@ -2272,6 +2321,7 @@
     <string name="net_delay_title">Καθυστέρηση</string>
     <string name="net_overdue">Η συνεδρία έληξε</string>
     <string name="network_assistant_privacy">Για να παρακολουθούμε τη χρήση δεδομένων από την εφαρμογή, συλλέγουμε πληροφορίες όπως ονόματα πακέτων, Χρήση δεδομένων Wi-Fi και κινητής τηλεφωνίας, χρήση αιχμής και εκτός αιχμής δεδομένων και όταν είναι ενεργοποιημένα τα δεδομένα Wi-Fi και κινητής τηλεφωνίας. Αυτές οι πληροφορίες αποθηκεύονται τοπικά στη συσκευή σας.</string>
+    <string name="network_assistant_privacy_title">Αποστολή εφαρμογών και δικτύων χρήσης και διαγνωστικών δεδομένων</string>
     <string name="network_blocked_connected_open_wifi">Έγινε σύνδεση σε δημόσιο δίκτυο</string>
     <string name="network_blocked_notification_summary">Δοκιμή δικτύου</string>
     <string name="network_blocked_switch_wifi">Εναλλαγή δικτύων</string>
@@ -2437,6 +2487,8 @@
     <string name="numeric_settings_help_how_to_record">Πως να ορίσετε PIN</string>
     <string name="oaid_reset_content_tip">Εάν απενεργοποιήσετε τώρα το εικονικό σας αναγνωριστικό, ορισμένες εφαρμογές μπορεί να σταματήσουν να λειτουργούν κανονικά και ένα μέρος των δεδομένων εφαρμογής μπορεί να χαθεί ή να γίνει άχρηστο.</string>
     <string name="oaid_reset_final_tip">Απενεργοποίηση του εικονικού αναγνωριστικού παρ\' όλα αυτά;</string>
+    <string name="offline_voice_input">Είσοδος φωνής εκτός σύνδεσης</string>
+    <string name="offline_voice_input_detail">"Δεν θα χρειαστείτε το διαδίκτυο για φωνητικές εισροές."</string>
     <string name="ok">OK</string>
     <string name="ok_button">OK</string>
     <string name="old_sdk_deny_warning">"Η εφαρμογή δεν είναι συμβατή με τις νεότερες απαιτήσεις αδειών Android. Άδειες που απορρίψατε μπορεί να επηρεάσουν την λειτουργία της εφαρμογής."</string>
@@ -2979,6 +3031,7 @@
     <string name="pp_optional_protection_function">Προαιρετικά μέτρα προστασίας</string>
     <string name="pp_permission_action_virtual_detail">Χορηγήστε δικαιώματα αλλά δώστε στις εφαρμογές κενά αρχεία αντί για προσωπικές πληροφορίες</string>
     <string name="pp_permission_settings">Δικαιώματα</string>
+    <string name="pp_privacy_input_tips">Προστασία του πληκτρολογίου σας</string>
     <string name="pp_privacy_lab_blur_location">Κατά προσέγγιση τοποθεσία</string>
     <string name="pp_privacy_lab_blur_location_summary">Προσαρμόστε τις πληροφορίες τοποθεσίας σας επιτρέποντας σε εφαρμογές να έχουν πρόσβαση στην κατά προσέγγιση τοποθεσία σας</string>
     <string name="pp_privacy_lab_clipboard">Προστασία προχείρου</string>
@@ -3156,6 +3209,13 @@
     <string name="privacy_guide_permission_use_text">Το MIUI θα μετρήσει και θα δείξει πόσες φορές μια εφαρμογή χρησιμοποιεί ευαίσθητες άδειες, περιλαμβανομένης της τοποθεσίας, επαφής, ιστορικού κλήσεων και πρόσβασης στον αποθηκευτικό χώρο, καθώς και ηχογράφησης. Μπορείτε να μάθετε πόσες φορές κάθε εφαρμογή χρησιμοποιεί αυτές τις άδειες και να αποφασίσετε εάν πρέπει να προσαρμόσετε τις ρυθμίσεις των αδειών σας.</string>
     <string name="privacy_hide_other_permissions">Απόκρυψη άλλων δικαιωμάτων</string>
     <string name="privacy_informed_title">Στατιστικά</string>
+    <string name="privacy_input_icon_layout_status_bg_content_enable">Προστατευμένο</string>
+    <string name="privacy_input_mode">Ασφαλής εισαγωγή</string>
+    <string name="privacy_input_mode_img_detail">Λειτουργεί με πληκτρολόγια εξουσιοδοτημένα από Xiaomi</string>
+    <string name="privacy_input_mode_version_supported">Ενημερώστε το πληκτρολόγιό σας για να μπορείτε να χρησιμοποιήσετε αυτήν τη δυνατότητα</string>
+    <string name="privacy_input_model_guide_choose">Λήψη φωνητικής εισόδου εκτός σύνδεσης</string>
+    <string name="privacy_input_model_guide_text">"Αυτή η λειτουργία προστατεύει το απόρρητό σας κατά την εισαγωγή κειμένου. Όταν είναι ενεργοποιημένη αυτή η λειτουργία, κάποια από τις λειτουργίες βασισμένες στο δίκτυο (π. χ. . επιλογές εξατομίκευσης, emoji, προγνωστική πληκτρολόγηση) δεν θα είναι διαθέσιμες."</string>
+    <string name="privacy_input_model_tips">"Η ασφαλής εισαγωγή είναι ενεργή. Το πληκτρολόγιό σας δεν μπορεί να εμφανίσει αναδυόμενα παράθυρα ή να έχει πρόσβαση σε επαφές, πληροφορίες τοποθεσίας και ιστορικό κλήσεων."</string>
     <string name="privacy_location_info_summary">Διαχειριστείτε την πρόσβαση στην τοποθεσία σας</string>
     <string name="privacy_location_info_title">Πληροφορίες τοποθεσίας</string>
     <string name="privacy_look_all_permission_status">Όλες οι άδειες</string>
@@ -3301,6 +3361,10 @@
     <string name="promotion">Διαφήμηση</string>
     <string name="prompt_all">Ερώτηση για όλες</string>
     <string name="prompt_input_time_illegal">"Αδυναμία ορισμού χρόνου, αλλάξτε το και προσπαθήστε ξανά"</string>
+    <string name="protect_data_security">Μεμονωμένα δεδομένα</string>
+    <string name="protect_data_security_detail">Τα δεδομένα που δημιουργούνται από το πληκτρολόγιο θα απομονώνονται και δεν θα είναι προσβάσιμα από άλλες εφαρμογές.</string>
+    <string name="protect_screen_information">Η οθόνη σας προστατεύεται</string>
+    <string name="protect_screen_information_detail">"Δεν θα μπορείτε να τραβήξετε ένα στιγμιότυπο οθόνης ή να καταγράψετε την οθόνη σας ενώ πληκτρολογείτε."</string>
     <string name="protocol_exception_title">Διαγνωστικά πρωτόκολλου δικτύου</string>
     <string name="protocol_loop_back_exception_summary">Αποτυχία δοκιμής local loop back. Για να αναφέρετε το θέμα αυτό στην MIUI, πηγαίνετε στην εφαρμογή Σχόλια και στείλτε το αρχείο καταγραφής από τη συσκευή σας.</string>
     <string name="provision_back">Πίσω</string>
@@ -3380,6 +3444,7 @@
     <string name="risk_app_install_history">Ιστορικό εξουσιοδότησης</string>
     <string name="risk_app_install_item_des">Έκδοση: %1$s</string>
     <string name="risk_app_install_manager">Εφαρμογές με πιθανούς κινδύνους</string>
+    <string name="risk_tip">Εντοπίστηκε κίνδυνος</string>
     <string name="roaming_allow_network_dialog_title">Να επιτρέπεται η περιαγωγή κινητών δεδομένων;</string>
     <string name="roaming_limit_dialog_message">Φτάσατε το ημερήσιο όριο περιαγωγής δεδομένων.</string>
     <string name="roaming_limit_network_notification_body">Πατήστε για προβολή διαθέσιμων δικτύων δεδομένων</string>
@@ -3458,6 +3523,7 @@
     <string name="set_complete">Επιτυχής ορισμός</string>
     <string name="set_location">Ορισμός τοποθεσίας</string>
     <string name="set_mixed_password_name">Ορισμός κωδικού</string>
+    <string name="set_now">Ρυθμίσεις</string>
     <string name="set_numeric_password_name">Ορισμός PIN</string>
     <string name="set_package_tips">"Θα στείλουμε δωρεάν SMS στον πάροχό σας για να ελέγξουμε το πλάνο των δεδομένων σας. Τα δεδομένα που παρέχετε θα κωδικοποιηθούν και θα μεταφορτωθούν στους διακομιστές μας για να συντάξουμε το μήνυμα."</string>
     <string name="set_package_tips_detail">"Τα δεδομένα που μεταφορτώθηκαν στους διακομιστές της Xiaomi θα συμπεριλάβουν τα στοιχεία του παρόχου σας, καθώς και τον αριθμό του τηλεφώνου σας, το IMEI και τον Mi Λογαριασμού."</string>
@@ -3774,6 +3840,8 @@
     <string name="status_bar_network_flow_purchase">"   Αγορά &gt;"</string>
     <string name="status_bar_network_flow_setup_data_plan">"   Ρύθμιση πλάνου δεδομένων &gt;"</string>
     <string name="still_retain_btn">Διατήρηση</string>
+    <string name="stop_collecting_data">"Το πληκτρολόγιο δεν θα μάθει τις συνήθειές σας"</string>
+    <string name="stop_collecting_data_detail">"Το πληκτρολόγιο δεν θα συλλέγει δεδομένα για τη βελτίωση της προγνωστικής πληκτρολόγησης και την πρόταση συχνών φράσεων βάσει των συνηθειών σας."</string>
     <string name="stop_milink_connect">Διακοπή μετάδοσης</string>
     <string name="storage_activity_title">Χώρος αποθήκευσης</string>
     <string name="storage_app_detail_activity_title">Αποθηκευτικός χώρος που χρησιμοποιείται</string>
@@ -4308,6 +4376,7 @@
     <string name="usbsharenet_exception_title">Δοκιμή κοινοποιημένου Ίντερνετ μέσω USB</string>
     <string name="usbsharenet_pc_exception_summary">"Αδυναμία σύνδεσης στο Ίντερνετ με κοινοποιημένη σύνδεση USB. Ελέγξτε την σύνδεση Ίντερνετ του υπολογιστή σας."</string>
     <string name="use_immediately">Χρήση</string>
+    <string name="use_other_ime_warn">Τα πληκτρολόγια τρίτων μπορεί να καταγράφουν όλα όσα πληκτρολογείτε, συμπεριλαμβανομένων των κωδικών πρόσβασης και άλλων ευαίσθητων πληροφοριών.</string>
     <string name="user_define_title">Προσθήκη κανόνων</string>
     <string name="user_guide">Σύρετε προς τα πάνω για να ανακαλύψετε περισσότερα νέα παιχνίδια</string>
     <string name="user_guide_title">Επιλογές Joystick</string>
@@ -4327,6 +4396,7 @@
     <string name="vb_settings">Ρυθμίσεις</string>
     <string name="vb_ve_settings_ai_stronger">AI</string>
     <string name="vb_ve_settings_display_style_tips">*Αυτά τα εφέ εφαρμόζονται σε όλη την οθόνη</string>
+    <string name="vb_ve_settings_display_style_tips_new">*Τα εφέ θα εφαρμοστούν μόνο στην περιοχή αναπαραγωγής βίντεο</string>
     <string name="vb_ve_settings_pic_border_stronger">Ενισχυμένα περιγράμματα</string>
     <string name="vb_ve_settings_picture_stronger">Ενισχυμένα κινούμενα σχέδια</string>
     <string name="vb_video_effects_display_style">Στυλ</string>

@@ -180,6 +180,10 @@
         <item quantity="other">%d ημέρες πριν</item>
         <item quantity="one">%d ημέρα πριν</item>
     </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">"Η βαθμολογία απόδοσης της συσκευής σας είναι μικρότερη από %d βαθμούς. Βελτιστοποιήστε τώρα?"</item>
+        <item quantity="one">"Η βαθμολογία απόδοσης της συσκευής σας είναι μικρότερη από %d βαθμό. Βελτιστοποίηση τώρα?"</item>
+    </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">Γρήγορη προώθηση %d δευτερόλεπτα</item>
         <item quantity="one">Γρήγορη προώθηση %d δευτερόλεπτο</item>
@@ -191,6 +195,10 @@
     <plurals name="find_applications">
         <item quantity="other">Αναζήτηση μεταξύ %d εφαρμογών</item>
         <item quantity="one">Αναζήτηση μεταξύ %d εφαρμογής</item>
+    </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d κίνδυνοι σχετιζόμενοι με το απόρρητο</item>
+        <item quantity="one">%d κίνδυνος σχετιζόμενος με το απόρρητο</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d προβλήματα χρειάζονται βελτιστοποίηση</item>

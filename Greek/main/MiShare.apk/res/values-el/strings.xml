@@ -81,6 +81,7 @@
     <string name="error_receive_user_cancel">Έγινε ακύρωση μεταφοράς</string>
     <string name="error_receive_user_interrupted">Το άλλο άτομο ακύρωσε την μεταφορά</string>
     <string name="error_refuse_receive">Έγινε ακύρωση μεταφοράς</string>
+    <string name="error_remote_ap_working">Ζητήστε από το άλλο άτομο να απενεργοποιήσει το φορητό σημείο πρόσβασης</string>
     <string name="error_remote_busy">Φαίνεται πως ή άλλη συσκευή είναι απασχολημένη Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>
     <string name="error_remote_mirror_working">"Η άλλη συσκευή δεν μπορεί να δεχτεί αντικείμενα κατά την κοινή χρήση της οθόνης"</string>
     <string name="error_self_busy">Η συσκευή είναι απασχολημένη. Περιμένετε ένα δύο λεπτά και προσπαθήστε ξανά.</string>

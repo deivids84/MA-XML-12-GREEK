@@ -62,6 +62,8 @@
     <string name="atarctic_shag">Antarctic shag</string>
     <string name="australia_introduction">The Australian continent is a haven for rare endemic species.</string>
     <string name="australian_magpie">Australian magpie</string>
+    <string name="authorization_btn_text">Έναρξη</string>
+    <string name="authorization_tips">Απαιτούνται δικαιώματα</string>
     <string name="baboon_info">The olive baboon lives in groups with developed social ranking depending on the dominance of each individual.</string>
     <string name="back">Πίσω</string>
     <string name="bear_info">Bears are the largest land carnivores. They live in cold regions and are known for their keen sense of smell.</string>
@@ -147,6 +149,8 @@
     <string name="dc_light_hint_other">Η μείωση του DC ενδέχεται να επηρεάσει το ρυθμό ανανέωσης και τον τρόπο εμφάνισης ορισμένων στοιχείων.</string>
     <string name="dc_lignt_enable_hint">Η λειτουργία ενάντια στο τρεμόπαιγμα θα ρυθμίσει το ρυθμό ανανέωσης της οθόνης στα 60 Hz. Μετάβαση σε λειτουργία Anti-τρεμούλιασμα;</string>
     <string name="delete_first_to_add_animal">To add a new item, delete one first.</string>
+    <string name="devices_type_pad">μαξιλάρι</string>
+    <string name="devices_type_phone">τηλέφωνο</string>
     <string name="display_description">Μεγαλύτερα εικονίδια, μεγάλο κείμενο, λιγότερη οπτική αταξία</string>
     <string name="display_title">Μεγαλύτερα στοιχεία</string>
     <string name="dynamic_ringtone_desc">"We've explored different ecosystems and recreated their distinct sounds. Start exploring the sounds of nature with us!"</string>

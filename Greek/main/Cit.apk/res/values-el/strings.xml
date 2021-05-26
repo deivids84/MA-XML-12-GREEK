@@ -498,6 +498,7 @@
     <string name="cit_torch">Φλας</string>
     <string name="cit_torch_first">Το πρώτο φλας</string>
     <string name="cit_torch_second">Το δεύτερο φλας</string>
+    <string name="cit_touch_panel_nead_pencil_tip">Παρακαλούμε χρησιμοποιήστε το μολύβι για να δοκιμάσετε ξανά</string>
     <string name="cit_touch_panel_test_title">Αισθητήρας αφής</string>
     <string name="cit_ultra_camera_check_title">Κάμερα Ultra</string>
     <string name="cit_usb_OTG_error_condition">"Η συσκευή USB έχει συνδεθεί, αλλά δεν μπορεί να πάρει τις πληροφορίες της συσκευής

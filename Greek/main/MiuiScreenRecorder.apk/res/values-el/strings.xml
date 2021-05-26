@@ -294,6 +294,7 @@
     <string name="using_record_confirm_ok">Αποδοχή</string>
     <string name="v7_preference_off">ΑΝΕΝΕΡΓΗ</string>
     <string name="v7_preference_on">ΕΝΕΡΓΗ</string>
+    <string name="view_recorded_file">Πατήστε για να δείτε το καταγεγραμμένο αρχείο</string>
     <string name="warning_recording_when_a2dp_connect">"Η συσκευή σας δεν υποστηρίζει την καταγραφή ήχων συστήματος, κατά τη διάρκεια χρήσης των ακουστικών headset Bluetooth."</string>
     <string name="wednesday">Τετάρτη</string>
     <string name="wednesday_short">Τετ</string>

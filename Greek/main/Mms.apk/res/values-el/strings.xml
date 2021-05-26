@@ -438,8 +438,6 @@
     <string name="message_type_label">"Είδος: "</string>
     <string name="message_unread">Αδιάβαστο</string>
     <string name="messagelist_sender_self">Εγώ</string>
-    <string name="messages_installed_notification_text_xiaomi">Πατήστε για να ξεκινήσετε μια συνομιλία</string>
-    <string name="messages_installed_notification_title_xiaomi">Τα μηνύματα εγκαταστάθηκαν</string>
     <string name="messaging">Μηνύματα</string>
     <string name="mi_message_title">Μήνυμα Mi</string>
     <string name="midnight">Νύχτα</string>
@@ -620,7 +618,6 @@
     <string name="notification_add_todo_content">Κωδικός παραλαβής: %s</string>
     <string name="notification_channel_msg_description">Ειδοποιήσεις για τα μηνύματα</string>
     <string name="notification_channel_msg_name">Μηνύματα</string>
-    <string name="notification_channel_name_xiaomi">Ειδοποιήσεις αναβάθμισης εφαρμογής</string>
     <string name="notification_channel_other_description">Άλλες ειδοποιήσεις</string>
     <string name="notification_channel_other_name">Άλλα</string>
     <string name="notification_channel_sim1_description">Ειδοποιήσεις για τα μηνύματα SIM 1</string>
@@ -772,21 +769,6 @@
     <string name="private_protect">Προστασία απορρήτου</string>
     <string name="private_settings">Ρυθμίσεις</string>
     <string name="processing">Γίνεται επεξεργασία…</string>
-    <string name="promo_back_btn_text_xiaomi">Πίσω στο Mi Message</string>
-    <string name="promo_install_btn_text">Επόμενο</string>
-    <string name="promo_install_bullet_1_xiaomi">Χρήση του Βοηθού Google για κείμενα &amp; εργασίες</string>
-    <string name="promo_install_bullet_2_xiaomi">Διατήρηση των συνομιλιών σας &amp; των πολυμέσων</string>
-    <string name="promo_install_bullet_3_xiaomi">Εύκολα βρείτε κοινόχρηστα μηνύματα &amp; πολυμέσα</string>
-    <string name="promo_install_bullet_4_xiaomi">Χρήση Μηνυμάτων ως προεπιλεγμένη εφαρμογή SMS</string>
-    <string name="promo_install_learn_more_xiaomi"><a href="https://support.google.com/messages/answer/6089066">Μάθετε περισσότερα</a></string>
-    <string name="promo_install_subtitle_xiaomi">Αποκτήστε πλουσιότερη, υψηλότερη ποιότητα συνομιλίας στο Wi-Fi ή στα δεδομένα. Εγκαταστήστε τα Μηνύματα &amp; χρησιμοποιήστε το ως προεπιλεγμένη εφαρμογή SMS. <a href="https://support.google.com/messages/answer/6089066">Μάθετε περισσότερα</a></string>
-    <string name="promo_install_title_xiaomi">Η Xiaomi συνιστά αναβάθμιση σε Μηνύματα από την Google</string>
-    <string name="promo_launch_messages_btn_text">Άνοιγμα Μηνυμάτων</string>
-    <string name="promo_no_thanks_btn_text_xiaomi">Όχι, ευχαριστώ</string>
-    <string name="promo_post_install_animation_alt_text_xiaomi">Τα μηνύματα από την Google είναι τώρα η προεπιλεγμένη εφαρμογή SMS. Για να τοποθετήσετε τα μηνύματα Google ως αγαπημένο στην αρχική οθόνη, πατήστε παρατεταμένα Mi Message και μετακινήστε το από τα αγαπημένα, στη συνέχεια, πατήστε παρατεταμένα Μηνύματα και μετακινήστε το στα αγαπημένα.</string>
-    <string name="promo_post_install_title_no_default_xiaomi">Αντικατάσταση Mi Message με υψηλότερης ποιότητας Μηνύματα από την Google</string>
-    <string name="promo_post_install_title_with_default_xiaomi">Ξεκινήστε τώρα υψηλής ποιότητας texting με μηνύματα από την Google</string>
-    <string name="promo_use_messages_btn_text">Χρήση Μηνυμάτων</string>
     <string name="prompt_otp">Κωδικός</string>
     <string name="prompt_phone">Αριθμός τηλεφώνου</string>
     <string name="prompt_summary">Το RCS σας επιτρέπει να ανταλλάσσετε μηνύματα, φωτογραφίες, βίντεο και να δημιουργήσετε ομαδικές συνομιλίες δωρεάν.</string>

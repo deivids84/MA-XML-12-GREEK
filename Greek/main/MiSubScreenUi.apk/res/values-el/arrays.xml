@@ -59,4 +59,9 @@
         <item>.</item>
         <item>.</item>
     </string-array>
+    <string-array name="subscreen_mode_entries">
+        <item>%d δευτερόλεπτα</item>
+        <item>%d δευτερόλεπτα</item>
+        <item>%d δευτερόλεπτα</item>
+    </string-array>
 </resources>
