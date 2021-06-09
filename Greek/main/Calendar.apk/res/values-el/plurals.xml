@@ -9,8 +9,8 @@
         <item quantity="one">Σε %1$d ημέρα στις %2$s</item>
     </plurals>
     <plurals name="Ndays_ago_at">
-        <item quantity="other">%1$d ημέρες πριν από %2$s</item>
-        <item quantity="one">%1$d ημέρα πριν από %2$s</item>
+        <item quantity="other">%1$d ημέρες πριν στις %2$s</item>
+        <item quantity="one">%1$d ημέρα πριν στις %2$s</item>
     </plurals>
     <plurals name="Nhours">
         <item quantity="other">%d ώρες πριν</item>
@@ -29,7 +29,7 @@
         <item quantity="one">%1$s ημέρα</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
-        <item quantity="other">Επέτειος: %2$d χρόνια από %1$s σε %3$d ημέρες</item>
+        <item quantity="other">Επέτειος: %2$d έτη από %1$s σε %3$d ημέρες</item>
         <item quantity="one">Επέτειος: %2$d έτος από %1$s σε %3$d ημέρες</item>
     </plurals>
     <plurals name="anniversary_notify_title">
@@ -97,8 +97,12 @@
         <item quantity="one">Ημέρα %1$d</item>
     </plurals>
     <plurals name="mesens_card_title_predict_date">
-        <item quantity="other">Επόμενη περίοδος σε %1$d ημέρες</item>
-        <item quantity="one">Επόμενη περίοδος σε %1$d ημέρα</item>
+        <item quantity="other">Επόμενη εμμηνόρροια σε %1$d μέρες</item>
+        <item quantity="one">Επόμενη εμμηνόρροια σε %1$d μέρα</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
     </plurals>
     <plurals name="notes_custom_repeat_days">
         <item quantity="other">ημέρες</item>
@@ -137,32 +141,32 @@
         <item quantity="one">Εμφάνιση %d ολοκληρωμένης εργασίας</item>
     </plurals>
     <plurals name="subtitle_add_record">
-        <item quantity="other">"Δεν έχετε εγγραφεί για %1$d ημέρες. Καταγράψτε τις περιόδους σας για να λάβετε ακριβέστερες προβλέψεις."</item>
-        <item quantity="one">"Δεν έχετε εγγραφεί για %1$d ημέρα. Καταγράψτε τις περιόδους σας για να λάβετε πιο ακριβείς προβλέψεις."</item>
+        <item quantity="other">"Δεν έχετε καταγράψει για %1$d ημέρες. Καταγράψτε τις εμμηνόρροιές σας για ακριβέστερες προβλέψεις."</item>
+        <item quantity="one">"Δεν έχετε καταγράψει για %1$d ημέρα. Καταγράψτε τις εμμηνόρροιές σας για ακριβέστερες προβλέψεις."</item>
     </plurals>
     <plurals name="subtitle_menstruation_continued_days">
-        <item quantity="other">Αυτή η περίοδος διαρκεί συνολικά %1$d ημέρες</item>
-        <item quantity="one">Αυτή η περίοδος διαρκεί συνολικά %1$d ημέρα</item>
+        <item quantity="other">Αυτή η εμμηνόρροια διαρκεί συνολικά %1$d ημέρες</item>
+        <item quantity="one">Αυτή η εμμηνόρροια διαρκεί συνολικά %1$d ημέρα</item>
     </plurals>
     <plurals name="subtitle_menstruation_cycle_days">
-        <item quantity="other">Ημέρα %1$d αυτού του εμμηνορροϊκού κύκλου</item>
-        <item quantity="one">Ημέρα %1$d αυτού του εμμηνορροϊκού κύκλου</item>
+        <item quantity="other">%1$d ημέρα αυτού του εμμηνορροϊκού κύκλου</item>
+        <item quantity="one">%1$d ημέρα αυτού του εμμηνορροϊκού κύκλου</item>
     </plurals>
     <plurals name="title_menstruation_day">
-        <item quantity="other">Ημέρα %1$d της περιόδου</item>
-        <item quantity="one">Ημέρα %1$d της περιόδου</item>
+        <item quantity="other">%1$d ημέρα της εμμηνόρροιας</item>
+        <item quantity="one">%1$d ημέρα της εμμηνόρροιας</item>
     </plurals>
     <plurals name="title_menstruation_margin_next_time_days">
-        <item quantity="other">%1$d days till the next period</item>
-        <item quantity="one">%1$d day till the next period</item>
+        <item quantity="other">%1$d ημέρες μέχρι την επόμενη εμμηνόρροια σας</item>
+        <item quantity="one">%1$d ημέρα μέχρι την επόμενη εμμηνόρροιά σας</item>
     </plurals>
     <plurals name="title_menstruation_predict_period">
-        <item quantity="other">Εκτιμώμενη ημέρα %1$d της περιόδου</item>
-        <item quantity="one">Εκτιμώμενη ημέρα %1$d της περιόδου</item>
+        <item quantity="other">Η εκτιμώμενη ημέρα %1$d της εμμηνόρροιας</item>
+        <item quantity="one">Η εκτιμώμενη ημέρα %1$d της εμμηνόρροιας</item>
     </plurals>
     <plurals name="travel_eta_advice">
-        <item quantity="other">%2$s λεπτά δίσκου προς %1$s.</item>
-        <item quantity="one">%2$s λεπτά με το αυτοκίνητο στο %1$s.</item>
+        <item quantity="other">%2$s λεπτά οδική διαδρομή για %1$s.</item>
+        <item quantity="one">%2$s λεπτό οδική διαδρομή για %1$s.</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="one">Εβδομάδα %d</item>

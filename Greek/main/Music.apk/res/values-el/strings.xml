@@ -93,7 +93,6 @@
     <string name="app_description_content">"Η Μουσική είναι μια εφαρμογή συστήματος που περιέχει ένα πρόγραμμα αναπαραγωγής ήχου και σας επιτρέπει να διαχειριστείτε αρχεία ήχου. Θα εξακολουθείτε να μπορείτε να αναπαράγετε αρχεία ήχου μετά την κατάργηση της Συντόμευσης αρχικής οθόνης."</string>
     <string name="app_description_title">Αφαίρεση \"Μουσικής\" από την Αρχική οθόνη;</string>
     <string name="app_label">Λήψεις</string>
-    <string name="app_name">Προτίμηση</string>
     <string name="app_permission_confirm">Κατανοητό</string>
     <string name="app_permission_optional">Προαιρετικές άδειες</string>
     <string name="app_permission_require">Υποχρεωτικές άδειες</string>
