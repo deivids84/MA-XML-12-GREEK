@@ -37,6 +37,7 @@
     <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
     <string name="copy">Αντιγραφή</string>
     <string name="date_picker_lunar">Παραδοσιακό κινεζικό ημερολόγιο</string>
+    <string name="download_button">Κουμπί λήψης</string>
     <string name="download_failed">"Αδυναμία λήψης"</string>
     <string name="early_morning">Πρωί</string>
     <string name="earth_id">γη</string>

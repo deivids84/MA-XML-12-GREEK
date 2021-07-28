@@ -40,6 +40,7 @@
     <string name="aod_lock_screen_date_v">"EE
 M/d"</string>
     <string name="aod_show_date_and_time">Ημερομηνία και ώρα</string>
+    <string name="app_name">Οπίσθια οθόνη</string>
     <string name="apply">Εφαρμογή</string>
     <string name="apply_succeed">Επιτυχής εφαρμογή</string>
     <string name="background_icon">Φόντο</string>
@@ -240,7 +241,6 @@ M/d"</string>
     <string name="solar_term_winter_solstice">Χειμερινό ηλιοστάσιο</string>
     <string name="sps_cancel">Πατήστε και κρατήστε πατημένο για έξοδο</string>
     <string name="step_to_image_community">Βρείτε περισσότερα στο Mi Community</string>
-    <string name="sub_screen_app_name">Οπίσθια οθόνη</string>
     <string name="subscreen_could_edit_pic">Σύρετε εικόνες για κλίμακα, πατήστε και κρατήστε πατημένο για διαγραφή</string>
     <string name="subscreen_other">Άλλο</string>
     <string name="subscreen_other_dialog_cancel">Ακύρωση</string>

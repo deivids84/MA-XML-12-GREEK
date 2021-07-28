@@ -56,12 +56,15 @@
     <string name="category_select">Επιλογή</string>
     <string name="category_video">Βίντεο</string>
     <string name="category_video_title">Βίντεο</string>
+    <string name="channel_client_edit">Επεξεργασία στην κινητή συσκευή</string>
     <string name="channel_pc_edit">Επεξεργασία στον υπολογιστή</string>
     <string name="channel_pc_upload">Ανέβηκε από τον υπολογιστή</string>
     <string name="channel_pc_view">Προβολή στον υπολογιστή</string>
     <string name="channel_phone_edit">Επεξεργάστηκε στο τηλέφωνο</string>
     <string name="channel_phone_upload">Ανέβηκε από το τηλέφωνο</string>
     <string name="channel_phone_view">Προβλήθηκε στο τηλέφωνο</string>
+    <string name="channel_tablet_upload">Ανέβηκε από το tablet</string>
+    <string name="channel_tablet_view">Προβολή στο tablet</string>
     <string name="channel_web_edit">Επεξεργασία στο πρόγραμμα περιήγησης</string>
     <string name="channel_web_upload">Ανέβηκε στο πρόγραμμα περιήγησης</string>
     <string name="channel_web_view">Προβλήθηκε στο πρόγραμμα περιήγησης</string>
@@ -208,7 +211,7 @@
     <string name="micloud_space_duokan_detail">"Ανοίξτε το Duokan στο τηλέφωνό σας και μεταβείτε στο Bookshelf &gt; Cloud storage για να διαχειριστείτε το χώρο αποθήκευσης.
 Βεβαιωθείτε ότι χρησιμοποιείτε τον τρέχοντα λογαριασμό Mi ως λογαριασμό συστήματος MIUI."</string>
     <string name="micloud_space_duokan_title">Χώρος αποθήκευσης Duokan</string>
-    <string name="micloud_space_soundrecorder_detail">"Ανοίξτε την εφαρμογή Εγγραφή στο τηλέφωνό σας και επιλέξτε το φάκελο με τα στοιχεία που είναι αποθηκευμένα στο σύννεφο.
+    <string name="micloud_space_soundrecorder_detail">"Ανοίξτε την εφαρμογή Recorder στην κινητή συσκευή σας και επιλέξτε το φάκελο με τα στοιχεία που είναι αποθηκευμένα στο σύννεφο.
 Βεβαιωθείτε ότι χρησιμοποιείτε τον τρέχοντα λογαριασμό Mi ως λογαριασμό συστήματος MIUI."</string>
     <string name="micloud_space_soundrecorder_title">Ηχητικές εγγραφές</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>
