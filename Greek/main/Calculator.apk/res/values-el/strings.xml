@@ -145,8 +145,6 @@
     <string name="extra_deduction_title">Πρόσθετες μειώσεις</string>
     <string name="factorialDesc">παραγοντικό</string>
     <string name="float_window_guide_text">Πατήστε εδώ για την ελαχιστοποίηση της Αριθμομηχανής</string>
-    <string name="fmt_date_numeric_month_day">d/M</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fund_loan">Δάνειο χρηματοδότησης</string>
     <string name="further_education">Περαιτέρω εκπαίδευση</string>
     <string name="global_network_confirm_content">Ο μετατροπέας συναλλάγματος απαιτεί σύνδεση στο Ίντερνετ για να λειτουργήσει κανονικά.</string>

@@ -274,14 +274,6 @@
     <string name="failed_to_drop">"Αδυναμία μετακίνησης"</string>
     <string name="failed_to_drop_widget_invalid">Το widget δεν είναι έγκυρο</string>
     <string name="failed_to_load_image">"Αδυναμία φόρτωσης εικόνας"</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">MMMM d, εεεε</string>
-    <string name="fmt_date_numeric_month_day">Μ/δ</string>
-    <string name="fmt_date_numeric_year_month_day">Μ/η/εεεε</string>
-    <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">ΜΜΜ δ, εεεε</string>
-    <string name="fmt_time_12hour">"ω 'o''clock'"</string>
-    <string name="fmt_time_24hour">"HH 'o''ρολόι'"</string>
     <string name="folder_name">Φάκελος</string>
     <string name="frame_load_failed">"Αδυναμία φόρτωσης πλαισίου"</string>
     <string name="free_style_apps_title">Επιλογή εφαρμογής</string>

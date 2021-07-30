@@ -224,17 +224,6 @@
     <string name="file_name_existed">Το όνομα αρχείου έχει ληφθεί</string>
     <string name="file_name_invalid">"Τα ονόματα αρχείων δεν πρέπει να περιέχουν τους εξής χαρακτήρες: /\\:*?&lt;&gt;"</string>
     <string name="file_not_exist">"Το αρχείο δεν υπάρχει"</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">MMMM d, εεεε</string>
-    <string name="fmt_date_numeric_month_day">d/Μ</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">ΜΜΜ δ, εεεε</string>
-    <string name="fmt_time_12hour">"ω 'o''clock'"</string>
-    <string name="fmt_time_24hour">"HH 'o''ρολόι'"</string>
-    <string name="fmt_weekday_date_timezone">Δ, Δ ω</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
     <string name="folder_name_empty">"Το όνομα αρχείου δεν πρέπει να είναι κενό"</string>
     <string name="folder_name_illegal">Μη έγκυρο όνομα φακέλου</string>
     <string name="found_router">Δρομολογητής συνδεδεμένος</string>

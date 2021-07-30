@@ -41,12 +41,6 @@
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="evening">Απόγευμα</string>
-    <string name="fmt_date_long_month_day">MMMM dd</string>
-    <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
-    <string name="fmt_date_numeric_month_day">Μ/δ</string>
-    <string name="fmt_date_numeric_year_month_day">Μ/η/εεεε</string>
-    <string name="fmt_date_short_month_day">ΜΜ/ηη</string>
-    <string name="fmt_date_short_year_month_day">ΜΜ/ηη/εεεε</string>
     <string name="freeform_demo_back">Πίσω</string>
     <string name="freeform_demo_final_over">Ολοκληρώθηκε</string>
     <string name="freeform_demo_final_restart">Έναρξη από την αρχή</string>

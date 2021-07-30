@@ -231,14 +231,6 @@ https://appleid.apple.com/#!&amp;page=signin για κλείσιμο"</string>
     <string name="flash_drive_restore_btn">Επαναφορά από USB</string>
     <string name="flash_drive_search_backup_files">"Γίνεται αναζήτηση αντίγραφου ασφαλείας USB…
 Μην αλλάξετε ή μετονομάσετε αρχεία αντίγραφου ασφαλείας."</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">MMMM d, εεεε</string>
-    <string name="fmt_date_numeric_month_day">d/Μ</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">ΜΜΜ δ, εεεε</string>
-    <string name="fmt_time_12hour">"ω 'o''clock'"</string>
-    <string name="fmt_time_24hour">"HH 'o''ρολόι'"</string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>

@@ -142,14 +142,6 @@
     <string name="find_device_status_title_phone">Εύρεση συσκευής</string>
     <string name="finddevice_miservice_notification_content">"Κλειδώστε την συσκευή σας από μακριά σε περίπτωση απώλειας της"</string>
     <string name="finddevice_miservice_notification_title">Ενεργοποίηση Εύρεση συσκευής</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/Μ</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/ΜΜ/yyyy</string>
-    <string name="fmt_time_12hour">"ω 'o''clock'"</string>
-    <string name="fmt_time_24hour">"HH 'o''ρολόι'"</string>
     <string name="forget_password"><u>Ξέχασα τον κωδικό</u></string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>

@@ -665,12 +665,6 @@ ID:%s
     <string name="fling_on_border_gesture_hint">Μπορείτε να επιλέξετε την ενέργεια της χειρονομίας στις Ρυθμίσεις</string>
     <string name="fm_guide_btn">Κατάλαβα</string>
     <string name="fm_guide_msg">Τώρα μπορείτε να διαχειρίζεστε τοπικά βίντεο, τραγούδια και εικόνες χρησιμοποιώντας την εφαρμογή Mi Φυλλομετρητής!</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/M</string>
-    <string name="fmt_date_numeric_year_month_day">d/Μ/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="folder_name_empty">"Το όνομα αρχείου δεν πρέπει να είναι κενό"</string>
     <string name="folder_name_illegal">Μη έγκυρο όνομα φακέλου</string>
     <string name="follow_account_title">Λογαριασμοί</string>

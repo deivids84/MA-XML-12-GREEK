@@ -455,14 +455,6 @@
     <string name="floating_view_dialog_leave">Έξοδος</string>
     <string name="floating_view_dialog_stay">Παραμονή</string>
     <string name="floating_view_dialog_title">Έξοδος από τη σελίδα;</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_date_numeric_month_day">d/Μ</string>
-    <string name="fmt_date_numeric_year_month_day">d/Μ/yyyy</string>
-    <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
-    <string name="fmt_time_12hour">"ω 'o''clock'"</string>
-    <string name="fmt_time_24hour">"HH 'o''ρολόι'"</string>
     <string name="follow">Ακολουθήστε</string>
     <string name="followed">Ακολουθείτε</string>
     <string name="format_not_support">"Η μορφή δεν υποστηρίζεται."</string>

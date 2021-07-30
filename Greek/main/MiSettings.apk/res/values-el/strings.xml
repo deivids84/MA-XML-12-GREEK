@@ -216,14 +216,6 @@
     <string name="exo_track_unknown">Άγνωστο</string>
     <string name="expand_button_title">Σύνθετες</string>
     <string name="first_unlock_time">"Πρώτο ξεκλείδωμα: "</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">MMMM d, εεεε</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">ΜΜΜ δ, εεεε</string>
-    <string name="fmt_time_12hour">"ω 'o''clock'"</string>
-    <string name="fmt_time_24hour">"HH 'o''ρολόι'"</string>
     <string name="focus_mode_custom_time">Προσαρμοσμένη διάρκεια</string>
     <string name="focus_mode_timer_add_limit">Μπορείτε να προσθέσετε έως και %d εξατομικευμένους χρονοδιακόπτες</string>
     <string name="focus_mode_timer_delete">Διαγραφή</string>

@@ -1023,12 +1023,6 @@
     <string name="fiveg_upperlayer_indication1">Κατάσταση Ένδειξης Ανώτερου Στρώματος :</string>
     <string name="flash_when_ring_summary">Χρήση φλας για ειδοποιήσεις εισερχόμενων κλήσεων</string>
     <string name="flash_when_ring_title">Ειδοποίηση LED κατά το κουδούνισμα</string>
-    <string name="fmt_date_long_month_day">MMMM dd</string>
-    <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
-    <string name="fmt_date_numeric_month_day">Μ/δ</string>
-    <string name="fmt_date_numeric_year_month_day">Μ/η/εεεε</string>
-    <string name="fmt_date_short_month_day">ΜΜ/ηη</string>
-    <string name="fmt_date_short_year_month_day">ΜΜ/ηη/εεεε</string>
     <string name="fold_answer_pref_summary">Διπλώστε τη συσκευή για να αποδεχτείτε αυτόματα μια εισερχόμενη κλήση</string>
     <string name="fold_answer_pref_title">Διπλώστε για αποδοχή κλήσεων</string>
     <string name="forbidden_network">(απαγορευμένο)</string>

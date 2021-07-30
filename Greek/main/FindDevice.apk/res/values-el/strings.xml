@@ -80,12 +80,6 @@
     <string name="find_device_storage_corrupted">Ο χώρος αποθήκευσης της Εύρεσης συσκευής έχει καταστραφεί. Η συσκευή σας βρίσκεται σε κίνδυνο.</string>
     <string name="find_device_success_title">Εύρεση συσκευής</string>
     <string name="find_device_telephony_fault">Εύρεση συσκευής: Σφάλμα τηλεφωνίας (%s).</string>
-    <string name="fmt_date_long_month_day">MMMM dd</string>
-    <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
-    <string name="fmt_date_numeric_month_day">Μ/δ</string>
-    <string name="fmt_date_numeric_year_month_day">Μ/η/εεεε</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="friday">Παρασκευή</string>
     <string name="friday_short">Παρ</string>
     <string name="friday_shortest">Παρ</string>

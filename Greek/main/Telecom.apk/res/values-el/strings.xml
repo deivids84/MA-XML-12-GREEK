@@ -347,12 +347,6 @@
     <string name="external_source_trusted">Επιτρέπεται</string>
     <string name="external_source_untrusted">Δεν επιτρέπεται</string>
     <string name="failed_to_open_app_settings_toast">Δεν ήταν δυνατό το άνοιγμα των ρυθμίσεων για την εφαρμογή %1$s</string>
-    <string name="fmt_date_long_month_day">MMMM dd</string>
-    <string name="fmt_date_long_year_month_day">MMMM dd, yyyy</string>
-    <string name="fmt_date_numeric_month_day">Μ/δ</string>
-    <string name="fmt_date_numeric_year_month_day">Μ/η/εεεε</string>
-    <string name="fmt_date_short_month_day">ΜΜ/ηη</string>
-    <string name="fmt_date_short_year_month_day">ΜΜ/ηη/εεεε</string>
     <string name="force_allow_on_external">Να επιτρέπονται υποχρεωτικά εφαρμογές σε εξωτ.συσ.</string>
     <string name="force_allow_on_external_summary">Κάνει κάθε εφαρμογή κατάλληλη για εγγραφή σε εξωτερικό αποθηκευτικό χώρο, ανεξάρτητα από τις τιμές του μανιφέστου</string>
     <string name="force_msaa">Αναγκαστικά 4x MSAA</string>

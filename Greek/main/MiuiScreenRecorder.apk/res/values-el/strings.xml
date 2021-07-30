@@ -68,14 +68,6 @@
     <string name="first_using_mic_dialog_title">Απαιτούνται άδειες</string>
     <string name="fixed_frame_rate">Σταθερός ρυθμός ανάλυσης</string>
     <string name="fixed_frame_rate_summary">Η εγγραφή βίντεων με σταθερό ρυθμό ανάλυσης ενισχύει την αναπαραγωγή σε πλατφόρμες κοινωνικών μέσων και μειώνει την ζωή μπαταρίας.</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">MMMM d, εεεε</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">ΜΜΜ δ, εεεε</string>
-    <string name="fmt_time_12hour">"ω 'o''clock'"</string>
-    <string name="fmt_time_24hour">"HH 'o''ρολόι'"</string>
     <string name="frames">Ρυθμός ανάλυσης</string>
     <string name="frames_summary">Υψηλότεροι ρυθμοί ανάλυσης μειώνουν την θολούρα</string>
     <string name="frequently_click_toast">Περιμένετε μία στιγμή…</string>
